@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Medžuslovjanska funkcija',
+  tagline: 'Język směsta råzumlivy vsim slovjanam bez učeńja',
+  url: 'https://interslavic.fun',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
+  projectName: 'interslavic.fun', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/medzuslovjansky/database/edit/main/ucenje/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/medzuslovjansky/database/edit/main/blogy/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Medžuslovjanska funkcija',
         logo: {
-          alt: 'My Site Logo',
+          alt: '',
           src: 'img/logo.svg',
         },
         items: [
@@ -67,46 +67,53 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Mapa sajta',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Glåvna stranica',
+                to: '/',
+              },
+              {
+                label: 'Učeńje',
+                to: '/study',
+              },
+              {
+                label: 'Članky',
+                to: '/blogs/',
+              },
+              {
+                label: 'Resursy',
+                to: '/resources',
+              },
+              {
+                label: 'Pravna informacija',
+                to: '/legal',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Sociaĺne mrěži',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/GZxzZ5sNbr',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@interslavic',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()}, Medžuslovjanska organizacija.`,
       },
       prism: {
         theme: lightCodeTheme,

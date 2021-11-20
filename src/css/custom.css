@@ -4,16 +4,25 @@
  * work well for content-centric websites.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&display=swap');
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #2563c1;
+  /*--ifm-color-primary-dark: rgb(33, 175, 144);*/
+  /*--ifm-color-primary-darker: rgb(31, 165, 136);*/
+  /*--ifm-color-primary-darkest: rgb(26, 136, 112);*/
+  /*--ifm-color-primary-light: rgb(70, 203, 174);*/
+  /*--ifm-color-primary-lighter: rgb(102, 212, 189);*/
+  /*--ifm-color-primary-lightest: rgb(146, 224, 208);*/
+  /*--ifm-code-font-size: 95%;*/
+  --ifm-font-family-base: 'Alegreya Sans', sans-serif;
+  --ifm-font-size-base: 18px;
+  --ifm-line-height-base: 1.5;
+  --ifm-h1-font-size: 28px;
+  --ifm-h2-font-size: 24px;
+  --ifm-h3-font-size: 20px;
+  --ifm-heading-color: #4C587B;
 }
 
 .docusaurus-highlight-code-line {
