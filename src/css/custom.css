@@ -23,6 +23,16 @@
   --ifm-h2-font-size: 24px;
   --ifm-h3-font-size: 20px;
   --ifm-heading-color: #4C587B;
+  --ifm-container-width: 1280px;
+  --ifm-spacing-horizontal: 15px;
+}
+
+.navbar {
+  justify-content: center;
+}
+
+.navbar__inner {
+  max-width: var(--ifm-container-width);
 }
 
 .docusaurus-highlight-code-line {
@@ -30,8 +40,4 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
-}
-
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
 }

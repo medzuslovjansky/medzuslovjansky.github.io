@@ -39,9 +39,38 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: [
+      'en',
+      'sla-Latn-x-isv',
+      'sla-Cyrl-x-isv',
+      'sla-Latn-x-isv-etymolog',
+    ],
+    localeConfigs: {
+      'en': {
+        label: 'English (US)',
+        direction: 'ltr',
+      },
+      'sla-Latn-x-isv': {
+        label: 'Medžuslovjansky',
+        direction: 'ltr',
+      },
+      'sla-Cyrl-x-isv': {
+        label: 'Меджусловјанскы',
+        direction: 'ltr',
+      },
+      'sla-Latn-x-isv-etymolog': {
+        label: 'Međuslovjansky (etimologičny)',
+        direction: 'ltr',
+      },
+    },
+  },
+
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      hideableSidebar: false,
       navbar: {
         title: 'Medžuslovjanska funkcija',
         logo: {
@@ -52,16 +81,33 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: 'NAVBAR_LEARN',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'intro',
+            position: 'right',
+            label: 'NAVBAR_RESOURCES',
+          },
+          {
+            to: '/blog',
+            label: 'NAVBAR_BLOGS',
+            position: 'right'
+          },
+          {
+            href: 'https://interslavic-dictionary.com',
+            label: 'NAVBAR_ONLINE_DICTIONARY',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
+      },
+      colorMode: {
+        disableSwitch: true,
       },
       footer: {
         style: 'dark',
@@ -113,7 +159,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()}, Medžuslovjanska organizacija.`,
+        copyright: `© ${new Date().getFullYear()}, [Medžuslovjanska organizacija](https://github.com/medzuslovjansky).`,
       },
       prism: {
         theme: lightCodeTheme,

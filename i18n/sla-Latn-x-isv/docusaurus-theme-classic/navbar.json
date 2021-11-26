@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Medžuslovjanska funkcija",
+    "description": "The title in the navbar"
+  },
+  "item.label.NAVBAR_LEARN": {
+    "message": "NAVBAR_LEARN",
+    "description": "Navbar item with label NAVBAR_LEARN"
+  },
+  "item.label.NAVBAR_RESOURCES": {
+    "message": "NAVBAR_RESOURCES",
+    "description": "Navbar item with label NAVBAR_RESOURCES"
+  },
+  "item.label.NAVBAR_BLOGS": {
+    "message": "NAVBAR_BLOGS",
+    "description": "Navbar item with label NAVBAR_BLOGS"
+  },
+  "item.label.NAVBAR_ONLINE_DICTIONARY": {
+    "message": "NAVBAR_ONLINE_DICTIONARY",
+    "description": "Navbar item with label NAVBAR_ONLINE_DICTIONARY"
+  }
+}
