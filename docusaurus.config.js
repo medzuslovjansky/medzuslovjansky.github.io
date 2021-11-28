@@ -40,9 +40,9 @@ const config = {
   ],
 
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'en-US',
     locales: [
-      'en',
+      'en-US',
       'sla-Latn-x-isv',
       'sla-Cyrl-x-isv',
       'sla-Latn-x-isv-etymolog',
@@ -72,12 +72,16 @@ const config = {
     ({
       hideableSidebar: false,
       navbar: {
-        title: 'Medžuslovjanska funkcija',
+        title: null,
         logo: {
-          alt: '',
+          alt: 'Medžuslovjanska funkcija',
           src: 'img/logo.svg',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           {
             type: 'doc',
             docId: 'intro',
@@ -98,10 +102,6 @@ const config = {
           {
             href: 'https://interslavic-dictionary.com',
             label: 'NAVBAR_ONLINE_DICTIONARY',
-            position: 'right',
-          },
-          {
-            type: 'localeDropdown',
             position: 'right',
           },
         ],
@@ -142,7 +142,7 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                href: 'https://www.youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
+                href: 'https://www.facebook.com/groups/interslavic',
               },
               {
                 label: 'Discord',

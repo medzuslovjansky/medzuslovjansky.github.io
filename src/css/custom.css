@@ -22,9 +22,14 @@
   --ifm-h1-font-size: 28px;
   --ifm-h2-font-size: 24px;
   --ifm-h3-font-size: 20px;
+  --ifm-small-font-size: 14px;
   --ifm-heading-color: #4C587B;
+  --ifm-navbar-link-color: #4C587B;
+  --ifm-navbar-link-hover-color: #4C93C6;
   --ifm-container-width: 1280px;
   --ifm-spacing-horizontal: 15px;
+  --ifm-navbar-padding-vertical: 0;
+  --ifm-navbar-height: auto;
 }
 
 .navbar {
@@ -32,7 +37,62 @@
 }
 
 .navbar__inner {
+  display: grid;;
+  grid-template-rows: auto auto;
+  grid-template-columns: auto 1fr;
+  align-items: flex-start;
+
   max-width: var(--ifm-container-width);
+  padding: 0 30px;
+}
+
+.main-wrapper > :first-child {
+  max-width: var(--ifm-container-width);
+  margin: 0 auto;
+}
+
+.navbar__brand {
+  grid-row: 1 / 3;
+  grid-column: 1;
+}
+
+.navbar__logo {
+  height: auto;
+  margin: 0;
+}
+
+.navbar__items:not(.navbar__items--right) {
+  display: none;
+}
+
+.navbar__items--top {
+  padding-top: 10px;
+  grid-row: 1;
+}
+
+.navbar__items--bottom {
+  grid-row: 2;
+}
+
+.navbar__items--right {
+  grid-column: 1 / 3;
+  padding-left: 200px;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar__logo img {
+  height: auto;
+}
+
+.navbar__item.dropdown {
+  font-size: var(--ifm-small-font-size);
+}
+
+.dropdown > .navbar__link {
+  border-bottom: 2px dashed;
+  padding-bottom: 5px;
 }
 
 .docusaurus-highlight-code-line {
