@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import {translate} from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -29,7 +30,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={translate({ id: "pages.home.title", description: "<head> title of page: Home" })}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

@@ -26,6 +26,8 @@
   --ifm-heading-color: #4C587B;
   --ifm-navbar-link-color: #4C587B;
   --ifm-navbar-link-hover-color: #4C93C6;
+  --ifm-menu-color-background-hover: #DDE9FB;
+  --ifm-menu-color: #4C587B;
   --ifm-container-width: 1280px;
   --ifm-spacing-horizontal: 15px;
   --ifm-navbar-padding-vertical: 0;
@@ -33,6 +35,7 @@
 }
 
 .navbar {
+  box-shadow: none;
   justify-content: center;
 }
 
@@ -80,6 +83,10 @@
 
   display: flex;
   justify-content: flex-end;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background: hsla(225,100%,39%,0.05);
 }
 
 .navbar__logo img {

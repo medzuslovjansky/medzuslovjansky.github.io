@@ -182,5 +182,9 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "pages.home.title": {
+    "message": "Home",
+    "description": "<head> title of page: Main Page"
   }
 }
