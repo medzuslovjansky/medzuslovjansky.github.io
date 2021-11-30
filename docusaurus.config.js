@@ -80,6 +80,7 @@ const config = {
         items: [
           {
             type: 'localeDropdown',
+            className: 'navbar__item--locale-dropdown',
             position: 'left',
           },
           {
@@ -102,6 +103,7 @@ const config = {
           {
             href: 'https://interslavic-dictionary.com',
             label: 'NAVBAR_ONLINE_DICTIONARY',
+            className: 'navbar__item--cta-button',
             position: 'right',
           },
         ],
