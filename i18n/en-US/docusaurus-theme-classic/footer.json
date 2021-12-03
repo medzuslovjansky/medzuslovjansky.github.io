@@ -44,7 +44,7 @@
     "description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/@interslavic"
   },
   "copyright": {
-    "message": "© 2021, [Medžuslovjanska organizacija](https://github.com/medzuslovjansky).",
+    "message": "Except where otherwise noted, this website is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0\">CC BY-NC-ND 4.0</a> License. © 2021, <a href=\"https://github.com/medzuslovjansky\" target=_blank rel=noopener>Medžuslovjanska organizacija</a>",
     "description": "The footer copyright"
   }
 }

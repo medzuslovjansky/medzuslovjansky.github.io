@@ -113,6 +113,11 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          href: '/',
+          alt: 'Medžuslovjanska funkcija',
+          src: 'img/logo-footer.svg',
+        },
         links: [
           {
             title: 'Mapa sajta',
@@ -140,28 +145,56 @@ const config = {
             ],
           },
           {
-            title: 'Sociaĺne mrěži',
+            title: 'Social networks',
             items: [
               {
                 label: 'Facebook',
-                href: 'https://www.facebook.com/groups/interslavic',
+                href: 'https://facebook.com/groups/interslavic',
+                icon: {
+                  src: 'img/social/facebook-light.svg'
+                },
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/GZxzZ5sNbr',
+                icon: {
+                  src: 'img/social/discord-light.svg'
+                },
               },
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
+                href: 'https://youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
+                icon: {
+                  src: 'img/social/youtube-light.svg'
+                },
               },
               {
                 label: 'TikTok',
-                href: 'https://www.tiktok.com/@interslavic',
+                href: 'https://tiktok.com/@interslavic',
+                icon: {
+                  src: 'img/social/tiktok-light.svg'
+                },
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/medzuslovjansky',
+                icon: {
+                  src: 'img/social/github-light.svg'
+                },
+              },
+            ],
+          },
+          {
+            title: 'Preferences',
+            items: [
+              {
+                type: 'localeDropdown',
+                html: '<!-- -->'
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()}, [Medžuslovjanska organizacija](https://github.com/medzuslovjansky).`,
+        copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/medzuslovjansky" target=_blank rel=noopener>Medžuslovjanska organizacija</a>`,
       },
       prism: {
         theme: lightCodeTheme,

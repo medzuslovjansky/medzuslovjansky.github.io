@@ -183,8 +183,12 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "pages.home.title": {
+  "layout.home.title": {
     "message": "Home",
     "description": "<head> title of page: Main Page"
+  },
+  "pages.home.title": {
+    "message": "Home",
+    "description": "<head> title of page: Home"
   }
 }
