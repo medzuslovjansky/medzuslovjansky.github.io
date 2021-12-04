@@ -48,20 +48,20 @@ const config = {
       'sla-Latn-x-isv-etymolog',
     ],
     localeConfigs: {
-      'en': {
+      'en-US': {
         label: 'English (US)',
         direction: 'ltr',
       },
       'sla-Latn-x-isv': {
-        label: 'Medžuslovjansky',
+        label: 'Medžuslovjansky (Latinica)',
         direction: 'ltr',
       },
       'sla-Cyrl-x-isv': {
-        label: 'Меджусловјанскы',
+        label: 'Меджусловјанскы (Кирилица)',
         direction: 'ltr',
       },
       'sla-Latn-x-isv-etymolog': {
-        label: 'Međuslovjansky (etimologičny)',
+        label: 'Međuslovjansky (Etimologičny)',
         direction: 'ltr',
       },
     },
@@ -90,8 +90,9 @@ const config = {
             label: 'NAVBAR_LEARN',
           },
           {
-            type: 'doc',
-            docId: 'intro',
+            // type: 'doc',
+            // docId: 'resources',
+            to: '/somewhere',
             position: 'right',
             label: 'NAVBAR_RESOURCES',
           },
