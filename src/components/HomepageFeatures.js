@@ -4,42 +4,45 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Pomoč v biznesu i turizmu',
+    image: require('../../static/img/feature_business_and_tourism.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikacije sò
+        slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje
+        města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Nevtraĺny jezyk',
+    image: require('../../static/img/feature_neutrality.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra.
+        Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų
+        od političnyh i etničnyh problemov.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Vseslovjansko naslědstvo',
+    image: require('../../static/img/feature_slavic_heritage.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob
+        tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo
+        dialoga.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <img className={styles.featureSvg} alt={title} src={image} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -54,7 +57,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.slice(5).map((props, idx) => (
+          {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>

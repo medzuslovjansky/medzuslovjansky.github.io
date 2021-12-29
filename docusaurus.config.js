@@ -157,7 +157,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/GZxzZ5sNbr',
+                href: 'https://discord.com/invite/n3saqm27QW',
                 icon: {
                   src: 'img/social/discord-light.svg'
                 },

@@ -371,6 +371,11 @@ aside[class^=docSidebarContainer] {
   color: var(--fun-color-primary-regular);
 }
 
+.pagination-nav__label::before,
+.pagination-nav__label::after {
+  display: none;
+}
+
 .pagination-nav__arrow {
   display: none;
 }
