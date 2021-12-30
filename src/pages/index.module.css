@@ -3,6 +3,47 @@
  * and scoped locally.
  */
 
+.heroImage {
+  width: 100%;
+  max-width: 651px;
+  margin: 0 auto;
+  display: block;
+}
+
+.heroSection {
+  margin-top: 64px;
+}
+
+.heroHeading {
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.heroText,
+.ctaButton {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.ctaButton {
+  margin: 0 0 0 auto;
+  display: inline-flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 20px;
+  align-self: flex-end;
+}
+
+.imageColumn,
+.heroActionColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.heroActionColumn {
+  max-width: 56ch !important;
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;

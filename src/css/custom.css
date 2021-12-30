@@ -116,7 +116,7 @@ body {
 
 .navbar__items--bottom {
   grid-row: 2;
-  border-bottom: 2px solid var(--fun-color-primary-background);
+  border-bottom: 1px solid var(--fun-color-primary-background);
   justify-self: flex-end;
   align-self: flex-end;
   margin-left: 200px;
