@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Pomoč v biznesu i turizmu',
+    title: 'In business and tourism',
     image: require('../../static/img/feature_business_and_tourism.png').default,
     description: (
       <>
@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Nevtraĺny jezyk',
+    title: 'Neutral language',
     image: require('../../static/img/feature_neutrality.png').default,
     description: (
       <>
@@ -26,7 +26,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Vseslovjansko naslědstvo',
+    title: 'Common Slavic heritage',
     image: require('../../static/img/feature_slavic_heritage.png').default,
     description: (
       <>
@@ -55,12 +55,10 @@ function Feature({image, title, description}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
+      <div className="row">
+        {FeatureList.map((props, idx) => (
+          <Feature key={idx} {...props} />
+        ))}
       </div>
     </section>
   );

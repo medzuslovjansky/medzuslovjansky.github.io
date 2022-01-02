@@ -1,0 +1,22 @@
+.section {
+  margin-top: 64px;
+}
+
+.heading {
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.subtitle {
+  font-size: 20px !important;
+
+}
+
+.button {
+  margin: 0 0 0 auto;
+  display: inline-flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 20px;
+  align-self: flex-end;
+}

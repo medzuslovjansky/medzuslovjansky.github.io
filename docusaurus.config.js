@@ -42,25 +42,22 @@ const config = {
   i18n: {
     defaultLocale: 'en-US',
     locales: [
-      'en-US',
-      'sla-Latn-x-isv',
-      'sla-Cyrl-x-isv',
-      'sla-Latn-x-isv-etymolog',
+      'en-US'
     ],
     localeConfigs: {
       'en-US': {
         label: 'English (US)',
         direction: 'ltr',
       },
-      'sla-Latn-x-isv': {
+      'art-Latn-x-interslv': {
         label: 'Medžuslovjansky (Latinica)',
         direction: 'ltr',
       },
-      'sla-Cyrl-x-isv': {
+      'art-Cyrl-x-interslv': {
         label: 'Меджусловјанскы (Кирилица)',
         direction: 'ltr',
       },
-      'sla-Latn-x-isv-etymolog': {
+      'art-Latn-x-interslv-etymolog': {
         label: 'Međuslovjansky (Etimologičny)',
         direction: 'ltr',
       },
@@ -121,32 +118,32 @@ const config = {
         },
         links: [
           {
-            title: 'Mapa sajta',
+            title: 'FOOTER_SITEMAP',
             items: [
               {
-                label: 'Glåvna stranica',
+                label: 'FOOTER_HOME_PAGE',
                 to: '/',
               },
               {
-                label: 'Učeńje',
-                to: '/study',
+                label: 'FOOTER_LEARN',
+                to: '/learn',
               },
               {
-                label: 'Članky',
-                to: '/blogs/',
+                label: 'FOOTER_ARTICLES',
+                to: '/articles',
               },
               {
-                label: 'Resursy',
+                label: 'FOOTER_RESOURCES',
                 to: '/resources',
               },
               {
-                label: 'Pravna informacija',
+                label: 'FOOTER_LEGAL',
                 to: '/legal',
               },
             ],
           },
           {
-            title: 'Social networks',
+            title: 'FOOTER_SOCIAL_NETWORKS',
             items: [
               {
                 label: 'Facebook',
@@ -186,7 +183,7 @@ const config = {
             ],
           },
           {
-            title: 'Preferences',
+            title: 'FOOTER_PREFERENCES',
             items: [
               {
                 type: 'localeDropdown',
@@ -194,8 +191,7 @@ const config = {
               },
             ],
           },
-        ],
-        copyright: `© ${new Date().getFullYear()}, <a href="https://github.com/medzuslovjansky" target=_blank rel=noopener>Medžuslovjanska organizacija</a>`,
+        ]
       },
       prism: {
         theme: lightCodeTheme,

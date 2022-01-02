@@ -1,50 +1,54 @@
 {
-  "link.title.Mapa sajta": {
-    "message": "Mapa sajta",
-    "description": "The title of the footer links column with title=Mapa sajta in the footer"
+  "link.title.FOOTER_SITEMAP": {
+    "message": "Sitemap",
+    "description": "The title of the footer links column with title=FOOTER_SITEMAP in the footer"
   },
-  "link.title.Sociaĺne mrěži": {
-    "message": "Sociaĺne mrěži",
-    "description": "The title of the footer links column with title=Sociaĺne mrěži in the footer"
+  "link.title.FOOTER_SOCIAL_NETWORKS": {
+    "message": "Social networks",
+    "description": "The title of the footer links column with title=FOOTER_SOCIAL_NETWORKS in the footer"
   },
-  "link.item.label.Glåvna stranica": {
-    "message": "Glåvna stranica",
-    "description": "The label of footer link with label=Glåvna stranica linking to /"
+  "link.title.FOOTER_PREFERENCES": {
+    "message": "Preferences",
+    "description": "The title of the footer links column with title=FOOTER_PREFERENCES in the footer"
   },
-  "link.item.label.Učeńje": {
-    "message": "Učeńje",
-    "description": "The label of footer link with label=Učeńje linking to /study"
+  "link.item.label.FOOTER_HOME_PAGE": {
+    "message": "Home",
+    "description": "The label of footer link with label=FOOTER_HOME_PAGE linking to /"
   },
-  "link.item.label.Članky": {
-    "message": "Članky",
-    "description": "The label of footer link with label=Članky linking to /blogs/"
+  "link.item.label.FOOTER_LEARN": {
+    "message": "Learn",
+    "description": "The label of footer link with label=FOOTER_LEARN linking to /learn"
   },
-  "link.item.label.Resursy": {
-    "message": "Resursy",
-    "description": "The label of footer link with label=Resursy linking to /resources"
+  "link.item.label.FOOTER_ARTICLES": {
+    "message": "Articles",
+    "description": "The label of footer link with label=FOOTER_ARTICLES linking to /articles"
   },
-  "link.item.label.Pravna informacija": {
-    "message": "Pravna informacija",
-    "description": "The label of footer link with label=Pravna informacija linking to /legal"
+  "link.item.label.FOOTER_RESOURCES": {
+    "message": "Resources",
+    "description": "The label of footer link with label=FOOTER_RESOURCES linking to /resources"
+  },
+  "link.item.label.FOOTER_LEGAL": {
+    "message": "Legal",
+    "description": "The label of footer link with label=FOOTER_LEGAL linking to /legal"
   },
   "link.item.label.Facebook": {
     "message": "Facebook",
-    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/groups/interslavic"
+    "description": "The label of footer link with label=Facebook linking to https://facebook.com/groups/interslavic"
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discord.gg/GZxzZ5sNbr"
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/n3saqm27QW"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/medzuslovjansky"
   },
   "link.item.label.YouTube": {
     "message": "YouTube",
-    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA"
+    "description": "The label of footer link with label=YouTube linking to https://youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA"
   },
   "link.item.label.TikTok": {
     "message": "TikTok",
-    "description": "The label of footer link with label=TikTok linking to https://www.tiktok.com/@interslavic"
-  },
-  "copyright": {
-    "message": "Except where otherwise noted, this website is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0\">CC BY-NC-ND 4.0</a> License. © 2021, <a href=\"https://github.com/medzuslovjansky\" target=_blank rel=noopener>Medžuslovjanska organizacija</a>",
-    "description": "The footer copyright"
+    "description": "The label of footer link with label=TikTok linking to https://tiktok.com/@interslavic"
   }
 }

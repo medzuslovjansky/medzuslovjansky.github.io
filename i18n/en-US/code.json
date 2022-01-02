@@ -183,12 +183,36 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "layout.home.title": {
-    "message": "Home",
-    "description": "<head> title of page: Main Page"
-  },
   "pages.home.title": {
     "message": "Home",
     "description": "<head> title of page: Home"
+  },
+  "pages.home.description": {
+    "message": "pages.home.description",
+    "description": "<head /> meta description: Home"
+  },
+  "theme.toc.heading": {
+    "message": "On the page",
+    "description": "Heading of table of contents"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Try again",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "footer.GITHUB_ORGANIZATION": {
+    "message": "Medžuslovjansky (Меджусловјанскы) — GitHub organization",
+    "description": "The footer copyright fragment with organization name"
+  },
+  "footer.COPYRIGHT": {
+    "message": "Except where otherwise noted, this website is licensed under a {CC4} License.",
+    "description": "The footer copyright notice"
   }
 }

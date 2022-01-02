@@ -1,0 +1,38 @@
+.section {
+  justify-content: center;
+  padding: 3rem 2rem;
+}
+
+.image {
+  max-width: 651px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.heading {
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.subtitle,
+.button {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.button {
+  display: inline-flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.button > :first-child {
+  margin-right: 10px;
+}
