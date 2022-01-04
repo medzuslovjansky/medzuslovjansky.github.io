@@ -234,5 +234,13 @@
   "pages.home.features.SlavicHeritage_description": {
     "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age.",
     "description": "Feature 3 description on home page"
+  },
+  "pages.home.features.DiscoverAction": {
+    "message": "Discover more",
+    "description": "Features - Discover more button"
+  },
+  "pages.home.features.StartCourseAction": {
+    "message": "or start the course",
+    "description": "Features - Start the course link"
   }
 }

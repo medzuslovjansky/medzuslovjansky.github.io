@@ -7,7 +7,7 @@ import DividerPattern2 from "../../static/img/home/divider3.svg";
 
 export default function HomepageResources() {
   return (
-    <section className={clsx('hero', styles.section)}>
+    <section className={clsx(styles.section)}>
       <div className={clsx('row')}>
         <div className={clsx('container', 'col', 'col--6')}>
           <h2 className={clsx('hero__heading')}>Resources to master and use Interslavic</h2>

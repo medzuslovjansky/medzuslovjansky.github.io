@@ -35,7 +35,7 @@
 
 .startLink {
   text-decoration: underline;
-  padding: var(--ifm-spacing-vertical) 0;
+  margin: var(--ifm-spacing-vertical) 0;
 }
 
 .divider {

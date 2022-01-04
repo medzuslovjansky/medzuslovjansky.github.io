@@ -74,7 +74,8 @@ body {
   background:
     radial-gradient(34.84% 120.6% at 51.48% 25.05%, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%),
     linear-gradient(180deg, #DDE9FB 0%, #fff 90%, #fff0 100%);
-  padding-bottom: 21px;
+  padding: 0 0 21px;
+  overflow-x: hidden;
 }
 
 .navbar__inner {
@@ -88,6 +89,19 @@ body {
   padding: 0 30px;
 }
 
+@media (max-width: 480px) {
+  .navbar__inner {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 980px) {
+  .footer__items .navbar__item {
+    display: initial;
+  }
+}
+
 .main-wrapper > :first-child {
   max-width: var(--ifm-container-width);
   margin: 0 auto;
@@ -96,11 +110,6 @@ body {
 .navbar__brand {
   grid-row: 1 / 3;
   grid-column: 1;
-}
-
-.navbar__logo {
-  height: auto;
-  margin: 0;
 }
 
 .navbar__items:not(.navbar__items--right) {
@@ -132,8 +141,16 @@ body {
   justify-content: space-between;
 }
 
+.navbar__logo {
+  height: auto;
+  margin: 0;
+  width: 180px;
+}
+
 .navbar__logo img {
   height: auto;
+  width: 433px;
+  max-width: none;
 }
 
 /* Docbar */
@@ -147,6 +164,7 @@ aside[class^=docSidebarContainer] {
 /* Inside Auto Layout */
 .navbar__link {
   text-transform: uppercase;
+  margin: 0 5px;
 }
 
 .navbar__item--locale-dropdown {

@@ -4,12 +4,13 @@ import styles from './HomepageFeatures.module.css';
 import Link from '@docusaurus/Link';
 import Translate from '@docusaurus/Translate';
 import DividerPattern from '../../static/img/home/divider.svg';
+import renderThis from '../utils/renderThis';
 
 function Feature({image, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img className={styles.image} alt={title} src={image} />
+        <img className={styles.image} alt="" src={image} />
       </div>
       <div className="padding-horiz--md">
         <h3 className="text--center">{title}</h3>
@@ -17,10 +18,6 @@ function Feature({image, title, description}) {
       </div>
     </div>
   );
-}
-
-function renderThis(props, index) {
-  return <this key={index} {...props} />;
 }
 
 export default function HomepageFeatures() {
@@ -50,10 +47,10 @@ export default function HomepageFeatures() {
       <div className={clsx('row')}>
         <div className={clsx('col', styles.actions)}>
           <Link href="/resources" className={clsx('button', 'button--primary', 'button--lg')}>
-            Discover more
+            <Translate id="pages.home.features.DiscoverAction" description="Features - Discover more button" />
           </Link>
           <Link href="/resources" className={clsx(styles.startLink)}>
-            or start the course
+            <Translate id="pages.home.features.StartCourseAction" description="Features - Start the course link" />
           </Link>
         </div>
       </div>

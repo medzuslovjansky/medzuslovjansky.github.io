@@ -1,7 +1,7 @@
 .section {
   display: flex;
   flex-direction: column;
-  padding-bottom: 2rem;
+  padding: 0 2rem 2rem;
 }
 
 .heading {
