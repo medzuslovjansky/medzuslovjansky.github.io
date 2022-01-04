@@ -1,5 +1,5 @@
 .section {
-  justify-content: center;
+  justify-content: space-around;
   padding: 3rem 2rem;
 }
 
@@ -9,10 +9,11 @@
 
 .container {
   display: flex;
-  flex-direction: column;
   align-self: flex-start;
-  align-items: center;
   padding: 2rem 0;
+
+  flex-direction: column;
+  align-items: center;
 }
 
 .heading {
@@ -31,6 +32,12 @@
   justify-items: center;
   align-items: center;
   padding: 10px 20px;
+}
+
+@media (min-width: 997px) {
+  .button {
+    align-self: flex-end;
+  }
 }
 
 .button > :first-child {

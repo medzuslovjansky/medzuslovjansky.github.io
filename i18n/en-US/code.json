@@ -207,12 +207,32 @@
     "message": "Toggle the collapsible sidebar category '{label}'",
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
-  "footer.GITHUB_ORGANIZATION": {
-    "message": "Medžuslovjansky (Меджусловјанскы) — GitHub organization",
-    "description": "The footer copyright fragment with organization name"
-  },
-  "footer.COPYRIGHT": {
+  "footer.copyrightNotice": {
     "message": "Except where otherwise noted, this website is licensed under a {CC4} License.",
     "description": "The footer copyright notice"
+  },
+  "pages.home.features.BusinessAndTourism_title": {
+    "message": "In business and tourism",
+    "description": "Feature 1 title on home page"
+  },
+  "pages.home.features.BusinessAndTourism_description": {
+    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce.",
+    "description": "Feature 1 description on home page"
+  },
+  "pages.home.features.Neutrality_title": {
+    "message": "Neutral language",
+    "description": "Feature 2 title on home page"
+  },
+  "pages.home.features.Neutrality_description": {
+    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues.",
+    "description": "Feature 2 description on home page"
+  },
+  "pages.home.features.SlavicHeritage_title": {
+    "message": "Common Slavic heritage",
+    "description": "Feature 3 title on home page"
+  },
+  "pages.home.features.SlavicHeritage_description": {
+    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age.",
+    "description": "Feature 3 description on home page"
   }
 }

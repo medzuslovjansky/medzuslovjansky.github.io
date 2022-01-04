@@ -1,12 +1,13 @@
-.features {
+.section {
   display: flex;
+  flex-direction: column;
   align-items: center;
   padding: 7rem 1rem 2rem;
   width: 100%;
   min-height: 815px;
 }
 
-.features::before {
+.section::before {
   position: absolute;
   content: '';
   z-index: -1;
@@ -14,14 +15,35 @@
   margin-top: -7em;
   width: 100%;
   height: 815px;
-  background-image: url('../../static/img/features_background.svg');
+  background-image: url('../../static/img/home/features_background.svg');
   background-repeat: repeat-x;
   background-position: calc(50vw - 1720px) 0;
   align-self: flex-start;
 }
 
-.featureSvg {
+.image {
   height: 200px;
   width: 200px;
   object-fit: contain;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.startLink {
+  text-decoration: underline;
+  padding: var(--ifm-spacing-vertical) 0;
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  padding: calc(2 * var(--ifm-spacing-vertical)) 0;
+}
+
+.divider > * {
+  margin: 0 var(--ifm-spacing-horizontal);
 }

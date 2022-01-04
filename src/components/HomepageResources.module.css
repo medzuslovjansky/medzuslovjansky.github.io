@@ -1,5 +1,7 @@
 .section {
-  margin-top: 64px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
 }
 
 .heading {
@@ -8,8 +10,7 @@
 }
 
 .subtitle {
-  font-size: 20px !important;
-
+  font-size: 18px !important;
 }
 
 .button {
@@ -19,4 +20,18 @@
   align-items: center;
   padding: 10px 20px;
   align-self: flex-end;
+}
+
+.divider {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.divider > * {
+  margin-left: var(--ifm-spacing-horizontal);
+}
+
+.divider > :last-child {
+  margin-right: var(--ifm-spacing-horizontal);
 }

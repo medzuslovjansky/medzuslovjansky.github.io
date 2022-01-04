@@ -2,13 +2,13 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import styles from './HomepageHero.module.css';
-import MovieIcon from "../../static/img/icon_movie.svg";
+import MovieIcon from "../../static/img/icons/movie.svg";
 
 export default function HomepageHero() {
   return (
     <section className={clsx('hero', 'row', styles.section)}>
-      <img className={clsx('col', 'col--8', styles.image)}
-           src={require('../../static/img/hero_image.png').default}
+      <img className={clsx('col', 'col--7', styles.image)}
+           src={require('../../static/img/home/banner_hero.png').default}
            alt="" />
       <div className={clsx('col', 'col--4', styles.container)}>
         <h1 className={clsx('hero__heading', styles.heading)}>

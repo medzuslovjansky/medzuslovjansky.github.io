@@ -8,7 +8,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import {useThemeConfig} from '@docusaurus/theme-common';
-import Translate, {translate} from '@docusaurus/Translate';
+import {translate} from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import isInternalUrl from '@docusaurus/isInternalUrl';
 import styles from './styles.module.css';
@@ -143,18 +143,15 @@ function Footer() {
             className="footer__copyright" // Developer provided the HTML, so assume it's safe.
             // eslint-disable-next-line react/no-danger
           >
-            © {new Date().getFullYear()},
+            © {new Date().getFullYear()},&#20;
             <Link to="https://github.com/medzuslovjansky">
-              <Translate
-                id="footer.GITHUB_ORGANIZATION"
-                description="The footer copyright fragment with organization name" />
-            </Link>.
+              Medžuslovjansky (Меджусловјанскы)
+            </Link>.&#20;
             <span dangerouslySetInnerHTML={{__html: translate({
-                id: "footer.COPYRIGHT",
+                id: "footer.copyrightNotice",
                 description: "The footer copyright notice",
-                values: {
-                  CC4: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target=_blank rel="license noopener">CC BY-NC-ND 4.0</a>',
-                }
+              }, {
+                CC4: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target=_blank rel="license noopener">CC BY-NC-ND 4.0</a>',
               })}} />
           </div>
         </div>
