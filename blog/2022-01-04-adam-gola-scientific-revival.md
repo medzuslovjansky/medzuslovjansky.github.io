@@ -1,6 +1,5 @@
 ---
-slug: long-blog-post
-title: Scientific Revival
+title: Proposal for a refreshed version of the "Scientific Interslavic" alphabet
 authors: adam_gola
 tags: [interslavic, scientific alphabet]
 ---

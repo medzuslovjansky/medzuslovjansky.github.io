@@ -96,7 +96,7 @@ body {
   }
 }
 
-@media (max-width: 980px) {
+@media (max-width: 996px) {
   .footer__items .navbar__item {
     display: initial;
   }

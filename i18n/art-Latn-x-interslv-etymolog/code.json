@@ -1,22 +1,22 @@
 {
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu",
+    "message": "← Do glåvnogo menu",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.NotFound.title": {
-    "message": "Page Not Found",
+    "message": "Strånici nemaje",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for.",
+    "message": "Ne smogli jesmo najdti čto vy jeste iskali.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "message": "Prosim, skontaktujte sę s vlåstnikom tutogo sajta, kde vy jeste našli tutoj link i informujte jih, da on ne råbotaje.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close",
+    "message": "Zatvori",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
@@ -192,7 +192,7 @@
     "description": "<head /> meta description: Home"
   },
   "theme.toc.heading": {
-    "message": "On the page",
+    "message": "Na strånici",
     "description": "Heading of table of contents"
   },
   "theme.ErrorPageContent.title": {
@@ -208,57 +208,57 @@
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
   "footer.copyrightNotice": {
-    "message": "Except where otherwise noted, this website is licensed under a {CC4} License.",
+    "message": "Vśaky kontent na sajtu jest licenzovany sòglåsno {CC4}, a jegovy kod – pòdòlg {MIT}, ako nemaje inogo utočnjeńja.",
     "description": "The footer copyright notice"
   },
   "pages.home.features.BusinessAndTourism_title": {
-    "message": "In business and tourism",
+    "message": "Pomoč v biznesu i turizmu",
     "description": "Feature 1 title on home page"
   },
   "pages.home.features.BusinessAndTourism_description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce.",
+    "message": "Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikacije sò slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki.",
     "description": "Feature 1 description on home page"
   },
   "pages.home.features.Neutrality_title": {
-    "message": "Neutral language",
+    "message": "Nevtraĺny jezyk",
     "description": "Feature 2 title on home page"
   },
   "pages.home.features.Neutrality_description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues.",
+    "message": "Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra. Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų od političnyh i etničnyh problemov.",
     "description": "Feature 2 description on home page"
   },
   "pages.home.features.SlavicHeritage_title": {
-    "message": "Common Slavic heritage",
+    "message": "Vseslovjansko naslědstvo",
     "description": "Feature 3 title on home page"
   },
   "pages.home.features.SlavicHeritage_description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age.",
+    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo dialoga. ",
     "description": "Feature 3 description on home page"
   },
   "pages.home.features.DiscoverAction": {
-    "message": "Discover more",
+    "message": "Dovědaj sę vyše",
     "description": "Features - Discover more button"
   },
   "pages.home.features.StartCourseAction": {
-    "message": "or start the course",
+    "message": "abo počni učeńje tutčas",
     "description": "Features - Start the course link"
   },
   "pages.home.resources.title": {
-    "message": "Resources to master and use Interslavic"
+    "message": "Resursy dlja učenja i koristanja medžuslovjanskogo"
   },
   "pages.home.resources.description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+    "message": "Naše družstvo jest aktivno v socialnyh mrěžah, i tam vy možete dostati odgovory na svoje pytanja i naživo praktikovati medžuslovjansky jezyk. Vyše togo, my rabotajemo vsakodenno na programnyh produktah dlja ulěpšenja vašego opyta s medžuslovjanskym: interaktivny web-slovnik, korektor ortografije, varianty tipkovnic (klaviatur) dlja različnyh operacijnyh sistemov, i mnoge druge."
   },
   "pages.home.resources.cta": {
-    "message": "Get resources"
+    "message": "Dostati resursy"
   },
   "pages.home.hero.title": {
-    "message": "The language understood by all Slavic peoples"
+    "message": "Język, kaky råzumějųt vsi slovjani"
   },
   "pages.home.hero.subtitle": {
-    "message": "Learn Interslavic to find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Nauči sę medžuslovjanskogo jezyka dlja kommunikacije i raboty so slovjanami v cělom světu."
   },
   "pages.home.hero.cta": {
-    "message": "How it works"
+    "message": "Demonstracija"
   }
 }

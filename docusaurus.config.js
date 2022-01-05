@@ -42,19 +42,12 @@ const config = {
   i18n: {
     defaultLocale: 'en-US',
     locales: [
-      'en-US'
+      'en-US',
+      'art-Latn-x-interslv-etymolog'
     ],
     localeConfigs: {
       'en-US': {
         label: 'English (US)',
-        direction: 'ltr',
-      },
-      'art-Latn-x-interslv': {
-        label: 'Medžuslovjansky (Latinica)',
-        direction: 'ltr',
-      },
-      'art-Cyrl-x-interslv': {
-        label: 'Меджусловјанскы (Кирилица)',
         direction: 'ltr',
       },
       'art-Latn-x-interslv-etymolog': {
@@ -89,7 +82,7 @@ const config = {
           {
             // type: 'doc',
             // docId: 'resources',
-            to: '/somewhere',
+            to: '/resources',
             position: 'right',
             label: 'NAVBAR_RESOURCES',
           },

@@ -151,6 +151,7 @@ function Footer() {
                 id: "footer.copyrightNotice",
                 description: "The footer copyright notice",
               }, {
+                MIT:'<a href="https://en.wikipedia.org/wiki/MIT_License" target=_blank rel="license noopener">MIT License</a>',
                 CC4: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target=_blank rel="license noopener">CC BY-NC-ND 4.0</a>',
               })}} />
           </div>
