@@ -27,6 +27,7 @@ const config = {
           editUrl: 'https://github.com/medzuslovjansky/database/edit/main/ucenje/',
         },
         blog: {
+          routeBasePath: 'articles',
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
@@ -40,10 +41,10 @@ const config = {
   ],
 
   i18n: {
-    defaultLocale: 'en-US',
+    defaultLocale: 'art-Latn-x-interslv-etymolog',
     locales: [
       'en-US',
-      'art-Latn-x-interslv-etymolog'
+      'art-Latn-x-interslv-etymolog',
     ],
     localeConfigs: {
       'en-US': {
@@ -87,7 +88,7 @@ const config = {
             label: 'NAVBAR_RESOURCES',
           },
           {
-            to: '/blog',
+            to: '/articles',
             label: 'NAVBAR_BLOGS',
             position: 'right'
           },
@@ -119,7 +120,7 @@ const config = {
               },
               {
                 label: 'FOOTER_LEARN',
-                to: '/learn',
+                to: '/docs/intro',
               },
               {
                 label: 'FOOTER_ARTICLES',

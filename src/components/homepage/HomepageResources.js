@@ -3,8 +3,8 @@ import clsx from "clsx";
 import React from "react";
 import Link from '@docusaurus/Link';
 import Translate from '@docusaurus/Translate';
-import DividerPattern1 from "../../static/img/home/divider2.svg";
-import DividerPattern2 from "../../static/img/home/divider3.svg";
+import DividerPattern1 from "../../../static/img/home/divider2.svg";
+import DividerPattern2 from "../../../static/img/home/divider3.svg";
 
 export default function HomepageResources() {
   return (
@@ -22,7 +22,7 @@ export default function HomepageResources() {
           </Link>
         </div>
         <img className={clsx('col', 'col--6', styles.image)}
-             src={require('../../static/img/home/banner_resources.png').default} />
+             src={require('../../../static/img/home/banner_resources.png').default} />
       </div>
       <div className={styles.divider}>
         {[1,2,3,4,5,6,7,8,9].map(idx => (

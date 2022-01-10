@@ -3,8 +3,8 @@ import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 import Link from '@docusaurus/Link';
 import Translate from '@docusaurus/Translate';
-import DividerPattern from '../../static/img/home/divider.svg';
-import renderThis from '../utils/renderThis';
+import DividerPattern from '../../../static/img/home/divider.svg';
+import renderThis from '../../utils/renderThis';
 
 function Feature({image, title, description}) {
   return (
@@ -23,17 +23,17 @@ function Feature({image, title, description}) {
 export default function HomepageFeatures() {
   const features = [
     {
-      image: require('../../static/img/home/features_business_and_tourism.png').default,
+      image: require('../../../static/img/home/features_business_and_tourism.png').default,
       title: <Translate id="pages.home.features.BusinessAndTourism_title" description="Feature 1 title on home page"/>,
       description: <Translate id="pages.home.features.BusinessAndTourism_description" description="Feature 1 description on home page"/>,
     },
     {
-      image: require('../../static/img/home/features_neutrality.png').default,
+      image: require('../../../static/img/home/features_neutrality.png').default,
       title: <Translate id="pages.home.features.Neutrality_title" description="Feature 2 title on home page"/>,
       description: <Translate id="pages.home.features.Neutrality_description" description="Feature 2 description on home page"/>,
     },
     {
-      image: require('../../static/img/home/features_slavic_heritage.png').default,
+      image: require('../../../static/img/home/features_slavic_heritage.png').default,
       title: <Translate id="pages.home.features.SlavicHeritage_title" description="Feature 3 title on home page"/>,
       description: <Translate id="pages.home.features.SlavicHeritage_description" description="Feature 3 description on home page"/>,
     },

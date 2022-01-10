@@ -3,13 +3,13 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import Translate from '@docusaurus/Translate';
 import styles from './HomepageHero.module.css';
-import MovieIcon from "../../static/img/icons/movie.svg";
+import MovieIcon from "../../../static/img/icons/movie.svg";
 
 export default function HomepageHero() {
   return (
     <section className={clsx('hero', styles.section)}>
       <img className={clsx(styles.image)}
-           src={require('../../static/img/home/banner_hero.png').default}
+           src={require('../../../static/img/home/banner_hero.png').default}
            alt="" />
       <div className={styles.text}>
         <h1 className={clsx('hero__heading', styles.heading)}>

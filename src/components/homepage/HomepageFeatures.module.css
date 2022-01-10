@@ -15,7 +15,7 @@
   margin-top: -7em;
   width: 100%;
   height: 815px;
-  background-image: url('../../static/img/home/features_background.svg');
+  background-image: url('../../../static/img/home/features_background.svg');
   background-repeat: repeat-x;
   background-position: calc(50vw - 1720px) 0;
   align-self: flex-start;
