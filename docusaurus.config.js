@@ -76,7 +76,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'introduction',
             position: 'right',
             label: 'NAVBAR_LEARN',
           },
@@ -120,7 +120,7 @@ const config = {
               },
               {
                 label: 'FOOTER_LEARN',
-                to: '/docs/intro',
+                to: '/docs/introduction',
               },
               {
                 label: 'FOOTER_ARTICLES',
