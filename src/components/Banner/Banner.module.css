@@ -1,0 +1,23 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem 2rem;
+}
+
+.heading {
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.subtitle {
+  font-size: 18px !important;
+}
+
+.button {
+  margin: 0 0 0 auto;
+  display: inline-flex;
+  justify-items: center;
+  align-items: center;
+  padding: 10px 20px;
+  align-self: flex-end;
+}

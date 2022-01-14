@@ -41,7 +41,7 @@ const config = {
   ],
 
   i18n: {
-    defaultLocale: 'art-Latn-x-interslv-etymolog',
+    defaultLocale: 'en-US',
     locales: [
       'en-US',
       'art-Latn-x-interslv-etymolog',
