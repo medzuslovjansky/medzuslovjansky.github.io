@@ -41,9 +41,6 @@
   padding: 10px 20px;
 }
 
-.button > :first-child {
-  margin-right: 10px;
-}
 
 @media (max-width: 996px) {
   .section {

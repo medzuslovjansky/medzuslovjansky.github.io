@@ -4,7 +4,17 @@
   align-items: center;
 }
 
-.root > img {
+.title {
+  text-align: center;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.description {
+
+}
+
+.image {
   height: 200px;
   width: 200px;
   object-fit: contain;

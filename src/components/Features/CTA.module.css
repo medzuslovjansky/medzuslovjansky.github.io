@@ -1,7 +1,0 @@
-.root a:nth-child(1) {
-}
-
-.root a:nth-child(2) {
-  text-decoration: underline;
-  margin: var(--ifm-spacing-vertical) 0;
-}

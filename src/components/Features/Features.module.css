@@ -20,3 +20,17 @@
   background-position: calc(50vw - 1720px) 0;
   align-self: flex-start;
 }
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.primaryAction {
+}
+
+.secondaryAction {
+  text-decoration: underline;
+  margin: var(--ifm-spacing-vertical) 0;
+}

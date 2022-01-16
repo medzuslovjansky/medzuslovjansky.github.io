@@ -27,11 +27,6 @@
   object-fit: contain;
 }
 
-.actions {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 
 .startLink {
   text-decoration: underline;
