@@ -15,7 +15,9 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
   projectName: 'interslavic.fun', // Usually your repo name.
-
+  plugins: [
+    'docusaurus-plugin-sass'
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -34,24 +36,24 @@ const config = {
             'https://github.com/medzuslovjansky/database/edit/main/blogy/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.scss'),
         },
       }),
     ],
   ],
 
   i18n: {
-    defaultLocale: 'art-Latn-x-interslv-etymolog',
+    defaultLocale: 'sla',
     locales: [
-      'en-US',
-      'art-Latn-x-interslv-etymolog',
+      'en',
+      'sla',
     ],
     localeConfigs: {
-      'en-US': {
-        label: 'English (US)',
+      'en': {
+        label: 'English',
         direction: 'ltr',
       },
-      'art-Latn-x-interslv-etymolog': {
+      'sla': {
         label: 'Međuslovjansky (Etimologičny)',
         direction: 'ltr',
       },
