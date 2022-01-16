@@ -1,7 +1,7 @@
 import styles from "./Divider.module.css";
 import React from "react";
-import DividerPattern1 from "../../../static/img/home/divider2.svg";
-import DividerPattern2 from "../../../static/img/home/divider3.svg";
+import DividerPattern1 from "../../../../static/img/home/divider2.svg";
+import DividerPattern2 from "../../../../static/img/home/divider3.svg";
 
 function renderPattern(idx) {
   return (

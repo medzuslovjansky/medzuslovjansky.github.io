@@ -8,7 +8,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import {useThemeConfig} from '@docusaurus/theme-common';
-import {translate} from '@docusaurus/Translate';
+import Translate, {translate} from '@docusaurus/Translate';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import isInternalUrl from '@docusaurus/isInternalUrl';
 import styles from './styles.module.css';
@@ -80,80 +80,59 @@ function Footer() {
   }
 
   return (
-    <footer
-      className={clsx('footer', {
-        'footer--dark': footer.style === 'dark',
-      })}>
+    <footer className={clsx('footer', 'footer--dark')}>
       <div className="container">
-        {links && links.length > 0 && (
-          <div className="row footer__links">
-            {logo && (logo.src || logo.srcDark) && (
-              <div className="col footer__col">
-                {logo.href ? (
-                  <Link href={logo.href} className={styles.footerLogoLink}>
-                    <FooterLogo
-                      alt={logo.alt}
-                      sources={sources}
-                      width={logo.width}
-                      height={logo.height}
-                    />
-                  </Link>
-                ) : (
-                  <FooterLogo alt={logo.alt} sources={sources} />
-                )}
-              </div>
-            )}
-            {links.map((linkItem, i) => (
-              <div key={i} className={clsx('col', 'footer__col')}>
-                {linkItem.title != null ? (
-                  <div className="footer__title">{linkItem.title}</div>
-                ) : null}
-                {linkItem.items != null &&
-                Array.isArray(linkItem.items) &&
-                linkItem.items.length > 0 ? (
-                  <ul className="footer__items">
-                    {linkItem.items.map((item, key) =>
-                      (item.type === 'localeDropdown') ? (
-                        <LocaleDropdownNavbarItem key="locale" dropdownItemsBefore={[]} dropdownItemsAfter={[]} />
-                      ) : (
-                        item.html ? (
-                          <li
-                            key={key}
-                            className="footer__item" // Developer provided the HTML, so assume it's safe.
-                            // eslint-disable-next-line react/no-danger
-                            dangerouslySetInnerHTML={{
-                              __html: item.html,
-                            }}
-                          />
-                        ) : (
-                          <li key={item.href || item.to} className="footer__item">
-                            <FooterLink {...item} />
-                          </li>
-                        )
-                      ),
-                    )}
-                  </ul>
-                ) : null}
-              </div>
-            ))}
+        <div className="row footer__links">
+          <div className="col footer__col">
+            <Link href={logo.href} className={styles.footerLogoLink}>
+              <FooterLogo
+                alt={translate({ id: 'theme.footer.logoAlt' })}
+                sources={sources}
+              />
+            </Link>
           </div>
-        )}
+          {links.map((linkItem, i) => (
+            <div key={i} className={clsx('col', 'footer__col')}>
+              <div className="footer__title">{linkItem.title}</div>
+              <ul className="footer__items">
+                {linkItem.items.map((item, key) =>
+                  (item.type === 'localeDropdown') ? (
+                    <LocaleDropdownNavbarItem key="locale" dropdownItemsBefore={[]} dropdownItemsAfter={[]}/>
+                  ) : (
+                    item.html ? (
+                      <li
+                        key={key}
+                        className="footer__item" // Developer provided the HTML, so assume it's safe.
+                        // eslint-disable-next-line react/no-danger
+                        dangerouslySetInnerHTML={{
+                          __html: item.html,
+                        }}
+                      />
+                    ) : (
+                      <li key={item.href || item.to} className="footer__item">
+                        <FooterLink {...item} />
+                      </li>
+                    )
+                  ),
+                )}
+              </ul>
+            </div>
+          ))}
+        </div>
         <div className="footer__bottom text--center">
-          <div
-            className="footer__copyright" // Developer provided the HTML, so assume it's safe.
-            // eslint-disable-next-line react/no-danger
-          >
+          <div className="footer__copyright">
             © {new Date().getFullYear()},&#20;
             <Link to="https://github.com/medzuslovjansky">
               Medžuslovjansky (Меджусловјанскы)
             </Link>.&#20;
-            <span dangerouslySetInnerHTML={{__html: translate({
-                id: "footer.copyrightNotice",
-                description: "The footer copyright notice",
-              }, {
-                MIT:'<a href="https://en.wikipedia.org/wiki/MIT_License" target=_blank rel="license noopener">MIT License</a>',
-                CC4: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0" target=_blank rel="license noopener">CC BY-NC-ND 4.0</a>',
-              })}} />
+            <Translate
+              id="theme.footer.copyrightNotice"
+              description="The footer copyright notice"
+              values={{
+                LEGAL: <Link to="/legal">/legal</Link>,
+                MIT: <Link to="https://en.wikipedia.org/wiki/MIT_License">MIT License</Link>,
+                CC4: <Link to="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</Link>,
+              }} />
           </div>
         </div>
       </div>

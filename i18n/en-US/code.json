@@ -1,6 +1,6 @@
 {
   "pages.home.meta.description": {
-    "message": "Medžuslovjanska funkcija, the Interslavic language portal.",
+    "message": "Interslavic.fun - the Interslavic language portal.",
     "description": "<head /> meta description: Home"
   },
   "pages.home.meta.title": {
@@ -11,7 +11,7 @@
     "message": "How it works"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "Learn Interslavic to find more Slavic-speaking friends and colleagues worldwide."
+    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "The language understood by all Slavic peoples"
@@ -221,8 +221,12 @@
     "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
+  "theme.footer.logoAlt": {
+    "message": "Interslavic function",
+    "description": "The footer logo alt text"
+  },
   "theme.footer.copyrightNotice": {
-    "message": "Except where otherwise noted, this website is licensed under a {CC4} License.",
+    "message": "Except where otherwise noted, the textual content of this website is licensed under a {CC4} License. See {LEGAL} page for more details.",
     "description": "The footer copyright notice"
   },
   "theme.lastUpdated.atDate": {

@@ -28,7 +28,7 @@ export default function HomePage() {
             title={translate({ id: 'pages.home.sections[0].slides[1].title' })}
             subtitle={translate({ id: 'pages.home.sections[0].slides[1].subtitle' })}
             cta={
-              <Link className="button button--lg button--primary" to="/events/cisla-2022">
+              <Link to="/events/cisla-2022">
                 {translate({ id: 'pages.home.sections[0].slides[1].cta' })}
               </Link>
             }
@@ -36,12 +36,12 @@ export default function HomePage() {
         </Carousel>
         <Features
           primaryAction={
-            <Link to="/resources">
+            <Link to="/docs/introduction">
               {translate({ id: 'pages.home.sections[1].actions.primary' })}
             </Link>
           }
           secondaryAction={
-            <Link to="/resources">
+            <Link to="/docs/grammar/orthography">
               {translate({ id: 'pages.home.sections[1].actions.secondary' })}
             </Link>
           }

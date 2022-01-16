@@ -8,7 +8,7 @@
     "description": "Navbar item with label NAVBAR_RESOURCES"
   },
   "item.label.NAVBAR_BLOGS": {
-    "message": "Blogs",
+    "message": "Articles",
     "description": "Navbar item with label NAVBAR_BLOGS"
   },
   "item.label.NAVBAR_ONLINE_DICTIONARY": {

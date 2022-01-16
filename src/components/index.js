@@ -1,5 +1,5 @@
-import Banner from './Banner';
-import Carousel from './Carousel';
-import Features from './Features';
+import Banner from './homepage/Banner';
+import Carousel from './homepage/Carousel';
+import Features from './homepage/Features';
 
 export { Banner, Carousel, Features };

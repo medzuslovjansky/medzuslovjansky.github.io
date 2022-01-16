@@ -1,5 +1,5 @@
-import Hero from './HomepageHero';
-import Features from './HomepageFeatures';
-import Resources from './HomepageResources';
+import Banner from './Banner';
+import Carousel from './Carousel';
+import Features from './Features';
 
-export { Hero, Features, Resources }
+export { Banner, Carousel, Features };

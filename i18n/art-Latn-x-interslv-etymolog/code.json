@@ -1,19 +1,61 @@
 {
-  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Do glåvnogo menu",
-    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  "pages.home.meta.description": {
+    "message": "Portal o medžuslovjanskom jezyku",
+    "description": "<head /> meta description: Home"
   },
-  "theme.NotFound.title": {
-    "message": "Strånici nemaje",
-    "description": "The title of the 404 page"
+  "pages.home.meta.title": {
+    "message": "Medžuslovjanska funkcija",
+    "description": "<head> title of page: Home"
   },
-  "theme.NotFound.p1": {
-    "message": "Ne smogli jesmo najdti čto vy jeste iskali.",
-    "description": "The first paragraph of the 404 page"
+  "pages.home.sections[0].slides[0].cta": {
+    "message": "Demonstracija"
   },
-  "theme.NotFound.p2": {
-    "message": "Prosim, skontaktujte sę s vlåstnikom tutogo sajta, kde vy jeste našli tutoj link i informujte jih, da on ne råbotaje.",
-    "description": "The 2nd paragraph of the 404 page"
+  "pages.home.sections[0].slides[0].subtitle": {
+    "message": "Nauči sę medžuslovjanskogo jezyka dlja kommunikacije i raboty so slovjanami v cělom světu."
+  },
+  "pages.home.sections[0].slides[0].title": {
+    "message": "Język, kaky råzumějųt vsi slovjani"
+  },
+  "pages.home.sections[1].actions.primary": {
+    "message": "Dovědaj sę vyše",
+    "description": "Features - Discover more button"
+  },
+  "pages.home.sections[1].actions.secondary": {
+    "message": "abo počni učeńje tutčas",
+    "description": "Features - Start the course link"
+  },
+  "pages.home.sections[1].cards[0].description": {
+    "message": "Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikacije sò slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki.",
+    "description": "Feature 1 description on home page"
+  },
+  "pages.home.sections[1].cards[0].title": {
+    "message": "Pomoč v biznesu i turizmu",
+    "description": "Feature 1 title on home page"
+  },
+  "pages.home.sections[1].cards[1].description": {
+    "message": "Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra. Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų od političnyh i etničnyh problemov.",
+    "description": "Feature 2 description on home page"
+  },
+  "pages.home.sections[1].cards[1].title": {
+    "message": "Nevtraĺny jezyk",
+    "description": "Feature 2 title on home page"
+  },
+  "pages.home.sections[1].cards[2].description": {
+    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo dialoga. ",
+    "description": "Feature 3 description on home page"
+  },
+  "pages.home.sections[1].cards[2].title": {
+    "message": "Vseslovjansko naslědstvo",
+    "description": "Feature 3 title on home page"
+  },
+  "pages.home.sections[2].cta": {
+    "message": "Dostati resursy"
+  },
+  "pages.home.sections[2].description": {
+    "message": "Naše družstvo jest aktivno v socialnyh mrěžah, i tam vy možete dostati odgovory na svoje pytanja i naživo praktikovati medžuslovjansky jezyk. Vyše togo, my rabotajemo vsakodenno na programnyh produktah dlja ulěpšenja vašego opyta s medžuslovjanskym: interaktivny web-slovnik, korektor ortografije, varianty tipkovnic (klaviatur) dlja različnyh operacijnyh sistemov, i mnoge druge."
+  },
+  "pages.home.sections[2].title": {
+    "message": "Resursy dlja učenja i koristanja medžuslovjanskogo"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
     "message": "Zatvori",
@@ -23,13 +65,53 @@
     "message": "Scroll back to top",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Arhiv",
-    "description": "The page & hero title of the blog archive page"
+  "theme.CodeBlock.copied": {
+    "message": "Copied",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copy",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "Avarija na strånici.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Probuj ponovno",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.NotFound.p1": {
+    "message": "Ne smogli jesmo najdti čto vy jeste iskali.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Prosim, skontaktujte sę s vlåstnikom tutogo sajta, kde vy jeste našli tutoj link i informujte jih, da on ne råbotaje.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.NotFound.title": {
+    "message": "Strånici nemaje",
+    "description": "The title of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Na strånici",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.archive.description": {
     "message": "Arhiv",
     "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.archive.title": {
+    "message": "Arhiv",
+    "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Blog list page navigation",
@@ -43,14 +125,6 @@
     "message": "Starějše dopisy",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Jedna minuta na čitanje|{readingTime} minuty na čitanje",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Čitaj dalje",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
   "theme.blog.post.paginator.navAriaLabel": {
     "message": "Blog post page navigation",
     "description": "The ARIA label for the blog posts pagination"
@@ -63,85 +137,25 @@
     "message": "Older Post",
     "description": "The blog post button label to navigate to the older/next post"
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
-    "description": "The ARIA label for recent posts in the blog sidebar"
-  },
   "theme.blog.post.plurals": {
     "message": "One post|{count} posts",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
+  "theme.blog.post.readMore": {
+    "message": "Čitaj dalje",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Jedna minuta na čitanje|{readingTime} minuty na čitanje",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
   "theme.blog.tagTitle": {
     "message": "{nPosts} tagged with \"{tagName}\"",
     "description": "The title of the page for a blog tag"
-  },
-  "theme.tags.tagsPageLink": {
-    "message": "View All Tags",
-    "description": "The label of the link targeting the tag list page"
-  },
-  "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard",
-    "description": "The ARIA label for copy code blocks button"
-  },
-  "theme.CodeBlock.copied": {
-    "message": "Copied",
-    "description": "The copied button label on code blocks"
-  },
-  "theme.CodeBlock.copy": {
-    "message": "Copy",
-    "description": "The copy button label on code blocks"
-  },
-  "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages navigation",
-    "description": "The ARIA label for the docs pagination"
-  },
-  "theme.docs.paginator.previous": {
-    "message": "Previous",
-    "description": "The label used to navigate to the previous doc"
-  },
-  "theme.docs.paginator.next": {
-    "message": "Next",
-    "description": "The label used to navigate to the next doc"
-  },
-  "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\"",
-    "description": "The title of the page for a docs tag"
-  },
-  "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
-    "description": "The label used to tell the user that he's browsing an unreleased doc version"
-  },
-  "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
-    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-  },
-  "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
-    "description": "The label used to tell the user to check the latest version"
-  },
-  "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version",
-    "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
     "message": "Edit this page",
@@ -150,6 +164,70 @@
   "theme.common.headingLinkTitle": {
     "message": "Direct link to heading",
     "description": "Title for link to heading"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Skip to main content",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages navigation",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.footer.copyrightNotice": {
+    "message": "Vśaky kontent na sajtu jest licenzovany sòglåsno {CC4}, a jegovy kod – pòdòlg {MIT}, ako nemaje inogo utočnjeńja.",
+    "description": "The footer copyright notice"
+  },
+  "theme.footer.logoAlt": {
+    "message": "Medžuslovjanska funkcija",
+    "description": "The footer logo alt text"
   },
   "theme.lastUpdated.atDate": {
     "message": " on {date}",
@@ -163,102 +241,28 @@
     "message": "Last updated{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Do glåvnogo menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
   "theme.navbar.mobileVersionsDropdown.label": {
     "message": "Versions",
     "description": "The label for the navbar versions dropdown on mobile view"
-  },
-  "theme.common.skipToMainContent": {
-    "message": "Skip to main content",
-    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Na strånici",
-    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.tags.tagsListLabel": {
     "message": "Značky:",
     "description": "The label alongside a tag list"
   },
+  "theme.tags.tagsPageLink": {
+    "message": "View All Tags",
+    "description": "The label of the link targeting the tag list page"
+  },
   "theme.tags.tagsPageTitle": {
     "message": "Značky",
     "description": "The title of the tag list page"
   },
-  "pages.home.title": {
-    "message": "Glåvna strånica",
-    "description": "<head> title of page: Home"
-  },
-  "pages.home.description": {
-    "message": "Portal o medžuslovjanskom jezyku",
-    "description": "<head /> meta description: Home"
-  },
   "theme.toc.heading": {
     "message": "Na strånici",
     "description": "Heading of table of contents"
-  },
-  "theme.ErrorPageContent.title": {
-    "message": "Avarija na strånici.",
-    "description": "The title of the fallback page when the page crashed"
-  },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Probuj ponovno",
-    "description": "The label of the button to try again when the page crashed"
-  },
-  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Toggle the collapsible sidebar category '{label}'",
-    "description": "The ARIA label to toggle the collapsible sidebar category"
-  },
-  "footer.copyrightNotice": {
-    "message": "Vśaky kontent na sajtu jest licenzovany sòglåsno {CC4}, a jegovy kod – pòdòlg {MIT}, ako nemaje inogo utočnjeńja.",
-    "description": "The footer copyright notice"
-  },
-  "pages.home.features.BusinessAndTourism_title": {
-    "message": "Pomoč v biznesu i turizmu",
-    "description": "Feature 1 title on home page"
-  },
-  "pages.home.features.BusinessAndTourism_description": {
-    "message": "Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikacije sò slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki.",
-    "description": "Feature 1 description on home page"
-  },
-  "pages.home.features.Neutrality_title": {
-    "message": "Nevtraĺny jezyk",
-    "description": "Feature 2 title on home page"
-  },
-  "pages.home.features.Neutrality_description": {
-    "message": "Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra. Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų od političnyh i etničnyh problemov.",
-    "description": "Feature 2 description on home page"
-  },
-  "pages.home.features.SlavicHeritage_title": {
-    "message": "Vseslovjansko naslědstvo",
-    "description": "Feature 3 title on home page"
-  },
-  "pages.home.features.SlavicHeritage_description": {
-    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo dialoga. ",
-    "description": "Feature 3 description on home page"
-  },
-  "pages.home.features.DiscoverAction": {
-    "message": "Dovědaj sę vyše",
-    "description": "Features - Discover more button"
-  },
-  "pages.home.features.StartCourseAction": {
-    "message": "abo počni učeńje tutčas",
-    "description": "Features - Start the course link"
-  },
-  "pages.home.resources.title": {
-    "message": "Resursy dlja učenja i koristanja medžuslovjanskogo"
-  },
-  "pages.home.resources.description": {
-    "message": "Naše družstvo jest aktivno v socialnyh mrěžah, i tam vy možete dostati odgovory na svoje pytanja i naživo praktikovati medžuslovjansky jezyk. Vyše togo, my rabotajemo vsakodenno na programnyh produktah dlja ulěpšenja vašego opyta s medžuslovjanskym: interaktivny web-slovnik, korektor ortografije, varianty tipkovnic (klaviatur) dlja različnyh operacijnyh sistemov, i mnoge druge."
-  },
-  "pages.home.resources.cta": {
-    "message": "Dostati resursy"
-  },
-  "pages.home.hero.title": {
-    "message": "Język, kaky råzumějųt vsi slovjani"
-  },
-  "pages.home.hero.subtitle": {
-    "message": "Nauči sę medžuslovjanskogo jezyka dlja kommunikacije i raboty so slovjanami v cělom světu."
-  },
-  "pages.home.hero.cta": {
-    "message": "Demonstracija"
   }
 }

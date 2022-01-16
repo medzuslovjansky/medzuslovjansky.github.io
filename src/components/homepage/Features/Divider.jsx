@@ -6,7 +6,7 @@ export default function Divider() {
   const renderPattern = (i) => (
     <img key={i}
          alt=""
-         src={require('!!url-loader!../../../static/img/home/divider.svg').default}
+         src={require('!!url-loader!../../../../static/img/home/divider.svg').default}
     />
   );
 
