@@ -4,7 +4,7 @@
     "description": "The title of the footer links column with title=FOOTER_SITEMAP in the footer"
   },
   "link.title.FOOTER_SOCIAL_NETWORKS": {
-    "message": "Socialne mrěži",
+    "message": "Socialne mrěže",
     "description": "The title of the footer links column with title=FOOTER_SOCIAL_NETWORKS in the footer"
   },
   "link.title.FOOTER_PREFERENCES": {
@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=FOOTER_LEARN linking to /learn"
   },
   "link.item.label.FOOTER_ARTICLES": {
-    "message": "Avtory",
+    "message": "Avtori",
     "description": "The label of footer link with label=FOOTER_ARTICLES linking to /articles"
   },
   "link.item.label.FOOTER_RESOURCES": {
