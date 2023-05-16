@@ -16,6 +16,7 @@ const config = {
   organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
   projectName: 'interslavic.fun', // Usually your repo name.
   plugins: [
+    'docusaurus-theme-frontmatter',
     'docusaurus-plugin-sass'
   ],
   presets: [

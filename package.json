@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "docusaurus-plugin-sass": "^0.2.1",
+    "docusaurus-theme-frontmatter": "^1.1.0",
     "sass": "^1.48.0"
   }
 }

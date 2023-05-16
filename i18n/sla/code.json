@@ -1,11 +1,9 @@
 {
   "pages.home.meta.description": {
-    "message": "Portal o medžuslovjanskom jezyku",
-    "description": "<head /> meta description: Home"
+    "message": "Portal o medžuslovjanskom jezyku"
   },
   "pages.home.meta.title": {
-    "message": "Medžuslovjanska funkcija",
-    "description": "<head> title of page: Home"
+    "message": "Medžuslovjanska funkcija"
   },
   "pages.home.sections[0].slides[0].cta": {
     "message": "Demonstracija"
@@ -17,36 +15,33 @@
     "message": "Język råzumlivy vsim slovjanam"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Dovědaj sę vyše",
-    "description": "Features - Discover more button"
+    "message": "Dovědaj sę vyše"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "abo počni učeńje tutčas",
-    "description": "Features - Start the course link"
+    "message": "abo počni učeńje tutčas"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikaciji sò slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki.",
-    "description": "Feature 1 description on home page"
+    "message": "Učeńje medžuslovjanskogo skoro povyšaje efektivnost improvizacije pri živoj kommunikaciji sò slovjansko-govoręćimi ljudjami. A teksty, napisane v međuslovjanskom języku, potrěbujut menje města i råbotnogo časa, než tvorenje desęti i vyše adaptacij na vse narodne slovjanske jezyki."
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "Pomoč v biznesu i turizmu",
-    "description": "Feature 1 title on home page"
+    "message": "Pomoč v biznesu i turizmu"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra. Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų od političnyh i etničnyh problemov.",
-    "description": "Feature 2 description on home page"
+    "message": "Međuslovjansky ne jest zavisny od někakogo jednogo naroda, jezyka ili političnogo směra. Nikto ne imaje nečestnoj prědnosti, i hvala tomu jezyk imaje medžunarodnų obćinų, svobodnų od političnyh i etničnyh problemov."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Nevtraĺny jezyk",
-    "description": "Feature 2 title on home page"
+    "message": "Nevtraĺny jezyk"
   },
   "pages.home.sections[1].cards[2].description": {
+<<<<<<< HEAD
     "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanja znanja, nauky i aktivaciju mežduslovjanskogo dialoga. ",
     "description": "Feature 3 description on home page"
+=======
+    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo dialoga. "
+>>>>>>> e8fa8bb (docs: keep adding license info)
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Vseslovjansko naslědstvo",
-    "description": "Feature 3 title on home page"
+    "message": "Vseslovjansko naslědstvo"
   },
   "pages.home.sections[2].cta": {
     "message": "Dostati resursy"
@@ -226,8 +221,7 @@
     "description": "The footer copyright notice"
   },
   "theme.footer.logoAlt": {
-    "message": "Medžuslovjanska funkcija",
-    "description": "The footer logo alt text"
+    "message": "Medžuslovjanska funkcija"
   },
   "theme.lastUpdated.atDate": {
     "message": " on {date}",
@@ -264,5 +258,23 @@
   "theme.toc.heading": {
     "message": "Na strånici",
     "description": "Heading of table of contents"
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "pages.home.sections[0].slides[1].title"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "pages.home.sections[0].slides[1].subtitle"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "pages.home.sections[0].slides[1].cta"
+  },
+  "com.admonitions.license.title": {
+    "message": "Pravova informacija"
+  },
+  "com.admonitions.license.republish": {
+    "message": "Tutoj material jest {link} po dozvoljeńju avtora ({author})."
+  },
+  "com.admonitions.license.republishLinkText": {
+    "message": "ponovno publikovany"
   }
 }
