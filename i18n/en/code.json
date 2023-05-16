@@ -1,11 +1,9 @@
 {
   "pages.home.meta.description": {
-    "message": "Interslavic.fun - the Interslavic language portal.",
-    "description": "<head /> meta description: Home"
+    "message": "Interslavic.fun - the Interslavic language portal."
   },
   "pages.home.meta.title": {
-    "message": "Medžuslovjanska funkcija",
-    "description": "<head> title of page: Home"
+    "message": "Interslavic function"
   },
   "pages.home.sections[0].slides[0].cta": {
     "message": "How it works"
@@ -17,36 +15,28 @@
     "message": "The language understood by all Slavic peoples"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more",
-    "description": "Features - Discover more button"
+    "message": "Discover more"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course",
-    "description": "Features - Start the course link"
+    "message": "or start the course"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce.",
-    "description": "Feature 1 description on home page"
+    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism",
-    "description": "Feature 1 title on home page"
+    "message": "In business and tourism"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues.",
-    "description": "Feature 2 description on home page"
+    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language",
-    "description": "Feature 2 title on home page"
+    "message": "Neutral language"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age.",
-    "description": "Feature 3 description on home page"
+    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage",
-    "description": "Feature 3 title on home page"
+    "message": "Common Slavic heritage"
   },
   "pages.home.sections[2].cta": {
     "message": "Get resources"
@@ -222,8 +212,7 @@
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.footer.logoAlt": {
-    "message": "Interslavic function",
-    "description": "The footer logo alt text"
+    "message": "Interslavic function"
   },
   "theme.footer.copyrightNotice": {
     "message": "Except where otherwise noted, the textual content of this website is licensed under a {CC4} License. See {LEGAL} page for more details.",
@@ -264,5 +253,23 @@
   "theme.toc.heading": {
     "message": "On the page",
     "description": "Heading of table of contents"
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "pages.home.sections[0].slides[1].title"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "pages.home.sections[0].slides[1].subtitle"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "pages.home.sections[0].slides[1].cta"
+  },
+  "com.admonitions.license.title": {
+    "message": "Legal information"
+  },
+  "com.admonitions.license.republish": {
+    "message": "This content has been republished with the author's permission."
+  },
+  "com.admonitions.license.republishLinkText": {
+    "message": "republished"
   }
 }

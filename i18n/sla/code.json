@@ -33,12 +33,7 @@
     "message": "Nevtraĺny jezyk"
   },
   "pages.home.sections[1].cards[2].description": {
-<<<<<<< HEAD
-    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanja znanja, nauky i aktivaciju mežduslovjanskogo dialoga. ",
-    "description": "Feature 3 description on home page"
-=======
-    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanje znanja, nauky i aktivaciju mežduslovjanskogo dialoga. "
->>>>>>> e8fa8bb (docs: keep adding license info)
+    "message": "Od početka XVII st. i dodnes, na teritorijah modernyh slovjanskyh držav imajemo mnogo prob tvorjenja naturalističnogo jezyka dlja prědavanja znanja, nauky i aktivaciju mežduslovjanskogo dialoga. "
   },
   "pages.home.sections[1].cards[2].title": {
     "message": "Vseslovjansko naslědstvo"

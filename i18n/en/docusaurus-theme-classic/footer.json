@@ -17,7 +17,7 @@
   },
   "link.item.label.FOOTER_LEARN": {
     "message": "Learn",
-    "description": "The label of footer link with label=FOOTER_LEARN linking to /learn"
+    "description": "The label of footer link with label=FOOTER_LEARN linking to /docs/introduction"
   },
   "link.item.label.FOOTER_ARTICLES": {
     "message": "Articles",
