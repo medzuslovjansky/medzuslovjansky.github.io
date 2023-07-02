@@ -1,200 +1,179 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes: prismThemes } = require('prism-react-renderer');
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'Medžuslovjanska funkcija',
-  tagline: 'Język směsta råzumlivy vsim slovjanam bez učeńja',
-  url: 'https://interslavic.fun',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
-  projectName: 'interslavic.fun', // Usually your repo name.
-  plugins: [
-    'docusaurus-theme-frontmatter',
-    'docusaurus-plugin-sass'
-  ],
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+async function createConfig() {
+  /** @type {import('@docusaurus/types').Config} */
+  return {
+    title: 'Learn Interslavic Language',
+    url: 'https://interslavic.fun',
+    baseUrl: '/',
+    onBrokenLinks: 'warn',
+    onBrokenMarkdownLinks: 'warn',
+    favicon: 'img/favicon.ico',
+    organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
+    projectName: 'interslavic.fun', // Usually your repo name.
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        /** @type {import('@docusaurus/preset-classic').Options} */
+        ({
+          docs: {
+            routeBasePath: '',
+            sidebarPath: require.resolve('./sidebars.js'),
+            // Please change this to your repo.
+            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/docs/',
+            remarkPlugins: [
+              require('./src/remark/custom-directives'),
+            ],
+          },
+          blog: {
+            routeBasePath: 'articles',
+            path: './articles',
+            showReadingTime: true,
+            // Please change this to your repo.
+            editUrl:
+              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/articles/',
+          },
+          theme: {
+            customCss: require.resolve('./src/css/custom.css'),
+          },
+        }),
+      ],
+    ],
+
+    i18n: {
+      defaultLocale: 'en',
+      locales: [
+        'en',
+        'be',
+        'bg',
+        'bs',
+        'cs',
+        'hr',
+        'mk',
+        'pl',
+        'ru',
+        'sk',
+        'sl',
+        'sr-Cyrl',
+        'uk',
+      ],
+    },
+
+    themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/medzuslovjansky/database/edit/main/ucenje/',
+        navbar: {
+          title: 'Interslavic',
+          logo: {
+            alt: 'Logo',
+            src: 'img/logo.png',
+          },
+          items: [
+            {
+              type: 'doc',
+              docId: 'learn/introduction/index',
+              position: 'left',
+              label: 'Learn',
+            },
+            {
+              type: 'doc',
+              docId: 'resources/index',
+              position: 'left',
+              label: 'Resources',
+            },
+            // {
+            //   to: '/articles',
+            //   label: 'Articles',
+            //   position: 'left'
+            // },
+            {
+              href: 'https://interslavic-dictionary.com',
+              label: 'Online Dictionary',
+              className: 'navbar__item--cta-button',
+              position: 'left',
+            },
+            {
+              type: 'localeDropdown',
+              className: 'navbar__item--locale-dropdown',
+              position: 'right',
+            },
+          ],
         },
-        blog: {
-          routeBasePath: 'articles',
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/medzuslovjansky/database/edit/main/blogy/',
+        footer: {
+          style: 'dark',
+          links: [
+            {
+              title: 'Sitemap',
+              items: [
+                {
+                  label: 'Home',
+                  to: '/',
+                },
+                {
+                  label: 'Learn',
+                  to: '/learn/introduction',
+                },
+                {
+                  label: 'Resources',
+                  to: '/resources',
+                },
+                // {
+                //   label: 'Articles',
+                //   to: '/articles',
+                // },
+              ],
+            },
+            {
+              title: 'Community',
+              items: [
+                {
+                  label: 'Facebook',
+                  href: 'https://facebook.com/groups/interslavic',
+                  icon: {
+                    src: 'img/social/facebook-light.svg'
+                  },
+                },
+                {
+                  label: 'Discord',
+                  href: 'https://discord.com/invite/n3saqm27QW',
+                  icon: {
+                    src: 'img/social/discord-light.svg'
+                  },
+                },
+                {
+                  label: 'YouTube',
+                  href: 'https://youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
+                  icon: {
+                    src: 'img/social/youtube-light.svg'
+                  },
+                },
+                {
+                  label: 'TikTok',
+                  href: 'https://tiktok.com/@interslavic',
+                  icon: {
+                    src: 'img/social/tiktok-light.svg'
+                  },
+                },
+                {
+                  label: 'GitHub',
+                  href: 'https://github.com/medzuslovjansky',
+                  icon: {
+                    src: 'img/social/github-light.svg'
+                  },
+                },
+              ],
+            },
+          ]
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.scss'),
+        prism: {
+          theme: prismThemes.github,
+          darkTheme: prismThemes.dracula,
         },
       }),
-    ],
-  ],
+  };
+}
 
-  i18n: {
-    defaultLocale: 'sla',
-    locales: [
-      'en',
-      'sla',
-    ],
-    localeConfigs: {
-      'en': {
-        label: 'English',
-        direction: 'ltr',
-      },
-      'sla': {
-        label: 'Međuslovjansky (Etimologičny)',
-        direction: 'ltr',
-      },
-    },
-  },
-
-  themeConfig:
-  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      hideableSidebar: false,
-      navbar: {
-        title: null,
-        logo: {
-          alt: 'Medžuslovjanska funkcija',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'localeDropdown',
-            className: 'navbar__item--locale-dropdown',
-            position: 'left',
-          },
-          {
-            type: 'doc',
-            docId: 'introduction',
-            position: 'right',
-            label: 'NAVBAR_LEARN',
-          },
-          {
-            // type: 'doc',
-            // docId: 'resources',
-            to: '/resources',
-            position: 'right',
-            label: 'NAVBAR_RESOURCES',
-          },
-          {
-            to: '/articles',
-            label: 'NAVBAR_BLOGS',
-            position: 'right'
-          },
-          {
-            href: 'https://interslavic-dictionary.com',
-            label: 'NAVBAR_ONLINE_DICTIONARY',
-            className: 'navbar__item--cta-button',
-            position: 'right',
-          },
-        ],
-      },
-      colorMode: {
-        disableSwitch: true,
-      },
-      footer: {
-        style: 'dark',
-        logo: {
-          href: '/',
-          alt: 'Medžuslovjanska funkcija',
-          src: 'img/logo-footer.svg',
-        },
-        links: [
-          {
-            title: 'FOOTER_SITEMAP',
-            items: [
-              {
-                label: 'FOOTER_HOME_PAGE',
-                to: '/',
-              },
-              {
-                label: 'FOOTER_LEARN',
-                to: '/docs/introduction',
-              },
-              {
-                label: 'FOOTER_ARTICLES',
-                to: '/articles',
-              },
-              {
-                label: 'FOOTER_RESOURCES',
-                to: '/resources',
-              },
-              {
-                label: 'FOOTER_LEGAL',
-                to: '/legal',
-              },
-            ],
-          },
-          {
-            title: 'FOOTER_SOCIAL_NETWORKS',
-            items: [
-              {
-                label: 'Facebook',
-                href: 'https://facebook.com/groups/interslavic',
-                icon: {
-                  src: 'img/social/facebook-light.svg'
-                },
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/n3saqm27QW',
-                icon: {
-                  src: 'img/social/discord-light.svg'
-                },
-              },
-              {
-                label: 'YouTube',
-                href: 'https://youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
-                icon: {
-                  src: 'img/social/youtube-light.svg'
-                },
-              },
-              {
-                label: 'TikTok',
-                href: 'https://tiktok.com/@interslavic',
-                icon: {
-                  src: 'img/social/tiktok-light.svg'
-                },
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/medzuslovjansky',
-                icon: {
-                  src: 'img/social/github-light.svg'
-                },
-              },
-            ],
-          },
-          {
-            title: 'FOOTER_PREFERENCES',
-            items: [
-              {
-                type: 'localeDropdown',
-                html: '<!-- -->'
-              },
-            ],
-          },
-        ]
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
-};
-
-module.exports = config;
+module.exports = createConfig;

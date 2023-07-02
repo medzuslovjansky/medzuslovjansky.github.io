@@ -4,6 +4,7 @@ import Layout from '@theme/Layout';
 import { translate } from "@docusaurus/Translate";
 import { Banner, Features, Carousel } from "../components";
 import MovieIcon from '../../static/img/icons/movie.svg';
+import styles from './index.module.css';
 
 export default function HomePage() {
   return (
@@ -11,7 +12,7 @@ export default function HomePage() {
       title={translate({ id: 'pages.home.meta.title' })}
       description={translate({ id: 'pages.home.meta.description' })}
     >
-      <main>
+      <main className={styles.main}>
         <Carousel>
           <Carousel.Slide
             image={require('../../static/img/home/banner_hero.png').default}
@@ -36,12 +37,12 @@ export default function HomePage() {
         </Carousel>
         <Features
           primaryAction={
-            <Link to="/docs/introduction">
+            <Link to="/learn/introduction">
               {translate({ id: 'pages.home.sections[1].actions.primary' })}
             </Link>
           }
           secondaryAction={
-            <Link to="/docs/grammar/orthography">
+            <Link to="/learn/grammar">
               {translate({ id: 'pages.home.sections[1].actions.secondary' })}
             </Link>
           }

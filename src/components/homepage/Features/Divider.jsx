@@ -1,6 +1,15 @@
 import React from "react";
-import times from "lodash/times";
 import styles from "./Divider.module.css";
+
+function times(count, fn) {
+  const result = [];
+
+  for (let i = 0; i < count; i++) {
+    result.push(fn(i));
+  }
+
+  return result;
+}
 
 export default function Divider() {
   const renderPattern = (i) => (

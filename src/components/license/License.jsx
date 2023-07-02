@@ -2,7 +2,13 @@ import React from 'react';
 import Link from "@docusaurus/Link";
 import Translate, {translate} from '@docusaurus/Translate';
 import Admonition from '@theme/Admonition';
-import useFrontMatter from '@theme/useFrontMatter';
+import {usePluginData} from "@docusaurus/useGlobalData";
+
+function useFrontMatter() {
+  const { frontMatter } = usePluginData('docusaurus-plugin-content-docs');
+  const { license, origin, author } = frontMatter;
+  return { license, origin, author };
+}
 
 export function RepublishLicense({ origin, author }) {
   return (

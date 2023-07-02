@@ -3,16 +3,16 @@
     "message": "2023",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.O języku": {
-    "message": "About language",
-    "description": "The label for category O języku in sidebar tutorialSidebar"
+  "sidebar.learnSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar learnSidebar"
   },
-  "sidebar.tutorialSidebar.category.Gramatika": {
+  "sidebar.learnSidebar.category.Grammar": {
     "message": "Grammar",
-    "description": "The label for category Gramatika in sidebar tutorialSidebar"
+    "description": "The label for category Grammar in sidebar learnSidebar"
   },
-  "sidebar.tutorialSidebar.category.Oproščeny kurs": {
-    "message": "Simplified course",
-    "description": "The label for category Oproščeny kurs in sidebar tutorialSidebar"
+  "sidebar.learnSidebar.category.Vocabulary": {
+    "message": "Vocabulary",
+    "description": "The label for category Vocabulary in sidebar learnSidebar"
   }
 }

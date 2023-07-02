@@ -5,7 +5,7 @@
 }
 
 .image {
-
+  object-fit: contain;
 }
 
 .content {
@@ -16,7 +16,7 @@
 }
 
 .description {
-  font-size: 18px !important;
+  font-size: inherit;
 }
 
 .cta {
