@@ -13,8 +13,8 @@ async function createConfig() {
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
-    projectName: 'interslavic.fun', // Usually your repo name.
+    organizationName: 'medzuslovjansky',
+    projectName: 'medzuslovjansky.github.io',
     deploymentBranch: 'master',
     plugins: [
       require.resolve('@noomorph/docusaurus-search-local'),
