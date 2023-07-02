@@ -15,6 +15,7 @@ async function createConfig() {
     favicon: 'img/favicon.ico',
     organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
     projectName: 'interslavic.fun', // Usually your repo name.
+    deploymentBranch: 'master',
     plugins: [
       require.resolve('@noomorph/docusaurus-search-local'),
     ],
