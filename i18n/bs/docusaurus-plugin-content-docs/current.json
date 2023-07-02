@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.learnSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Grammar": {
+    "message": "Grammar",
+    "description": "The label for category Grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Vocabulary": {
+    "message": "Vocabulary",
+    "description": "The label for category Vocabulary in sidebar learnSidebar"
+  }
+}

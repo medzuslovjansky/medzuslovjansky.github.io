@@ -1,0 +1,23 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  padding: 0 2rem 2rem;
+}
+
+.image {
+  object-fit: contain;
+}
+
+.content {
+
+}
+
+.title {
+}
+
+.description {
+  font-size: inherit;
+}
+
+.cta {
+}

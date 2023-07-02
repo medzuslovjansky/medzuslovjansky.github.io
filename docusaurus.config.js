@@ -1,118 +1,184 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes: prismThemes } = require('prism-react-renderer');
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+async function createConfig() {
+  /** @type {import('@docusaurus/types').Config} */
+  return {
+    title: 'Learn Interslavic Language',
+    url: 'https://interslavic.fun',
+    baseUrl: '/',
+    trailingSlash: true,
+    onBrokenLinks: 'warn',
+    onBrokenMarkdownLinks: 'warn',
+    favicon: 'img/favicon.ico',
+    organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
+    projectName: 'interslavic.fun', // Usually your repo name.
+    plugins: [
+      require.resolve('@noomorph/docusaurus-search-local'),
+    ],
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        /** @type {import('@docusaurus/preset-classic').Options} */
+        ({
+          docs: {
+            routeBasePath: '',
+            sidebarPath: require.resolve('./sidebars.js'),
+            // Please change this to your repo.
+            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/docs/',
+            remarkPlugins: [
+              require('./src/remark/custom-directives'),
+            ],
+          },
+          blog: {
+            routeBasePath: 'articles',
+            path: './articles',
+            showReadingTime: true,
+            // Please change this to your repo.
+            editUrl:
+              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/articles/',
+          },
+          theme: {
+            customCss: require.resolve('./src/css/custom.css'),
+          },
+        }),
+      ],
+    ],
 
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+    i18n: {
+      defaultLocale: 'en',
+      locales: [
+        'en',
+        'be',
+        'bg',
+        'bs',
+        'cs',
+        'hr',
+        'mk',
+        'pl',
+        'ru',
+        'sk',
+        'sl',
+        'sr-Cyrl',
+        'uk',
+      ],
+    },
+
+    themeConfig:
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+        navbar: {
+          title: 'Interslavic',
+          hideOnScroll: true,
+          logo: {
+            alt: 'Logo',
+            src: 'img/logo.png',
+          },
+          items: [
+            {
+              type: 'doc',
+              docId: 'learn/introduction/index',
+              position: 'left',
+              label: 'Learn',
+            },
+            {
+              type: 'doc',
+              docId: 'resources/index',
+              position: 'left',
+              label: 'Resources',
+            },
+            // {
+            //   to: '/articles',
+            //   label: 'Articles',
+            //   position: 'left'
+            // },
+            {
+              href: 'https://interslavic-dictionary.com',
+              label: 'Online Dictionary',
+              className: 'navbar__item--cta-button',
+              position: 'left',
+            },
+            {
+              type: 'localeDropdown',
+              className: 'navbar__item--locale-dropdown',
+              position: 'right',
+            },
+          ],
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+        footer: {
+          style: 'dark',
+          links: [
+            {
+              title: 'Sitemap',
+              items: [
+                {
+                  label: 'Home',
+                  to: '/',
+                },
+                {
+                  label: 'Learn',
+                  to: '/learn/introduction',
+                },
+                {
+                  label: 'Resources',
+                  to: '/resources',
+                },
+                // {
+                //   label: 'Articles',
+                //   to: '/articles',
+                // },
+              ],
+            },
+            {
+              title: 'Community',
+              items: [
+                {
+                  label: 'Facebook',
+                  href: 'https://facebook.com/groups/interslavic',
+                  icon: {
+                    src: 'img/social/facebook-light.svg'
+                  },
+                },
+                {
+                  label: 'Discord',
+                  href: 'https://discord.com/invite/n3saqm27QW',
+                  icon: {
+                    src: 'img/social/discord-light.svg'
+                  },
+                },
+                {
+                  label: 'YouTube',
+                  href: 'https://youtube.com/channel/UCShYXuD2TyJlYd9UWUUiYiA',
+                  icon: {
+                    src: 'img/social/youtube-light.svg'
+                  },
+                },
+                {
+                  label: 'TikTok',
+                  href: 'https://tiktok.com/@interslavic',
+                  icon: {
+                    src: 'img/social/tiktok-light.svg'
+                  },
+                },
+                {
+                  label: 'GitHub',
+                  href: 'https://github.com/medzuslovjansky',
+                  icon: {
+                    src: 'img/social/github-light.svg'
+                  },
+                },
+              ],
+            },
+          ]
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+        prism: {
+          theme: prismThemes.github,
+          darkTheme: prismThemes.dracula,
         },
       }),
-    ],
-  ],
+  };
+}
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
-};
-
-module.exports = config;
+module.exports = createConfig;

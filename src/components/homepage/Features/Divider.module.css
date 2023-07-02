@@ -1,0 +1,9 @@
+.root {
+  display: flex;
+  justify-content: center;
+  padding: calc(2 * var(--ifm-spacing-vertical)) 0;
+}
+
+.root > * {
+  margin: 0 var(--ifm-spacing-horizontal);
+}
