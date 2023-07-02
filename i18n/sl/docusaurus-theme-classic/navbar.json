@@ -7,16 +7,16 @@
     "message": "Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.NAVBAR_LEARN": {
-    "message": "NAVBAR_LEARN",
-    "description": "Navbar item with label NAVBAR_LEARN"
+  "item.label.Learn": {
+    "message": "Learn",
+    "description": "Navbar item with label Learn"
   },
-  "item.label.NAVBAR_RESOURCES": {
-    "message": "NAVBAR_RESOURCES",
-    "description": "Navbar item with label NAVBAR_RESOURCES"
+  "item.label.Resources": {
+    "message": "Resources",
+    "description": "Navbar item with label Resources"
   },
-  "item.label.NAVBAR_ONLINE_DICTIONARY": {
-    "message": "NAVBAR_ONLINE_DICTIONARY",
-    "description": "Navbar item with label NAVBAR_ONLINE_DICTIONARY"
+  "item.label.Online Dictionary": {
+    "message": "Online Dictionary",
+    "description": "Navbar item with label Online Dictionary"
   }
 }

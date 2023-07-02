@@ -1,69 +1,69 @@
 {
   "pages.home.meta.title": {
-    "message": "pages.home.meta.title"
+    "message": "Learn Interslavic"
   },
   "pages.home.meta.description": {
-    "message": "pages.home.meta.description"
+    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "pages.home.sections[0].slides[0].title"
+    "message": "The language understood by all Slavic peoples"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "pages.home.sections[0].slides[0].subtitle"
+    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "pages.home.sections[0].slides[0].cta"
+    "message": "How it works"
   },
   "pages.home.sections[0].slides[1].title": {
-    "message": "pages.home.sections[0].slides[1].title"
+    "message": ""
   },
   "pages.home.sections[0].slides[1].subtitle": {
-    "message": "pages.home.sections[0].slides[1].subtitle"
+    "message": ""
   },
   "pages.home.sections[0].slides[1].cta": {
-    "message": "pages.home.sections[0].slides[1].cta"
+    "message": ""
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "pages.home.sections[1].actions.primary"
+    "message": "Discover more"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "pages.home.sections[1].actions.secondary"
+    "message": "or start the course"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "pages.home.sections[1].cards[0].title"
+    "message": "In business and tourism"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "pages.home.sections[1].cards[0].description"
+    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "pages.home.sections[1].cards[1].title"
+    "message": "Neutral language"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "pages.home.sections[1].cards[1].description"
+    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "pages.home.sections[1].cards[2].title"
+    "message": "Common Slavic heritage"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "pages.home.sections[1].cards[2].description"
+    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
   },
   "pages.home.sections[2].title": {
-    "message": "pages.home.sections[2].title"
+    "message": "Resources to master and use Interslavic"
   },
   "pages.home.sections[2].description": {
-    "message": "pages.home.sections[2].description"
+    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
   },
   "pages.home.sections[2].cta": {
-    "message": "pages.home.sections[2].cta"
+    "message": "Get resources"
   },
   "com.admonitions.license.title": {
-    "message": "com.admonitions.license.title"
+    "message": "Legal information"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"
   },
   "com.admonitions.license.republishLinkText": {
-    "message": "com.admonitions.license.republishLinkText"
+    "message": "republished"
   },
   "theme.ErrorPageContent.title": {
     "message": "Ta strona uległa awarii.",
@@ -72,6 +72,14 @@
   "theme.BackToTopButton.buttonAriaLabel": {
     "message": "Przewiń do góry",
     "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archiwum",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archiwum",
+    "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Nawigacja na stronie listy wpisów na blogu",
@@ -84,14 +92,6 @@
   "theme.blog.paginator.olderEntries": {
     "message": "Starsze wpisy",
     "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.archive.title": {
-    "message": "Archiwum",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Archiwum",
-    "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.post.paginator.navAriaLabel": {
     "message": "Nawigacja na stronie postu na blogu",
@@ -129,13 +129,13 @@
     "message": "jasny motyw",
     "description": "The name for the light color mode"
   },
-  "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} elementów",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
   "theme.docs.breadcrumbs.navAriaLabel": {
     "message": "Pasek nawigacji",
     "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} elementów",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
     "message": "Strona dokumentacji",
@@ -160,10 +160,6 @@
   "theme.docs.versionBadge.label": {
     "message": "Wersja: {versionLabel}"
   },
-  "theme.common.editThisPage": {
-    "message": "Edytuj tę stronę",
-    "description": "The link label to edit the current page"
-  },
   "theme.docs.versions.unreleasedVersionLabel": {
     "message": "Ta dokumentacja dotyczy najnowszej i nieopublikowanej jeszce wersji {siteTitle} ({versionLabel}).",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
@@ -179,6 +175,10 @@
   "theme.docs.versions.latestVersionLinkLabel": {
     "message": "bieżącej wersji",
     "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Edytuj tę stronę",
+    "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
     "message": "Bezpośredni link do {heading}",
@@ -196,13 +196,13 @@
     "message": "Ostatnia aktualizacja{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Wersje",
-    "description": "The label for the navbar versions dropdown on mobile view"
-  },
   "theme.NotFound.title": {
     "message": "Strona nie została znaleziona",
     "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Wersje",
+    "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.tags.tagsListLabel": {
     "message": "Tagi:",
@@ -256,10 +256,6 @@
     "message": "Przełącz zwijalną kategorię panelu bocznego '{label}'",
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Main",
-    "description": "The ARIA label for the main navigation"
-  },
   "theme.NotFound.p1": {
     "message": "Nie mogliśmy znaleźć strony której szukasz.",
     "description": "The first paragraph of the 404 page"
@@ -268,9 +264,17 @@
     "message": "Proszę skontaktuj się z właścielem strony, z której link doprowadził Cię tutaj i poinformuj go, że link jest nieprawidłowy.",
     "description": "The 2nd paragraph of the 404 page"
   },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Języki",
     "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Na tej stronie",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
     "message": "Czytaj więcej",
@@ -279,10 +283,6 @@
   "theme.blog.post.readMoreLabel": {
     "message": "Czytaj więcej o {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Na tej stronie",
-    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readingTime.plurals": {
     "message": "{readingTime} min aby przeczytać|{readingTime} min aby przeczytać|{readingTime} min aby przeczytać",
@@ -300,13 +300,13 @@
     "message": "Zwiń boczny panel",
     "description": "The title attribute for collapse button of doc sidebar"
   },
-  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Zamknij panel nawigacji",
-    "description": "The ARIA label for close button of mobile sidebar"
-  },
   "theme.docs.sidebar.navAriaLabel": {
     "message": "Panel boczny dokumentów",
     "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Zamknij panel nawigacji",
+    "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
     "message": "← Wróć do menu głównego",

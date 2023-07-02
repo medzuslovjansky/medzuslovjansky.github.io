@@ -3,9 +3,9 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.learnSidebar.category.Introduction": {
-    "message": "Introduction",
-    "description": "The label for category Introduction in sidebar learnSidebar"
+  "sidebar.learnSidebar.category.Введение": {
+    "message": "Введение",
+    "description": "The label for category Введение in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Grammar": {
     "message": "Grammar",

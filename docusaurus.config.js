@@ -14,6 +14,9 @@ async function createConfig() {
     favicon: 'img/favicon.ico',
     organizationName: 'medzuslovjansky', // Usually your GitHub org/user name.
     projectName: 'interslavic.fun', // Usually your repo name.
+    plugins: [
+      require.resolve('@noomorph/docusaurus-search-local'),
+    ],
     presets: [
       [
         '@docusaurus/preset-classic',
@@ -67,6 +70,7 @@ async function createConfig() {
       ({
         navbar: {
           title: 'Interslavic',
+          hideOnScroll: true,
           logo: {
             alt: 'Logo',
             src: 'img/logo.png',

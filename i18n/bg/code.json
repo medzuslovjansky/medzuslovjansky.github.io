@@ -1,73 +1,77 @@
 {
   "pages.home.meta.title": {
-    "message": "pages.home.meta.title"
+    "message": "Learn Interslavic"
   },
   "pages.home.meta.description": {
-    "message": "pages.home.meta.description"
+    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "pages.home.sections[0].slides[0].title"
+    "message": "The language understood by all Slavic peoples"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "pages.home.sections[0].slides[0].subtitle"
+    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "pages.home.sections[0].slides[0].cta"
+    "message": "How it works"
   },
   "pages.home.sections[0].slides[1].title": {
-    "message": "pages.home.sections[0].slides[1].title"
+    "message": ""
   },
   "pages.home.sections[0].slides[1].subtitle": {
-    "message": "pages.home.sections[0].slides[1].subtitle"
+    "message": ""
   },
   "pages.home.sections[0].slides[1].cta": {
-    "message": "pages.home.sections[0].slides[1].cta"
+    "message": ""
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "pages.home.sections[1].actions.primary"
+    "message": "Discover more"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "pages.home.sections[1].actions.secondary"
+    "message": "or start the course"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "pages.home.sections[1].cards[0].title"
+    "message": "In business and tourism"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "pages.home.sections[1].cards[0].description"
+    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "pages.home.sections[1].cards[1].title"
+    "message": "Neutral language"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "pages.home.sections[1].cards[1].description"
+    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "pages.home.sections[1].cards[2].title"
+    "message": "Common Slavic heritage"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "pages.home.sections[1].cards[2].description"
+    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
   },
   "pages.home.sections[2].title": {
-    "message": "pages.home.sections[2].title"
+    "message": "Resources to master and use Interslavic"
   },
   "pages.home.sections[2].description": {
-    "message": "pages.home.sections[2].description"
+    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
   },
   "pages.home.sections[2].cta": {
-    "message": "pages.home.sections[2].cta"
+    "message": "Get resources"
   },
   "com.admonitions.license.title": {
-    "message": "com.admonitions.license.title"
+    "message": "Legal information"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"
   },
   "com.admonitions.license.republishLinkText": {
-    "message": "com.admonitions.license.republishLinkText"
+    "message": "republished"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
     "message": "Archive",
@@ -76,10 +80,6 @@
   "theme.blog.archive.description": {
     "message": "Archive",
     "description": "The page & hero description of the blog archive page"
-  },
-  "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top",
-    "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Blog list page navigation",
@@ -208,10 +208,6 @@
     "message": "Tags:",
     "description": "The label alongside a tag list"
   },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close",
-    "description": "The ARIA label for close button of announcement bar"
-  },
   "theme.admonition.caution": {
     "message": "caution",
     "description": "The default label used for the Caution admonition (:::caution)"
@@ -231,6 +227,10 @@
   "theme.admonition.tip": {
     "message": "tip",
     "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Blog recent posts navigation",
@@ -268,17 +268,13 @@
     "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
     "description": "The 2nd paragraph of the 404 page"
   },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Languages",
     "description": "The label for the mobile language switcher dropdown"
   },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
     "message": "Read More",
@@ -287,6 +283,10 @@
   "theme.blog.post.readMoreLabel": {
     "message": "Read more about {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.breadcrumbs.home": {
     "message": "Home page",

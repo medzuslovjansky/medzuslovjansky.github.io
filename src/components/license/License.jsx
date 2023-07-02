@@ -12,11 +12,15 @@ function useFrontMatter() {
 
 export function RepublishLicense({ origin, author }) {
   return (
-    <Admonition type="info" title={translate({ id: 'com.admonitions.license.title' })}>
+    <Admonition type="info" title={translate({ id: 'com.admonitions.license.title', message: 'Legal information' })}>
       <Translate
         id="com.admonitions.license.republish"
+        message="This content has been republished with the author's permission."
         values={{
-          link: <Link to={origin}>{translate({ id: 'com.admonitions.license.republishLinkText'})}</Link>,
+          link: <Link to={origin}>{translate({
+            id: 'com.admonitions.license.republishLinkText',
+            message: 'republished'
+          })}</Link>,
           author: <b>{author}</b>,
         }} />
     </Admonition>
