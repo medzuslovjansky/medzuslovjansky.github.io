@@ -97,7 +97,7 @@ body[data-theme=dark] {
   content: "]";
 }
 
-[class*=DocRoot] code {
+code {
   background: initial;
   border: initial;
   vertical-align: initial;

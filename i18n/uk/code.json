@@ -1,6 +1,6 @@
 {
   "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+    "message": "Вивчення міжслов'янської мови"
   },
   "pages.home.meta.description": {
     "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
@@ -12,16 +12,7 @@
     "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
-  },
-  "pages.home.sections[0].slides[1].title": {
-    "message": ""
-  },
-  "pages.home.sections[0].slides[1].subtitle": {
-    "message": ""
-  },
-  "pages.home.sections[0].slides[1].cta": {
-    "message": ""
+    "message": "Як це працює"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Discover more"

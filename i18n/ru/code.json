@@ -14,15 +14,6 @@
   "pages.home.sections[0].slides[0].cta": {
     "message": "How it works"
   },
-  "pages.home.sections[0].slides[1].title": {
-    "message": ""
-  },
-  "pages.home.sections[0].slides[1].subtitle": {
-    "message": ""
-  },
-  "pages.home.sections[0].slides[1].cta": {
-    "message": ""
-  },
   "pages.home.sections[1].actions.primary": {
     "message": "Discover more"
   },
