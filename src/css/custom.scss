@@ -4,6 +4,7 @@
  * work well for content-centric websites.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&display=swap');
 
 /* You can override the default Infima variables here. */
@@ -31,6 +32,7 @@
 
   &[data-theme='dark'] {
     --ifm-color-primary: #3b91e3;
+    --ifm-color-primary-darkest: #a8d5ff;
     --ifm-background-color: #1a2933;
     --ifm-background-surface-color: #213340;
     --ifm-footer-background-color: #213340;
@@ -44,12 +46,13 @@
   }
 
   --ifm-font-family-base: 'Alegreya Sans', sans-serif;
-  --ifm-font-size-base: 22px;
+  --ifm-font-size-base: 20px;
+  --ifm-h1-font-size: 30px; // 1.55
+  --ifm-h2-font-size: 26px; // 1.33
+  --ifm-h3-font-size: 22px; // 1.11
+  --ifm-h4-font-size: 21px; // 1.08
+  --ifm-container-width-xl: 1200px;
   --ifm-line-height-base: 1.6;
-  --ifm-h1-font-size: 1.55rem;
-  --ifm-h2-font-size: 1.33rem;
-  --ifm-h3-font-size: 1.11rem;
-  --ifm-h4-font-size: 1.08rem;
   --ifm-small-font-size: 15px;
   --ifm-menu-link-padding-horizontal: 15px;
   --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgb(53, 120, 229)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
@@ -83,6 +86,10 @@ body[data-theme='dark'] {
 
 .hero {
   background: none;
+
+  &__subtitle {
+    font-size: var(--ifm-h3-font-size);
+  }
 }
 
 /*#region Markdown */
@@ -104,9 +111,17 @@ body[data-theme='dark'] {
     text-decoration: none;
   }
 
-  [lang=art-fonipa] {
-    font-family: inherit;
-    font-size: inherit;
+  span[lang] {
+    font-family: serif;
+    font-style: italic;
+  }
+
+  span[lang=art-fonipa] {
+    font-family: sans-serif;
+    font-size: 90%;
+    font-style: normal;
+    padding: 0.2em 0.2em;
+    color: var(--ifm-color-primary-darkest);
 
     &::before {
       content: '[';
@@ -118,13 +133,30 @@ body[data-theme='dark'] {
   }
 }
 
+code, .notranslate {
+  //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
 code {
   background: initial;
   border: initial;
   vertical-align: initial;
-  white-space: pre;
+  white-space: pre-wrap;
   font: inherit;
-  /*animation: blink 5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;*/
 }
 
 .hash-link {
