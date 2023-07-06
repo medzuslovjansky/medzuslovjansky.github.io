@@ -28,8 +28,8 @@ async function createConfig() {
           docs: {
             routeBasePath: '',
             sidebarPath: require.resolve('./sidebars.js'),
-            // Please change this to your repo.
-            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/docs/',
+            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/',
+            editLocalizedFiles: true,
             remarkPlugins: [
               require('./src/remark/custom-directives'),
             ],
@@ -38,9 +38,9 @@ async function createConfig() {
             routeBasePath: 'articles',
             path: './articles',
             showReadingTime: true,
-            // Please change this to your repo.
             editUrl:
-              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/articles/',
+              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/',
+            editLocalizedFiles: true,
           },
           theme: {
             customCss: require.resolve('./src/css/custom.scss'),
@@ -181,6 +181,11 @@ async function createConfig() {
               ],
             },
           ]
+        },
+        docs: {
+          sidebar: {
+            hideable: true,
+          },
         },
         prism: {
           theme: prismThemes.github,

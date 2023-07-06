@@ -23,7 +23,7 @@
 }
 
 [data-theme='dark'] .root::before {
-  background: none;
+  filter: invert(1) hue-rotate(180deg);
 }
 
 .actions {
