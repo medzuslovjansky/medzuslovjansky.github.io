@@ -17,6 +17,7 @@ async function createConfig() {
     projectName: 'medzuslovjansky.github.io',
     deploymentBranch: 'master',
     plugins: [
+      '@noomorph/docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
     ],
     presets: [
@@ -42,7 +43,7 @@ async function createConfig() {
               'https://github.com/medzuslovjansky/interslavic.fun/edit/main/articles/',
           },
           theme: {
-            customCss: require.resolve('./src/css/custom.css'),
+            customCss: require.resolve('./src/css/custom.scss'),
           },
         }),
       ],

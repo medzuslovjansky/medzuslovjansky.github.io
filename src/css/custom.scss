@@ -124,7 +124,43 @@ code {
   vertical-align: initial;
   white-space: pre;
   font: inherit;
-  /*animation: blink 5s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;*/
+
+  &.fragment {
+    font-family: sans-serif;
+    font-size: 90%;
+  }
+}
+
+.dialogue {
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  li::before {
+    content: '– ';
+  }
+}
+
+/* Dev-only CSS selector */
+.docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
+  code, kbd, [translate=no] {
+    //animation: blink 5s infinite alternate;
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.text-3-col {
+  column-count: 3;
+  column-gap: 2rem;
 }
 
 .hash-link {

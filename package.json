@@ -17,6 +17,7 @@
     "@docusaurus/core": "3.0.0-alpha.0",
     "@docusaurus/preset-classic": "3.0.0-alpha.0",
     "@noomorph/docusaurus-search-local": "^1.1.0",
+    "@noomorph/docusaurus-plugin-sass": "^0.2.5",
     "@mdx-js/react": "^2.3.0",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.2.1",
