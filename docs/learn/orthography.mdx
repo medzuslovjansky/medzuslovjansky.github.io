@@ -5,6 +5,10 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
+
 import Alphabet from '@site/src/markdown/alphabet.mdx';
 import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
 import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
@@ -14,7 +18,7 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 
 ## Standard alphabet \{#standard-alphabet}
 
-The question how Interslavic should be written has always been subject to discussion. Ideally, every Slav should be able to write it on their own keyboard, but this would rule out the possibility of a single standard orthography. The various national orthographies are simply too divergent to find a solution that is convenient for everybody. Making any of them „official” or „standard” would be unfair, because all other possibilities would automatically be rendered „inofficial”, „non-standard” and therefore „incorrect”. But on the other hand, a situation with too many different writing standards has the disadvantage of being confusing and potentially discouraging for people hoping to learn Interslavic.
+The question how Interslavic should be written has always been subject to discussion. Ideally, every Slav should be able to write it on their own keyboard, but this would rule out the possibility of a single standard orthography. The various national orthographies are simply too divergent to find a solution that is convenient for everybody. Making any of them „official" or „standard" would be unfair, because all other possibilities would automatically be rendered „inofficial", „non-standard" and therefore „incorrect". But on the other hand, a situation with too many different writing standards has the disadvantage of being confusing and potentially discouraging for people hoping to learn Interslavic.
 
 Since the border between Latin and Cyrillic runs straight through the middle of Slavic territory, Interslavic has standard alphabets for both. Neither of them is based on any national orthography in particular. Instead, they were designed as a compromise, intended to be intuitively understandable and to enable easy transliteration between them. Users are strongly encouraged to use these standard alphabets, but those who have problems writing certain characters are offered some [alternative solutions][1], too.
 
@@ -91,14 +95,14 @@ Note that the Interslavic etymological alphabet does not include length or tone 
 
 The basic Latin and Cyrillic alphabets of Interslavic consist of letters whose pronunciation is similar in all Slavic languages. However, Proto-Slavic and Old Church Slavonic also had a number of phonemes that developed in different directions. In most modern languages, these sound changes have been remarkably predictable. By assigning a special character to these phonemes, each one of them can be linked to a particular phoneme in any of the modern Slavic languages, thus covering the main phonological differences between the latter. In other words, this extended alphabet can serve as bridge between Old Church Slavonic and the modern Slavic languages, but also as an intermediary orthography between Old Church Slavonic and Interslavic.
 
-In contrast to alphabets such as the International Phonetic Alphabet and the [Slavistic Alphabet][3], this orthography is not meant to give information about the pronunciation of individual languages, but to show the relationship between them. It can be compared to the orthography of English: although there are vast differences in pronunciation between British English, Scottish English and American English, all are written in practically the same way, using spelling conventions that represent the spoken language of the 14th century. If the Slavs would use a similar alphabet instead of their pronunciation-based national orthographies, the word for „five” could be written as _`pęt́`_ in all Slavic languages, instead of _`пять`_, _`pięć`_, _`piãc`_, _`pjeć`_, _`pět`_, _`päť`_, _`pet`_ etc.
+In contrast to alphabets such as the International Phonetic Alphabet and the [Slavistic Alphabet][3], this orthography is not meant to give information about the pronunciation of individual languages, but to show the relationship between them. It can be compared to the orthography of English: although there are vast differences in pronunciation between British English, Scottish English and American English, all are written in practically the same way, using spelling conventions that represent the spoken language of the 14th century. If the Slavs would use a similar alphabet instead of their pronunciation-based national orthographies, the word for „five" could be written as _`pęt́`_ in all Slavic languages, instead of _`пять`_, _`pięć`_, _`piãc`_, _`pjeć`_, _`pět`_, _`päť`_, _`pet`_ etc.
 
-This etymology-based alphabet (previously known as _`Naučny medžuslovjansky`_ „Scientific Interslavic”) also serves as the source code for Interslavic. It was designed in such way that it differs from standard Interslavic only by additional diacritics, so that a reader who is unfamiliar with those diacritics can simply ignore them. Using this orthography in Interslavic can serve the following purposes:
+This etymology-based alphabet (previously known as _`Naučny medžuslovjansky`_ „Scientific Interslavic") also serves as the source code for Interslavic. It was designed in such way that it differs from standard Interslavic only by additional diacritics, so that a reader who is unfamiliar with those diacritics can simply ignore them. Using this orthography in Interslavic can serve the following purposes:
 
 - conveying etymological information,
 - supporting the learning process by making Interslavic words easier to link to their counterparts in other Slavic languages,
 - giving more precise information about the ideal (most central) pronunciation,
-- enabling users to adapt („flavourise”) written and spoken Interslavic for speakers of particular languages (see [flavourisation][4]),
+- enabling users to adapt („flavourise") written and spoken Interslavic for speakers of particular languages (see [flavourisation][4]),
 - making it possible to transcribe text from any Slavic language into Interslavic orthography.
 
 ### Usage \{#usage}
@@ -113,17 +117,27 @@ Because these extensions are optional, alternative representations are not stric
 
 In the Latin alphabet, additional etymological information is conveyed by means of diacritical marks only. Thus, passive intelligibility is not hampered, and a reader who is not familiar with them can understand the text anyway. A similar approach for Cyrillic (using characters like **`ӑ`**, **`ԙ`**, **`ө`**, **`ұ`**, **`ӣ`**, **`ҷ`**, **`ӝ`**, etc.) would not only make a text look extremely artificial, it would also be little helpful, since the modifications would be far from self-explaining. An extended Cyrillic alphabet using historical (**`ѣ`**, **`ѩ`**, **`ѫ`**) and regional (**`ћ`**, **`ђ`**) characters would be very hard to understand for people unfamiliar with Old Church Slavonic orthography and therefore conflict with the purpose of Interslavic. For that reason, the Interslavic etymological alphabet has no Cyrillic equivalent.
 
----
-
 ## Overview \{#overview}
 
 The following table shows the correspondences between the letters mentioned above (suggested alternative spellings are shown in grey between brackets). The [transliterator][5] makes it possible to transliterate between Latin and Cyrillic.
 
+<AlphabetOverview />
+
+ <Tabs>
+  <TabItem value="latin" label="Latin" default>
+    <AlphabetOverview script="art-Latn-x-interslv-etymolog" />
+  </TabItem>
+  <TabItem value="cyrillic" label="Cyrillic">
+    <AlphabetOverview script="art-Cyrl-x-interslv" />
+  </TabItem>
+  <TabItem value="etymological" label="Etymological">
+    <AlphabetOverview script="art-x-interslv-etymolog" />
+  </TabItem>
+</Tabs>
+
 ---
 
 <Alphabet />
-
----
 
 ## Guidelines \{#guidelines}
 
