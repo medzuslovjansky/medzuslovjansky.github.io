@@ -1,60 +1,60 @@
 {
   "pages.home.meta.title": {
-    "message": "Vyvčennja mižslov'jans'koji movy"
+    "message": "Vyvčennja mižslov'jans'koji"
   },
   "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Vyvčajte mižslov'jans'ku movu ta znahod'te bil'še druziv ta koleg, ščo govorjat' slov'jans'kymy movamy, z usjogo svitu."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+    "message": "Mova, jaku rozumijut' vsi slov'jans'ki narody"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Z mižslov'jans'koju movoju vy možete znajty bil'še slov'janomovnyh druziv ta koleg z usjogo svitu."
   },
   "pages.home.sections[0].slides[0].cta": {
     "message": "Jak ce pracjuje"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+    "message": "Diznatysja bil'še"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+    "message": "abo rozpočaty kurs"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+    "message": "U biznesi ta turyzmi"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
+    "message": "Vyvčennja mižslov'jans'koji movy švydko pokraščuje efektyvnist' komunikaciji u prjamomu spilkuvanni miž ljud'my, jaki govorjat' riznymy slov'jans'kymy movamy. Z urahuvannjam riznomanitnosti žyvyh slov'jans'kyh mov, odyn tekst abo movlennja, vykladene mižslov'jans'koju movoju, zajmaje menše času ta prostoru, jak dlja spryjnjattja, tak i dlja stvorennja."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
+    "message": "Nejtral'na mova"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
+    "message": "Mižslov'jans'ka mova ne pov'jazana z žodnoju konkretnoju kul'turoju, movoju, nacijeju čy urjadom. Ni odyn nosij movy ne maje nedobytkiv. Tomu mižslov'jans'ku movu pidtrymuje mižnarodna spil'nota, vil'na vid polityčnyh ta etničnyh problem."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
+    "message": "Spil'na slov'jans'ka spadščyna"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
+    "message": "Z počatku XVII stolittja j po sjogodnišnij den' na terytoriji sučasnyh slov'jans'kyh krajin my možemo prostežyty neperervni sproby stvoryty movu miž. Podil kul'turnyh ta naukovyh znan' ta vidnovlennja rozmovy miž slov'jans'kymy narodamy nabuvaje osoblyvoji važlyvosti v naš čas cyfrovoji epohy."
   },
   "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
+    "message": "Resursy dlja vyvčennja ta vykorystannja mižslov'jans'koji movy"
   },
   "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+    "message": "V social'nyh merežah vidbuvajet'sja bagato aktyvnosti - tam vy možete zadavaty pytannja ta otrymuvaty vidpovidi, a takož maty žyvu praktyku movy. Krim togo, my postijno pracjujemo nad programnymy produktamy dlja pokraščennja vašogo dosvidu z mižslov'jans'koju movoju: interaktyvnyj slovnyk, perevirka pravopysu, rozkladky klaviatury toščo."
   },
   "pages.home.sections[2].cta": {
-    "message": "Get resources"
+    "message": "Otrymaty resursy"
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Jurydyčna informacija"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"
   },
   "com.admonitions.license.republishLinkText": {
-    "message": "republished"
+    "message": "opublikovano znovu"
   },
   "theme.ErrorPageContent.title": {
     "message": "Na storinci stavsja zbij.",

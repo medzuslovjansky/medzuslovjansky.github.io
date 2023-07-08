@@ -1,60 +1,60 @@
 {
   "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+    "message": "Научите међусловянски"
   },
   "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Научите међусловянски језик и нађите више славенских пријатеља и колега широм света."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+    "message": "Језик који сви славенски народи разумеју"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Са међусловянским можете наћи више славенских пријатеља и колега широм света."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
+    "message": "Како функционише"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+    "message": "Откријте више"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+    "message": "или започните курс"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+    "message": "У пословању и туризму"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
+    "message": "Учење међусловянског брзо повећава ефикасност комуникације уживо између људи који говоре различите славенске језике. Узимајући у обзир разноврсност живих славенских језика, један текст или говор на међусловянском заузима мање времена и простора за конзумирање и производњу."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
+    "message": "Нетрални језик"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
+    "message": "Међусловянски језик није повезан са ниједном конкретном културом, језиком, народом или владом. Нити један матерњи говорник нема непоштену предност. Стога међусловянски има подршку међународне заједнице, слободан је од политичких и етничких проблема."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
+    "message": "Заједничко словенско наслеђе"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
+    "message": "Од раних XVII века до данашњег дана, на територији модерних словенских земаља, можемо пратити непрестане покушаје да се створи језик између. Дељење културног и научног знања и наставак разговора међу словенским народима добијају на значају данас у доба дигиталне технологије."
   },
   "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
+    "message": "Ресурси за учење и коришћење међусловянског"
   },
   "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+    "message": "У социјалним мрежама се одвија много активности - тамо можете постављати питања и добијати одговоре, а такође и вежбати језик уживо. Осим тога, стално радимо на софтверским производима који ће унапредити ваше искуство са међусловянским језиком: интерактивна речник апликација, проверавач правописа, распореди тастатуре итд."
   },
   "pages.home.sections[2].cta": {
-    "message": "Get resources"
+    "message": "Добијте ресурсе"
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Правне информације"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"
   },
   "com.admonitions.license.republishLinkText": {
-    "message": "republished"
+    "message": "поново објављен"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",

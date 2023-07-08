@@ -1,22 +1,22 @@
 {
   "title": {
-    "message": "Interslavic",
+    "message": "Межславянский",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Logo",
+    "message": "Лого",
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
-    "message": "Learn",
+    "message": "Изучение",
     "description": "Navbar item with label Learn"
   },
   "item.label.Resources": {
-    "message": "Resources",
+    "message": "Ресурсы",
     "description": "Navbar item with label Resources"
   },
   "item.label.Online Dictionary": {
-    "message": "Online Dictionary",
+    "message": "Онлайн-словарь",
     "description": "Navbar item with label Online Dictionary"
   }
 }

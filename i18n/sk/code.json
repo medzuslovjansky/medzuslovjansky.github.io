@@ -1,54 +1,54 @@
 {
   "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+    "message": "Učte sa Medzislovančina"
   },
   "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Učte sa jazyk Medzislovančina a nájdite si viac slovanských priateľov a kolegov z celého sveta."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+    "message": "Jazyk, ktorému rozumejú všetci Slovania"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+    "message": "S Medzislovančina sa môžete nájsť viac slovanských priateľov a kolegov z celého sveta."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
+    "message": "Ako to funguje"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+    "message": "Objavte viac"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+    "message": "alebo začnite kurz"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+    "message": "V obchode a cestovnom ruchu"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
+    "message": "Štúdium Medzislovančina rýchlo zlepšuje efektivitu komunikácie tvárou v tvár medzi ľuďmi hovoriacimi rôznymi slovanskými jazykmi. Vzhľadom na rozmanitosť žijúcich slovanských jazykov zaberie jeden text alebo prejav v Medzislovančina menej času a miesta, ako ich konzumovať a produkovať."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
+    "message": "Neutrálne jazyk"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
+    "message": "Medzislovančina nie je spojený s konkrétnou kultúrou, jazykom, národom ani vládou. Žiadny rodilý hovoriaci nemá nečestnú výhodu. Medzislovančina je preto podporovaný medzinárodnou komunitou, nezávislý na politických a etnických otázkach."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
+    "message": "Spoločné slovanské dedičstvo"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
+    "message": "Od skorého 17. storočia až po súčasnosť na území súčasných slovanských krajín môžeme sledovať neustále snahy vytvoriť jazyk medzi nimi. Zdieľanie kultúrnych a vedeckých poznatkov a obnovenie rozhovoru medzi slovanskými národmi získava v súčasnej digitálnej dobe čoraz väčší význam."
   },
   "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
+    "message": "Zdroje na ovládnutie a používanie Medzislovančina"
   },
   "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+    "message": "V sociálnych sieťach sa deje veľa činnosti - tam môžete klásť otázky a získavať odpovede a tiež praktizovať jazyk v reálnom čase. Okrem toho neustále pracujeme na softvérových produktoch, aby sme neustále zlepšovali vaše skúsenosti s jazykom Medzislovančina: interaktívna slovníková aplikácia, korektor pravopisu, klávesové rozloženia atď."
   },
   "pages.home.sections[2].cta": {
-    "message": "Get resources"
+    "message": "Získajte zdroje"
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Právne informácie"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"

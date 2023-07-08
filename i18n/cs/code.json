@@ -1,75 +1,75 @@
 {
   "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+    "message": "Naučte se Mezislovanský"
   },
   "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Naučte se jazyk Mezislovanský a najděte více přátel a kolegů mluvících slovanskými jazyky po celém světě."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+    "message": "Jazyk, kterým rozumí všichni slovanští lidé"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+    "message": "S Mezislovanštinou můžete najít více přátel a kolegů mluvících slovanskými jazyky po celém světě."
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
+    "message": "Jak to funguje"
   },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+    "message": "Objevte více"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+    "message": "nebo začněte kurz"
   },
   "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+    "message": "V obchodě a turismu"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
+    "message": "Studium Mezislovanského jazyka rychle zvyšuje efektivitu komunikace tváří v tvář mezi lidmi mluvícími různými slovanskými jazyky. Vzhledem k rozmanitosti živých slovanských jazyků zabírá jediný text nebo projev v Mezislovanštině méně času a místa, jak pro spotřebu, tak pro produkci."
   },
   "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
+    "message": "Neutrální jazyk"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
+    "message": "Jazyk Mezislovanský není spojen s žádnou konkrétní kulturou, jazykem, národem ani vládou. Žádný rodilý mluvčí nemá nekalou výhodu. Mezislovanština je tak podporována mezinárodní komunitou a je zbavena politických a etnických problémů."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
+    "message": "Společný slovanský dědictví"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
+    "message": "Od raného 17. století až po současnost na území současných slovanských zemí můžeme sledovat neustálé pokusy o vytvoření jazyka mezi nimi. Sdílení kulturního a vědeckého poznání a obnovení konverzace mezi slovanskými národy nabývá v dnešní digitální době na významu."
   },
   "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
+    "message": "Zdroje pro ovládání a používání Mezislovanského jazyka"
   },
   "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+    "message": "V sociálních sítích se děje mnoho aktivit - můžete zde klást otázky a dostávat odpovědi a také provádět živou jazykovou praxi. Navíc neustále pracujeme na softwarových produktech, abychom stále zlepšovali váš zážitek s jazykem Mezislovanským: interaktivní slovník, kontrola pravopisu, klávesnicové rozložení atd."
   },
   "pages.home.sections[2].cta": {
-    "message": "Get resources"
+    "message": "Získat zdroje"
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Právní informace"
   },
   "com.admonitions.license.republish": {
     "message": "com.admonitions.license.republish"
   },
   "com.admonitions.license.republishLinkText": {
-    "message": "republished"
+    "message": "znovu publikováno"
   },
   "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
+    "message": "Tato stránka se zhroutila.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Scroll back to top",
+    "message": "Přejít zpět nahoru",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
-    "message": "Archive",
+    "message": "Archiv",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Archive",
+    "message": "Archiv",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
