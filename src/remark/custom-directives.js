@@ -23,20 +23,26 @@ const plugin = (_options) => {
           return notr(node);
         case 'ipa':
           return ipa(node);
-        case 'en':
         case 'be':
         case 'bg':
+        case 'bs':
+        case 'cnr':
         case 'cs':
+        case 'csb':
+        case 'dsb':
+        case 'en':
         case 'hr':
+        case 'hsb':
+        case 'isv':
         case 'mk':
         case 'pl':
         case 'ru':
+        case 'rue':
         case 'sk':
         case 'sl':
         case 'sr':
         case 'uk':
         case 'zls':
-        case 'isv':
           return lang(node);
       }
     });
@@ -45,29 +51,17 @@ const plugin = (_options) => {
   return directiveTransformer;
 };
 
-function isInline(node) {
-  return node.type === 'textDirective' || node.type === 'inlineCode';
-}
-
 function isWordFragment(node) {
   const text = node.value;
-  if (!isASCII(text)) {
-    return true;
-  }
-
   if (text.startsWith('-') || text.endsWith('-')) {
     return true;
   }
 
-  if (text.length <= 2) {
+  if (text.length <= 3) {
     return true;
   }
 
   return false;
-}
-
-function isASCII(text) {
-  return /^[\x00-\x7F]*$/.test(text);
 }
 
 function prepareNode(node) {
@@ -101,7 +95,8 @@ function ipa(node) {
 }
 
 function lang(node) {
-  prepareNode(node).data.hProperties = { lang: node.name };
+  const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
+  prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
 }
 
 function fragment(node) {
