@@ -1,1 +1,1 @@
-export { default as default } from './IPA';
+export { default as IPA } from './IPA';

@@ -28,18 +28,9 @@ export default function HomePage() {
               message: 'With Interslavic you can find more Slavic-speaking friends and colleagues worldwide.'
             })}
             cta={
-              <Link to="https://www.youtube.com/watch?v=8BpixH088xg">
+              <Link to="/learn/introduction/design-criteria">
                 <MovieIcon/>
                 {translate({id: 'pages.home.sections[0].slides[0].cta', message: 'How it works'})}
-              </Link>
-            }
-          />
-          <Carousel.Slide
-            title={translate({id: 'pages.home.sections[0].slides[1].title', message: ''})}
-            subtitle={translate({id: 'pages.home.sections[0].slides[1].subtitle', message: ''})}
-            cta={
-              <Link to="/events/cisla-2022">
-                {translate({id: 'pages.home.sections[0].slides[1].cta', message: ''})}
               </Link>
             }
           />
@@ -51,7 +42,7 @@ export default function HomePage() {
             </Link>
           }
           secondaryAction={
-            <Link to="/learn/grammar">
+            <Link to="/learn/orthography">
               {translate({id: 'pages.home.sections[1].actions.secondary', message: 'or start the course'})}
             </Link>
           }

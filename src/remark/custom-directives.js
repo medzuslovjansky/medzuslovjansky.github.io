@@ -91,7 +91,7 @@ function notr(node) {
 }
 
 function ipa(node) {
-  prepareNode(node).data.hProperties = { className: 'notranslate', lang: 'art-fonipa', translate: 'no' };
+  prepareNode(node).data.hName = 'IPA';
 }
 
 function lang(node) {

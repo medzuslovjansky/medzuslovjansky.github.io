@@ -3,16 +3,24 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.learnSidebar.category.Introduction": {
-    "message": "Introduction",
-    "description": "The label for category Introduction in sidebar learnSidebar"
+  "sidebar.learnSidebar.category.Úvod": {
+    "message": "Úvod",
+    "description": "The label for category Úvod in sidebar learnSidebar"
   },
-  "sidebar.learnSidebar.category.Grammar": {
-    "message": "Grammar",
-    "description": "The label for category Grammar in sidebar learnSidebar"
+  "sidebar.learnSidebar.category.Simple grammar": {
+    "message": "Simple grammar",
+    "description": "The label for category Simple grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "The label for category Miscellaneous in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Vocabulary": {
     "message": "Vocabulary",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Grammar": {
+    "message": "Grammar",
+    "description": "The label for category Grammar in sidebar learnSidebar"
   }
 }

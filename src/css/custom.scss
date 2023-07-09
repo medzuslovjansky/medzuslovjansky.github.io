@@ -168,7 +168,7 @@ mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code.fragment, table[lang*=interslv] {
+code.fragment, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
   font-family: sans-serif;
   font-size: 90%;
 }
@@ -207,6 +207,7 @@ code.fragment, table[lang*=interslv] {
 
 .hash-link {
   transition: opacity .1s;
+  position: absolute;
 
   &::before {
     background: var(--ifm-anchor-icon) 50%;
