@@ -1,9 +1,8 @@
 import React from 'react';
-import { transliterate } from '@interslavic/utils';
 
-const IPA = ({script, children}) => {
+const IPA = ({script = "art", children}) => {
     return (
-        <span lang={script} className="notranslate" translate="no">
+        <span lang={`${script}-fonipa`} className="notranslate" translate="no">
             {children}
         </span>
     );
