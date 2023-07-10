@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Interslavic",
+    "message": "Mižslov'jans'ka",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
-    "message": "Learn",
+    "message": "Vyvčennja",
     "description": "Navbar item with label Learn"
   },
   "item.label.Resources": {
-    "message": "Resources",
+    "message": "Resursy",
     "description": "Navbar item with label Resources"
   },
   "item.label.Online Dictionary": {
-    "message": "Online Dictionary",
+    "message": "Onlajn-slovnyk",
     "description": "Navbar item with label Online Dictionary"
   }
 }

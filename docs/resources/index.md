@@ -122,7 +122,7 @@ Here are some websites dedicated to the Interslavic language and culture:
 
 [1]: https://www.facebook.com/groups/interslavic
 
-[2]: https://discord.gg/8hBqtf4uej
+[2]: https://discord.com/invite/n3saqm27QW
 
 [3]: https://www.reddit.com/r/interslavic/
 

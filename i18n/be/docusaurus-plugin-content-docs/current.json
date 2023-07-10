@@ -14,5 +14,13 @@
   "sidebar.learnSidebar.category.Vocabulary": {
     "message": "Vocabulary",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Simple grammar": {
+    "message": "Simple grammar",
+    "description": "The label for category Simple grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "The label for category Miscellaneous in sidebar learnSidebar"
   }
 }

@@ -4,8 +4,7 @@
  * work well for content-centric websites.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,500&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -59,6 +58,8 @@
   --ifm-anchor-icon: url("data:image/svg+xml,%3Csvg width='28' height='28' viewBox='0 0 28 28' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.87568 23.9575C8.72203 23.9575 7.5943 23.6154 6.63506 22.9745C5.67583 22.3336 4.92816 21.4227 4.48661 20.3569C4.04506 19.2911 3.92944 18.1183 4.15438 16.9868C4.37932 15.8553 4.93472 14.8159 5.75034 14L8.22484 11.5243L9.87451 13.174L7.40001 15.6485C6.74358 16.3049 6.3748 17.1952 6.3748 18.1236C6.3748 19.0519 6.74358 19.9422 7.40001 20.5987C8.05644 21.2551 8.94676 21.6239 9.87509 21.6239C10.8034 21.6239 11.6937 21.2551 12.3502 20.5987L14.8235 18.1242L16.4743 19.775L13.9998 22.2495C13.4593 22.7928 12.8163 23.2234 12.1082 23.5166C11.4001 23.8098 10.6409 23.9596 9.87451 23.9575H9.87568ZM10.7005 18.949L9.05084 17.2993L17.2992 9.04983L18.95 10.6995L10.7017 18.9478L10.7005 18.949V18.949ZM19.776 16.4745L18.1252 14.8248L20.5985 12.3503C20.9329 12.0275 21.1996 11.6414 21.3831 11.2144C21.5667 10.7875 21.6633 10.3282 21.6675 9.86349C21.6716 9.39876 21.5832 8.93787 21.4073 8.50769C21.2314 8.07751 20.9716 7.68667 20.6431 7.35797C20.3145 7.02926 19.9238 6.76929 19.4937 6.5932C19.0636 6.41712 18.6028 6.32845 18.138 6.33238C17.6733 6.33631 17.214 6.43275 16.7869 6.61608C16.3599 6.79941 15.9736 7.06596 15.6507 7.40017L13.175 9.87467L11.5253 8.225L13.9998 5.74933C15.0985 4.67834 16.5749 4.08331 18.1091 4.09314C19.6434 4.10297 21.112 4.71687 22.1968 5.80185C23.2816 6.88684 23.8953 8.35554 23.905 9.8898C23.9146 11.4241 23.3193 12.9003 22.2482 13.9988L19.7748 16.4733V16.4745H19.776Z' fill='%234C93C6'/%3E%3C/svg%3E%0A");
   --ifm-arrow-left-icon: url("data:image/svg+xml,%3Csvg width='12' height='10' viewBox='0 0 12 10' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath transform='rotate(180 6 5)' d='M7.344 9.792L12 5.064V4.752L7.344 0L6.288 0.312V0.6L9.84 4.296L0.911999 4.2L0.768 4.344L0.863999 5.568L9.864 5.496L6.288 9.192V9.504L7.344 9.792Z' fill='%234C587B'/%3E%3C/svg%3E");
   --ifm-arrow-right-icon: url("data:image/svg+xml,%3Csvg width='12' height='10' viewBox='0 0 12 10' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.344 9.792L12 5.064V4.752L7.344 0L6.288 0.312V0.6L9.84 4.296L0.911999 4.2L0.768 4.344L0.863999 5.568L9.864 5.496L6.288 9.192V9.504L7.344 9.792Z' fill='%234C587B'/%3E%3C/svg%3E%0A");
+
+  font-variant-numeric: lining-nums;
 }
 
 body[data-theme='light'] {
@@ -120,7 +121,7 @@ body[data-theme='dark'] {
     font-family: sans-serif;
     font-size: 90%;
     font-style: normal;
-    padding: 0.2em 0.2em;
+    padding: 0.2em 0.1em;
     color: var(--ifm-color-primary-darkest);
 
     &::before {
@@ -157,10 +158,56 @@ code {
   vertical-align: initial;
   white-space: pre-wrap;
   font: inherit;
+
+  &.fragment {
+    white-space: pre;
+  }
+}
+
+mark {
+  background-color: var(--ifm-color-warning-lightest);
+}
+
+code.fragment, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
+  font-family: sans-serif;
+  font-size: 90%;
+}
+
+.dialogue {
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  li::before {
+    content: '– ';
+  }
+}
+
+/* Dev-only CSS selector */
+.docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
+  code, kbd, [translate=no] {
+    //animation: blink 5s infinite alternate;
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.text-3-col {
+  column-count: 3;
+  column-gap: 2rem;
 }
 
 .hash-link {
   transition: opacity .1s;
+  position: absolute;
 
   &::before {
     background: var(--ifm-anchor-icon) 50%;

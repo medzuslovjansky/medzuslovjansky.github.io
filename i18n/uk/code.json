@@ -1,203 +1,148 @@
 {
-  "pages.home.meta.title": {
-    "message": "Вивчення міжслов'янської мови"
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Очистити",
+    "description": "Title of the button to clear the current search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Скасувати",
+    "description": "Text of the button to close the detached search window"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Результати не знайдено.",
+    "description": "message shown if no results are found"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholder": {
+    "message": "Пошук...",
+    "description": "Placeholder shown in the searchbar"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Надіслати",
+    "description": "Title of the button to submit a new search"
+  },
+  "com.admonitions.autotranslation.message": {
+    "message": "Ця стаття була автоматично перекладена і може містити будь-які помилки. Забезпечення перекладу понад десятьма мовами є складним завданням, і ми з нетерпінням чекаємо на вашу допомогу. Будь ласка, зв’яжіться з нами на {Discord}, якщо ви хочете допомогти нам покращити якість наших перекладів. Крім того, ви можете запропонувати виправлення безпосередньо через {GitHub}."
+  },
+  "com.admonitions.autotranslation.title": {
+    "message": "Автоматичний переклад"
+  },
+  "com.admonitions.license.republish.link": {
+    "message": "повторно публікується"
+  },
+  "com.admonitions.license.republish.message": {
+    "message": "Цей матеріал {republished} з дозволу його автора, {author}."
+  },
+  "com.admonitions.license.title": {
+    "message": "Правова інформація"
+  },
+  "com.admonitions.missingTranslation.message": {
+    "message": "Ця стаття ще не перекладена.\nЗабезпечення перекладу понад десятьма мовами є складним завданням, і ми з нетерпінням чекаємо на вашу допомогу.\nБудь ласка, зв’яжіться з нами на {Discord}, якщо ви хочете допомогти нам покращити якість наших перекладів."
+  },
+  "com.admonitions.missingTranslation.title": {
+    "message": "Відсутній переклад"
   },
   "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+    "message": "Вивчайте міжслов'янську мову та знаходьте більше друзів та колег, що говорять слов'янськими мовами, з усього світу."
   },
-  "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
-  },
-  "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+  "pages.home.meta.title": {
+    "message": "Вивчення міжслов'янської"
   },
   "pages.home.sections[0].slides[0].cta": {
     "message": "Як це працює"
   },
+  "pages.home.sections[0].slides[0].subtitle": {
+    "message": "З міжслов'янською мовою ви можете знайти більше слов'яномовних друзів та колег з усього світу."
+  },
+  "pages.home.sections[0].slides[0].title": {
+    "message": "Мова, яку розуміють всі слов'янські народи"
+  },
   "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+    "message": "Дізнатися більше"
   },
   "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
-  },
-  "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+    "message": "або розпочати курс"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
+    "message": "Вивчення міжслов'янської мови швидко покращує ефективність комунікації у прямому спілкуванні між людьми, які говорять різними слов'янськими мовами. З урахуванням різноманітності живих слов'янських мов, один текст або мовлення, викладене міжслов'янською мовою, займає менше часу та простору, як для сприйняття, так і для створення."
   },
-  "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
+  "pages.home.sections[1].cards[0].title": {
+    "message": "У бізнесі та туризмі"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
+    "message": "Міжслов'янська мова не пов'язана з жодною конкретною культурою, мовою, нацією чи урядом. Ні один носій мови не має недобитків. Тому міжслов'янську мову підтримує міжнародна спільнота, вільна від політичних та етнічних проблем."
   },
-  "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
+  "pages.home.sections[1].cards[1].title": {
+    "message": "Нейтральна мова"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
+    "message": "З початку XVII століття й по сьогоднішній день на території сучасних слов'янських країн ми можемо простежити неперервні спроби створити мову між. Поділ культурних та наукових знань та відновлення розмови між слов'янськими народами набуває особливої важливості в наш час цифрової епохи."
   },
-  "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
-  },
-  "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
+  "pages.home.sections[1].cards[2].title": {
+    "message": "Спільна слов'янська спадщина"
   },
   "pages.home.sections[2].cta": {
-    "message": "Get resources"
+    "message": "Отримати ресурси"
   },
-  "com.admonitions.license.title": {
-    "message": "Legal information"
+  "pages.home.sections[2].description": {
+    "message": "В соціальних мережах відбувається багато активності - там ви можете задавати питання та отримувати відповіді, а також мати живу практику мови. Крім того, ми постійно працюємо над програмними продуктами для покращення вашого досвіду з міжслов'янською мовою: інтерактивний словник, перевірка правопису, розкладки клавіатури тощо."
   },
-  "com.admonitions.license.republish": {
-    "message": "com.admonitions.license.republish"
+  "pages.home.sections[2].title": {
+    "message": "Ресурси для вивчення та використання міжслов'янської мови"
   },
-  "com.admonitions.license.republishLinkText": {
-    "message": "republished"
-  },
-  "theme.ErrorPageContent.title": {
-    "message": "На сторінці стався збій.",
-    "description": "The title of the fallback page when the page crashed"
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Закрити",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
     "message": "Прокрутити до початку",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Навігація по сторінці списку блогів",
-    "description": "The ARIA label for the blog pagination"
+  "theme.CodeBlock.copied": {
+    "message": "Скопійовано",
+    "description": "The copied button label on code blocks"
   },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Наступні записи",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  "theme.CodeBlock.copy": {
+    "message": "Копіювати",
+    "description": "The copy button label on code blocks"
   },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Попередні записи",
-    "description": "The label used to navigate to the older blog posts page (next page)"
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Копіювати в буфер обміну",
+    "description": "The ARIA label for copy code blocks button"
   },
-  "theme.blog.archive.title": {
-    "message": "Архів",
-    "description": "The page & hero title of the blog archive page"
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Перемикання обведення слів",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
   },
-  "theme.blog.archive.description": {
-    "message": "Архів",
-    "description": "The page & hero description of the blog archive page"
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Згорнути/розгорнути категорію '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
   },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Навігація по сторінці посту блогу",
-    "description": "The ARIA label for the blog posts pagination"
+  "theme.ErrorPageContent.title": {
+    "message": "На сторінці стався збій.",
+    "description": "The title of the fallback page when the page crashed"
   },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Наступний пост",
-    "description": "The blog post button label to navigate to the newer/previous post"
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Спробуйте ще раз",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Попередній пост",
-    "description": "The blog post button label to navigate to the older/next post"
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
   },
-  "theme.blog.post.plurals": {
-    "message": "{count} запис|{count} записи|{count} записів",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  "theme.NotFound.p1": {
+    "message": "На жаль, ми не змогли знайти сторінку, яку ви запитували.",
+    "description": "The first paragraph of the 404 page"
   },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} з тегом \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.tags.tagsPageLink": {
-    "message": "Переглянути всі теги",
-    "description": "The label of the link targeting the tag list page"
-  },
-  "theme.colorToggle.ariaLabel": {
-    "message": "Перемикання між темним та світлим режимом (зараз використовується {mode})",
-    "description": "The ARIA label for the navbar color mode toggle"
-  },
-  "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "Темний режим",
-    "description": "The name for the dark color mode"
-  },
-  "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "Світлий режим",
-    "description": "The name for the light color mode"
-  },
-  "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Навігаційний ланцюжок поточної сторінки",
-    "description": "The ARIA label for the breadcrumbs"
-  },
-  "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} елемент|{count} елементи|{count} елементів",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
-  "theme.docs.paginator.navAriaLabel": {
-    "message": "сторінка документації",
-    "description": "The ARIA label for the docs pagination"
-  },
-  "theme.docs.paginator.previous": {
-    "message": "Попередня сторінка",
-    "description": "The label used to navigate to the previous doc"
-  },
-  "theme.docs.paginator.next": {
-    "message": "Наступна сторінка",
-    "description": "The label used to navigate to the next doc"
-  },
-  "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Одна сторінка|{count} сторінки|{count} сторінок",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} з тегом \"{tagName}\"",
-    "description": "The title of the page for a docs tag"
-  },
-  "theme.docs.versionBadge.label": {
-    "message": "Версія: {versionLabel}"
-  },
-  "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Це документація для майбутньої версії {siteTitle} {versionLabel}.",
-    "description": "The label used to tell the user that he's browsing an unreleased doc version"
-  },
-  "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Це документація {siteTitle} для версії {versionLabel}, яка вже не підтримується.",
-    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-  },
-  "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Актуальна документація знаходиться на сторінці {latestVersionLink} ({versionLabel}).",
-    "description": "The label used to tell the user to check the latest version"
-  },
-  "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "остання версія",
-    "description": "The label used for the latest version suggestion link label"
-  },
-  "theme.common.editThisPage": {
-    "message": "Відредагувати цю сторінку",
-    "description": "The link label to edit the current page"
-  },
-  "theme.common.headingLinkTitle": {
-    "message": "Пряме посилання на {heading}",
-    "description": "Title for link to heading"
-  },
-  "theme.lastUpdated.atDate": {
-    "message": " {date}",
-    "description": "The words used to describe on which date a page has been last updated"
-  },
-  "theme.lastUpdated.byUser": {
-    "message": " від {user}",
-    "description": "The words used to describe by who the page has been last updated"
-  },
-  "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Останнє оновлення{atDate}{byUser}",
-    "description": "The sentence used to display when a page has been last updated, and by who"
-  },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Версії",
-    "description": "The label for the navbar versions dropdown on mobile view"
+  "theme.NotFound.p2": {
+    "message": "Будь ласка, зверніться до власника сайту, з якого ви перейшли на це посилання, щоб повідомити, що посилання не працює.",
+    "description": "The 2nd paragraph of the 404 page"
   },
   "theme.NotFound.title": {
     "message": "Сторінку не знайдено",
     "description": "The title of the 404 page"
   },
-  "theme.tags.tagsListLabel": {
-    "message": "Теги:",
-    "description": "The label alongside a tag list"
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Зміст цієї сторінки",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.admonition.caution": {
     "message": "обережно",
@@ -219,57 +164,41 @@
     "message": "порада",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Закрити",
-    "description": "The ARIA label for close button of announcement bar"
+  "theme.blog.archive.description": {
+    "message": "Архів",
+    "description": "The page & hero description of the blog archive page"
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Навігація за останніми постами у блозі",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+  "theme.blog.archive.title": {
+    "message": "Архів",
+    "description": "The page & hero title of the blog archive page"
   },
-  "theme.CodeBlock.copied": {
-    "message": "Скопійовано",
-    "description": "The copied button label on code blocks"
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Навігація по сторінці списку блогів",
+    "description": "The ARIA label for the blog pagination"
   },
-  "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Копіювати в буфер обміну",
-    "description": "The ARIA label for copy code blocks button"
+  "theme.blog.paginator.newerEntries": {
+    "message": "Наступні записи",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
-  "theme.CodeBlock.copy": {
-    "message": "Копіювати",
-    "description": "The copy button label on code blocks"
+  "theme.blog.paginator.olderEntries": {
+    "message": "Попередні записи",
+    "description": "The label used to navigate to the older blog posts page (next page)"
   },
-  "theme.CodeBlock.wordWrapToggle": {
-    "message": "Перемикання обведення слів",
-    "description": "The title attribute for toggle word wrapping button of code block lines"
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Навігація по сторінці посту блогу",
+    "description": "The ARIA label for the blog posts pagination"
   },
-  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Згорнути/розгорнути категорію '{label}'",
-    "description": "The ARIA label to toggle the collapsible sidebar category"
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Наступний пост",
+    "description": "The blog post button label to navigate to the newer/previous post"
   },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Main",
-    "description": "The ARIA label for the main navigation"
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Попередній пост",
+    "description": "The blog post button label to navigate to the older/next post"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Мови",
-    "description": "The label for the mobile language switcher dropdown"
-  },
-  "theme.NotFound.p1": {
-    "message": "На жаль, ми не змогли знайти сторінку, яку ви запитували.",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.NotFound.p2": {
-    "message": "Будь ласка, зверніться до власника сайту, з якого ви перейшли на це посилання, щоб повідомити, що посилання не працює.",
-    "description": "The 2nd paragraph of the 404 page"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Зміст цієї сторінки",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "{readingTime} хв. читання",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  "theme.blog.post.plurals": {
+    "message": "{count} запис|{count} записи|{count} записів",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
     "message": "Читати далі",
@@ -279,60 +208,163 @@
     "message": "Докладніше про {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
-  "theme.docs.breadcrumbs.home": {
-    "message": "Головна сторінка",
-    "description": "The ARIA label for the home page in the breadcrumbs"
+  "theme.blog.post.readingTime.plurals": {
+    "message": "{readingTime} хв. читання",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
-  "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Згорнути сайдбар",
-    "description": "The title attribute for collapse button of doc sidebar"
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Навігація за останніми постами у блозі",
+    "description": "The ARIA label for recent posts in the blog sidebar"
   },
-  "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Згорнути сайдбар",
-    "description": "The title attribute for collapse button of doc sidebar"
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} з тегом \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
   },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
-    "description": "The ARIA label for the sidebar navigation"
+  "theme.colorToggle.ariaLabel": {
+    "message": "Перемикання між темним та світлим режимом (зараз використовується {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
   },
-  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar",
-    "description": "The ARIA label for close button of mobile sidebar"
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "Темний режим",
+    "description": "The name for the dark color mode"
   },
-  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Перейти до головного меню",
-    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "Світлий режим",
+    "description": "The name for the light color mode"
   },
-  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
-    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  "theme.common.editThisPage": {
+    "message": "Відредагувати цю сторінку",
+    "description": "The link label to edit the current page"
   },
-  "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Розгорнути сайдбар",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Розгорнути сайдбар",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Спробуйте ще раз",
-    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  "theme.common.headingLinkTitle": {
+    "message": "Пряме посилання на {heading}",
+    "description": "Title for link to heading"
   },
   "theme.common.skipToMainContent": {
     "message": "Перейти до основного вмісту",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} елемент|{count} елементи|{count} елементів",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Головна сторінка",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Навігаційний ланцюжок поточної сторінки",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "сторінка документації",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Наступна сторінка",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Попередня сторінка",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Згорнути сайдбар",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Згорнути сайдбар",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Розгорнути сайдбар",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Розгорнути сайдбар",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} з тегом \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Одна сторінка|{count} сторінки|{count} сторінок",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Версія: {versionLabel}"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "остання версія",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Актуальна документація знаходиться на сторінці {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Це документація {siteTitle} для версії {versionLabel}, яка вже не підтримується.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Це документація для майбутньої версії {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " від {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Останнє оновлення{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Мови",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Перейти до головного меню",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Версії",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Теги:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Переглянути всі теги",
+    "description": "The label of the link targeting the tag list page"
+  },
   "theme.tags.tagsPageTitle": {
     "message": "Теги",
     "description": "The title of the tag list page"
   },
-  "theme.unlistedContent.title": {
-    "message": "Unlisted page",
-    "description": "The unlisted content banner title"
-  },
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
   }
 }

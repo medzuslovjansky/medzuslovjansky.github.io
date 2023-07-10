@@ -1,76 +1,176 @@
 {
-  "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Очисти",
+    "description": "Title of the button to clear the current search input"
   },
-  "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Откажи",
+    "description": "Text of the button to close the detached search window"
   },
-  "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Нема пронађених резултата.",
+    "description": "message shown if no results are found"
   },
-  "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+  "cmfcmf/d-s-l.searchBar.placeholder": {
+    "message": "Претрага...",
+    "description": "Placeholder shown in the searchbar"
   },
-  "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Поднеси",
+    "description": "Title of the button to submit a new search"
   },
-  "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+  "com.admonitions.autotranslation.message": {
+    "message": "Овај чланак је аутоматски преведен и можда садржи грешке. Обезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи. Контактирајте нас на {Дисцорд} ако желите да нам помогнете да побољшамо квалитет наших превода. Алтернативно, можете предложити исправке директно преко {ГитХуб}-а."
   },
-  "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+  "com.admonitions.autotranslation.title": {
+    "message": "Аутоматски превод"
   },
-  "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+  "com.admonitions.license.republish.link": {
+    "message": "поново објављен"
   },
-  "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
-  },
-  "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
-  },
-  "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
-  },
-  "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
-  },
-  "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
-  },
-  "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
-  },
-  "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
-  },
-  "pages.home.sections[2].cta": {
-    "message": "Get resources"
+  "com.admonitions.license.republish.message": {
+    "message": "This article has been {republished} with the permission of its original author, {author}."
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Правне информације"
   },
-  "com.admonitions.license.republish": {
-    "message": "com.admonitions.license.republish"
+  "com.admonitions.missingTranslation.message": {
+    "message": "Овај чланак још није преведен.\nОбезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи.\nКонтактирајте нас на {Дисцорд} ако желите да нам помогнете да побољшамо квалитет наших превода."
   },
-  "com.admonitions.license.republishLinkText": {
-    "message": "republished"
+  "com.admonitions.missingTranslation.title": {
+    "message": "Недостаје превод"
   },
-  "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
-    "description": "The title of the fallback page when the page crashed"
+  "pages.home.meta.description": {
+    "message": "Научите међусловянски језик и нађите више славенских пријатеља и колега широм света."
+  },
+  "pages.home.meta.title": {
+    "message": "Научите међусловянски"
+  },
+  "pages.home.sections[0].slides[0].cta": {
+    "message": "Како функционише"
+  },
+  "pages.home.sections[0].slides[0].subtitle": {
+    "message": "Са међусловянским можете наћи више славенских пријатеља и колега широм света."
+  },
+  "pages.home.sections[0].slides[0].title": {
+    "message": "Језик који сви славенски народи разумеју"
+  },
+  "pages.home.sections[1].actions.primary": {
+    "message": "Откријте више"
+  },
+  "pages.home.sections[1].actions.secondary": {
+    "message": "или започните курс"
+  },
+  "pages.home.sections[1].cards[0].description": {
+    "message": "Учење међусловянског брзо повећава ефикасност комуникације уживо између људи који говоре различите славенске језике. Узимајући у обзир разноврсност живих славенских језика, један текст или говор на међусловянском заузима мање времена и простора за конзумирање и производњу."
+  },
+  "pages.home.sections[1].cards[0].title": {
+    "message": "У пословању и туризму"
+  },
+  "pages.home.sections[1].cards[1].description": {
+    "message": "Међусловянски језик није повезан са ниједном конкретном културом, језиком, народом или владом. Нити један матерњи говорник нема непоштену предност. Стога међусловянски има подршку међународне заједнице, слободан је од политичких и етничких проблема."
+  },
+  "pages.home.sections[1].cards[1].title": {
+    "message": "Нетрални језик"
+  },
+  "pages.home.sections[1].cards[2].description": {
+    "message": "Од раних XVII века до данашњег дана, на територији модерних словенских земаља, можемо пратити непрестане покушаје да се створи језик између. Дељење културног и научног знања и наставак разговора међу словенским народима добијају на значају данас у доба дигиталне технологије."
+  },
+  "pages.home.sections[1].cards[2].title": {
+    "message": "Заједничко словенско наслеђе"
+  },
+  "pages.home.sections[2].cta": {
+    "message": "Добијте ресурсе"
+  },
+  "pages.home.sections[2].description": {
+    "message": "У социјалним мрежама се одвија много активности - тамо можете постављати питања и добијати одговоре, а такође и вежбати језик уживо. Осим тога, стално радимо на софтверским производима који ће унапредити ваше искуство са међусловянским језиком: интерактивна речник апликација, проверавач правописа, распореди тастатуре итд."
+  },
+  "pages.home.sections[2].title": {
+    "message": "Ресурси за учење и коришћење међусловянског"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Затвори",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
     "message": "Иди горе",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Архива",
-    "description": "The page & hero title of the blog archive page"
+  "theme.CodeBlock.copied": {
+    "message": "Копирано",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Копирај",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Копирај код у меморију",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Try again",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.NotFound.p1": {
+    "message": "Тражени резултат не постоји.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Молимо вас да контактирате власника сајта који вас је упутио овде и обавестите га да је њихова веза нетачна.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.NotFound.title": {
+    "message": "Страница није пронађена",
+    "description": "The title of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "На овој страници",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.admonition.caution": {
+    "message": "caution",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "note",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "tip",
+    "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.blog.archive.description": {
     "message": "Архива",
     "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.archive.title": {
+    "message": "Архива",
+    "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Навигација за странице блога",
@@ -100,21 +200,25 @@
     "message": "Један пост|{count} постова",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
+  "theme.blog.post.readMore": {
+    "message": "Прочитајте више",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Једноминутно читање|{readingTime} минута читања",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Недавни постови на блогу",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
   "theme.blog.tagTitle": {
     "message": "{nPosts} означени са \"{tagName}\"",
     "description": "The title of the page for a blog tag"
-  },
-  "theme.tags.tagsPageLink": {
-    "message": "Погледај све ознаке",
-    "description": "The label of the link targeting the tag list page"
-  },
-  "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs",
-    "description": "The ARIA label for the breadcrumbs"
-  },
-  "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} items",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.colorToggle.ariaLabel": {
     "message": "Switch between dark and light mode (currently {mode})",
@@ -128,45 +232,6 @@
     "message": "light mode",
     "description": "The name for the light color mode"
   },
-  "theme.docs.paginator.navAriaLabel": {
-    "message": "странице докумената",
-    "description": "The ARIA label for the docs pagination"
-  },
-  "theme.docs.paginator.previous": {
-    "message": "Назад",
-    "description": "The label used to navigate to the previous doc"
-  },
-  "theme.docs.paginator.next": {
-    "message": "Даље",
-    "description": "The label used to navigate to the next doc"
-  },
-  "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Један документ означен|{count} означених докумената",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} означени са \"{tagName}\"",
-    "description": "The title of the page for a docs tag"
-  },
-  "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
-  },
-  "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Ово је необјављена документација за верзију {siteTitle} {versionLabel}.",
-    "description": "The label used to tell the user that he's browsing an unreleased doc version"
-  },
-  "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Ово је документација за {siteTitle} {versionLabel}, која се више не одржава",
-    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-  },
-  "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "За најновију верзију документације погледајте {latestVersionLink} ({versionLabel}).",
-    "description": "The label used to tell the user to check the latest version"
-  },
-  "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "Најновија верзија",
-    "description": "The label used for the latest version suggestion link label"
-  },
   "theme.common.editThisPage": {
     "message": "Уреди ову страницу",
     "description": "The link label to edit the current page"
@@ -174,6 +239,89 @@
   "theme.common.headingLinkTitle": {
     "message": "Веза до {heading}",
     "description": "Title for link to heading"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Пређи на главни садржај",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Home page",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "странице докумената",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Даље",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Назад",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Сакриј бочну листу",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Сакриј бочну листу",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Прошири бочну листу",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Прошири бочну листу",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} означени са \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Један документ означен|{count} означених докумената",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "Најновија верзија",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "За најновију верзију документације погледајте {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Ово је документација за {siteTitle} {versionLabel}, која се више не одржава",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Ово је необјављена документација за верзију {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.lastUpdated.atDate": {
     "message": " на {date}",
@@ -187,9 +335,13 @@
     "message": "Последња измена {atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
-  "theme.NotFound.title": {
-    "message": "Страница није пронађена",
-    "description": "The title of the 404 page"
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Назад на главни мени",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
     "message": "Верзије",
@@ -199,140 +351,20 @@
     "message": "Ознаке:",
     "description": "The label alongside a tag list"
   },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Затвори",
-    "description": "The ARIA label for close button of announcement bar"
-  },
-  "theme.admonition.caution": {
-    "message": "caution",
-    "description": "The default label used for the Caution admonition (:::caution)"
-  },
-  "theme.admonition.danger": {
-    "message": "danger",
-    "description": "The default label used for the Danger admonition (:::danger)"
-  },
-  "theme.admonition.info": {
-    "message": "info",
-    "description": "The default label used for the Info admonition (:::info)"
-  },
-  "theme.admonition.note": {
-    "message": "note",
-    "description": "The default label used for the Note admonition (:::note)"
-  },
-  "theme.admonition.tip": {
-    "message": "tip",
-    "description": "The default label used for the Tip admonition (:::tip)"
-  },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Недавни постови на блогу",
-    "description": "The ARIA label for recent posts in the blog sidebar"
-  },
-  "theme.CodeBlock.copied": {
-    "message": "Копирано",
-    "description": "The copied button label on code blocks"
-  },
-  "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Копирај код у меморију",
-    "description": "The ARIA label for copy code blocks button"
-  },
-  "theme.CodeBlock.copy": {
-    "message": "Копирај",
-    "description": "The copy button label on code blocks"
-  },
-  "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap",
-    "description": "The title attribute for toggle word wrapping button of code block lines"
-  },
-  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Toggle the collapsible sidebar category '{label}'",
-    "description": "The ARIA label to toggle the collapsible sidebar category"
-  },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Main",
-    "description": "The ARIA label for the main navigation"
-  },
-  "theme.NotFound.p1": {
-    "message": "Тражени резултат не постоји.",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.NotFound.p2": {
-    "message": "Молимо вас да контактирате власника сајта који вас је упутио овде и обавестите га да је њихова веза нетачна.",
-    "description": "The 2nd paragraph of the 404 page"
-  },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
-    "description": "The label for the mobile language switcher dropdown"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "На овој страници",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Прочитајте више",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Једноминутно читање|{readingTime} минута читања",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.breadcrumbs.home": {
-    "message": "Home page",
-    "description": "The ARIA label for the home page in the breadcrumbs"
-  },
-  "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Сакриј бочну листу",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Сакриј бочну листу",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
-    "description": "The ARIA label for the sidebar navigation"
-  },
-  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar",
-    "description": "The ARIA label for close button of mobile sidebar"
-  },
-  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Назад на главни мени",
-    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
-  },
-  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
-    "description": "The ARIA label for hamburger menu button of mobile navigation"
-  },
-  "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Прошири бочну листу",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Прошири бочну листу",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
-    "description": "The label of the button to try again rendering when the React error boundary captures an error"
-  },
-  "theme.common.skipToMainContent": {
-    "message": "Пређи на главни садржај",
-    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  "theme.tags.tagsPageLink": {
+    "message": "Погледај све ознаке",
+    "description": "The label of the link targeting the tag list page"
   },
   "theme.tags.tagsPageTitle": {
     "message": "Ознаке",
     "description": "The title of the tag list page"
   },
-  "theme.unlistedContent.title": {
-    "message": "Unlisted page",
-    "description": "The unlisted content banner title"
-  },
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
   }
 }

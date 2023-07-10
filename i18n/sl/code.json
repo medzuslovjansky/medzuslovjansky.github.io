@@ -1,207 +1,148 @@
 {
-  "pages.home.meta.title": {
-    "message": "Learn Interslavic"
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Počisti",
+    "description": "Title of the button to clear the current search input"
   },
-  "pages.home.meta.description": {
-    "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Prekliči",
+    "description": "Text of the button to close the detached search window"
   },
-  "pages.home.sections[0].slides[0].title": {
-    "message": "The language understood by all Slavic peoples"
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Ni najdenih rezultatov.",
+    "description": "message shown if no results are found"
   },
-  "pages.home.sections[0].slides[0].subtitle": {
-    "message": "With Interslavic you can find more Slavic-speaking friends and colleagues worldwide."
+  "cmfcmf/d-s-l.searchBar.placeholder": {
+    "message": "Iskanje...",
+    "description": "Placeholder shown in the searchbar"
   },
-  "pages.home.sections[0].slides[0].cta": {
-    "message": "How it works"
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Pošlji",
+    "description": "Title of the button to submit a new search"
   },
-  "pages.home.sections[1].actions.primary": {
-    "message": "Discover more"
+  "com.admonitions.autotranslation.message": {
+    "message": "Ta članek je bil samodejno preveden in lahko vsebuje morebitne napake. Zagotavljanje prevodov v več kot deset jezikov je zahtevna naloga in veselimo se vaše pomoči. Pišite nam na {Discord}, \u200B\u200Bče nam želite pomagati izboljšati kakovost naših prevodov. Lahko pa predlagate popravke neposredno prek {GitHub}."
   },
-  "pages.home.sections[1].actions.secondary": {
-    "message": "or start the course"
+  "com.admonitions.autotranslation.title": {
+    "message": "Samodejno prevajanje"
   },
-  "pages.home.sections[1].cards[0].title": {
-    "message": "In business and tourism"
+  "com.admonitions.license.republish.link": {
+    "message": "republikovano"
   },
-  "pages.home.sections[1].cards[0].description": {
-    "message": "Studying Interslavic quickly improves face-to-face communication's efficiency between people speaking different Slavic languages. Considering the diversity of the living Slavic languages, a single text or a speech delivered in Interslavic takes up less time and space, both to consume and produce."
-  },
-  "pages.home.sections[1].cards[1].title": {
-    "message": "Neutral language"
-  },
-  "pages.home.sections[1].cards[1].description": {
-    "message": "Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues."
-  },
-  "pages.home.sections[1].cards[2].title": {
-    "message": "Common Slavic heritage"
-  },
-  "pages.home.sections[1].cards[2].description": {
-    "message": "From the early XVII century through to the present day, on the territory of modern Slavic countries, we can trace never-ceasing attempts to create a language in-between. Sharing cultural and scientific knowledge and resuming the conversation between Slavic peoples only is gaining importance nowadays in the digital age."
-  },
-  "pages.home.sections[2].title": {
-    "message": "Resources to master and use Interslavic"
-  },
-  "pages.home.sections[2].description": {
-    "message": "A lot of activity is happening in social networks - there you can ask questions and get answers, and also have a live language practice. Moreover, we constantly work on software products to keep improving your experience with Interslavic language: interactive dictionary app, spell-checker, keyboard layouts, etc."
-  },
-  "pages.home.sections[2].cta": {
-    "message": "Get resources"
+  "com.admonitions.license.republish.message": {
+    "message": "This article has been {republished} with the permission of its original author, {author}."
   },
   "com.admonitions.license.title": {
-    "message": "Legal information"
+    "message": "Pravne informacije"
   },
-  "com.admonitions.license.republish": {
-    "message": "com.admonitions.license.republish"
+  "com.admonitions.missingTranslation.message": {
+    "message": "Ta članek še ni bil preveden.\nZagotavljanje prevodov v več kot deset jezikov je zahtevna naloga in veselimo se vaše pomoči.\nPišite nam na {Discord}, če nam želite pomagati izboljšati kakovost naših prevodov."
   },
-  "com.admonitions.license.republishLinkText": {
-    "message": "republished"
+  "com.admonitions.missingTranslation.title": {
+    "message": "Manjka prevod"
   },
-  "theme.ErrorPageContent.title": {
-    "message": "Ta stran se je zrušila.",
-    "description": "The title of the fallback page when the page crashed"
+  "pages.home.meta.description": {
+    "message": "Naučite se jezika medslavjansko in poiščite več slovanskih prijateljev in sodelavcev po vsem svetu."
+  },
+  "pages.home.meta.title": {
+    "message": "Naučite se medslavjansko"
+  },
+  "pages.home.sections[0].slides[0].cta": {
+    "message": "Kako deluje"
+  },
+  "pages.home.sections[0].slides[0].subtitle": {
+    "message": "Z medslavjanskim jezikom lahko najdete več slovansko govorečih prijateljev in sodelavcev po vsem svetu."
+  },
+  "pages.home.sections[0].slides[0].title": {
+    "message": "Jezik, ki ga razumejo vsi slovanski narodi"
+  },
+  "pages.home.sections[1].actions.primary": {
+    "message": "Odkrijte več"
+  },
+  "pages.home.sections[1].actions.secondary": {
+    "message": "ali začnite tečaj"
+  },
+  "pages.home.sections[1].cards[0].description": {
+    "message": "Študij medslavjanskega jezika hitro izboljšuje učinkovitost komunikacije med ljudmi, ki govorijo različne slovanske jezike. Glede na raznolikost živečih slovanskih jezikov je en sam tekst ali govor v medslavjanskem jeziku manj zahteven za potrošnjo in ustvarjanje, tako v smislu časa kot prostora."
+  },
+  "pages.home.sections[1].cards[0].title": {
+    "message": "V poslovnem svetu in turizmu"
+  },
+  "pages.home.sections[1].cards[1].description": {
+    "message": "Medslavjanski jezik ni povezan z nobeno specifično kulturo, jezikom, narodom ali vlado. Nobenemu maternemu govorcu ni dana nepravična prednost. Medslavjanski jezik tako podpira mednarodna skupnost in je prost političnih in etničnih vprašanj."
+  },
+  "pages.home.sections[1].cards[1].title": {
+    "message": "Nepristranski jezik"
+  },
+  "pages.home.sections[1].cards[2].description": {
+    "message": "Od začetka 17. stoletja do danes na ozemlju sodobnih slovanskih držav sledimo nenehnim poskusom ustvarjanja jezika, ki bi bil nekakšna sredina. Deljenje kulturnega in znanstvenega znanja ter obnavljanje pogovora med slovanskimi narodi pridobiva na pomenu v digitalni dobi."
+  },
+  "pages.home.sections[1].cards[2].title": {
+    "message": "Skupna slovanska dediščina"
+  },
+  "pages.home.sections[2].cta": {
+    "message": "Pridobite vire"
+  },
+  "pages.home.sections[2].description": {
+    "message": "V družbenih omrežjih se odvija veliko dejavnosti - tam lahko postavite vprašanja in dobite odgovore ter se tudi praktično vadite v jeziku. Poleg tega nenehno delamo na programskih izdelkih, ki izboljšujejo vašo izkušnjo z medslavjanskim jezikom: interaktivna aplikacija slovarja, črkovnik, tipkovnične postavitve itd."
+  },
+  "pages.home.sections[2].title": {
+    "message": "Vir za obvladovanje in uporabo medslavjanskega jezika"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Zapri",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
     "message": "Nazaj na vrh",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigacija kazala po blogu",
-    "description": "The ARIA label for the blog pagination"
+  "theme.CodeBlock.copied": {
+    "message": "Kopirano v odložišče",
+    "description": "The copied button label on code blocks"
   },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Novejši prispevki",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  "theme.CodeBlock.copy": {
+    "message": "Kopiraj",
+    "description": "The copy button label on code blocks"
   },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Starejši prispevki",
-    "description": "The label used to navigate to the older blog posts page (next page)"
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Kopiraj v odložišče",
+    "description": "The ARIA label for copy code blocks button"
   },
-  "theme.blog.archive.title": {
-    "message": "Arhiv",
-    "description": "The page & hero title of the blog archive page"
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Preklopi oblivanje besedila",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
   },
-  "theme.blog.archive.description": {
-    "message": "Arhiv",
-    "description": "The page & hero description of the blog archive page"
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Preklopi zložljivo kategorijo v stranski vrstici '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
   },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navigacija prispevka na blogu",
-    "description": "The ARIA label for the blog posts pagination"
+  "theme.ErrorPageContent.title": {
+    "message": "Ta stran se je zrušila.",
+    "description": "The title of the fallback page when the page crashed"
   },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Novejši prispevek",
-    "description": "The blog post button label to navigate to the newer/previous post"
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Poskusite ponovno",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Starejši prispevek",
-    "description": "The blog post button label to navigate to the older/next post"
+  "theme.NavBar.navAriaLabel": {
+    "message": "Glavna navigacija",
+    "description": "The ARIA label for the main navigation"
   },
-  "theme.blog.post.plurals": {
-    "message": "En prispevek|Dva prispevka|{count} prispevki|{count} prispevkov",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  "theme.NotFound.p1": {
+    "message": "Iskane strani ni bilo možno najti",
+    "description": "The first paragraph of the 404 page"
   },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} ima oznako \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.tags.tagsPageLink": {
-    "message": "Poglej vse oznake",
-    "description": "The label of the link targeting the tag list page"
-  },
-  "theme.colorToggle.ariaLabel": {
-    "message": "Preklopi med temnim in svetlim načinom (trenutno {mode})",
-    "description": "The ARIA label for the navbar color mode toggle"
-  },
-  "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "temni način",
-    "description": "The name for the dark color mode"
-  },
-  "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "svetli način",
-    "description": "The name for the light color mode"
-  },
-  "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Drobtine",
-    "description": "The ARIA label for the breadcrumbs"
-  },
-  "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} vnosov",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
-  "theme.docs.paginator.navAriaLabel": {
-    "message": "Strani z dokumenti",
-    "description": "The ARIA label for the docs pagination"
-  },
-  "theme.docs.paginator.previous": {
-    "message": "Prejšnji",
-    "description": "The label used to navigate to the previous doc"
-  },
-  "theme.docs.paginator.next": {
-    "message": "Naslednji",
-    "description": "The label used to navigate to the next doc"
-  },
-  "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "En dokument ima oznako|Dva dokumenta imata oznako|{count} dokumenti imajo oznako|{count} dokumentov ima oznako",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} ima oznako \"{tagName}\"",
-    "description": "The title of the page for a docs tag"
-  },
-  "theme.docs.versionBadge.label": {
-    "message": "Verzija: {versionLabel}"
-  },
-  "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "To je še neobjavljena dokumentacija za {siteTitle}, verzijo {versionLabel}.",
-    "description": "The label used to tell the user that he's browsing an unreleased doc version"
-  },
-  "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "To je dokumentacija za {siteTitle} {versionLabel}, ki ni več aktivno vzdrževana.",
-    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-  },
-  "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Za najnovejšo dokumentacijo, poglejte {latestVersionLink} ({versionLabel}).",
-    "description": "The label used to tell the user to check the latest version"
-  },
-  "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "zadnja verzija",
-    "description": "The label used for the latest version suggestion link label"
-  },
-  "theme.common.editThisPage": {
-    "message": "Uredi to stran",
-    "description": "The link label to edit the current page"
-  },
-  "theme.common.headingLinkTitle": {
-    "message": "Direktna povezava na {heading}",
-    "description": "Title for link to heading"
-  },
-  "theme.lastUpdated.atDate": {
-    "message": " {date}",
-    "description": "The words used to describe on which date a page has been last updated"
-  },
-  "theme.lastUpdated.byUser": {
-    "message": " {user}",
-    "description": "The words used to describe by who the page has been last updated"
-  },
-  "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Nazadnje posodobil {byUser}, {atDate}",
-    "description": "The sentence used to display when a page has been last updated, and by who"
-  },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Verzije",
-    "description": "The label for the navbar versions dropdown on mobile view"
+  "theme.NotFound.p2": {
+    "message": "Prosim kontaktirajte lastnike strani, s katere ste sledili povezavi in jih obvestite, da povezava ne deluje.",
+    "description": "The 2nd paragraph of the 404 page"
   },
   "theme.NotFound.title": {
     "message": "Strani ni bilo možno najti",
     "description": "The title of the 404 page"
   },
-  "theme.tags.tagsListLabel": {
-    "message": "Oznake:",
-    "description": "The label alongside a tag list"
-  },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Zapri",
-    "description": "The ARIA label for close button of announcement bar"
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Na tej strani",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.admonition.caution": {
     "message": "pozor",
@@ -223,49 +164,41 @@
     "message": "namig",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigacija svežih prispevkov na blogu",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+  "theme.blog.archive.description": {
+    "message": "Arhiv",
+    "description": "The page & hero description of the blog archive page"
   },
-  "theme.CodeBlock.copied": {
-    "message": "Kopirano v odložišče",
-    "description": "The copied button label on code blocks"
+  "theme.blog.archive.title": {
+    "message": "Arhiv",
+    "description": "The page & hero title of the blog archive page"
   },
-  "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Kopiraj v odložišče",
-    "description": "The ARIA label for copy code blocks button"
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Navigacija kazala po blogu",
+    "description": "The ARIA label for the blog pagination"
   },
-  "theme.CodeBlock.copy": {
-    "message": "Kopiraj",
-    "description": "The copy button label on code blocks"
+  "theme.blog.paginator.newerEntries": {
+    "message": "Novejši prispevki",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
-  "theme.CodeBlock.wordWrapToggle": {
-    "message": "Preklopi oblivanje besedila",
-    "description": "The title attribute for toggle word wrapping button of code block lines"
+  "theme.blog.paginator.olderEntries": {
+    "message": "Starejši prispevki",
+    "description": "The label used to navigate to the older blog posts page (next page)"
   },
-  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Preklopi zložljivo kategorijo v stranski vrstici '{label}'",
-    "description": "The ARIA label to toggle the collapsible sidebar category"
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Navigacija prispevka na blogu",
+    "description": "The ARIA label for the blog posts pagination"
   },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Glavna navigacija",
-    "description": "The ARIA label for the main navigation"
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Novejši prispevek",
+    "description": "The blog post button label to navigate to the newer/previous post"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Jeziki",
-    "description": "The label for the mobile language switcher dropdown"
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Starejši prispevek",
+    "description": "The blog post button label to navigate to the older/next post"
   },
-  "theme.NotFound.p1": {
-    "message": "Iskane strani ni bilo možno najti",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.NotFound.p2": {
-    "message": "Prosim kontaktirajte lastnike strani, s katere ste sledili povezavi in jih obvestite, da povezava ne deluje.",
-    "description": "The 2nd paragraph of the 404 page"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Na tej strani",
-    "description": "The label used by the button on the collapsible TOC component"
+  "theme.blog.post.plurals": {
+    "message": "En prispevek|Dva prispevka|{count} prispevki|{count} prispevkov",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
     "message": "Preberite več",
@@ -279,60 +212,159 @@
     "message": "Minuta branja|Minuti branja|{readingTime} minute branja|{readingTime} minut branja",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
-  "theme.docs.breadcrumbs.home": {
-    "message": "Domača stran",
-    "description": "The ARIA label for the home page in the breadcrumbs"
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Navigacija svežih prispevkov na blogu",
+    "description": "The ARIA label for recent posts in the blog sidebar"
   },
-  "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Skrči stransko vrstico",
-    "description": "The title attribute for collapse button of doc sidebar"
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} ima oznako \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
   },
-  "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Skrči stransko vrstico",
-    "description": "The title attribute for collapse button of doc sidebar"
+  "theme.colorToggle.ariaLabel": {
+    "message": "Preklopi med temnim in svetlim načinom (trenutno {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
   },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Stranska vrstica dokumentacije",
-    "description": "The ARIA label for the sidebar navigation"
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "temni način",
+    "description": "The name for the dark color mode"
   },
-  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Zapri navigacijsko vrstico",
-    "description": "The ARIA label for close button of mobile sidebar"
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "svetli način",
+    "description": "The name for the light color mode"
   },
-  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Nazaj na glavni meni",
-    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  "theme.common.editThisPage": {
+    "message": "Uredi to stran",
+    "description": "The link label to edit the current page"
   },
-  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Preklopi navigacijsko vrstico",
-    "description": "The ARIA label for hamburger menu button of mobile navigation"
-  },
-  "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Razširi stransko vrstico",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Razširi stransko vrstico",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Poskusite ponovno",
-    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  "theme.common.headingLinkTitle": {
+    "message": "Direktna povezava na {heading}",
+    "description": "Title for link to heading"
   },
   "theme.common.skipToMainContent": {
     "message": "Preskoči na vsebino",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} vnosov",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Domača stran",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Drobtine",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Strani z dokumenti",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Naslednji",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Prejšnji",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Zapri navigacijsko vrstico",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Skrči stransko vrstico",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Skrči stransko vrstico",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Razširi stransko vrstico",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Razširi stransko vrstico",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Stranska vrstica dokumentacije",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Preklopi navigacijsko vrstico",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} ima oznako \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "En dokument ima oznako|Dva dokumenta imata oznako|{count} dokumenti imajo oznako|{count} dokumentov ima oznako",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Verzija: {versionLabel}"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "zadnja verzija",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Za najnovejšo dokumentacijo, poglejte {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "To je dokumentacija za {siteTitle} {versionLabel}, ki ni več aktivno vzdrževana.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "To je še neobjavljena dokumentacija za {siteTitle}, verzijo {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Nazadnje posodobil {byUser}, {atDate}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Jeziki",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Nazaj na glavni meni",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Verzije",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Oznake:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Poglej vse oznake",
+    "description": "The label of the link targeting the tag list page"
+  },
   "theme.tags.tagsPageTitle": {
     "message": "Oznake",
     "description": "The title of the tag list page"
   },
-  "theme.unlistedContent.title": {
-    "message": "Nezabeležena stran",
-    "description": "The unlisted content banner title"
-  },
   "theme.unlistedContent.message": {
     "message": "Ta stran ni zabeležena. Iskalniki je ne bodo indeksirali, do nje bodo uporabniki lahko dostopali le z direktno povezavo.",
     "description": "The unlisted content banner message"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Nezabeležena stran",
+    "description": "The unlisted content banner title"
   }
 }

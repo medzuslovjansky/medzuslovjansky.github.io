@@ -5,6 +5,10 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
+
 import Alphabet from '@site/src/markdown/alphabet.mdx';
 import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
 import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
@@ -18,7 +22,7 @@ The question how Interslavic should be written has always been subject to discus
 
 Since the border between Latin and Cyrillic runs straight through the middle of Slavic territory, Interslavic has standard alphabets for both. Neither of them is based on any national orthography in particular. Instead, they were designed as a compromise, intended to be intuitively understandable and to enable easy transliteration between them. Users are strongly encouraged to use these standard alphabets, but those who have problems writing certain characters are offered some [alternative solutions][1], too.
 
-The **Interslavic Latin alphabet** uses 27 letters: 23 letters from the base Latin alphabet (all except **`q`**, **`w`** and **`x`**) plus four consonants with a `haček` (**`š`**, **`ž`**, **`č`** and **`ě`**), as well as three digraphs (**`dž`**, **`lj`**, **`nj`**):
+The **Interslavic Latin alphabet** uses 27 letters: 23 letters from the base Latin alphabet (all except **`q`**, **`w`** and **`x`**) plus four consonants with a caron (**`š`**, **`ž`**, **`č`** and **`ě`**), as well as three digraphs (**`dž`**, **`lj`**, **`nj`**):
 
 <LatinAlphabet />
 
@@ -30,17 +34,15 @@ Both orthographies are equal, and in published texts, it deserves recommendation
 
 Interslavic keyboard layouts can be downloaded [here][2].
 
----
-
 ## Representation of problematic characters \{#representation-of-problematic-characters}
 
 As noted above, both the Latin and Cyrillic alphabets include characters that cannot be written on every Slavic keyboard. Those who cannot write a character on their own keyboard have several alternatives at their disposal. Here are a few recommendations:
 
 ### Latin `Č` `Š` `Ž` \{#latin-č-š-ž}
 
-These letters are very important in Slavic. Leaving out the `haček` (as is often done by native speakers in SMS language) has a negative impact on the understandability of Interslavic, because **`c` `s` `z`** are entirely different phonemes.
+These letters are very important in Slavic. Leaving out the caron (as is often done by native speakers in SMS language) has a negative impact on the understandability of Interslavic, because **`c` `s` `z`** are entirely different phonemes.
 
-Because Poles do not have the letters on their keyboard, the suggested alternative for them is **`cz sz ż`**. Those who do not have **`ż`** on their keyboard either can use **`cz` `sz` `zs`** instead. An alternative solution is **`cx` `sx` `zx`**, which has the advantage of being consistent and unambiguous, but the disadvantage of being unnatural (and in the eyes of many people, ugly). Other options are better avoided. For example, English-based **`ch` `sh` `zh`** has the disadvantage that West Slavs would read **`ch`** as **`h`** \[x], while solutions involving non-letter characters (like **`c^`**, **`c`\***, **`c'`**) make it look like computer code. At last, do not use characters like **`q`** or **`w`** (the so-called _`Volapük encoding`_) as substitutes, as this would only create confusion.
+Because Poles do not have the letters on their keyboard, the suggested alternative for them is **`cz sz ż`**. Those who do not have **`ż`** on their keyboard either can use **`cz` `sz` `zs`** instead. An alternative solution is **`cx` `sx` `zx`**, which has the advantage of being consistent and unambiguous, but the disadvantage of being unnatural (and in the eyes of many people, ugly). Other options are better avoided. For example, English-based **`ch` `sh` `zh`** has the disadvantage that West Slavs would read **`ch`** as **`h`** :ipa[x], while solutions involving non-letter characters (like **`c^`**, **`c*`**, **`c'`**) make it look like computer code. At last, do not use characters like **`q`** or **`w`** (the so-called _Volapük encoding_) as substitutes, as this would only create confusion.
 
 ### Latin `Ě` and Cyrillic `Є` \{#latin-ě-and-cyrillic-є}
 
@@ -56,7 +58,7 @@ The letter **`y` / `ы`** is helpful mostly to Russians, Belarussians and Poles.
 
 ### Cyrillic `Ј` \{#cyrillic-ј}
 
-Interslavic uses the letter **`ј`** from Serbian and Macedonian Cyrillic as the equivalent of Latin **`j`**, because **`й`** (Russian, Ukrainian, Belarussian and Bulgarian) is too restrictive regarding its surrounding vowels and consonants. For those who have problems writing **`ј`**, the logical substitute is **`й`**, but when it is followed by a vowel, a iotated vowel will be used instead in most cases:
+Interslavic uses the letter **`ј`** from Serbian and Macedonian Cyrillic as the equivalent of Latin **`j`**, because **`й`** (Russian, Ukrainian, Belarussian and Bulgarian) is too restrictive regarding its surrounding vowels and consonants. For those who have problems writing **`ј`**, the logical substitute is **`й`**, but when it is followed by a vowel, an iotated vowel will be used instead in most cases:
 
 - **`йа`** and **`йу`** can be written **`я`** and **`ю`** respectively; this is definitely the most natural solution, but it should be remembered that not all Serbs and Macedonians know these characters, also because their shapes are not particularly suggestive;
 - **`йо`** is never a problem; Russian **`ё`** should be avoided though, because it is used in different situations and may not be clear to those who don't know Russian;
@@ -66,8 +68,6 @@ Interslavic uses the letter **`ј`** from Serbian and Macedonian Cyrillic as the
 ### Cyrillic `Љ` and `Њ` \{#cyrillic-љ-and-њ}
 
 The Cyrillic counterparts of **`lj`** and **`nj`** are **`љ`** and **`њ`**, taken from Serbian and Macedonian Cyrillic as well. Those who do not have these letters on their keyboard can always write **`ль`** and **`нь`** instead.
-
----
 
 ## Etymological alphabet \{#etymological-alphabet}
 
@@ -91,9 +91,9 @@ Note that the Interslavic etymological alphabet does not include length or tone 
 
 The basic Latin and Cyrillic alphabets of Interslavic consist of letters whose pronunciation is similar in all Slavic languages. However, Proto-Slavic and Old Church Slavonic also had a number of phonemes that developed in different directions. In most modern languages, these sound changes have been remarkably predictable. By assigning a special character to these phonemes, each one of them can be linked to a particular phoneme in any of the modern Slavic languages, thus covering the main phonological differences between the latter. In other words, this extended alphabet can serve as bridge between Old Church Slavonic and the modern Slavic languages, but also as an intermediary orthography between Old Church Slavonic and Interslavic.
 
-In contrast to alphabets such as the International Phonetic Alphabet and the [Slavistic Alphabet][3], this orthography is not meant to give information about the pronunciation of individual languages, but to show the relationship between them. It can be compared to the orthography of English: although there are vast differences in pronunciation between British English, Scottish English and American English, all are written in practically the same way, using spelling conventions that represent the spoken language of the 14th century. If the Slavs would use a similar alphabet instead of their pronunciation-based national orthographies, the word for „five” could be written as _`pęt́`_ in all Slavic languages, instead of _`пять`_, _`pięć`_, _`piãc`_, _`pjeć`_, _`pět`_, _`päť`_, _`pet`_ etc.
+In contrast to alphabets such as the International Phonetic Alphabet and the [Slavistic Alphabet][3], this orthography is not meant to give information about the pronunciation of individual languages, but to show the relationship between them. It can be compared to the orthography of English: although there are vast differences in pronunciation between British English, Scottish English and American English, all are written in practically the same way, using spelling conventions that represent the spoken language of the 14th century. If the Slavs would use a similar alphabet instead of their pronunciation-based national orthographies, the word for „five” could be written as :isv[_pęt́_] in all Slavic languages, instead of :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] etc.
 
-This etymology-based alphabet (previously known as _`Naučny medžuslovjansky`_ „Scientific Interslavic”) also serves as the source code for Interslavic. It was designed in such way that it differs from standard Interslavic only by additional diacritics, so that a reader who is unfamiliar with those diacritics can simply ignore them. Using this orthography in Interslavic can serve the following purposes:
+This etymology-based alphabet (previously known as :notr[_Naučny medžuslovjansky_] „Scientific Interslavic”) also serves as the source code for Interslavic. It was designed in such way that it differs from standard Interslavic only by additional diacritics, so that a reader who is unfamiliar with those diacritics can simply ignore them. Using this orthography in Interslavic can serve the following purposes:
 
 - conveying etymological information,
 - supporting the learning process by making Interslavic words easier to link to their counterparts in other Slavic languages,
@@ -113,36 +113,30 @@ Because these extensions are optional, alternative representations are not stric
 
 In the Latin alphabet, additional etymological information is conveyed by means of diacritical marks only. Thus, passive intelligibility is not hampered, and a reader who is not familiar with them can understand the text anyway. A similar approach for Cyrillic (using characters like **`ӑ`**, **`ԙ`**, **`ө`**, **`ұ`**, **`ӣ`**, **`ҷ`**, **`ӝ`**, etc.) would not only make a text look extremely artificial, it would also be little helpful, since the modifications would be far from self-explaining. An extended Cyrillic alphabet using historical (**`ѣ`**, **`ѩ`**, **`ѫ`**) and regional (**`ћ`**, **`ђ`**) characters would be very hard to understand for people unfamiliar with Old Church Slavonic orthography and therefore conflict with the purpose of Interslavic. For that reason, the Interslavic etymological alphabet has no Cyrillic equivalent.
 
----
-
 ## Overview \{#overview}
 
 The following table shows the correspondences between the letters mentioned above (suggested alternative spellings are shown in grey between brackets). The [transliterator][5] makes it possible to transliterate between Latin and Cyrillic.
 
----
-
 <Alphabet />
-
----
 
 ## Guidelines \{#guidelines}
 
 To summarise, there are several possibilities for writing the same word. The general guideline is: the more understandable the better. However, there are a few things to keep in mind:
 
 - To avoid confusion among newcomers, try to follow the standard Latin and/or Cyrillic orthography as much as possible. Interslavic keyboard layouts can be downloaded [here][2].
-- For the same reason, do not use the etymological alphabet (formerly known as _Naučny medžuslovjansky_) in ordinary conversations. Whenever you use it anyway, please mention explicitly why you use it.
+- For the same reason, do not use the etymological alphabet (formerly known as :notr[_Naučny medžuslovjansky_]) in ordinary conversations. Whenever you use it anyway, please mention explicitly why you use it.
 - Avoid using Cyrillic letters that are no longer used (such as **`ѣ`**, **`ѩ`**, **`ѫ`**, **`ѱ`**) and do not attempt to cyrillicise the etymological alphabet in any other way either, as both would seriously hamper intelligibility.
 - If you have problems writing certain characters, please use one of the suggested alternatives.
 - Be consistent in your choices. If, for example, you decide to use **`sz`** for representing **`š`**, keep it that way in the whole text or conversation, otherwise you will only create confusion. For the same reason, if you use **`sz`**, then don't use **`č`** or **`cx`** at the same time.
-- Do not use non-letter characters (**^ '** etc.) as a means to replace diacritics. They will not make your text more readable and most people find them ugly.
+- Do not use non-letter characters (:kbd[^], :kbd['] etc.) as a means to replace diacritics. They will not make your text more readable and most people find them ugly.
 - Never mix Latin with Cyrillic.
 - When addressing a members of a particular Slavic nation (for example, when you are travelling), you might consider [flavourising your Interslavic][4]. However, do not use flavorisation in multi-Slavic environments.
 
-[1]: #representation
+[1]: #representation-of-problematic-characters
 
-[2]: http://tyflonet.com/siciliano/klaviatury/
+[2]: ../resources/keyboards.md
 
-[3]: http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
+[3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 
 [4]: vocabulary/flavourisation.mdx
 
