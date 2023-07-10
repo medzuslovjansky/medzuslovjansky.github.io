@@ -3,7 +3,7 @@ import { transliterate } from '@interslavic/utils';
 
 const IPA = ({ children }) => {
     return (
-        <span lang="art-x-fontipa" className="notranslate" translate="no">
+        <span lang="art-fonipa" className="notranslate" translate="no">
             {children}
         </span>
     );
@@ -11,12 +11,12 @@ const IPA = ({ children }) => {
 
 const AlphabetOverview = ({ script }) => {
     const LETTERS = [
-        ["A", <><IPA>[ɑ]</IPA> ~ <IPA>[a]</IPA></>],
-        ["Å", <><IPA>[ɒ]</IPA></>],
-        ["B", <><IPA>[b]</IPA></>],
-        ["C", <><IPA>[t͡s]</IPA></>],
-        ["Ć", <><IPA>[t͡ɕ]</IPA></>],
-        ["Č", <><IPA>[t͡ʃ]</IPA> ~ <IPA>[t͡ʂ]</IPA></>]
+        ["A", <><IPA>ɑ</IPA> ~ <IPA>a</IPA></>],
+        ["Å", <><IPA>ɒ</IPA></>],
+        ["B", <><IPA>b</IPA></>],
+        ["C", <><IPA>t͡s</IPA></>],
+        ["Ć", <><IPA>t͡ɕ</IPA></>],
+        ["Č", <><IPA>t͡ʃ</IPA> ~ <IPA>t͡ʂ</IPA></>]
     ];
 
     function checkTransliteration() {

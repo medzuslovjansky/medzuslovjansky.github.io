@@ -19,6 +19,7 @@ async function createConfig() {
     plugins: [
       '@noomorph/docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
+      require.resolve('./src/plugins/webpack.js'),
     ],
     presets: [
       [
