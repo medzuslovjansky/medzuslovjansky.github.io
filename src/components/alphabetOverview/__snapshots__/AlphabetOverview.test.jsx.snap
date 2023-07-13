@@ -882,7 +882,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={1}
+        rowSpan={2}
       >
         Т
       </td>
@@ -901,9 +901,14 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={1}
+        rowSpan={2}
+        style={
+          {
+            "display": "none",
+          }
+        }
       >
-        Т́
+        Т
       </td>
       <td>
         T́
@@ -2003,7 +2008,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={1}
+        rowSpan={2}
       >
         T
       </td>
@@ -2022,9 +2027,14 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={1}
+        rowSpan={2}
+        style={
+          {
+            "display": "none",
+          }
+        }
       >
-        T́
+        T
       </td>
       <td>
         T́
