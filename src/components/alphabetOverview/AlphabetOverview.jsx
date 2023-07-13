@@ -93,7 +93,7 @@ const AlphabetOverview = ({ script }) => {
           <th>Pronunciation</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody lang="art-x-interslv">
         {result.map((item, index) => (
           <tr key={index}>
             {index === 0 && (
