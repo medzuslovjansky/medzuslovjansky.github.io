@@ -1,5 +1,6 @@
 import React from 'react';
 import { transliterate } from '@interslavic/utils';
+import {translate} from "@docusaurus/Translate";
 
 const IPA = ({ children }) => {
   return (
@@ -9,7 +10,7 @@ const IPA = ({ children }) => {
   );
 };
 
-const AlphabetOverview = ({ script }) => {
+const AlphabetOverview = ({ script, label }) => {
   const LETTERS = [
     ["A", <><IPA>ɑ</IPA> ~ <IPA>a</IPA></>],
     ["Å", <><IPA>ɒ</IPA></>],
@@ -88,9 +89,9 @@ const AlphabetOverview = ({ script }) => {
     <table>
       <thead>
         <tr>
-          <th>Latin</th>
-          <th>Etymological</th>
-          <th>Pronunciation</th>
+          <th>{label}</th>
+          <th>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
+          <th>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
       </thead>
       <tbody lang="art-x-interslv">

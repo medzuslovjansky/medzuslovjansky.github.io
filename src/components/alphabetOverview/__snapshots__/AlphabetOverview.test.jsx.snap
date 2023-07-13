@@ -15,7 +15,9 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
       </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody
+    lang="art-x-interslv"
+  >
     <tr>
       <td
         rowSpan={2}
@@ -1141,7 +1143,9 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
       </th>
     </tr>
   </thead>
-  <tbody>
+  <tbody
+    lang="art-x-interslv"
+  >
     <tr>
       <td
         rowSpan={2}
