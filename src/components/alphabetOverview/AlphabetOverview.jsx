@@ -82,8 +82,8 @@ const AlphabetOverview = ({ script }) => {
       <thead>
         <tr>
           <th className={styles.th}>{translate({ id: 'com.script.Standart', message: 'Standart' })}</th>
-          <th className={styles.th}>{translate({ id: 'com.script.Etymological', message: 'Etym\u00adological' })}</th>
-          <th className={styles.th}>{translate({ id: 'com.script.Pronunciation', message: 'Pronun\u00adciation' })}</th>
+          <th className={styles.th}>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
+          <th className={styles.th}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
       </thead>
       <tbody lang="art-x-interslv">
