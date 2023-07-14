@@ -381,5 +381,8 @@
   },
   "com.script.Etymological": {
     "message": "Etymological"
+  },
+  "com.script.Standart": {
+    "message": "Standart"
   }
 }

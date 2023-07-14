@@ -1,16 +1,10 @@
 import React from 'react';
+import styles from './AlphabetOverview.module.scss'
 import { transliterate } from '@interslavic/utils';
 import {translate} from "@docusaurus/Translate";
+import { IPA } from '../IPA';
 
-const IPA = ({ children }) => {
-  return (
-    <span lang="art-fonipa" className="notranslate" translate="no">
-      {children}
-    </span>
-  );
-};
-
-const AlphabetOverview = ({ script, label }) => {
+const AlphabetOverview = ({ script }) => {
   const LETTERS = [
     ["A", <><IPA>ɑ</IPA> ~ <IPA>a</IPA></>],
     ["Å", <><IPA>ɒ</IPA></>],
@@ -77,8 +71,6 @@ const AlphabetOverview = ({ script, label }) => {
         rows: LETTERS[i]
       });
     }
-    console.log(rowspanMap);
-    console.log(result);
 
     return { result, rowspanMap };
   }
@@ -86,12 +78,12 @@ const AlphabetOverview = ({ script, label }) => {
   const { result, rowspanMap } = checkTransliteration();
 
   return (
-    <table>
+    <table className={styles.table}>
       <thead>
         <tr>
-          <th>{label}</th>
-          <th>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
-          <th>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
+          <th className={styles.th}>{translate({ id: 'com.script.Standart', message: 'Standart' })}</th>
+          <th className={styles.th1}>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
+          <th className={styles.th1}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
       </thead>
       <tbody lang="art-x-interslv">
