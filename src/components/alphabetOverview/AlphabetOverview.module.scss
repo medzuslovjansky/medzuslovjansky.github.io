@@ -1,8 +1,7 @@
-.table {
-    table-layout: fixed !important;
-    width: 150px !important;
-}
-
-.th {
-    text-overflow: ellipsis;
+@media (max-width: 480px) {
+    .th {
+        overflow: hidden;
+        max-width: 0;
+        min-width: 75px;
+    }
 }
