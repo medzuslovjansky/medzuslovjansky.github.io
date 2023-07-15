@@ -81,7 +81,7 @@ const AlphabetOverview = ({ script }) => {
     <table className={styles.table}>
       <thead>
         <tr>
-          <th className={styles.th}>{translate({ id: 'com.script.Standart', message: 'Standart' })}</th>
+          <th className={styles.th}>{translate({ id: 'com.script.Standard', message: 'Standard' })}</th>
           <th className={styles.th}>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
           <th className={styles.th}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
