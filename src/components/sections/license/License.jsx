@@ -4,8 +4,8 @@ import {useDoc} from '@docusaurus/theme-common/internal';
 
 function useFrontMatter() {
   const {frontMatter} = useDoc();
-  const {license, origin, author} = frontMatter;
-  return {license, origin, author};
+  const {license, origin, author, original_author} = frontMatter;
+  return {license, origin, author: original_author || author};
 }
 
 export function License() {

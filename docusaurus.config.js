@@ -31,6 +31,8 @@ async function createConfig() {
             sidebarPath: require.resolve('./sidebars.js'),
             editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/',
             editLocalizedFiles: true,
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
             remarkPlugins: [
               require('./src/remark/mdx-before-after-plugin'),
               require('./src/remark/custom-directives'),
