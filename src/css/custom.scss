@@ -44,6 +44,9 @@
     //--fun-color-primary-background-contrast: #FFF;
   }
 
+  --fun-safe-serif: 'Liberation Serif', serif;
+  --fun-safe-sans: 'Liberation Sans', sans-serif;
+
   --ifm-font-family-base: 'Alegreya Sans', sans-serif;
   --ifm-font-size-base: 20px;
   --ifm-h1-font-size: 30px; // 1.55
@@ -111,27 +114,15 @@ body[data-theme='dark'] {
   a.card {
     text-decoration: none;
   }
+}
 
-  span[lang] {
-    font-family: serif;
-    font-style: italic;
-  }
+span[lang] {
+  font-family: var(--fun-safe-serif);
+  font-style: italic;
+}
 
-  span[lang=art-fonipa] {
-    font-family: sans-serif;
-    font-size: 90%;
-    font-style: normal;
-    padding: 0.2em 0.1em;
-    color: var(--ifm-color-primary-darkest);
-
-    &::before {
-      content: '[';
-    }
-
-    &::after {
-      content: ']';
-    }
-  }
+.fragment {
+  font-weight: bold;
 }
 
 code, .notranslate {
@@ -169,7 +160,7 @@ mark {
 }
 
 code.fragment, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
-  font-family: sans-serif;
+  font-family: var(--fun-safe-sans);
   font-size: 90%;
 }
 

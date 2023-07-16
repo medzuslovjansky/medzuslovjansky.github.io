@@ -6,28 +6,46 @@ origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
 import Consonants from '@site/src/markdown/consonants.mdx';
+import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
+import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
 
 # Phonology
 
 ## Phoneme inventory \{#phoneme-inventory}
 
-Interslavic is neither a national language, nor does it try to emulate one. Instead, it is based on twelve national languages, each of them having its own phonology and its own corresponding orthography, tailored to fit its particular characteristics. In general, it can be said that the further South you go, the smaller the phoneme (sound) inventory becomes. Both spoken and written Interslavic should be in the very middle of them as much as possible.
+Interslavic is neither a national language, nor does it try to emulate one.
+Instead, it is based on twelve national languages, each of them having its own phonology and its own corresponding orthography, tailored to fit its particular characteristics.
+In general, it can be said that the further South you go, the smaller the phoneme (sound) inventory becomes.
+Both spoken and written Interslavic should be in the very middle of them as much as possible.
 
-A high number of phonemes makes intuitive writing and pronouncing Interslavic harder for those who are used to fewer phonemes. A low number, on the other hand, makes it harder to link a particular character or sound to a phoneme in one's own language, and therefore has a negative effect on intelligibility. For example, the ideal pronunciation of the word for „five” would be something like \[`pjætʲ`]. If we write this as _`pęt́`_, a Russian can easily recognise his own _`pjať`_, a Serb his own _`pet`_ and a Pole his own _`pięć`_; but for a Serb, there is no way of knowing when his own **`e`** and **`t`** become **`ę`** and **`t́`** without consulting a dictionary. On the other hand, in a simplified scheme _pet_ could also be misunderstood as Russian _`peť`_ „to sing” or Polish _`pet`_ „cigarette butt”. In short: the easier we make it for the speaker/writer, the harder it becomes for the listener/reader, and vice versa.
+A high number of phonemes makes intuitive writing and pronouncing Interslavic harder for those who are used to fewer phonemes.
+A low number, on the other hand, makes it harder to link a particular character or sound to a phoneme in one's own language, and therefore has a negative effect on intelligibility.
+For example, the ideal pronunciation of the word for „five” would be something like :ipa[pjætʲ].
+If we write this as :isv[pęt́], a Russian can easily recognise his own :ru[пять], a Serb his own :sr[pet] and a Pole his own :pl[pięć]; but for a Serb, there is no way of knowing when his own `e` and `t` become `ę` and `t́` without consulting a dictionary.
+On the other hand, in a simplified scheme :isv[pet] could also be misunderstood as Russian :ru[петь] „to sing” or Polish :pl[pet] „cigarette butt”.
+In short: the easier we make it for the speaker/writer, the harder it becomes for the listener/reader, and vice versa.
 
-To solve this dilemma, Interslavic has a basic set of phonemes that are present in all or a vast majority of the Slavic languages, more or less with the same phonetic values. In addition, Interslavic also has a set of optional phonemes that link directly to Old Church Slavonic and refer to particular phonetic differences between languages. Using the aforementioned word _pęt́_ as an example, Russian \[`pjætʲ`] and South Slavic \[`pɛt`] are simply two ways of pronouncing the very same word: the letters **`ę`** and **`t́`** indicate that their pronunciation varies among languages. These additional phonemes can be written by means of an additional set of optional letters, part of the [Interslavic etymological alphabet][1] (previously known as „Naučny Medžuslovjansky”).
+To solve this dilemma, Interslavic has a basic set of phonemes that are present in all or a vast majority of the Slavic languages, more or less with the same phonetic values.
+In addition, Interslavic also has a set of optional phonemes that link directly to Old Church Slavonic and refer to particular phonetic differences between languages.
+Using the aforementioned word :isv[pęt́] as an example, Russian :ipa[pjætʲ] and South Slavic :ipa[pɛt] are simply two ways of pronouncing the very same word: the letters `ę` and `t́` indicate that their pronunciation varies among languages.
+These additional phonemes can be written by means of an additional set of optional letters, part of the [Interslavic etymological alphabet][1] (previously known as :notr[_Naučny Medžuslovjansky_]).
 
-The following charts give an overview of phonemes in Interslavic, based on their most average pronunciation. The basic phonemes are shown in black, optional variations in gray.
+The following charts give an overview of phonemes in Interslavic, based on their most average pronunciation.
+The basic phonemes are shown in black, optional variations in gray.
 
 ## Vowels \{#vowels}
 
-Basic Interslavic has 7 vowel phonemes, five of which (**`a` `e` `i` `o` `u`**) have a rather uniform pronunciation, whereas the remaining two (**`ě` `y`**) have a pronunciation that may differ between speakers.
+Basic Interslavic has 7 vowel phonemes, five of which (`a` `e` `i` `o` `u`) have a rather uniform pronunciation, whereas the remaining two (`ě` `y`) have a pronunciation that may differ between speakers.
 
-In addition, there are 5 optional vowels (**`å` `ė` `ę` `ȯ` `ų`**) whose pronunciation may vary. The diacritical marks are usually not written. In flavourised versions of Interslavic however, **`å`** can be written and pronounced as **`o`**, **`ę`** as **`ja`**, **`ȯ`** as **`e`** and **`y`** as **`i`**.
+In addition, there are 5 optional vowels (`å` `ė` `ę` `ȯ` `ų`) whose pronunciation may vary.
+The diacritical marks are usually not written.
+In flavourised versions of Interslavic however, `å` can be written and pronounced as `o`, `ę` as `ja`, `ȯ` as `e` and `y` as `i`.
 
-\<!-- TODO: add a table. Origin: [http://steen.free.fr/interslavic/phonology.html][3] -->
+<PhonologyIPA />
 
-Interslavic also has syllabic **`r`** and **`ŕ`** (the latter belonging to the non-mandatory set). This is the case when it is preceded by a consonant and _`not`_ followed by a vowel. It is pronounced with a schwa before it: _`trg`_ \[`tərg`], _`mŕtvy`_ \[`mjərtvɪ`], _`cukr`_ \[`ʦukər`].
+Interslavic also has syllabic `r` and `ŕ` (the latter belonging to the non-mandatory set).
+This is the case when it is preceded by a consonant and _not_ followed by a vowel.
+It is pronounced with a schwa before it: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjərtvɪ], :isv[cukr] :ipa[ʦukər].
 
 ## Consonants \{#consonants}
 
@@ -37,128 +55,162 @@ There are 23 basic consonants (including 3 affricates and 2 palatalised alveolar
 
 ## Hard and soft consonants \{#hard-and-soft-consonants}
 
-Like all Slavic languages, Interslavic distinguishes between _`hard`_ and _`soft`_ consonants:
+Like all Slavic languages, Interslavic distinguishes between _hard_ and _soft_ consonants:
 
-- The hard consonants are: the labials **`p` `b` `f` `v` `m`**, the hard dentals/alveolars **`t` `d` `s` `z` `n` `r` `l`**, and the velars **`k` `g` `h`**.
-- The soft consonants are: the postalveolars **`š` `ž` `č` `dž`**, the soft dentals/alveolars **`lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`**, and the palatal approximant **`j`**.
-- The affricate **`c`** \[`t͡s`] is pronounced hard, but in grammar it behaves like a soft consonant. Its voiced counterpart \[`d͡z`] does not occur in Interslavic.
+- The hard consonants are: the labials `p` `b` `f` `v` `m`, the hard dentals/alveolars `t` `d` `s` `z` `n` `r` `l`, and the velars `k` `g` `h`.
+- The soft consonants are: the postalveolars `š` `ž` `č` `dž`, the soft dentals/alveolars `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`, and the palatal approximant `j`.
+- The affricate `c` :ipa[t͡s] is pronounced hard, but in grammar it behaves like a soft consonant. Its voiced counterpart :ipa[d͡z] does not occur in Interslavic.
 
-Softening is the process of adding \[`ʲ`] to a consonant, resulting in a more palatal pronunciation. The number of soft equivalents of hard consonants in the phoneme inventory varies greatly from one language to another. In Interslavic only **`lj`** and **`nj`** are mandatory, the etymological alphabet also has **`t́` `d́` `ś` `ź` `ŕ`** (normally written **`t` `d` `s` `z` `r`**): the acute accent replaces Cyrillic **`ь`**, which nowadays is used as a softener but used to be a vowel in the old days: an ultrashort **`ĭ`**.
+Softening is the process of adding :ipa[ʲ] to a consonant, resulting in a more palatal pronunciation.
+The number of soft equivalents of hard consonants in the phoneme inventory varies greatly from one language to another.
+In Interslavic only `lj` and `nj` are mandatory, the etymological alphabet also has `t́` `d́` `ś` `ź` `ŕ` (normally written `t` `d` `s` `z` `r`): the acute accent replaces Cyrillic `ь`, which nowadays is used as a softener but used to be a vowel in the old days: an ultrashort `ĭ`.
 
-As can be seen from the table above, pronunciation of soft consonants varies. East Slavic speakers are likely to pronounce them as softened dental or alveolar consonants, West Slavic speakers rather as palatal consonants. Both pronuciations are equally correct, although the former is probably easier to understand for South Slavs.
+As can be seen from the table above, pronunciation of soft consonants varies.
+East Slavic speakers are likely to pronounce them as softened dental or alveolar consonants, West Slavic speakers rather as palatal consonants.
+Both pronuciations are equally correct, although the former is probably easier to understand for South Slavs.
 
-The soft consonants also include postalveolar **`š`**, **`ž`**, **`č`** and **`dž`**, as well as the affricates **`ć`** and **`đ`**. The latter two are usually written and pronounced **`č`** and **`dž`**, too; the difference is of an etymological nature: **`ć`** and **`đ`** are the iotated counterparts of **`t`** and **`d`** (see below).
+The soft consonants also include postalveolar `š`, `ž`, `č` and `dž`, as well as the affricates `ć` and `đ`.
+The latter two are usually written and pronounced `č` and `dž`, too; the difference is of an etymological nature: `ć` and `đ` are the iotated counterparts of `t` and `d` (see below).
 
-Before **`i`**, **`ě`**, **`ę`**, **`ė`** and **`ŕ`**, a hard consonant can be softened or palatalised. That is why a word like _`buditi`_ is pronounced either \[`buditi`], \[`budʲitʲi`] or \[`buɟici`].
+Before `i`, `ě`, `ę`, `ė` and `ŕ`, a hard consonant can be softened or palatalised.
+That is why a word like :isv[buditi] is pronounced either :ipa[buditi], :ipa[budʲitʲi] or :ipa[buɟici].
 
 ## Phonotactics \{#phonotactics}
 
-Interslavic orthography is based on etymology and not on pronunciation, so that consonant clusters can arise that may appear inpronouncable for English speakers, for example _`vozvršenje`_. The only limitations are related to combining certain vowels with certain consonants.
+Interslavic orthography is based on etymology and not on pronunciation, so that consonant clusters can arise that may appear inpronouncable for English speakers, for example :isv[vozvršenje].
+The only limitations are related to combining certain vowels with certain consonants.
 
 It is important to know the following:
 
-- Every syllable contains one of the following vowels: **`a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y`** or syllabic **`r` `ŕ`**
-- **`å` `ę` `ė` `ě` `ȯ` `ų` `y`** and syllabic **`r` `ŕ`**: never occur word-initially or after a vowel
-- **`y`**: can never follow a soft consonant
-- **`ě` `ŕ`**: always follow a hard consonant or **`c`** (they are redundant in cases like _`jěsti`_ and _`čŕny`_), but can be pronounced in such way that they soften it
-- **`o` `ȯ`**: rarely follow a soft consonant, except in loanwords like _`majonez`_ and _`čokolada`_
-- **`å`** is always preceded by a liquid (**`r`** or **`l`**) and followed by a consonant
-- geminate consonants occur only as a result of prefixing (_`od-dati`_, _`v-voz`_) or suffixing (_`kon-ny`_, _`rus-sky`_), in rare cases in loanwords (_`motto`_).
+- Every syllable contains one of the following vowels: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y` or syllabic `r` `ŕ`
+- `å` `ę` `ė` `ě` `ȯ` `ų` `y` and syllabic `r` `ŕ`: never occur word-initially or after a vowel
+- `y`: can never follow a soft consonant
+- `ě` `ŕ`: always follow a hard consonant or `c` (they are redundant in cases like :isv[jěsti] and :isv[čŕny]), but can be pronounced in such way that they soften it
+- `o` `ȯ`: rarely follow a soft consonant, except in loanwords like :isv[majonez] and :isv[čokolada]
+- `å` is always preceded by a liquid (`r` or `l`) and followed by a consonant
+- geminate consonants occur only as a result of prefixing (:isv[od-dati], :isv[v-voz]) or suffixing (:isv[kon-ny], :isv[rus-sky]), in rare cases in loanwords (:isv[motto]).
 
 ## Morphophonemic alternations \{#morphophonemic-alternations}
 
-Inflection is kept as regular as possible. However, alternations like palatalisation and iotisation of consonants are an omnipresent phenomenon in Slavic. They play a crucial role in both inflection and the world building process, and thus cannot be avoided even in the most simplified form of Interslavic—at least, if we want to avoid forms that come across as heavily artificial and unnatural.
+Inflection is kept as regular as possible.
+However, alternations like palatalisation and iotisation of consonants are an omnipresent phenomenon in Slavic.
+They play a crucial role in both inflection and the world building process, and thus cannot be avoided even in the most simplified form of Interslavic—at least, if we want to avoid forms that come across as heavily artificial and unnatural.
 
 ### Palatalisation \{#palatalisation}
 
-_`Palatalisation`_ means that under certain conditions the velar consonants **`k` `g` `h`** (as well as the dental affricate **`c`**) are changed to the postalveolar consonants **`č` `ž` `š`**. This happens in the following cases:
+_Palatalisation_ means that under certain conditions the velar consonants `k` `g` `h` (as well as the dental affricate `c`) are changed to the postalveolar consonants `č` `ž` `š`.
+This happens in the following cases:
 
-- before **-`e`** in the vocative singular of masculine nouns: _`Bog`_ „God” > :notr[_Bo**ž**e_], _`hlåpėc`_ „boy” > :notr[_hlåp**č**e_]
-- before **-`e`**, **-`eš`** etc. in the present tense of verbs: _`pek-ti`_ „to bake” > :notr[_pe**č**eš_], _`mog-ti`_ „can” > :notr[_mo**ž**eš_]
-- before **-i-** in derived verbs: _`muka`_ „torment” > :notr[_mu**č**iti_] „to torment”, _`sluga`_ „servant” > :notr[_slu**ž**iti_] „to serve”
-- before the suffixes **-`an(in)`, -`ba`, -`ec`, -`ica`, -`ina`, -`išče`, -`je`, -`ji`, -`nik`, -`ny`, -`ok`/-`ka`/-`ko`, -`sky`, -`stvo`**, etc.: _`rųka`_ „hand” > :notr[_rų**č**ny_] „manual”, _`muha`_ „fly” > :notr[_mu**š**ka_] „small fly”
+- before `-e` in the vocative singular of masculine nouns: :isv[Bo**g**] „God” > :isv[Bo**ž**e], :isv[hlåpė**c**] „boy” > :isv[hlåp**č**e]
+- before `-e`, `-eš` etc. in the present tense of verbs: :isv[pe**k**-ti] „to bake” > :isv[pe**č**eš], :isv[mo**g**-ti] „can” > :isv[mo**ž**eš]
+- before `-i-` in derived verbs: :isv[muka] „torment” > :isv[mu**č**iti] „to torment”, :isv[slu**g**a] „servant” > :isv[slu**ž**iti] „to serve”
+- before the suffixes `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`, etc.: :isv[rų**k**a] „hand” > :isv[rų**č**ny] „manual”, :isv[mu**h**a] „fly” > :isv[mu**š**ka] „small fly”
 
-Apart from the aforementioned vocative, palatalisation never occurs in the declension of nouns, adjectives and pronouns. Thus: sg. _`Čeh`_ „Czech” > pl. _`Čehi`_ „Czechs”; sg. _`dȯlgy`_ „long” > pl. _`dȯlgi`_ (animate) or _`dȯlge`_ (inanimate).
+Apart from the aforementioned vocative, palatalisation never occurs in the declension of nouns, adjectives and pronouns.
+Thus: _sg._ :isv[Čeh] „Czech” > _pl._ :isv[Čehi] „Czechs”; _sg._ :isv[dȯlgy] „long” > _pl._ :isv[dȯlgi] (animate) or :isv[dȯlge] (inanimate).
 
 ### Iotation \{#iotation}
 
-A different thing happens when a _hard consonant_ is followed by **`j`**. The result is called _iotation_, which is not the same thing as softening. The patterns according to which consonants interact with this **`j`** vary from one language to another. Sometimes, the result is the same as in the case of a softened consonant, sometimes it is different:
+A different thing happens when a _hard consonant_ is followed by `j`.
+The result is called _iotation_, which is not the same thing as softening.
+The patterns according to which consonants interact with this `j` vary from one language to another.
+Sometimes, the result is the same as in the case of a softened consonant, sometimes it is different:
 
-- The labials **`p` `b` `m` `f` `v`** are always hard. Before **`j`**, East and South Slavic insert an **`l`** (:notr[_kup**l**ju_], :notr[_sostav**l**jenie_]), but in Interslavic we simply write **`pj`**, **`vj`** etc., both for reasons of clarity and regularity.
-- The velars **`k` `g` `h`**, when followed by **`j`**, palatalise into **`č` `ž` `š`**.
-- In the case of **`l` `n` `r`**, iotation gives the same result as softening: **`lj` `nj` `rj`**.
-- The combinations **`s`+`j`** and **`z`+`j`** become **`š` `ž`**.
-- The combinations **`t`+`j`** and **`d`+`j`** become **`ć` `đ`** (normally written **`č` `dž`**).
-- In the sequences **`sk` `st` `zg` `zd`**, the **`s`** and **`z`** are iotated along with the following consonant, thus: **`st`+`j`** > **`šć`**, etc.
+- The labials `p` `b` `m` `f` `v` are always hard. Before `j`, East and South Slavic insert an `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), but in Interslavic we simply write `pj`, `vj` etc., both for reasons of clarity and regularity.
+- The velars `k` `g` `h`, when followed by `j`, palatalise into `č` `ž` `š`.
+- In the case of `l` `n` `r`, iotation gives the same result as softening: `lj` `nj` `rj`.
+- The combinations `s`+`j` and `z`+`j` become `š` `ž`.
+- The combinations `t`+`j` and `d`+`j` become `ć` `đ` (normally written `č` `dž`).
+- In the sequences `sk` `st` `zg` `zd`, the `s` and `z` are iotated along with the following consonant, thus: `st`+`j` > `šć`, etc.
 
-Iotation occurs mostly in -i- class verbs:
+Iotation occurs mostly in `-i-` class verbs:
 
-- in the first person singular: _`prositi` > `pros-jų` > `prošų` (`prošu`)_
-- in the perfect passive participle: _`tratiti` > `trat-jeny` > `traćeny` (`tračeny`)_
-- in the case of imperfective verbs derived from perfective verbs on **-`iti`**: _`nagråditi` > `nagrad-jati` > `nagrađati` (`nagradžati`)_
+- in the first person singular: :isv[pro**s**-iti] > :isv[pro**s**-jų] > :isv[pro**š**ų] (normally written :isv[pro**š**u])
+- in the perfect passive participle: :isv[tra**t**-iti]> :isv[tra**t**-jeny] > :isv[tra**ć**eny] (normally written :isv[tra**č**eny])
+- in the case of imperfective verbs derived from perfective verbs on **`-iti`**: :isv[nagrå**d**-iti] > :isv[nagra**d**-jati] > :isv[nagra**đ**ati] (normally written :isv[nagra**dž**ati])
 
-Iotation does not occur when a word with initial **`j`** is preceded by a prefix: _`s`+`jesti`_ becomes _`sjesti`_, not _`šesti`_.
+Iotation does not occur when a word with initial `j` is preceded by a prefix: `s`+:isv[jesti] becomes :isv[**sj**esti], not :isv[šesti].
 
 ### Palatalisation + iotation \{#palatalisation--iotation}
 
-When a _soft consonant_ is followed by **`j`**, both the consonant and the glide remain untouched. Any changes are blocked by the softener, so to speak. In etymological orthography **`ljj`**, **`njj`** etc. are written as **`ľj` `ńj`**, to avoid gemination of **`j`**. Likewise, we write **`ŕj` `t́j` `d́j` `śj` `źj` `šj` `žj` `čj`** as well. In standard orthography we simply write **`lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj`** in these cases. If the stem ends in **-`j`**, the following **`j`-** is simply swallowed: _`dvojiti` > `dvoj-jų` > `dvojų`_.
+When a _soft consonant_ is followed by `j`, both the consonant and the glide remain untouched.
+Any changes are blocked by the softener, so to speak.
+In etymological orthography `ljj`, `njj` etc. are written as `ľj` `ńj`, to avoid gemination of `j`.
+Likewise, we write `ŕj` `t́j` `d́j` `śj` `źj` `šj` `žj` `čj` as well.
+In standard orthography we simply write `lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj` in these cases.
+If the stem ends in `-j`, the following `j-` is simply swallowed: :isv[dvo**j**-iti] > :isv[dvo**j-j**ų] > :isv[dvo**j**ų].
 
 This occurs in the following situations:
 
-- with the palatalising suffix **-`’je`** (indicating a place, for example): _`morje` > `pri`+`mor`+`’je` > `primoŕje`_ (normally written _`primorje`_)
-- in verbal nouns, where the ending **-`y`** of the perfect passive participle is replaced with (palatalising) **-`’je`**: _`dělati` > `dělańje`_ (normally written _`dělanje`_)
-- with the palatalising possessive suffix **-`ji`**: _`Bog`+`’ji` > `Božji`_, _`kot` + `’ji` > `kot́ji`_ (normally written _`kotji`_)
-- in the instrumental singular of nouns of the _`kost`_ type: _`kost-’jų` > `kost́jų`_ (normally written _`kostju`_)
+- with the palatalising suffix **`-’je`** (indicating a place, for example): :isv[morje]> :isv[pri+mor+’je] > :isv[primoŕje] (normally written :isv[primorje])
+- in verbal nouns, where the ending `-y` of the perfect passive participle is replaced with (palatalising) `-’je`: :isv[dělati] > :isv[dělańje] (normally written :isv[dělanje])
+- with the palatalising possessive suffix `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot] + `’ji` > :isv[`kot́ji`] (normally written :isv[kotji])
+- in the instrumental singular of nouns of the :isv[kost] type: :isv[kost] + `’jų` > :isv[kost́jų] (normally written :isv[kostju])
 
-Complicated as this may seem, all this means in writing is that the suffixes **-`je`**, **-`ji`** and the instrumental ending **-`jų`** do not cause iotation, but only palatalisation of **`k` `g` `h` `c`**.
+Complicated as this may seem, all this means in writing is that the suffixes `-je`, `-ji` and the instrumental ending `-jų` do not cause iotation, but only palatalisation of `k` `g` `h` `c`.
 
-### Overview \{#overview}
+#### Overview \{#overview}
 
 The differences between softened, patalalised and iotated consonants are demonstrated in the following table (again, phonemes in gray are optional):
 
+<PhonologyOverview />
+
 ### `O > E` \{#o--e}
 
-Old Slavic used to have a peculiar intolerance of **`o`** following a soft consonant, and whenever such a sequence occurred because of an ending or a suffix, the **`o`** was changed to **`e`**. This development has left its marks in all Slavic languages, although nowadays they differ as to the degree in which the is still applied. For example, in Russian soft consonant + o sequences are a rarity, while Polish has only some lexicalised remnants of the rule (e.g. :pl[_królewski_] „royal”, but: :pl[_królowa_] „queen”).
+Old Slavic used to have a peculiar intolerance of `o` following a soft consonant, and whenever such a sequence occurred because of an ending or a suffix, the `o` was changed to `e`.
+This development has left its marks in all Slavic languages, although nowadays they differ as to the degree in which the is still applied.
+For example, in Russian soft consonant + `o` sequences are a rarity, while Polish has only some lexicalised remnants of the rule (e.g. :pl[królewski] „royal”, but: :pl[królowa] „queen”).
 
-This rule applies in Interslavic as well. Thus, endings like **-`o`**, **-`ov`**, **-`om`**, **-`ogo`** and **-`oj`** become **-`e`**, **-`ev`**, **-`em`**, **-`ego`** and **-`ej`** after a soft consonant. Because of the o/e rule, we have :isv[morje] versus :isv[okno], :notr[krajev] versus :notr[gradov], and :notr[čego] versus :notr[kogo]. The same mechanism also works in combination with suffixes like **-`ost`**, **-`ovati`** and **-`ovy`**, for example: :notr[svěžest́], :notr[nočevati].
+This rule applies in Interslavic as well.
+Thus, endings like `-o`, `-ov`, `-om`, `-ogo` and `-oj` become `-e`, `-ev`, `-em`, `-ego` and `-ej` after a soft consonant.
+Because of the `o`/`e` rule, we have :isv[morje] versus :isv[okno], :isv[krajev] versus :isv[gradov], and :isv[čego] versus :isv[kogo].
+The same mechanism also works in combination with suffixes like `-ost`, `-ovati` and `-ovy`, for example: :isv[svěžest́], :isv[nočevati].
 
 #### `Y > I/E` \{#y--ie}
 
-In South Slavic and Ukrainian, as well as in spoken Czech and Slovak, **`i`** and **`y`** have merged into one vowel. In Interslavic, the pronunciation of **`y`** may therefore be :ipa[`i`], :ipa[`ɪ`], :ipa[`ɨ`] or anything in between. What matters, though, is that **`y`** can _only_ occur after a hard consonant, and therefore not after a soft consonant (**`š` `ž` `č` `dž` `c` `lj` `nj` `j`**), after a vowel or word-initially. Because **`y`** plays an prominent role in Interslavic inflection, most declensions have a hard and a soft version because of this limitation.
+In South Slavic and Ukrainian, as well as in spoken Czech and Slovak, `i` and `y` have merged into one vowel.
+In Interslavic, the pronunciation of `y` may therefore be :ipa[i], :ipa[ɪ], :ipa[ɨ] or anything in between.
+What matters, though, is that `y` can _only_ occur after a hard consonant, and therefore not after a soft consonant (`š` `ž` `č` `dž` `c` `lj` `nj` `j`), after a vowel or word-initially.
+Because `y` plays an prominent role in Interslavic inflection, most declensions have a hard and a soft version because of this limitation.
 
-In the declension of adjectives and pronouns, case endings in **`y`** become **`i`** after a soft consonant. For that reason, we have adjectives like :notr[_svěž**-i**_] along with adjectives like :notr[_dobr**-y**_], and pronominal forms like :notr[_moj**-ih**_] along with forms like :notr[_jegov**-yh**_].
+In the declension of adjectives and pronouns, case endings in `y` become `i` after a soft consonant.
+For that reason, we have adjectives like :isv[svěž-**i**] along with adjectives like :isv[dobr-**y**], and pronominal forms like :isv[moj-**ih**] along with forms like :isv[jegov-**yh**].
 
-In noun declension, however, the soft counterpart of **`y`** is always **`e`**. For example: m.pl. :notr[_dom\*\*-y\*\*_] versus :notr[_kraj\*\*-e\*\*_], f.pl. :notr[_žen\*\*-y\*\*_] versus :notr[_zemj\*\*-e\*\*_].
+In noun declension, however, the soft counterpart of `y` is always `e`.
+For example: _m.pl._ :isv[dom-**y**] versus :isv[kraj-**e**], _f.pl._ :isv[žen-**y**] versus :isv[zemj-**e**].
 
-Because several Slavic languages do not distinguish between **`i`** and **`y`** at all, substituting all occurrences of **`y`** with **`i`** is an acceptable simplification in written Interslavic.
+Because several Slavic languages do not distinguish between `i` and `y` at all, substituting all occurrences of `y` with `i` is an acceptable simplification in written Interslavic.
 
 #### `Ě > I` \{#ě--i}
 
-Just like **`y`**, the phoneme **`ě`** always follows a hard consonant. In the dative and locative singular of feminine nouns, it becomes **i** after a soft consonant, i.e. it follows a pattern opposite to **`y` > `e`**: :notr[_žen\*\*-ě\*\*_], but :notr[_zemj\*\*-i\*\*_].
+Just like `y`, the phoneme `ě` always follows a hard consonant.
+In the dative and locative singular of feminine nouns, it becomes i after a soft consonant, i.e. it follows a pattern opposite to `y` > `e`: :isv[žen-**ě**], but :isv[zemj-**i**].
 
-#### Fleeting `o/e` \{#fleeting-oe}
+#### Fleeting `o`/`e` \{#fleeting-oe}
 
-A characteristic feature of the Slavic languages is the existence of "fleeting" or "movable" vowels, referring to the phenomenon of vowels appearing and disappearing in a seemingly random manner, especially in certain inflected forms of nouns. This is a result of different reflexes of the Common Slavic jers **`ъ`** and **`ь`**, which were lost in weak positions and vocalised to **`o`** and **`e`** in strong positions. In most cases this vowel appears in words that would otherwise end in a consonant cluster, and disappears when this cluster is followed by an ending.
+A characteristic feature of the Slavic languages is the existence of "fleeting" or "movable" vowels, referring to the phenomenon of vowels appearing and disappearing in a seemingly random manner, especially in certain inflected forms of nouns.
+This is a result of different reflexes of the Common Slavic jers `ъ` and `ь`, which were lost in weak positions and vocalised to `o` and `e` in strong positions.
+In most cases this vowel appears in words that would otherwise end in a consonant cluster, and disappears when this cluster is followed by an ending.
 
-Fleeting **`o`** and **`e`** (in the etymological alphabet marked with a dot: **`ȯ`** and **`ė`**) appear especially in the following cases:
+Fleeting `o` and `e` (in the etymological alphabet marked with a dot: `ȯ` and `ė`) appear especially in the following cases:
 
-- in the nominative (and, in the case of inanimate nouns, the accusative) singular of masculine nouns, particularly those ending in _-`ec`_ and _-`ok`_, as well as a few other nouns:
-  nom.sg. :isv[_ot**ė**c_] „father” > gen.sg. _`otca`_
-  nom.sg. :isv[_pěs**ȯ**k_] „sand” > gen.sg. _`pěska`_
-  nom.sg. :isv[_p**ė**s_] „dog” > gen.sg. _`psa`_
-  nom.sg. :isv[_s**ȯ**n_] „dream” > gen.sg. _`sna`_
-  nom.sg. :isv[_kr**ȯ**v_] „blood” > gen.sg. _`krvi`_
+- in the nominative (and, in the case of inanimate nouns, the accusative) singular of masculine nouns, particularly those ending in `-ec` and `-ok`, as well as a few other nouns:
+  _nom.sg._ :isv[ot**ė**c] „father” > _gen.sg._ :isv[otca]
+  _nom.sg._ :isv[pěs**ȯ**k] „sand” > _gen.sg._ :isv[pěska]
+  _nom.sg._ :isv[p**ė**s] „dog” > _gen.sg._ :isv[psa]
+  _nom.sg._ :isv[s**ȯ**n] „dream” > _gen.sg._ :isv[sna]
+  _nom.sg._ :isv[kr**ȯ**v] „blood” > _gen.sg._ :isv[krvi]
 - in the genitive plural of feminine and neuter nouns that would otherwise end in a consonant cluster:
-  nom.sg. _`okno`_ „window” > gen.pl. :notr[_ok**ė**n_]
-  nom.sg. _`miska`_ „bowl” > gen.pl. :notr[_mis**ȯ**k_]
+  _nom.sg._ :isv[okno] „window” > _gen.pl._ :isv[ok**ė**n]
+  _nom.sg._ :isv[miska] „bowl” > _gen.pl._ :isv[mis**ȯ**k]
 - in the nominative singular masculine forms of certain pronouns:
-  m.nom.sg. :notr[_v**ė**ś_] „all, entire”, f.nom.sg. _`vśa`_
+  _m.nom.sg._ :isv[v**ė**ś] „all, entire”, _f.nom.sg._ :isv[vśa]
 - before certain suffixes:
-  _`piśmo`_ „letter, script” > :notr[_pis**ė**mny_] „written, in writing”
-- the prepositions **`s`** and **`v`** when preceding certain pronouns or consonant clusters, or when used as a prefix before a vowel or a consonant cluster:
-  _`s`_ „with” + _`mnojų`_ „me (instr.sg.)” > :notr[_s**ȯ** mnojų_]
-  _`v`_ „in” + _`vsih`_ „all (loc.pl.)” > :notr[_v**ȯ** vsih_]
-  _`s`-_ + _`držati`_ > :notr[_s**ȯ**držati_] „to contain”
-  _`v`-_ + _`idti`_ > :notr[_v**ȯ**jdti_] „to enter”
+  :isv[piśmo] „letter, script” > :isv[pis**ė**mny] „written, in writing”
+- the prepositions :isv[s] and :isv[v] when preceding certain pronouns or consonant clusters, or when used as a prefix before a vowel or a consonant cluster:
+  _`s`_ „with” + :isv[mnojų] „me” (_instr.sg._) > :isv[s**ȯ** mnojų],
+  _`v`_ „in” + :isv[vsih] „all” (_loc.pl._) > :isv[v**ȯ** vsih],
+  _`s-`_ + :isv[držati] > :isv[s**ȯ**držati] „to contain”,
+  _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „to enter”.
 
 [1]: orthography.mdx#etymological_alphabet

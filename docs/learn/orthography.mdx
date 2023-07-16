@@ -8,6 +8,7 @@ origin: http://steen.free.fr/interslavic/orthography.html
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
+import {translate} from "@docusaurus/Translate";
 
 import Alphabet from '@site/src/markdown/alphabet.mdx';
 import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
@@ -117,7 +118,14 @@ In the Latin alphabet, additional etymological information is conveyed by means 
 
 The following table shows the correspondences between the letters mentioned above (suggested alternative spellings are shown in grey between brackets). The [transliterator][5] makes it possible to transliterate between Latin and Cyrillic.
 
-<Alphabet />
+<Tabs>
+  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
+    <AlphabetOverview script="art-Latn-x-interslv" />
+  </TabItem>
+  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
+    <AlphabetOverview script="art-Cyrl-x-interslv" />
+  </TabItem>
+</Tabs>
 
 ## Guidelines \{#guidelines}
 

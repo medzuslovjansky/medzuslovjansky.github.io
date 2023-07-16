@@ -369,5 +369,20 @@
   "theme.unlistedContent.title": {
     "message": "Unlisted page",
     "description": "The unlisted content banner title"
+  },
+  "com.script.Latin": {
+    "message": "Latin"
+  },
+  "com.script.Cyrillic": {
+    "message": "Cyrillic"
+  },
+  "com.script.Pronunciation": {
+    "message": "Pronun\u00ADciation"
+  },
+  "com.script.Etymological": {
+    "message": "Etym\u00ADologi\u00ADcal"
+  },
+  "com.script.Standard": {
+    "message": "St\u00ADan\u00ADdard"
   }
 }
