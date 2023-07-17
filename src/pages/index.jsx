@@ -4,6 +4,7 @@ import Layout from '@theme/Layout';
 import {translate} from "@docusaurus/Translate";
 import {Banner, Features, Carousel} from "../components";
 import MovieIcon from '../../static/img/icons/movie.svg';
+import FeaturesSlavicHeritage from '../../static/img/home/features_slavic_heritage.svg';
 import styles from './index.module.css';
 
 export default function HomePage() {
@@ -63,8 +64,11 @@ export default function HomePage() {
               message: 'Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues.'
             })}
           />
+          <div className={styles.svgWrapp}>
+            <FeaturesSlavicHeritage className={styles.svgSlyle} />
+          </div>
           <Features.Card
-            image={require('../../static/img/home/features_slavic_heritage.png').default}
+            image={FeaturesSlavicHeritage}
             title={translate({id: 'pages.home.sections[1].cards[2].title', message: 'Common Slavic heritage'})}
             description={translate({
               id: 'pages.home.sections[1].cards[2].description',
