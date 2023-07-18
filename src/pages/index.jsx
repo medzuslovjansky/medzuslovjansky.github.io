@@ -64,11 +64,8 @@ export default function HomePage() {
               message: 'Interslavic language is not affiliated with any specific culture, language, nation, or government. No native speaker has an unfair advantage. Thereby Interslavic is backed up by the international community, free from political and ethnic issues.'
             })}
           />
-          <div className={styles.svgWrapp}>
-            <FeaturesSlavicHeritage className={styles.svgSlyle} />
-          </div>
           <Features.Card
-            image={FeaturesSlavicHeritage}
+            image={<FeaturesSlavicHeritage />}
             title={translate({id: 'pages.home.sections[1].cards[2].title', message: 'Common Slavic heritage'})}
             description={translate({
               id: 'pages.home.sections[1].cards[2].description',
