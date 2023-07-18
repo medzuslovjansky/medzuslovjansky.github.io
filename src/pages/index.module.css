@@ -3,11 +3,8 @@
   max-width: 1280px;
 }
 
-.svgSlyle {
-  object-fit: contain;
-}
 
-.svgWrapp {
+[data-theme='light'] .svgWrapp {
   color: #182C32;
 }
 [data-theme=dark] .svgWrapp {
