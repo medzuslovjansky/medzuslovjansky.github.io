@@ -3,10 +3,6 @@ const visit = require('unist-util-visit');
 const plugin = (_options) => {
   function directiveTransformer(ast) {
     visit(ast, (node) => {
-      if (node.type === 'inlineCode') {
-        return isWordFragment(node) ? fragment(node) : node;
-      }
-
       if (
         node.type !== 'leafDirective' &&
         node.type !== 'containerDirective' &&
@@ -19,6 +15,8 @@ const plugin = (_options) => {
       switch (node.name) {
         case 'kbd':
           return kbd(node);
+        case 'abbr':
+          return abbr(node);
         case 'notr':
           return notr(node);
         case 'ipa':
@@ -94,13 +92,33 @@ function ipa(node) {
   prepareNode(node).data.hName = 'IPA';
 }
 
+function abbr(node) {
+  Object.assign(prepareNode(node).data, {
+    hName: 'abbr',
+    hProperties: {
+      title: node.attributes?.title ?? getShallowText(node),
+    },
+  });
+}
+
+function getShallowText(node) {
+  let result = '';
+  const children = node.children;
+  const n = children.length;
+
+  for (let i = 0; i < n; i++) {
+    const child = children[i];
+    if (child.type === 'text') {
+      result += child.value;
+    }
+  }
+
+  return result;
+}
+
 function lang(node) {
   const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
   prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
-}
-
-function fragment(node) {
-  prepareNode(node).data.hProperties = { className: 'fragment' };
 }
 
 module.exports = plugin;

@@ -121,10 +121,6 @@ span[lang] {
   font-style: italic;
 }
 
-.fragment {
-  font-weight: bold;
-}
-
 code, .notranslate {
   //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
 }
@@ -147,19 +143,16 @@ code {
   background: initial;
   border: initial;
   vertical-align: initial;
-  white-space: pre-wrap;
+  white-space: pre;
   font: inherit;
-
-  &.fragment {
-    white-space: pre;
-  }
+  font-weight: bold;
 }
 
 mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code.fragment, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
+code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
   font-family: var(--fun-safe-sans);
   font-size: 90%;
 }
