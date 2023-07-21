@@ -2,3 +2,11 @@
   margin: 0 auto;
   max-width: 1280px;
 }
+
+
+[data-theme='light'] .svgWrapp {
+  color: #182C32;
+}
+[data-theme=dark] .svgWrapp {
+  color: #CBE0E6;
+}
