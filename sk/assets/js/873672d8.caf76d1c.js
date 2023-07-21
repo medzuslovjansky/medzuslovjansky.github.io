@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterslavic_fun=self.webpackChunkinterslavic_fun||[]).push([[9737],{5498:s=>{s.exports=JSON.parse('{"label":"interslavic","permalink":"/sk/articles/tags/interslavic","allTagsPath":"/sk/articles/tags","count":1,"unlisted":false}')}}]);

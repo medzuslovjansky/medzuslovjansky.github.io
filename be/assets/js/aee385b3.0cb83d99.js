@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterslavic_fun=self.webpackChunkinterslavic_fun||[]).push([[1141],{1763:e=>{e.exports=JSON.parse('{"label":"scientific alphabet","permalink":"/be/articles/tags/scientific-alphabet","allTagsPath":"/be/articles/tags","count":1,"unlisted":false}')}}]);
