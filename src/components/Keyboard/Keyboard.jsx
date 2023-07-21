@@ -1,46 +1,52 @@
 import React from 'react'
 import styles from "./Keyboard.module.css";
 
+
+
+function KeyText({ color, alt, shift, children }) {
+    const x = alt ? 36.734 : 16.734;
+    const y = shift ? 43.267 : 63.267;
+
+    return (
+        <text
+            color={ color }
+            style={{ whiteSpace: "pre" }}
+            fontFamily="Open Sans"
+            fontSize="11"
+            fontWeight="600"
+            letterSpacing="0em"
+        >
+            <tspan x={x} y={y}>
+                {children}
+            </tspan>
+        </text>
+    )
+}
+
+function Key ({ base, alt, shift, altShift, keyX, keyY }) {
+    
+    return (
+        <g>
+            <rect
+                width="41"
+                height="41"
+                x={keyX}
+                y={keyY}
+                fill="#fff"
+                stroke="#646464"
+                rx="2.5"
+            ></rect>
+            <KeyText color="#671584" alt={true} shift={true}>{base}</KeyText>
+            <KeyText color="#671584" alt>{alt}</KeyText>
+            <KeyText color="#671584" shift>{shift}</KeyText>
+            <KeyText color="#671584">{altShift}</KeyText>
+        </g>
+    )
+}
+
 export default function Keyboard() {
-
-    function KeyText({ fill, symbolX, symbolY, children }) {
-        return (
-            <text
-                fill={ fill }
-                xmlSpace="preserve"
-                style={{ whiteSpace: "pre" }}
-                fontFamily="Open Sans"
-                fontSize="11"
-                fontWeight="600"
-                letterSpacing="0em"
-            >
-                <tspan x={symbolX} y={symbolY}>
-                    {children}
-                </tspan>
-            </text>
-        )
-    }
-
-    function Key ({ base, alt, shift, altShift, keyX, keyY }) {
-        return (
-            <g id="Key">
-                <rect
-                    width="41"
-                    height="41"
-                    x={keyX}
-                    y={keyY}
-                    fill="#fff"
-                    stroke="#646464"
-                    rx="2.5"
-                ></rect>
-                <KeyText fill="#671584" x="36.734" y="43.267">{base}</KeyText>
-                <KeyText fill="#671584" x="36.734" y="63.267">{alt}</KeyText>
-                <KeyText fill="#671584" x="16.734" y="43.267">{shift}</KeyText>
-                <KeyText fill="#671584" x="16.734" y="63.267">{altShift}</KeyText>
-            </g>
-        )
-    }
-    const keys = "qwertyuiop[]";
+    
+    const base = "qwertyuiop";
     const alt = "qwertyuiop[]";
     const shift = "QWERTYUIOP{}";
     const altShift = "QWERTYUIOP{}";
@@ -72,7 +78,10 @@ return (
                     ></rect>
                         <g>
                             <g>
-                                <Key key={keys[0]} alt={alt[0]} shift={shift[0]} altShift={altShift[0]} keyX="9.5" keyY="28.5" />
+                                <Key base={base[0]} alt={alt[0]} shift={shift[0]} altShift={altShift[0]} keyX="9.5" keyY="28.5" />
+                                <Key base={base[1]} alt={alt[1]} shift={shift[1]} altShift={altShift[1]} keyX="57.5" keyY="28.5" />
+                                <Key base={base[2]} alt={alt[2]} shift={shift[2]} altShift={altShift[2]} keyX="105.5" keyY="28.5" />
+                                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} keyX="153.5" keyY="28.5" />
                             </g>
                         </g>
                         <g></g>
