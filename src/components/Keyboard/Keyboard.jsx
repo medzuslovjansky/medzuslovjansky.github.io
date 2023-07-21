@@ -39,6 +39,39 @@ function Key({ base, alt, shift, altShift, x, y }) {
   )
 }
 
+function ServiceKeyText({ x, y, children }) {  
+  const tx = x + 17.297;
+  const ty = y + 23.918;
+
+  return (
+    <text
+      fill="#646464"
+      fontSize={10}
+      fontWeight={500}
+      x={tx}
+      y={ty}>
+      {children}
+    </text>
+  )
+}
+
+function ServiceKey({ base, x, y }) {
+  return (
+    <g>
+      <rect
+        width={75}
+        height={41}
+        x={x}
+        y={y}
+        fill="#fff"
+        stroke="#646464"
+        rx={3}
+      ></rect>
+      <ServiceKeyText x={x} y={y}>{base}</ServiceKeyText>
+    </g>
+  )
+}
+
 export default function Keyboard() {
   const base = "qwertyuiop";
   const alt = "śwertyuiop[]";
@@ -76,6 +109,17 @@ export default function Keyboard() {
                 <Key base={base[1]} alt={alt[1]} shift={shift[1]} altShift={altShift[1]} x={57.5} y={28.5} />
                 <Key base={base[2]} alt={alt[2]} shift={shift[2]} altShift={altShift[2]} x={105.5} y={28.5} />
                 <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={153.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={201.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={249.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={297.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={345.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={393.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={441.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={489.5} y={28.5} />                
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={537.5} y={28.5} />
+                <Key base={base[3]} alt={alt[3]} shift={shift[3]} altShift={altShift[3]} x={585.5} y={28.5} />
+                <ServiceKey base={"backspace"} x={633.5} y={28.5} />
+
               </g>
             </g>
           </g>

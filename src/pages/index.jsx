@@ -2,7 +2,7 @@ import React from 'react';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import {translate} from "@docusaurus/Translate";
-import {Banner, Features, Carousel, Keyboard } from "../components";
+import {Banner, Features, Carousel } from "../components";
 import MovieIcon from '@site/static/img/icons/movie.svg';
 import styles from './index.module.css';
 
@@ -86,7 +86,6 @@ export default function HomePage() {
             </Link>
           }
         />
-        <Keyboard />
       </main>
     </Layout>    
   );
