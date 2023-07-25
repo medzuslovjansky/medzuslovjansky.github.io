@@ -1,7 +1,13 @@
+const path = require('path');
 const visit = require('unist-util-visit');
+const i18n = require('./abbr-i18n');
 
 const plugin = (_options) => {
-  function directiveTransformer(ast) {
+  function directiveTransformer(ast, vfile) {
+    const filePath = vfile.path.split(path.sep);
+    const i18n = filePath.indexOf('i18n');
+    const docLang = i18n === -1 ? undefined : filePath[i18n + 1];
+
     visit(ast, (node) => {
       if (
         node.type !== 'leafDirective' &&
@@ -16,7 +22,7 @@ const plugin = (_options) => {
         case 'kbd':
           return kbd(node);
         case 'abbr':
-          return abbr(node);
+          return abbr(node, docLang);
         case 'notr':
           return notr(node);
         case 'ipa':
@@ -92,13 +98,18 @@ function ipa(node) {
   prepareNode(node).data.hName = 'IPA';
 }
 
-function abbr(node) {
+function abbr(node, lang = 'en') {
+  const content = getShallowText(node);
+  const [text, title] = i18n[content]?.[lang] ?? [content, node.attributes?.title ?? content];
+
   Object.assign(prepareNode(node).data, {
     hName: 'abbr',
     hProperties: {
-      title: node.attributes?.title ?? getShallowText(node),
+      title,
     },
   });
+
+  node.children = [{ type: 'text', value: text }];
 }
 
 function getShallowText(node) {
