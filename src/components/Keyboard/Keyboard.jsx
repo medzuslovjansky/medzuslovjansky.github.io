@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import styles from "./Keyboard.module.css";
 
-function KeyText({ color, x, y, alt, shift, children }) {
+function KeyText({ color, x, y, alt, shift, children, handleMouseOver, handleMouseOut }) {
+
   const tx = x + 10 + (alt ? 20 : 0);
   const ty = y + 12 + (shift ? 0 : 20);
 
@@ -13,13 +14,22 @@ function KeyText({ color, x, y, alt, shift, children }) {
       dominantBaseline="middle"
       textAnchor="middle"
       x={tx}
-      y={ty}>
+      y={ty}
+      onMouseOver={handleMouseOver}
+      onMouseOut={handleMouseOut}>
       {children}
     </text>
   )
 }
 
 function Key({ base, alt, shift, altShift, x, y }) {
+  const [isHovered, setIsHovered] = useState(false);
+  const handleMouseOver = () => {
+    setIsHovered(true);
+  }
+  const handleMouseOut = () => {
+    setIsHovered(false);
+  }
   return (
     <g>
       <rect
@@ -27,19 +37,22 @@ function Key({ base, alt, shift, altShift, x, y }) {
         height={41}
         x={x}
         y={y}
-        fill="#fff"
-        stroke="#646464"
+        fill={isHovered ? "#e7f3ff" : "#fff"}
+        stroke={isHovered ? "#147CFA" : "#646464"}
+        stroke-width={isHovered ? 3 : 1}
         rx={3}
+        onMouseOver={handleMouseOver}
+        onMouseOut={handleMouseOut}
       ></rect>
-      <KeyText color="#444" x={x} y={y}>{base}</KeyText>
-      <KeyText color="#8E4040" x={x} y={y} alt>{alt}</KeyText>
-      <KeyText color="#337093" x={x} y={y} shift>{shift}</KeyText>
-      <KeyText color="#671584" x={x} y={y} alt shift>{altShift}</KeyText>
-    </g>
+      <KeyText color="#444" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut}>{base}</KeyText>
+      <KeyText color="#8E4040" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt>{alt}</KeyText>
+      <KeyText color="#337093" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} shift>{shift}</KeyText>
+      <KeyText color="#671584" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt shift>{altShift}</KeyText>
+    </g >
   )
 }
 
-function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionPointY = 23.918 }) {
+function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionPointY = 23.918, handleMouseOver, handleMouseOut }) {
   const tx = x + correctionPointX;
   const ty = y + correctionPointY;
 
@@ -49,13 +62,22 @@ function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionP
       fontSize={10}
       fontWeight={500}
       x={tx}
-      y={ty}>
+      y={ty}
+      onMouseOver={handleMouseOver}
+      onMouseOut={handleMouseOut}>
       {children}
     </text>
   )
 }
 
 function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
+  const [isHovered, setIsHovered] = useState(false);
+  const handleMouseOver = () => {
+    setIsHovered(true);
+  }
+  const handleMouseOut = () => {
+    setIsHovered(false);
+  }
   return (
     <g>
       <rect
@@ -63,11 +85,14 @@ function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
         height={height}
         x={x}
         y={y}
-        fill="#fff"
-        stroke="#646464"
+        fill={isHovered ? "#e7f3ff" : "#fff"}
+        stroke={isHovered ? "#147CFA" : "#646464"}
+        stroke-width={isHovered ? 3 : 1}
         rx={3}
+        onMouseOver={handleMouseOver}
+        onMouseOut={handleMouseOut}
       ></rect>
-      <ServiceKeyText x={x} y={y} correctionPointY={correctionPointY}>{base}</ServiceKeyText>
+      <ServiceKeyText x={x} y={y} correctionPointY={correctionPointY} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} >{base}</ServiceKeyText>
     </g>
   )
 }
@@ -84,7 +109,7 @@ export default function Keyboard() {
 
     for (let i = startNumber; i <= endNumber; i++) {
       keyRow.push(
-        <Key base={base[i]} alt={alt[i]} shift={shift[i]} altShift={altShift[i]} x={x} y={y} />
+        <Key key={x} base={base[i]} alt={alt[i]} shift={shift[i]} altShift={altShift[i]} x={x} y={y} />
       )
       x += 48;
     }
