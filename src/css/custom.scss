@@ -44,10 +44,13 @@
     //--fun-color-primary-background-contrast: #FFF;
   }
 
-  --fun-safe-serif: 'Liberation Serif', serif;
-  --fun-safe-sans: 'Liberation Sans', sans-serif;
+  --fun-safe-serif: 'Liberation Serif',
+  serif;
+  --fun-safe-sans: 'Liberation Sans',
+  sans-serif;
 
-  --ifm-font-family-base: 'Alegreya Sans', sans-serif;
+  --ifm-font-family-base: 'Alegreya Sans',
+  sans-serif;
   --ifm-font-size-base: 20px;
   --ifm-h1-font-size: 30px; // 1.55
   --ifm-h2-font-size: 26px; // 1.33
@@ -66,13 +69,13 @@
 }
 
 body[data-theme='light'] {
-  --aa-primary-color-rgb: 76,147,198 !important;
-  --aa-muted-color-rgb: 76,147,198 !important;
+  --aa-primary-color-rgb: 76, 147, 198 !important;
+  --aa-muted-color-rgb: 76, 147, 198 !important;
 }
 
 body[data-theme='dark'] {
-  --aa-primary-color-rgb: 76,147,198 !important;
-  --aa-muted-color-rgb: 76,147,198 !important;
+  --aa-primary-color-rgb: 76, 147, 198 !important;
+  --aa-muted-color-rgb: 76, 147, 198 !important;
 }
 
 .navbar__logo {
@@ -121,7 +124,8 @@ span[lang] {
   font-style: italic;
 }
 
-code, .notranslate {
+code,
+.notranslate {
   //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
 }
 
@@ -152,7 +156,10 @@ mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
+code,
+table[lang*=interslv],
+tbody[lang*=interslv],
+td[lang*=interslv] {
   font-family: var(--fun-safe-sans);
   font-size: 90%;
 }
@@ -170,7 +177,10 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
 
 /* Dev-only CSS selector */
 .docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
-  code, kbd, [translate=no] {
+
+  code,
+  kbd,
+  [translate=no] {
     //animation: blink 5s infinite alternate;
   }
 }
@@ -179,6 +189,7 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
   0% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -201,13 +212,13 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
     min-width: 28px;
   }
 
-  .anchor > & {
+  .anchor>& {
     margin-right: 15px;
     opacity: 0;
     text-decoration: none;
   }
 
-  .anchor:hover > & {
+  .anchor:hover>& {
     opacity: 0.20;
 
     &:hover {
@@ -236,6 +247,7 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
     text-transform: uppercase;
   }
 }
+
 /*#endregion */
 
 .pagination-nav {
@@ -245,8 +257,7 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
     border-radius: 0;
   }
 
-  &__label {
-  }
+  &__label {}
 
   &__label::before,
   &__label::after {
@@ -266,4 +277,30 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
     font-weight: 600;
   }
 
+}
+
+.svgKeyboard {
+  --text-color-base: #444;
+
+  &[data-theme='light'] {
+    --text-color-base: #444;
+    --text-color-alt: #8E4040;
+    --text-color-shift: #337093;
+    --text-color-alt-shift: #671584;
+
+    --rect-fill-color: #fff;
+
+    --backgroung-fill-color: #fff;
+  }
+
+  &[data-theme='dark'] {
+    --text-color-base: #eaebec;
+    --text-color-alt: #a0808c;
+    --text-color-shift: #83a2bb;
+    --text-color-alt-shift: #c3b9da;
+
+    --rect-fill-color: #1a2933;
+
+    --backgroung-fill-color: #1a2933;
+  }
 }

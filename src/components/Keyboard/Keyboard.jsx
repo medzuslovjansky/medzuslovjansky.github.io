@@ -1,18 +1,18 @@
 import React, { useState } from 'react'
-import styles from "./Keyboard.module.css";
+import styles from "./Keyboard.module.scss";
 
-function KeyText({ color, x, y, alt, shift, children, handleMouseOver, handleMouseOut }) {
+function KeyText({ color, x, y, alt, shift, children, handleMouseOver, handleMouseOut, className }) {
 
   const tx = x + 10 + (alt ? 20 : 0);
   const ty = y + 12 + (shift ? 0 : 20);
 
   return (
     <text
-      fill={color}
       fontSize={13}
       fontWeight={600}
       dominantBaseline="middle"
       textAnchor="middle"
+      className={className}
       x={tx}
       y={ty}
       onMouseOver={handleMouseOver}
@@ -39,12 +39,19 @@ function Key({ base, alt, shift, altShift, x, y }) {
         y={y}
         fill={isHovered ? "#e7f3ff" : "#fff"}
         stroke={isHovered ? "#147CFA" : "#646464"}
-        stroke-width={isHovered ? 3 : 1}
+        strokeWidth={isHovered ? 3 : 1}
         rx={3}
         onMouseOver={handleMouseOver}
         onMouseOut={handleMouseOut}
       ></rect>
-      <KeyText color="#444" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut}>{base}</KeyText>
+      <KeyText
+        color="#444"
+        className={styles.textColorBase}
+        x={x}
+        y={y}
+        handleMouseOver={handleMouseOver}
+        handleMouseOut={handleMouseOut}
+      >{base}</KeyText>
       <KeyText color="#8E4040" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt>{alt}</KeyText>
       <KeyText color="#337093" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} shift>{shift}</KeyText>
       <KeyText color="#671584" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt shift>{altShift}</KeyText>
@@ -87,7 +94,7 @@ function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
         y={y}
         fill={isHovered ? "#e7f3ff" : "#fff"}
         stroke={isHovered ? "#147CFA" : "#646464"}
-        stroke-width={isHovered ? 3 : 1}
+        strokeWidth={isHovered ? 3 : 1}
         rx={3}
         onMouseOver={handleMouseOver}
         onMouseOut={handleMouseOut}
@@ -129,14 +136,15 @@ export default function Keyboard() {
         height="274"
         fill="none"
         viewBox="0 0 718 274"
-        className={styles.keyboard}
+        className={styles.svgKeyboard}
       >
-        <path fill="#E5E5E5" d="M0 0H718V274H0z"></path>
+        <path d="M0 0H718V274H0z" className={styles.svgBackground}
+        ></path>
         <g clipPath="url(#clip0_358_2616)">
           <path
-            fill="#fff"
             d="M0 0H1233V1248H0z"
             transform="translate(-61 -243)"
+            className={styles.svgBackground}
           ></path>
           <g>
             <rect
@@ -144,8 +152,8 @@ export default function Keyboard() {
               height="272"
               x="1"
               y="1"
-              stroke="#777"
               rx="8"
+              stroke="#777"
             ></rect>
             <g>
               <g>
