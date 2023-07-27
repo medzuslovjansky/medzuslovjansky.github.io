@@ -1,4 +1,4 @@
-# Klawiatury
+# Keyboards
 
 ### Windows \{#windows}
 
@@ -6,31 +6,31 @@
 
 ### Mac \{#mac}
 
-TODO: dodać linki
+TODO: add links
 
 ### Linux \{#linux}
 
-- Rozszerzona łacina MS na międzynarodowych klawiaturach łacińskich (takich jak hrvatska w wariancie unicodeus).
-- Pełna cyrylica na standardowej klawiaturze ukraińskiej.
+- Extended MS Latin on international Latin keyboards (such as hrvatska in the unicodeus variant).
+- Full Cyrillic keyboard is on a standard Ukrainian keyboard.
 
 ### Android \{#android}
 
 [http://usachov.eu/g][2]
 
-### Inne platformy \{#other-platforms}
+### Other platforms \{#other-platforms}
 
-Jeżeli dla Twojej platformy nie ma klawiatury, możesz spróbować skorzystać z wbudowanych układów klawiatury:
+If there is no keyboard for your platform, you can try using some built-in keyboard layouts:
 
-Dla **międzysłowiańskiego alfabetu łacińskiego**:
+For the **Interslavic Latin** alphabet:
 
-- Czeski (standardowy, cześciowo etymologiczny)
-- Chorwacki (exempted)
-- Serbski (exonerated)
-- Słoweński (exempted)
+- Czech (standard, partially etymological)
+- Croatian (exempted)
+- Serbia (exonerated)
+- Slovenian (exempted)
 
-Dla **międzysłowiańskiej cyrylicy**:
+For the **Interslavic Cyrillic** alphabet:
 
-- Serbski (exempted, bez "Ы")
+- Serbian (exempted, without "Ы")
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 
