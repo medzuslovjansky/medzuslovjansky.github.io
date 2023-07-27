@@ -1,7 +1,16 @@
+.table tr {
+  background: none !important;
+}
+
+.header {
+  font-size: 90%;
+}
+
 @media (max-width: 480px) {
-    .th {
+    .header {
         overflow: hidden;
         max-width: 0;
         min-width: 80px;
+        width: 33%;
     }
 }
