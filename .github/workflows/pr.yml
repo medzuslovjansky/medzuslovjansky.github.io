@@ -1,0 +1,40 @@
+name: Pull Request
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  mdx-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2 # To retrieve the preceding commit.
+
+      - name: Get changed docs
+        id: docs
+        uses: tj-actions/changed-files@v36
+        with:
+          files: |
+            docs/**/*.{md,mdx}
+
+      - name: Get changed translations
+        id: translations
+        uses: tj-actions/changed-files@v36
+        with:
+          files: |
+            i18n/**/*.{md,mdx}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Validate docs
+        if: ${{ steps.docs.outputs.all_changed_files != '' }}
+        run: npx --package=@interslavic/text-plugins isv-verify-i18n ${{ steps.docs.outputs.all_changed_files }} 'i18n/**/*.{md,mdx}'
+
+      - name: Validate translations
+        if: ${{ steps.translations.outputs.all_changed_files != '' }}
+        run: npx --package=@interslavic/text-plugins isv-verify-i18n 'docs/**/*.{md,mdx}' ${{ steps.translations.outputs.all_changed_files }}
