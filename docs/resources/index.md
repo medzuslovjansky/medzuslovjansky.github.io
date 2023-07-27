@@ -1,122 +1,122 @@
-# Resources
+# Zasoby
 
-Welcome to our carefully curated guide, dedicated to the world of the Interslavic language. We have an array of resources to facilitate your learning journey, from online communities and educational content to software tools and literature. Let's embark on this captivating linguistic adventure together.
+Witamy w naszym starannie przygotowanym przewodniku, poświęconym światu języka międzysłowiańskiego. Mamy szeroki zasób ułatwiający Tobie Twoją przygodę z nauką — od społeczności internetowych i treści edukacyjnych do narzędzi programistycznych i literatury. Wyruszmy więc razem na tą fascynującą językową przygodę.    
 
-## Community and Social Networks
+## Społeczność i media społecznościowe
 
-Interact with fellow language enthusiasts and get involved in stimulating discussions in our vibrant social network communities.
+Rozmawiaj z językowymi entuzjastami i daj się wciągnąć w inspirujące dyskusje w naszej pełnej energii społeczności.
 
 ### Facebook
 
-Our [Facebook][1] community consists of over 18,000 members who share a passion for the Interslavic language. The guiding principle here is simple: **We write either about Interslavic in any language or about anything in Interslavic language**.
+Nasza społeczność [Facebookowa][1] składa się z ponad 18,000 członków, którzy dzielą pasję dla języka międzysłowiańskiego. Główna zasada jest prosta: **piszemy albo o międzysłowiańskim w jakimkolwiek języku albo o czymkolwiek po międzysłowiańsku**.
 
 ### Discord
 
-If you're in search of real-time interactions, join our [Discord server][2] with approximately 6,000 other members.
+Jeżeli szukasz miejsca do codziennych rozmów, dołącz do naszego [serwera na Discordzie][2] z około 6000 innych członków.
 
 ### Reddit
 
-Join us on [Reddit][3], another great platform for sharing knowledge and engaging in discussions about the Interslavic language.
+Dołącz do nas na [Reddicie][3], kolejnej wspaniałej platformy do dzielenia się wiedzą i angażującej w dyskusję o języku międzysłowiańskim.
 
-## Content
+## Treści
 
 ### YouTube
 
-Check out the Interslavic official channel and our comprehensive playlist of all Interslavic videos for insightful content:
+Sprawdź nasz oficjalny międzysłowiański kanał i naszą obszerną playlistę wszystkich międzysłowiańskich filmików aby zapoznać się wnikliwie z treściami:
 
-- [Interslavic Official Channel][4]
-- [Interslavic Video Playlist][5]
+- [Oficjalny Międzysłowiański kanał][4]
+- [Oficjalna Międzysłowiańska playlista][5]
 
 ### Wiki
 
-Our [Interslavic Wiki][6] is a rich knowledge repository where you can dive deep into the intricacies of the language.
+Nasza [Międzysłowiańska Wiki][6] to skarbnica bogatej wiedzy, gdzie możesz zanurkować w złożoność języka.
 
-### Telegram microblogs
+### Mikroblogi na Telegramie
 
-- [Pub "Medžuslovjanska Kapibara"][7] – regularly updated with amusing content.
-- [Zapisky srědnoevropskogo medžuslovjanina][8] – Roberto Lombino's microblog.
+- [Pub "Medžuslovjanska Kapibara"][7] – regularnie aktualizowany o zabawne treści.
+- [Zapisky srědnoevropskogo medžuslovjanina][8] – mikroblog Roberto Lombina.
 
-### Podcasts
+### Podcasty
 
-Listen to our recommended podcasts for a unique auditory learning experience:
+Posłuchaj naszych polecanych podcastów, aby doświadczyć wyjątkowej nauki słuchowej:
 
 - [Interslavic News][9]
 - [Medžuslovjansky Slovotok][10]
 - [Radio Dupa FM][11]
 
-### Song translations
+### Tłumaczenie piosenek
 
-Sing along with the translations of your favorite songs in Interslavic on [LyricsTranslate][12].
+Śpiewaj razem z tłumaczeniami naszych ulubionych piosenek na język międzysłowiański na [LyricsTranslate][12].
 
-## Reading
+## Czytanie
 
-For reading practice, we recommend the following books:
+Dla ćwiczenia czytania, polecamy poniższe publikacje:
 
-- The Little Prince (Latin script): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
-- The Little Prince (Cyrillic script): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
+- The Little Prince (łacina): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
+- The Little Prince (cyrylica): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
 - Medžuslovjansky Čitateljnik: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
-- "Slovjani" Magazine: [https://slovjani.info][16] - it has some articles in Interslavic, but it's not a language magazine.
+- "Slovjani" Magazine: [https://slovjani.info][16] - posiada artykuły po międzysłowiańku, ale nie jest to magazyn językowy.
 
-## Handbooks
+## Podręczniki
 
-You can find a handbook by Vojtech Merunka [here][17] and [here][15].
+Możesz odkryć podręczniki przygotowane przez Vojtecha Merunkę [here][17] and [here][15].
 
-## Software
+## Oprogramowanie
 
-Various software tools to assist in your learning process:
+Rozmaite narzędzia programistyczne do pomocy w Twoim procesie nauki:
 
-### Keyboards
+### Klawiatury
 
-See the [Keyboards][18] page for more information.
+Zobacz stronę [Klawiatury][18] po więcej informacji.
 
-### Dictionary
+### Słownik
 
-Our online [Interslavic dictionary][19] is a comprehensive tool.
+Nasz [międzysłowiański słownik][19] online to kompleksowe narzędzie.
 
-### Spell Checkers
+### Kontrolerzy pisowni
 
-Spell checkers are instrumental in learning a new language. Here are some that we recommend.
+Kontrolerzy pisowni odgrywają duże znaczenie w nauce nowego języka. Poniżej kilka, które polecamy.
 
 #### Firefox
 
-If you're a Firefox user, you can add the Interslavic language spell checker from the [Firefox Add-ons store][20].
+Jeżli jesteś użytkownikiem Firefoxa, możesz dodać międzysłowiański kontroler pisowni z [Firefox Add-ons store][20].
 
 #### LibreOffice
 
-LibreOffice users can install the Interslavic language spell checker from [here][21].
+Użytkownicy LibreOffice mogą zainstalować międzysłowiański kontroler pisowni [stąd][21].
 
 #### Hunspell
 
-For direct download: [https://github.com/medzuslovjansky/isv\_hunspell\_dict/releases][22]
+Bezpośrednie pobranie: [https://github.com/medzuslovjansky/isv\_hunspell\_dict/releases][22]
 
 ### Transliterator
 
-Jan van Steenbergen's **transliterator** can assist with translating text from Cyrillic to Latin, and vice versa. [Check it out here][23].
+ **Transliterator** Jana van Steenbergena może pomagać w tłumaczeniu tekstu z cyrylicy na łacinę, i na odwrót. [Sprawdź go tutaj][23].
 
-### Declinators
+### Deklinatory
 
-Improve your grammatical accuracy with Jan van Steenbergen's declinators:
+Ulepsz swoją dokładność gramatyczną z deklinatorami Jana van Steenbergena:
 
 - [Noun declinator][24]
 - [Adjective declinator][25]
 - [Verb conjugator][26]
 
-### Contributing
+### Wkład
 
-- Interslavic dictionary - [https://github.com/sonic16x/interslavic][27]
-- Interslavic OSS organization - [https://github.com/medzuslovjansky][28]
-- Repositories about Interslavic: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
+- Słownik międzysłowiański - [https://github.com/sonic16x/interslavic][27]
+- Międzysłowiańska grupa OSS - [https://github.com/medzuslovjansky][28]
+- Repozytoria o międzysłowiańskim: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
 
-### Comics
+### Komisky
 
-To make learning more enjoyable, check out this Interslavic comic book on [Slovene Online][30].
+Aby nauka była bardziej przyjemna, sprawdź nasz międzysłowiański komiks na [Slovene Online][30].
 
-## Websites
+## Strony internetowe
 
-Here are some websites dedicated to the Interslavic language and culture:
+Poniżej jest kilka stron poświęconych językowi i kulturze międzysłowiańskiej:
 
 - [Jan van Steenbergen's website][31]
-- Vojtech Merunka affiliated websites:
+- Afilowane strony Vojtecha Merunki:
   - [https://interslavic.news][32]
   - [https://interslavic-language.org][33]
 
