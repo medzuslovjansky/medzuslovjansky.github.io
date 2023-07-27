@@ -1,11 +1,57 @@
+[data-theme='light'] {
+  --text-color-base: #444;
+  --text-color-alt: #8E4040;
+  --text-color-shift: #337093;
+  --text-color-alt-shift: #671584;
+  --text-color-service: #646464;
+
+  --svg-fill-color: #fff;
+
+  --key-fill-color: #fff;
+  --key-fill-click-color: #e7f3ff;
+}
+
+[data-theme='dark'] {
+  --text-color-base: #eaebec;
+  --text-color-alt: #a0808c;
+  --text-color-shift: #83a2bb;
+  --text-color-alt-shift: #c3b9da;
+  --text-color-service: #eaebec;
+
+  --svg-fill-color: #1a2933;
+
+  --key-fill-color: #1a2933;
+  --key-fill-click-color: #274255;
+}
+
 .svgKeyboard {
   font-family: sans-serif;
 }
 
-.svgBackground {
-  fill: var(--rect-fill-color);
-}
-
 .textColorBase {
   fill: var(--text-color-base);
+}
+
+.textColorAlt {
+  fill: var(--text-color-alt);
+}
+
+.textColorShift {
+  fill: var(--text-color-shift);
+}
+
+.textColorAltShift {
+  fill: var(--text-color-alt-shift);
+}
+
+.textColorService {
+  fill: var(--text-color-service);
+}
+
+.svgBackground {
+  fill: var(--svg-fill-color);
+}
+
+.keyColors {
+  fill: var(--key-fill-color);
 }

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styles from "./Keyboard.module.scss";
 
-function KeyText({ color, x, y, alt, shift, children, handleMouseOver, handleMouseOut, className }) {
+function KeyText({ x, y, alt, shift, children, handleMouseDown, handleMouseUp, className }) {
 
   const tx = x + 10 + (alt ? 20 : 0);
   const ty = y + 12 + (shift ? 0 : 20);
@@ -15,20 +15,20 @@ function KeyText({ color, x, y, alt, shift, children, handleMouseOver, handleMou
       className={className}
       x={tx}
       y={ty}
-      onMouseOver={handleMouseOver}
-      onMouseOut={handleMouseOut}>
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}>
       {children}
     </text>
   )
 }
 
 function Key({ base, alt, shift, altShift, x, y }) {
-  const [isHovered, setIsHovered] = useState(false);
-  const handleMouseOver = () => {
-    setIsHovered(true);
+  const [isClicked, setisClicked] = useState(false);
+  const handleMouseDown = () => {
+    setisClicked(true);
   }
-  const handleMouseOut = () => {
-    setIsHovered(false);
+  const handleMouseUp = () => {
+    setisClicked(false);
   }
   return (
     <g>
@@ -37,53 +37,76 @@ function Key({ base, alt, shift, altShift, x, y }) {
         height={41}
         x={x}
         y={y}
-        fill={isHovered ? "#e7f3ff" : "#fff"}
-        stroke={isHovered ? "#147CFA" : "#646464"}
-        strokeWidth={isHovered ? 3 : 1}
+        fill={isClicked
+          ? "var(--key-fill-click-color)"
+          : "var(--key-fill-color)"
+        }
+        stroke={isClicked ? "#147CFA" : "#646464"}
+        strokeWidth={isClicked ? 3 : 1}
         rx={3}
-        onMouseOver={handleMouseOver}
-        onMouseOut={handleMouseOut}
+        onMouseDown={handleMouseDown}
+        onMouseUp={handleMouseUp}
       ></rect>
       <KeyText
-        color="#444"
         className={styles.textColorBase}
         x={x}
         y={y}
-        handleMouseOver={handleMouseOver}
-        handleMouseOut={handleMouseOut}
+        handleMouseDown={handleMouseDown}
+        handleMouseUp={handleMouseUp}
       >{base}</KeyText>
-      <KeyText color="#8E4040" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt>{alt}</KeyText>
-      <KeyText color="#337093" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} shift>{shift}</KeyText>
-      <KeyText color="#671584" x={x} y={y} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} alt shift>{altShift}</KeyText>
+      <KeyText
+        className={styles.textColorAlt}
+        x={x}
+        y={y}
+        handleMouseDown={handleMouseDown}
+        handleMouseUp={handleMouseUp}
+        alt
+      >{alt}</KeyText>
+      <KeyText
+        className={styles.textColorShift}
+        x={x}
+        y={y}
+        handleMouseDown={handleMouseDown}
+        handleMouseUp={handleMouseUp}
+        shift
+      >{shift}</KeyText>
+      <KeyText
+        className={styles.textColorAltShift}
+        x={x}
+        y={y}
+        handleMouseDown={handleMouseDown}
+        handleMouseUp={handleMouseUp}
+        alt shift
+      >{altShift}</KeyText>
     </g >
   )
 }
 
-function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionPointY = 23.918, handleMouseOver, handleMouseOut }) {
+function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionPointY = 23.918, handleMouseDown, handleMouseUp }) {
   const tx = x + correctionPointX;
   const ty = y + correctionPointY;
 
   return (
     <text
-      fill="#646464"
+      className={styles.textColorService}
       fontSize={10}
       fontWeight={500}
       x={tx}
       y={ty}
-      onMouseOver={handleMouseOver}
-      onMouseOut={handleMouseOut}>
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}>
       {children}
     </text>
   )
 }
 
 function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
-  const [isHovered, setIsHovered] = useState(false);
-  const handleMouseOver = () => {
-    setIsHovered(true);
+  const [isClicked, setisClicked] = useState(false);
+  const handleMouseDown = () => {
+    setisClicked(true);
   }
-  const handleMouseOut = () => {
-    setIsHovered(false);
+  const handleMouseUp = () => {
+    setisClicked(false);
   }
   return (
     <g>
@@ -92,14 +115,17 @@ function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
         height={height}
         x={x}
         y={y}
-        fill={isHovered ? "#e7f3ff" : "#fff"}
-        stroke={isHovered ? "#147CFA" : "#646464"}
-        strokeWidth={isHovered ? 3 : 1}
+        fill={isClicked
+          ? "var(--key-fill-click-color)"
+          : "var(--key-fill-color)"
+        }
+        stroke={isClicked ? "#147CFA" : "#646464"}
+        strokeWidth={isClicked ? 3 : 1}
         rx={3}
-        onMouseOver={handleMouseOver}
-        onMouseOut={handleMouseOut}
+        onMouseDown={handleMouseDown}
+        onMouseUp={handleMouseUp}
       ></rect>
-      <ServiceKeyText x={x} y={y} correctionPointY={correctionPointY} handleMouseOver={handleMouseOver} handleMouseOut={handleMouseOut} >{base}</ServiceKeyText>
+      <ServiceKeyText x={x} y={y} correctionPointY={correctionPointY} handleMouseDown={handleMouseDown} handleMouseUp={handleMouseUp} >{base}</ServiceKeyText>
     </g>
   )
 }
