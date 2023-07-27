@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import {translate} from "@docusaurus/Translate";
 import {Banner, Features, Carousel} from "../components";
-import MovieIcon from '../../static/img/icons/movie.svg';
+import MovieIcon from '@site/static/img/icons/movie.svg';
 import styles from './index.module.css';
 
 export default function HomePage() {
@@ -18,7 +18,7 @@ export default function HomePage() {
       <main className={styles.main}>
         <Carousel>
           <Carousel.Slide
-            image={require('../../static/img/home/banner_hero.png').default}
+            image={require('@site/static/img/home/banner_hero.png').default}
             title={translate({
               id: 'pages.home.sections[0].slides[0].title',
               message: 'The language understood by all Slavic peoples'
@@ -48,7 +48,7 @@ export default function HomePage() {
           }
         >
           <Features.Card
-            image={require('../../static/img/home/features_business_and_tourism.png').default}
+            image={require('@site/static/img/home/features_business_and_tourism.png').default}
             title={translate({id: 'pages.home.sections[1].cards[0].title', message: 'In business and tourism'})}
             description={translate({
               id: 'pages.home.sections[1].cards[0].description',
@@ -56,7 +56,7 @@ export default function HomePage() {
             })}
           />
           <Features.Card
-            image={require('../../static/img/home/features_neutrality.png').default}
+            image={require('@site/static/img/home/features_neutrality.png').default}
             title={translate({id: 'pages.home.sections[1].cards[1].title', message: 'Neutral language'})}
             description={translate({
               id: 'pages.home.sections[1].cards[1].description',
@@ -64,7 +64,7 @@ export default function HomePage() {
             })}
           />
           <Features.Card
-            image={require('../../static/img/home/features_slavic_heritage.png').default}
+            image={require('@site/static/img/home/features_slavic_heritage.svg').default}
             title={translate({id: 'pages.home.sections[1].cards[2].title', message: 'Common Slavic heritage'})}
             description={translate({
               id: 'pages.home.sections[1].cards[2].description',
@@ -73,7 +73,7 @@ export default function HomePage() {
           />
         </Features>
         <Banner
-          image={require('../../static/img/home/banner_resources.png').default}
+          image={require('@site/static/img/home/banner_resources.png').default}
           title={translate({id: 'pages.home.sections[2].title', message: 'Resources to master and use Interslavic'})}
           description={translate({
             id: 'pages.home.sections[2].description',

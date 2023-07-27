@@ -6,7 +6,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 async function createConfig() {
   /** @type {import('@docusaurus/types').Config} */
   return {
-    title: 'Learn Interslavic Language',
+    title: 'Interslavic',
     url: 'https://interslavic.fun',
     baseUrl: '/',
     trailingSlash: true,
@@ -15,7 +15,7 @@ async function createConfig() {
     favicon: 'img/favicon.ico',
     organizationName: 'medzuslovjansky',
     projectName: 'medzuslovjansky.github.io',
-    deploymentBranch: 'master',
+    deploymentBranch: 'gh-pages',
     plugins: [
       '@noomorph/docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
@@ -29,7 +29,7 @@ async function createConfig() {
           docs: {
             routeBasePath: '',
             sidebarPath: require.resolve('./sidebars.js'),
-            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/',
+            editUrl: 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
             editLocalizedFiles: true,
             showLastUpdateAuthor: true,
             showLastUpdateTime: true,
@@ -43,7 +43,7 @@ async function createConfig() {
             path: './articles',
             showReadingTime: true,
             editUrl:
-              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/',
+              'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
             editLocalizedFiles: true,
           },
           theme: {

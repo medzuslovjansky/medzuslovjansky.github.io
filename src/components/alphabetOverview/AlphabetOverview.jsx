@@ -77,6 +77,19 @@ const AlphabetOverview = ({ script }) => {
 
   const { result, rowspanMap } = checkTransliteration();
 
+  function row(item, index) {
+    const firstRow = index === 0;
+    const preliminaryComparison = item.name === result[index - 1]?.name;
+    const hideRow = !firstRow && preliminaryComparison;
+    return (
+      <tr key={index}>
+        {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow}>{item.name}</td>}
+        <td>{item.rows[0]}</td>
+        <td>{item.rows[1]}</td>
+      </tr>
+    )
+  }
+
   return (
     <table className={styles.table}>
       <thead>
@@ -87,22 +100,7 @@ const AlphabetOverview = ({ script }) => {
         </tr>
       </thead>
       <tbody lang="art-x-interslv">
-        {result.map((item, index) => (
-          <tr key={index}>
-            {index === 0 && (
-              <td rowSpan={rowspanMap[item.name]}>{item.name}</td>
-            )}
-            {index !== 0 && item.name !== result[index - 1].name && (
-              <td rowSpan={rowspanMap[item.name]}>{item.name}</td>
-            )}
-            {index !== 0 && item.name === result[index - 1].name && (
-              <td rowSpan={rowspanMap[item.name]} style={{ display: "none" }}>{item.name}</td>
-            )}
-            
-            <td>{item.rows[0]}</td>
-            <td>{item.rows[1]}</td>
-          </tr>
-        ))}
+        {result.map(row)}
       </tbody>
     </table>
   );

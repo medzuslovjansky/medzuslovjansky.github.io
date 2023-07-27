@@ -1,12 +1,14 @@
+const path = require('path');
 const visit = require('unist-util-visit');
+const i18n = require('./abbr-i18n');
 
 const plugin = (_options) => {
-  function directiveTransformer(ast) {
-    visit(ast, (node) => {
-      if (node.type === 'inlineCode') {
-        return isWordFragment(node) ? fragment(node) : node;
-      }
+  function directiveTransformer(ast, vfile) {
+    const filePath = vfile.path.split(path.sep);
+    const i18n = filePath.indexOf('i18n');
+    const docLang = i18n === -1 ? undefined : filePath[i18n + 1];
 
+    visit(ast, (node) => {
       if (
         node.type !== 'leafDirective' &&
         node.type !== 'containerDirective' &&
@@ -19,6 +21,8 @@ const plugin = (_options) => {
       switch (node.name) {
         case 'kbd':
           return kbd(node);
+        case 'abbr':
+          return abbr(node, docLang);
         case 'notr':
           return notr(node);
         case 'ipa':
@@ -94,13 +98,38 @@ function ipa(node) {
   prepareNode(node).data.hName = 'IPA';
 }
 
+function abbr(node, lang = 'en') {
+  const content = getShallowText(node);
+  const [text, title] = i18n[content]?.[lang] ?? [content, node.attributes?.title ?? content];
+
+  Object.assign(prepareNode(node).data, {
+    hName: 'abbr',
+    hProperties: {
+      title,
+    },
+  });
+
+  node.children = [{ type: 'text', value: text }];
+}
+
+function getShallowText(node) {
+  let result = '';
+  const children = node.children;
+  const n = children.length;
+
+  for (let i = 0; i < n; i++) {
+    const child = children[i];
+    if (child.type === 'text') {
+      result += child.value;
+    }
+  }
+
+  return result;
+}
+
 function lang(node) {
   const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
   prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
-}
-
-function fragment(node) {
-  prepareNode(node).data.hProperties = { className: 'fragment' };
 }
 
 module.exports = plugin;
