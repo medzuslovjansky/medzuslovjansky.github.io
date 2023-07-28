@@ -1,0 +1,48 @@
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+import { translate } from "@docusaurus/Translate";
+import { PlatformDownloads } from "@site/src/components";
+
+# Interslavic Keyboard
+
+This is the recommended keyboard layout tailored for all Slavic languages and dialects using Latin script, recognized or obscure: from Polish and Czech to less familiar and endangered languages and dialects.
+
+`HERE BE THE KEYBOARD LAYOUT`
+
+## Key features
+
+- **Inclusivity**: Built upon the standard English keyboard, this layout integrates all the letters of the Latin alphabet and a variety of diacritical marks and typographical symbols, allowing seamless interaction in multiple languages.
+- **Accessibility**: All special characters are readily available using combinations with the AltGr key or dead keys at the top of the keyboard.
+- **Compatibility**: This keyboard layout is compatible with operating systems from Windows XP to the most recent ones.
+- **Customizability**: The archive comes with a source file for the Microsoft Keyboard Layout Creator, enabling modifications to suit personal preferences.
+
+## Downloads
+
+<PlatformDownloads
+  featured={[
+    {
+      type: "windows",
+      link: "https://tyflonet.com/siciliano/kbdmslat.zip",
+      fileName: "kbdmslat.zip",
+    },
+    {
+      type: "mac",
+      link: "https://github.com/medzuslovjansky/keyboards/tree/main/mac",
+      fileName: "interslavic-kbd.pkg",
+    },
+    { type: "deb", link: "#", fileName: "interslavic-kbd.deb" },
+    { type: "rpm", link: "#", fileName: "interslavic-kbd.rpm" },
+  ]}
+/>
+
+## Installation
+
+<Tabs>
+  <TabItem value="win32" label={translate({ id: 'com.os.Windows', message: 'Windows' })} default>
+
+The keyboard works on Windows XP, Vista, 7, 8, and newer operating systems. After unpacking the keyboard archive, click on the KBDMSLAT.exe file with the left mouse button. At the end of the installation, a dialogue appears with the "Close" button, which closes the installation. You can switch to the keyboard by pressing Alt+Shift, or if you are using the Slovenian keyboard as the base, by pressing CTRL+Shift, because the keyboard installs under the Slovenian language (Slovenia, code SLO as the beginning of the word Slavic). To uninstall, click on the installation file and then on the "Finish" button.
+
+  </TabItem>
+</Tabs>
+
+In addition to the installation file, there is also a source file klc for the Microsoft Keyboard Layout Creator in the archive, with which you can modify the keyboard if you wish.

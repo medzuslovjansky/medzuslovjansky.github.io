@@ -125,7 +125,13 @@ function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
         onMouseDown={handleMouseDown}
         onMouseUp={handleMouseUp}
       ></rect>
-      <ServiceKeyText x={x} y={y} correctionPointY={correctionPointY} handleMouseDown={handleMouseDown} handleMouseUp={handleMouseUp} >{base}</ServiceKeyText>
+      <ServiceKeyText
+        x={x}
+        y={y}
+        correctionPointY={correctionPointY}
+        handleMouseDown={handleMouseDown}
+        handleMouseUp={handleMouseUp}
+      >{base}</ServiceKeyText>
     </g>
   )
 }
