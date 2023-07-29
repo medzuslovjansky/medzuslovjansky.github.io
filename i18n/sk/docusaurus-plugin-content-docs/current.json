@@ -22,5 +22,17 @@
   "sidebar.learnSidebar.category.Miscellaneous": {
     "message": "Miscellaneous",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Úvod": {
+    "message": "Úvod",
+    "description": "The label for category Úvod in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Gramatika": {
+    "message": "Gramatika",
+    "description": "The label for category Gramatika in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Jednoduchá gramatika": {
+    "message": "Jednoduchá gramatika",
+    "description": "The label for category Jednoduchá gramatika in sidebar learnSidebar"
   }
 }

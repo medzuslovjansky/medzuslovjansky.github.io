@@ -69,14 +69,7 @@ async function createConfig() {
         'sl',
         'sr-Cyrl',
         'uk',
-        'uk-Latn',
       ],
-      localeConfigs: {
-        'uk-Latn': {
-          label: 'Ukrajins\'ka',
-          direction: 'ltr',
-        },
-      }
     },
 
     themeConfig:
