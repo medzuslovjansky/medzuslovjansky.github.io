@@ -1,3 +1,7 @@
+---
+custom_edit_url: /501
+---
+
 # Klawiatury
 
 ### Windows \{#windows}
