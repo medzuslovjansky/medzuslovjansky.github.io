@@ -1,5 +1,5 @@
 .wrapper {
-    height: 200px;
+    height: 150px;
 }
 
 .container {
@@ -11,14 +11,50 @@
 
 .flexItem {
     width: 25%;
-    border: 1px solid black;
+    padding: 20px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.flexItem a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.flexItem svg {
+    min-width: 49px;
+    min-height: 40px;
+}
+
+.link {
+    margin: 0 auto;
+    font-size: 0.7rem;
+    text-align: center;
 }
 
 .flexItem:hover {
     background-color: #DDE9FB;
 }
 
-.title {}
+.icon_windows,
+.icon_mac,
+.icon_debian,
+.icon_fedora {}
+
+@media (max-width: 480px) {
+    .wrapper {
+        height: 600px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .flexItem {
+        width: 100%;
+    }
+}
