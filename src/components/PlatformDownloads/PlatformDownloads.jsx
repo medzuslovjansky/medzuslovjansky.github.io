@@ -11,11 +11,9 @@ import Translate from "@docusaurus/Translate";
 
 export default function PlatformDownloads({ featured }) {
 
-    /* const handleDownload = (link) => {
+    const handleDownload = (link) => {
         window.open(link);
-    } 
-    onClick={() => handleDownload(link)}
-    */
+    }
 
     function DownloadWindows({ url, name }) {
         return (
@@ -110,6 +108,7 @@ export default function PlatformDownloads({ featured }) {
                             <div
                                 key={type}
                                 className={styles.flexItem}
+                                onClick={() => handleDownload(link)}
                             >
                                 <IconComponent />
                                 <DownloadComponent url={link} name={fileName} />
