@@ -76,11 +76,11 @@ export default function PlatformDownloads({ featured }) {
     }
 
     const components = {
-        windows: DownloadWindows,
-        mac: DownloadMac,
-        deb: DownloadLinuxDeb,
-        rpm: DownloadLinuxRpm,
-    }
+        windows: () => <DownloadWindows />,
+        mac: () => <DownloadMac />,
+        deb: () => <DownloadLinuxDeb />,
+        rpm: () => <DownloadLinuxRpm />,
+    };
 
     const icons = {
         windows: () => (<SvgWindowsIcon />),
@@ -102,16 +102,14 @@ export default function PlatformDownloads({ featured }) {
                 <div className={styles.container}>
                     {featured.map((value) => {
                         const { type, link, fileName } = value;
-                        const IconComponent = icons[type];
-                        const DownloadComponent = components[type];
                         return (
                             <div
                                 key={type}
                                 className={styles.flexItem}
                                 onClick={() => handleDownload(link)}
                             >
-                                <IconComponent />
-                                <DownloadComponent url={link} name={fileName} />
+                                {icons[type]()}
+                                {components[type]({ link, fileName })}
                             </div>
                         )
                     })}
