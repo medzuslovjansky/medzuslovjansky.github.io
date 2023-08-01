@@ -48,6 +48,8 @@
 @media (max-width: 480px) {
     .wrapper {
         height: 600px;
+        width: 200px;
+        margin: 0 auto;
     }
 
     .container {
@@ -56,5 +58,6 @@
 
     .flexItem {
         width: 100%;
+        height: 25%;
     }
 }
