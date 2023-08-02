@@ -22,5 +22,13 @@
   "sidebar.learnSidebar.category.Miscellaneous": {
     "message": "Miscellaneous",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Граматика": {
+    "message": "Граматика",
+    "description": "The label for category Граматика in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Проста граматика": {
+    "message": "Проста граматика",
+    "description": "The label for category Проста граматика in sidebar learnSidebar"
   }
 }

@@ -22,5 +22,17 @@
   "sidebar.learnSidebar.category.Miscellaneous": {
     "message": "Miscellaneous",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Wstęp": {
+    "message": "Wstęp",
+    "description": "The label for category Wstęp in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Gramatyka": {
+    "message": "Gramatyka",
+    "description": "The label for category Gramatyka in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Prosta gramatyka": {
+    "message": "Prosta gramatyka",
+    "description": "The label for category Prosta gramatyka in sidebar learnSidebar"
   }
 }

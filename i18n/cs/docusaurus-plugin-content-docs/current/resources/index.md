@@ -1,3 +1,7 @@
+---
+custom_edit_url: /501
+---
+
 # Zdroje
 
 Vítejte v našem pečlivě kurátorském průvodci věnovaném světu mezislovanského jazyka. Máme řadu zdrojů, které vám usnadní cestu učení, od online komunit a vzdělávacího obsahu až po softwarové nástroje a literaturu. Vydejme se společně do tohoto strhujícího lingvistického dobrodružství.
