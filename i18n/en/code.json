@@ -397,7 +397,7 @@
     "message": "Debian",
     "description": "Debian Platform"
   },
-  "com.platform.fedora": {
+  "com.platform.rpm": {
     "message": "Fedora",
     "description": "Fedora Platform"
   }

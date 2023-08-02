@@ -11,18 +11,10 @@
 
 .flexItem {
     width: 25%;
-    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.flexItem a {
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-    color: inherit;
 }
 
 .flexItem svg {
@@ -30,15 +22,22 @@
     min-height: 40px;
 }
 
-.link {
-    margin: 0 auto;
+.flexItem:hover {
+    background-color: #DDE9FB;
+}
+
+.icon a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.linkText {
     font-size: 0.7rem;
     text-align: center;
 }
 
-.flexItem:hover {
-    background-color: #DDE9FB;
-}
 
 .icon_windows,
 .icon_mac,
