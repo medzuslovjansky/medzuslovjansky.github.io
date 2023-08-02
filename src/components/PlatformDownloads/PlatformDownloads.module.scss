@@ -7,7 +7,13 @@
     height: 100%;
     display: flex;
     background-color: #EEF4FD;
+
+    & a {
+        text-decoration: none;
+        color: inherit;
+    }
 }
+
 
 .flexItem {
     width: 25%;
@@ -15,29 +21,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    &:hover {
+        background-color: #DDE9FB;
+    }
+
+    & svg {
+        min-width: 49px;
+        min-height: 40px;
+    }
 }
 
-.flexItem svg {
-    min-width: 49px;
-    min-height: 40px;
-}
-
-.flexItem:hover {
-    background-color: #DDE9FB;
-}
-
-.icon a {
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-    color: inherit;
+.icon {
+    text-align: center;
 }
 
 .linkText {
     font-size: 0.7rem;
     text-align: center;
 }
-
 
 .icon_windows,
 .icon_mac,
@@ -58,5 +60,9 @@
     .flexItem {
         width: 100%;
         height: 25%;
+        flex-direction: row;
+        justify-content: space-evenly;
     }
+
+
 }

@@ -24,16 +24,14 @@ const fullNames = {
     rpm: 'Fedora',
 };
 
-function DownloadPlatform({ url, name, type }) {
+function DownloadPlatform({ name, type }) {
     return (
         <div className={clsx(styles.icon, styles[`icon_${type}`])}>
-            <Link to={url}>
-                <Translate
-                    id={`com.platform.${type}`}
-                    description={`${fullNames.type} Platform`}>
-                    {fullNames.type}
-                </Translate>
-            </Link>
+            <Translate
+                id={`com.platform.${type}`}
+                description={`${fullNames.type} Platform`}>
+                {fullNames.type}
+            </Translate>
             <div className={styles.linkText}>{name}</div>
         </div >
     )
@@ -47,17 +45,16 @@ export default function PlatformDownloads({ featured }) {
                     {featured.map((value) => {
                         const { type, link, fileName } = value;
                         return (
-                            <div
+                            <Link
+                                to={link}
                                 key={type}
                                 className={styles.flexItem}
                             >
                                 {icons[type]()}
-                                <DownloadPlatform
-                                    url={link}
-                                    name={fileName}
-                                    type={type}
+
+                                <DownloadPlatform name={fileName} type={type}
                                 />
-                            </div>
+                            </Link>
                         )
                     })}
 
