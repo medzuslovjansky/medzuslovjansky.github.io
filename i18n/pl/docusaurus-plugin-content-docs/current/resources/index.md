@@ -1,3 +1,7 @@
+---
+custom_edit_url: /501
+---
+
 # Zasoby
 
 Witamy w naszym starannie przygotowanym przewodniku, poświęconym światu języka międzysłowiańskiego. Mamy szeroki zasób ułatwiający Tobie Twoją przygodę z nauką — od społeczności internetowych i treści edukacyjnych do narzędzi programistycznych i literatury. Wyruszmy więc razem na tą fascynującą językową przygodę.    

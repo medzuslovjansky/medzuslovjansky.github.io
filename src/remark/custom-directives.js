@@ -46,6 +46,7 @@ const plugin = (_options) => {
         case 'sl':
         case 'sr':
         case 'uk':
+        case 'sla':
         case 'zls':
           return lang(node);
       }
