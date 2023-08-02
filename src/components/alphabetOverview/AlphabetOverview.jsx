@@ -13,7 +13,7 @@ const AlphabetOverview = ({ script }) => {
     ["Ć", <><IPA>t͡ɕ</IPA></>],
     ["Č", <><IPA>t͡ʃ</IPA> ~ <IPA>t͡ʂ</IPA></>],
     ["D", <><IPA>d</IPA></>],
-    ["Ď", <><IPA>dʲ</IPA> ~ <IPA>ɟ</IPA></>],
+    ["D́", <><IPA>dʲ</IPA> ~ <IPA>ɟ</IPA></>],
     ["Đ", <><IPA>d͡ʑ</IPA></>],
     ["DŽ", <><IPA>d͡ʒ</IPA> ~ <IPA>d͡ʐ</IPA></>],
     ["E", <><IPA>ɛ</IPA> ~ <IPA>e</IPA></>],
@@ -81,22 +81,29 @@ const AlphabetOverview = ({ script }) => {
     const firstRow = index === 0;
     const preliminaryComparison = item.name === result[index - 1]?.name;
     const hideRow = !firstRow && preliminaryComparison;
+
+    const standard = item.name;
+    const etymological = item.rows[0];
+    const ipa = item.rows[1];
+    const Ss = `${upperFirst(standard)} ${standard.toLowerCase()}`;
+    const Ee = `${upperFirst(etymological)} ${etymological.toLowerCase()}`;
+
     return (
       <tr key={index}>
-        {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow}>{item.name}</td>}
-        <td>{item.rows[0]}</td>
-        <td>{item.rows[1]}</td>
+        {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow}>{Ss}</td>}
+        <td>{Ee}</td>
+        <td>{ipa}</td>
       </tr>
     )
   }
 
   return (
-    <table className={styles.table}>
+    <table className={styles.table} lang="art-x-interslv">
       <thead>
         <tr>
-          <th className={styles.th}>{translate({ id: 'com.script.Standard', message: 'Standard' })}</th>
-          <th className={styles.th}>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
-          <th className={styles.th}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
+          <th className={styles.header}>{translate({ id: 'com.script.Standard', message: 'Standard' })}</th>
+          <th className={styles.header}>{translate({ id: 'com.script.Etymological', message: 'Etymological' })}</th>
+          <th className={styles.header}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
       </thead>
       <tbody lang="art-x-interslv">
@@ -105,5 +112,9 @@ const AlphabetOverview = ({ script }) => {
     </table>
   );
 };
+
+function upperFirst(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+}
 
 export default AlphabetOverview;
