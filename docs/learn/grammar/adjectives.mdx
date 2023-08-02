@@ -5,6 +5,10 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/adjectives.html
 ---
 
+import BasicEndings from "@site/src/markdown/basic-endings.mdx";
+import AdjectivesGood from "@site/src/markdown/adjectives-good.mdx";
+import AdjectivesFresh from "@site/src/markdown/adjectives-fresh.mdx";
+
 # Adjectives
 
 ## Inflection
@@ -15,17 +19,23 @@ Adjectives match with the noun they modify in gender, case and number. Declensio
 - Just like in the case of nouns, the accusative of has the same form as the genitive when the corresponding noun is masculine and animate, both singular and plural.
 - Except for adjectives referring to masculine, animate nouns, the nominate and accusative plural are identical for all genders.
 
+### Basic endings
+
 The basic endings (applying not only to adjectives, but also to possessive pronouns, demonstrative pronouns and the like) are:
 
-\<!-- TODO Not working: "import BasicEndings from './partials/\_basic-endings.mdx'"; -->
+<BasicEndings />
+
+### Hard adjectives
 
 Example of the declension of hard adjectives: :isv[dobry] „good”:
 
-\<!-- TODO Not working: "import AdjectivesGood from './partials/\_adjectives-good.mdx'"; -->
+<AdjectivesGood />
+
+### Soft adjectives
 
 Example of the declension of soft adjectives: :isv[svěži] „fresh”:
 
-\<!-- TODO Not working: "import AdjectivesFresh from './partials/\_adjectives-fresh.mdx'"; -->
+<AdjectivesFresh />
 
 ## Short form
 
@@ -101,7 +111,5 @@ The prefix `ne-` creates a negative: :isv[neprijetny] „not pleasant, unpleasan
 - :isv[prěprosty] „too simple, overly simple, extremely simple”
 
 [1]: ../phonology.mdx#o
-
 [2]: ../phonology.mdx#y
-
 [3]: ../phonology.mdx#iotation
