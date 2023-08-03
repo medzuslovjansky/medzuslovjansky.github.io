@@ -1,4 +1,10 @@
 .main {
-  margin: 0 auto;
   max-width: 1280px;
+}
+
+[data-theme="light"] .svgWrapp {
+  color: #182c32;
+}
+[data-theme="dark"] .svgWrapp {
+  color: #cbe0e6;
 }
