@@ -21,6 +21,8 @@ const plugin = (_options) => {
       switch (node.name) {
         case 'kbd':
           return kbd(node);
+        case 'stress':
+          return stress(node);
         case 'abbr':
           return abbr(node, docLang);
         case 'notr':
@@ -91,6 +93,10 @@ function pickTagName(node) {
 
 function kbd(node) {
   prepareNode(node).data.hName = 'kbd';
+}
+
+function stress(node) {
+  prepareNode(node).data.hName = 'u';
 }
 
 function notr(node) {
