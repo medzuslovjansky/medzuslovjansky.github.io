@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import {IPA} from "@site/src/components";
 import {translate} from "@docusaurus/Translate";
@@ -38,7 +36,11 @@ const alphabet = [
   { isv: 'Ž', ipa: <><IPA>ʒ</IPA> ~ <IPA>ʐ</IPA></>, pl: 'ż' },
 ];
 
-export default function PronunciationOfTheAlphabet(props = {}) {
+export default function PronunciationOfTheAlphabet({children}) {
+  const rows = React.Children.toArray(
+    React.Children.only(children).props.children
+  ).filter(item => item.type === 'li');
+
   return (
     <table>
       <thead>
@@ -52,10 +54,10 @@ export default function PronunciationOfTheAlphabet(props = {}) {
       <tbody>
         {alphabet.map((letter, index) => (
           <tr key={index}>
-            <td>{letter.isv}</td>
-            <td>{transliterate(letter.isv, 'art-Cyrl-x-interslv')}</td>
+            <td lang="art-Latn-x-interslv">{letter.isv}</td>
+            <td lang="art-Cyrl-x-interslv">{transliterate(letter.isv, 'art-Cyrl-x-interslv')}</td>
             <td>{React.cloneElement(letter.ipa)}</td>
-            <td>{props[letter.isv]}</td>
+            <td>{rows[index].props.children}</td>
           </tr>
         ))}
       </tbody>

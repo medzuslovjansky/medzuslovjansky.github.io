@@ -119,7 +119,13 @@ body[data-theme='dark'] {
 span[lang] {
   font-family: var(--fun-safe-serif);
   font-style: italic;
+
+  > strong {
+    font-weight: bolder;
+    text-decoration: underline;
+  }
 }
+
 
 code, .notranslate {
   //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
