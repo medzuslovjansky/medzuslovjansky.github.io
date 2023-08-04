@@ -384,5 +384,11 @@
   },
   "com.script.Standard": {
     "message": "St­an­dard"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronunciation"
   }
 }
