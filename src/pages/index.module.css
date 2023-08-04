@@ -2,9 +2,16 @@
   max-width: 1280px;
 }
 
-[data-theme="light"] .svgWrapp {
-  color: #182c32;
+@media screen and (min-width: 1280px) {
+  .main {
+    margin: 0 auto;
+  }
 }
-[data-theme="dark"] .svgWrapp {
-  color: #cbe0e6;
+
+[data-theme='light'] .svgWrapp {
+  color: #182C32;
+}
+
+[data-theme=dark] .svgWrapp {
+  color: #CBE0E6;
 }
