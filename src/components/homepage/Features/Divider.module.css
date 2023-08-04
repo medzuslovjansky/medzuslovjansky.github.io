@@ -7,3 +7,7 @@
 .root > * {
   margin: 0 var(--ifm-spacing-horizontal);
 }
+
+[data-theme='dark'] .root img {
+  filter: invert(1) hue-rotate(180deg);
+}

@@ -1,6 +1,12 @@
-import Banner from './homepage/Banner';
-import Carousel from './homepage/Carousel';
-import Features from './homepage/Features';
-import License from './license/License';
+import { Banner, Carousel, Features } from './homepage';
+import { CustomAfterSection, CustomBeforeSection } from './sections';
+import { IPA } from './IPA';
 
-export { Banner, Carousel, Features, License };
+export {
+  Banner,
+  Carousel,
+  CustomAfterSection,
+  CustomBeforeSection,
+  Features,
+  IPA,
+};

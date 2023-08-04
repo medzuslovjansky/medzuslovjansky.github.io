@@ -6,7 +6,7 @@ const { themes: prismThemes } = require('prism-react-renderer');
 async function createConfig() {
   /** @type {import('@docusaurus/types').Config} */
   return {
-    title: 'Learn Interslavic Language',
+    title: 'Interslavic',
     url: 'https://interslavic.fun',
     baseUrl: '/',
     trailingSlash: true,
@@ -15,9 +15,11 @@ async function createConfig() {
     favicon: 'img/favicon.ico',
     organizationName: 'medzuslovjansky',
     projectName: 'medzuslovjansky.github.io',
-    deploymentBranch: 'master',
+    deploymentBranch: 'gh-pages',
     plugins: [
+      '@noomorph/docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
+      require.resolve('./src/plugins/webpack.js'),
     ],
     presets: [
       [
@@ -27,9 +29,12 @@ async function createConfig() {
           docs: {
             routeBasePath: '',
             sidebarPath: require.resolve('./sidebars.js'),
-            // Please change this to your repo.
-            editUrl: 'https://github.com/medzuslovjansky/interslavic.fun/edit/main/docs/',
+            editUrl: 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
+            editLocalizedFiles: true,
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
             remarkPlugins: [
+              require('./src/remark/mdx-before-after-plugin'),
               require('./src/remark/custom-directives'),
             ],
           },
@@ -37,12 +42,12 @@ async function createConfig() {
             routeBasePath: 'articles',
             path: './articles',
             showReadingTime: true,
-            // Please change this to your repo.
             editUrl:
-              'https://github.com/medzuslovjansky/interslavic.fun/edit/main/articles/',
+              'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
+            editLocalizedFiles: true,
           },
           theme: {
-            customCss: require.resolve('./src/css/custom.css'),
+            customCss: require.resolve('./src/css/custom.scss'),
           },
         }),
       ],
@@ -64,14 +69,7 @@ async function createConfig() {
         'sl',
         'sr-Cyrl',
         'uk',
-        'uk-Latn',
       ],
-      localeConfigs: {
-        'uk-Latn': {
-          label: 'Ukrajins\'ka',
-          direction: 'ltr',
-        },
-      }
     },
 
     themeConfig:
@@ -180,6 +178,11 @@ async function createConfig() {
               ],
             },
           ]
+        },
+        docs: {
+          sidebar: {
+            hideable: true,
+          },
         },
         prism: {
           theme: prismThemes.github,

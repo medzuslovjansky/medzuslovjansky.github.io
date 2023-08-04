@@ -1,9 +1,30 @@
-|           | singular                 |                         |             |         | plural                  |                         |             |         |
-| --------- | ------------------------ | ----------------------- | ----------- | ------- | ----------------------- | ----------------------- | ----------- | ------- |
-|           | masculine  (animate)   | masculine  (inanimate) | neuter      | feminine | masculine  (animate)  | masculine  (inanimate) | neuter      | feminine |
-| Nom       | svěži                    | svěži                   | svěže       | svěža   | svěži                   | svěži                   | svěže       | svěže   |
-| Acc       | svěžego                  | svěži                   | svěžu       | svěžih   | svěži                   | svěži                   | svěže       | svěže   |
-| Gen       | svěžego                  | svěžego              | svěžego   | svěžej | svěžih              | svěžih              | svěžih   | svěžih |
-| Dat       | svěžemu                  | svěžemu              | svěžemu   | svěžej | svěžim              | svěžim              | svěžim   | svěžim |
-| Ins       | svěžim                   | svěžim                   | svěžim       | svěžeju | svěžimi               | svěžimi               | svěžimi       | svěžimi |
-| Loc       | svěžem                   | svěžem                   | svěžem       | svěžej | svěžih              | svěžih              | svěžih   | svěžih |
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import {translate} from "@docusaurus/Translate";
+
+<Tabs groupId="number">
+  <TabItem value="sg" label={translate({ id: 'com.grammar.singular', message: 'Singular' })} default>
+
+| Case | Masculine (animate) | Masculine (inanimate) | Neuter  | Feminine |
+| ---- | ------------------- | --------------------- | ------- | -------- |
+| Nom  | svěži               | svěži                 | svěže   | svěža    |
+| Acc  | svěžego             | svěži                 | svěže   | svěžu    |
+| Gen  | svěžego             | svěžego               | svěžego | svěžej   |
+| Dat  | svěžemu             | svěžemu               | svěžemu | svěžej   |
+| Ins  | svěžim              | svěžim                | svěžim  | svěžeju  |
+| Loc  | svěžem              | svěžem                | svěžem  | svěžej   |
+
+  </TabItem>
+  <TabItem value="pl" label={translate({ id: 'com.grammar.plural', message: 'Plural' })}>
+
+| Case | Masculine (animate) | Masculine (inanimate) | Neuter  | Feminine |
+| ---- | ------------------- | --------------------- | ------- | -------- |
+| Nom  | svěži               | svěže                 | svěže   | svěže    |
+| Acc  | svěžih              | svěže                 | svěže   | svěže    |
+| Gen  | svěžih              | svěžih                | svěžih  | svěžih   |
+| Dat  | svěžim              | svěžim                | svěžim  | svěžim   |
+| Ins  | svěžimi             | svěžimi               | svěžimi | svěžimi  |
+| Loc  | svěžih              | svěžih                | svěžih  | svěžih   |
+
+  </TabItem>
+</Tabs>

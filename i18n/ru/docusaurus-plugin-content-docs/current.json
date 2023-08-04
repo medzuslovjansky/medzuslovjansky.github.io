@@ -14,5 +14,21 @@
   "sidebar.learnSidebar.category.Vocabulary": {
     "message": "Vocabulary",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Simple grammar": {
+    "message": "Simple grammar",
+    "description": "The label for category Simple grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Грамматика": {
+    "message": "Грамматика",
+    "description": "The label for category Грамматика in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Простая грамматика": {
+    "message": "Простая грамматика",
+    "description": "The label for category Простая грамматика in sidebar learnSidebar"
   }
 }

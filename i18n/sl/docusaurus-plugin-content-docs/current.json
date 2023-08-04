@@ -14,5 +14,25 @@
   "sidebar.learnSidebar.category.Vocabulary": {
     "message": "Vocabulary",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Simple grammar": {
+    "message": "Simple grammar",
+    "description": "The label for category Simple grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Miscellaneous": {
+    "message": "Miscellaneous",
+    "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Uvod": {
+    "message": "Uvod",
+    "description": "The label for category Uvod in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Slovnica": {
+    "message": "Slovnica",
+    "description": "The label for category Slovnica in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Preprosta slovnica": {
+    "message": "Preprosta slovnica",
+    "description": "The label for category Preprosta slovnica in sidebar learnSidebar"
   }
 }
