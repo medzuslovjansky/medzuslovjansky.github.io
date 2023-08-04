@@ -1,6 +1,6 @@
 import React from 'react'
 import clsx from 'clsx'
-import styles from "./KeyboardMobile.module.scss"
+import styles from "./Compact.module.scss"
 
 const lathinAlphabetData = [
   ['', '', '', '', '', '', '', '', '', '', '', '', '', ''],
@@ -19,10 +19,10 @@ const cyrillicAlphabetData = [
   ['', '', '', '', '', '', '', '', ''],
 ];
 
-export default function KeyboardMobile({ alphabet, accentColor }) {
-  let alphabetData = cyrillicAlphabetData;
-  if (alphabet === 'lathin') {
-    alphabetData = lathinAlphabetData;
+export default function Compact({ alphabet, accentColor = 'lathin' }) {
+  let alphabetData = lathinAlphabetData;
+  if (alphabet === 'cyrillic') {
+    alphabetData = cyrillicAlphabetData;
   }
 
   return (

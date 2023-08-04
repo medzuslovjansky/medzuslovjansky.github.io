@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import styles from "./Keyboard.module.scss";
+import styles from "./Full.module.scss";
 
 function KeyText({ x, y, alt, shift, children, handleMouseDown, handleMouseUp, className }) {
 
@@ -136,30 +136,30 @@ function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
   )
 }
 
-export default function Keyboard() {
-  const base = "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./";
-  const alt = "ü¹²³⁴‰¶↑↓←→—≠śęěŕťùųąȯòėřṙåšďđğḥůłĺľăžźčćňńżŀèı";
-  const shift = "~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:\"ZXCVBNM<>?";
-  const altShift = ['Ü', '÷', '¹⁄₂', '¹⁄₃', '¹⁄₄', 'ﬁ', 'ˆ', '¿', '°', '〈', '°', ...'–±ŚĘĚŔŤÙŲĄȮÒĖŘṘÅŠĎĐĞḤŮŁĹĽĂŽŹČĆŇŃŻĿÈI'.split('')];
+const base = "`1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./";
+const alt = "ü¹²³⁴‰¶↑↓←→—≠śęěŕťùųąȯòėřṙåšďđğḥůłĺľăžźčćňńżŀèı";
+const shift = "~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:\"ZXCVBNM<>?";
+const altShift = ['Ü', '÷', '¹⁄₂', '¹⁄₃', '¹⁄₄', 'ﬁ', 'ˆ', '¿', '°', '〈', '°', ...'–±ŚĘĚŔŤÙŲĄȮÒĖŘṘÅŠĎĐĞḤŮŁĹĽĂŽŹČĆŇŃŻĿÈI'.split('')];
 
-  function keyList(startX, y, startNumber, endNumber) {
-    let x = startX;
-    const keyRow = [];
+function keyList(startX, y, startNumber, endNumber) {
+  let x = startX;
+  const keyRow = [];
 
-    for (let i = startNumber; i <= endNumber; i++) {
-      keyRow.push(
-        <Key key={x} base={base[i]} alt={alt[i]} shift={shift[i]} altShift={altShift[i]} x={x} y={y} />
-      )
-      x += 48;
-    }
-    return keyRow;
+  for (let i = startNumber; i <= endNumber; i++) {
+    keyRow.push(
+      <Key key={x} base={base[i]} alt={alt[i]} shift={shift[i]} altShift={altShift[i]} x={x} y={y} />
+    )
+    x += 48;
   }
+  return keyRow;
+}
 
-  const firstRow = keyList(9.5, 28.5, 0, 12);
-  const secondRow = keyList(91.5, 76.5, 13, 25);
-  const thidRow = keyList(105.5, 126.5, 26, 36);
-  const fouthRow = keyList(129.5, 174.5, 37, 46);
+const firstRow = keyList(9.5, 28.5, 0, 12);
+const secondRow = keyList(91.5, 76.5, 13, 25);
+const thidRow = keyList(105.5, 126.5, 26, 36);
+const fouthRow = keyList(129.5, 174.5, 37, 46);
 
+export default function Full({ alphabet, accentColor }) {
   return (
     <>
       <svg
