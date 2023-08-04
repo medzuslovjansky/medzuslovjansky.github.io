@@ -23,12 +23,12 @@ function KeyText({ x, y, alt, shift, children, handleMouseDown, handleMouseUp, c
 }
 
 function Key({ base, alt, shift, altShift, x, y }) {
-  const [isClicked, setisClicked] = useState(false);
+  const [isClicked, setIsClicked] = useState(false);
   const handleMouseDown = () => {
-    setisClicked(true);
+    setIsClicked(true);
   }
   const handleMouseUp = () => {
-    setisClicked(false);
+    setIsClicked(false);
   }
   return (
     <g>
@@ -101,12 +101,12 @@ function ServiceKeyText({ x, y, children, correctionPointX = 17.297, correctionP
 }
 
 function ServiceKey({ base, x, y, width = 75, height = 41, correctionPointY }) {
-  const [isClicked, setisClicked] = useState(false);
+  const [isClicked, setIsClicked] = useState(false);
   const handleMouseDown = () => {
-    setisClicked(true);
+    setIsClicked(true);
   }
   const handleMouseUp = () => {
-    setisClicked(false);
+    setIsClicked(false);
   }
   return (
     <g>
