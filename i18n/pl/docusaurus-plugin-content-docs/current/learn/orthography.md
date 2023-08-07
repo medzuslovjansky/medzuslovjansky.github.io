@@ -1,0 +1,152 @@
+---
+sidebar_position: 2
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/orthography.html
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
+import {translate} from "@docusaurus/Translate";
+
+import Alphabet from '@site/src/markdown/alphabet.mdx';
+import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
+import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
+import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
+
+# Ortografia
+
+## Standardowy alfabet \{#standard-alphabet}
+
+Kwestia, jak należy pisać Międzysłowiańską, zawsze była przedmiotem dyskusji. Idealnie byłoby, gdyby każdy Słowianin mógł napisać to na własnej klawiaturze, ale to wykluczałoby możliwość stosowania jednej standardowej ortografii. Różne krajowe ortografie są po prostu zbyt rozbieżne, aby znaleźć rozwiązanie wygodne dla wszystkich. Uznanie którejkolwiek z nich za „oficjalną” lub „standardową” byłoby niesprawiedliwe, ponieważ wszystkie inne możliwości automatycznie zostałyby uznane za „nieoficjalne”, „niestandardowe”, a zatem „niepoprawne”. Ale z drugiej strony sytuacja ze zbyt wieloma różnymi standardami pisania ma tę wadę, że jest zagmatwana i potencjalnie zniechęcająca dla osób, które chcą nauczyć się języka intersłowiańskiego.
+
+Ponieważ granica między łaciną a cyrylicą przebiega przez środek terytorium słowiańskiego, międzysłowiański ma standardowe alfabety dla obu. Żaden z nich nie jest oparty w szczególności na żadnej narodowej ortografii. Zamiast tego zaprojektowano je jako kompromis, aby były intuicyjnie zrozumiałe i umożliwiały łatwą transliterację między nimi. Użytkowników zdecydowanie zachęca się do korzystania z tych standardowych alfabetów, ale osobom, które mają problemy z pisaniem określonych znaków, proponuje się również [rozwiązania alternatywne][1].
+
+**Międzysłowiański alfabet łaciński** składa się z 27 liter: 23 litery podstawowego alfabetu łacińskiego (wszystkie z wyjątkiem `q`, `w` i `x`) plus cztery spółgłoski z caron (`š`, `ž`, `č` i `ě`), a także trzy dwuznaki (`dž`, `lj`, `nj`):
+
+<LatinAlphabet />
+
+**Cyrylica międzysłowiańska** ma 29 liter: wszystkie znaki wspólne dla różnych ortografii cyrylicy, z dodatkiem `є`, `ы`, `ј` , `љ`, `њ`, a także jeden dwuznak (`дж`):
+
+<CyrillicAlphabet />
+
+Obie ortografie są sobie równe, aw publikowanych tekstach zaleca się podawanie zarówno wersji łacińskiej, jak i cyrylicy, aby były zrozumiałe po obu stronach granicy.
+
+Układy klawiatury międzysłowiańskiej można pobrać [tutaj][2].
+
+## Reprezentacja problematycznych znaków \{#representation-of-problematic-characters}
+
+Jak wspomniano powyżej, zarówno alfabet łaciński, jak i cyrylica zawierają znaki, których nie można zapisać na każdej słowiańskiej klawiaturze. Ci, którzy nie potrafią napisać znaku na własnej klawiaturze, mają do dyspozycji kilka alternatyw. Oto kilka zaleceń:
+
+### łacina `Č` `Š` `Ž` \{#latin-č-š-ž}
+
+Te litery są bardzo ważne w języku słowiańskim. Pominięcie karonu (jak to często robią native speakerzy w języku SMS) ma negatywny wpływ na zrozumiałość języka intersłowiańskiego, ponieważ **`c` `s` `z`** to zupełnie inne fonemy.
+
+Ponieważ Polacy nie mają liter na klawiaturze, sugerowaną dla nich alternatywą jest `cz sz ż`. Ci, którzy nie mają `ż` na klawiaturze, mogą zamiast tego użyć **`cz` `sz` `zs`**. Alternatywnym rozwiązaniem jest **`cx` `sx` `zx`**, ​​którego zaletą jest spójność i jednoznaczność, ale wadą jest nienaturalność (i w oczach wielu osób brzydka). Lepiej unikać innych opcji. Na przykład angielskie **`ch` `sh` `zh`** ma tę wadę, że Zachodni Słowianie odczytaliby `ch` jako `h` :ipa[x], podczas gdy rozwiązania obejmujące nie Znaki -literowe (takie jak `c^`, `c*`, `c'`) sprawiają, że wygląda to jak kod komputerowy. Wreszcie, nie używaj znaków takich jak `q` lub `w` (tak zwane _kodowanie Volapük_) jako zamienników, ponieważ spowodowałoby to tylko zamieszanie.
+
+### łacina `Ě` i cyrylica `Є` \{#latin-ě-and-cyrillic-є}
+
+Znaczenie `ě` (tzw. _yat_) polega na jego wymowie. Podczas gdy w większości języków `e` nie zmiękcza poprzedzającej go spółgłoski, `ě` zmiękcza ją we wszystkich językach z wyjątkiem słoweńskiego, serbskiego i macedońskiego, co dotyczy 96% użytkowników. Dlatego logiczne jest, że to dość znaczne rozróżnienie występuje również w języku międzysłowiańskim. W alfabecie łacińskim tradycyjną reprezentacją tego fonemu jest `ě`, co również stanowi dobry kompromis między na przykład serbskim `e` a chorwackim **`ije`/`je`**. Wadą `ě` jest to, że tylko czeski i łużycki mają go w swoich alfabetach.
+
+Cyrylicą odpowiednikiem `ě` jest litera `є`, zapożyczona z języka ukraińskiego, gdzie jej wymowa jest podobna. Wybrano go ze względu na wizualne podobieństwo do `е`, a także brak jakiejkolwiek innej dobrej alternatywy w cyrylicy. Teoretycznie archaiczna litera `ѣ` (tradycyjne _yat_) jest historycznie bardziej poprawna, ale ponieważ nie jest ona obecnie używana w żadnym żywym języku słowiańskim (w 1945 r. ludzie mogą go rozpoznać, użycie go w tekstach międzysłowiańskich poważnie utrudniłoby zrozumiałość.
+
+Dla tych, którzy nie potrafią pisać **`ě` / `є`** i tych, którzy nie wiedzą, kiedy to napisać, najlepszą alternatywą jest łacina `e` / cyrylica `е`. Jest to uzasadnione uproszczenie, które stawia `ě` w pozycji podobnej do litery `ё` w języku rosyjskim, innymi słowy: znak diakrytyczny reprezentuje inną wymowę, ale może pozostać niepisany.
+
+### łacina `Y` i cyrylica `Ы` \{#latin-y-and-cyrillic-ы}
+
+List **`y` / `ы`** jest pomocny głównie Rosjanom, Białorusinom i Polakom. W południowosłowiańskim, ukraińskim oraz mówionym czeskim i słowackim połączył się z `i`. Tym, którzy nie wiedzą, kiedy dokonać rozróżnienia, a także tym, którzy kierują reklamy głównie do odbiorców południowosłowiańskich, zaleca się używanie we wszystkich przypadkach **`i` / `и`**.
+
+### Cyrylica `Ј` \{#cyrillic-ј}
+
+Intersłowiańska używa litery `ј` z cyrylicy serbskiej i macedońskiej jako odpowiednika łaciny `j`, ponieważ `й` (rosyjski, ukraiński, białoruski i bułgarski) jest zbyt restrykcyjny otaczające je samogłoski i spółgłoski. Dla tych, którzy mają problemy z pisaniem `ј`, logicznym zamiennikiem jest `й`, ale jeśli następuje po nim samogłoska, w większości przypadków zostanie użyta samogłoska jotowana:
+
+- `йа` i `йу` można zapisać odpowiednio `я` i `ю`; jest to zdecydowanie najbardziej naturalne rozwiązanie, ale należy pamiętać, że nie wszyscy Serbowie i Macedończycy znają te znaki, także dlatego, że ich kształty nie są szczególnie sugestywne;
+- `йо` nigdy nie stanowi problemu; Należy jednak unikać rosyjskiego `ё`, ponieważ jest on używany w różnych sytuacjach i może nie być jasny dla osób nieznających rosyjskiego;
+- `йе` jest bardziej problematyczne; najlepszym rozwiązaniem jest prawdopodobnie `е` po samogłosce, `ье` po spółgłosce i `йе` na początku wyrazu;
+- `йи` można zapisać jako `ьи` po spółgłosce i `и` w innych pozycjach, ponieważ nie ma zasadniczej różnicy między początkiem sylaby `и` w każdym razie.
+
+### Cyrylica `Љ` i `Њ` \{#cyrillic-љ-and-њ}
+
+Odpowiedniki cyrylicy `lj` i `nj` to `љ` i `њ`, również zaczerpnięte z cyrylicy serbskiej i macedońskiej. Ci, którzy nie mają tych liter na klawiaturze, zawsze mogą zamiast nich napisać `ль` i `нь`.
+
+## Alfabet etymologiczny \{#etymological-alphabet}
+
+Oprócz standardowego alfabetu łacińskiego, intersłowiański zawiera również szereg opcjonalnych liter, które odnoszą się konkretnie do fonemów prasłowiańskich / staro-cerkiewno-słowiańskich, które rozeszły się lub zniknęły w większości współczesnych języków:
+
+<DisappearedPhonemes />
+
+- Samogłoski `ę` i `ų` pasują do samogłosek nosowych `ѧ` i `ѫ` w języku staro-cerkiewno-słowiańskim (odpowiednio małe yus i duże yus, zwykle transliterowane jako `ę` i `ǫ`).
+- Samogłoska `å` występuje w kombinacjach `rå` i `lå`, po których następuje spółgłoska, gdzie polski ma **`ro`/`ró`** i **`ło`/`łó`** i wschodniosłowiański ma **(`o`)`ro`** i **(`o`)`lo`**.
+- Samogłoski `ė` i `ȯ` reprezentują silne yery: `ь` (`ĭ`) i `ъ` (`ŭ`).
+- Spółgłoski `ć` i `đ` odnoszą się do prasłowiańskiego `tj` i `dj`, które w staro-cerkiewnosłowiańskim stało się `щ` (`št`) i `жд` (`žd`).
+- Miękkie spółgłoski **`ĺ` `ń` `ŕ` `t́` `d́` `ś` `ź`** odnoszą się do spółgłosek, po których następuje słaby `ь`.
+
+Wspomniane litery są jedynie opcjonalnymi rozszerzeniami standardowego alfabetu łacińskiego. Z tego powodu nigdy nie ma potrzeby przedstawiania ich w inny sposób niż po prostu pomijając znak diakrytyczny; jedynymi wyjątkami są `ć` i `đ`, które w standardowej ortografii należy zastąpić `č` i `dž`.
+
+Litery `ĺ` i `ń` występują tylko przed spółgłoską. Fonetycznie są one identyczne z `lj` i `nj`, z tą różnicą, że zwykle nie są zapisywane w języku intersłowiańskim.
+
+Należy zauważyć, że międzysłowiański alfabet etymologiczny nie zawiera znaczników długości ani tonów, ani specjalnych liter zapożyczonych z języków niesłowiańskich (takich jak OCS `ѳ` i `ѵ`, używane tylko do słowa greckie lub `ü` dla słów niemieckich lub francuskich).
+
+### Uzasadnienie \{#rationale}
+
+Podstawowe alfabety języka międzysłowiańskiego — łaciński i cyrylica — składają się z liter, których wymowa jest podobna we wszystkich językach słowiańskich. Jednak prasłowiański i staro-cerkiewno-słowiański miał również szereg fonemów, które rozwijały się w różnych kierunkach. W większości współczesnych języków te zmiany dźwiękowe były niezwykle przewidywalne. Przypisując tym fonemom znak specjalny, każdy z nich można powiązać z określonym fonemem w dowolnym współczesnym języku słowiańskim, pokrywając w ten sposób główne różnice fonologiczne między tymi ostatnimi. Innymi słowy, ten rozszerzony alfabet może służyć jako pomost między językami staro-cerkiewno-słowiańskimi a współczesnymi językami słowiańskimi, ale także jako ortografia pośrednia między staro-cerkiewno-słowiańskim a międzysłowiańskim.
+
+W przeciwieństwie do alfabetów, takich jak międzynarodowy alfabet fonetyczny i [alfabet słowiański][3], ta ortografia nie ma na celu informowania o wymowie poszczególnych języków, ale pokazanie zależności między nimi. Można to porównać do ortografii języka angielskiego: chociaż istnieją ogromne różnice w wymowie między brytyjskim angielskim, szkockim angielskim i amerykańskim angielskim, wszystkie są pisane praktycznie w ten sam sposób, przy użyciu konwencji pisowni, która reprezentuje język mówiony z XIV wieku. Gdyby Słowianie używali podobnego alfabetu zamiast opartych na wymowie narodowych ortografii, słowo oznaczające „pięć” we wszystkich językach słowiańskich można by zapisać jako :isv[_pęt́_] zamiast :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
+
+Ten oparty na etymologii alfabet (wcześniej znany jako :notr[_Naučny medžuslovjansky_] „Naukowy międzysłowiański”) służy również jako kod źródłowy języka międzysłowiańskiego. Został zaprojektowany w taki sposób, aby różnił się od standardowego międzysłowiańskiego jedynie dodatkowymi znakami diakrytycznymi, tak aby czytelnik nieobeznany z tymi znakami diakrytycznymi mógł je po prostu zignorować. Używanie tej ortografii w języku międzysłowiańskim może służyć następującym celom:
+
+- przekazywanie informacji etymologicznych,
+- wspomaganie procesu uczenia się poprzez ułatwianie łączenia wyrazów międzysłowiańskich z ich odpowiednikami w innych językach słowiańskich,
+- podanie bardziej precyzyjnych informacji o idealnej (najbardziej centralnej) wymowie,
+- umożliwienie użytkownikom adaptacji („flaworyzacji”) pisanego i mówionego języka międzysłowiańskiego dla użytkowników poszczególnych języków (zobacz [flaworyzacja][4]),
+- umożliwienie transkrypcji tekstu z dowolnego języka słowiańskiego na ortografię międzysłowiańską.
+
+### Użycie \{#usage}
+
+Tekst z dużą ilością znaków diakrytycznych może wydawać się odstraszający dla nowicjuszy, których pierwszy kontakt z międzysłowiańskim prawdopodobnie nie jest tak jasny. Dla osób uczących się języka mylącym jest, gdy różni uczestnicy rozmowy używają różnych ortografii. Mogą błędnie sądzić, że te znaki diakrytyczne są obowiązkowe lub że pisany międzysłowiański z tymi rozszerzeniami jest lepszy od międzysłowiańskiego pisanego bez nich. W końcu litery takie jak `ę` i `ų` mogą być pomocne dla Polaków i być może dla Słowian wschodnich, ale zwłaszcza dla Słowian południowych używanie tej ortografii w ogóle nie pomaga: dla nich to jest tylko niepotrzebna komplikacja. Dlatego prosimy o powstrzymanie się od używania tej ortografii w codziennych rozmowach, chyba że używasz jej w określonym celu. W takim przypadku wyjaśnij, dlaczego ich używasz i że te znaki diakrytyczne są jedynie opcjonalnymi dodatkami.
+
+Ci, którzy i tak używają tych rozszerzonych znaków, nie są w żaden sposób zobowiązani do korzystania z całego zestawu: użytkownicy mogą wybrać z niego, co im się podoba, i pominąć to, czego nie chcą. Są tylko dwa ograniczenia. Po pierwsze, jeśli zdecydujesz się na użycie jakiejś postaci z zestawu rozszerzonego, używaj jej konsekwentnie. Po drugie, niektóre litery występują w parach (**`ę`/`ų`**, **`ė`/`ȯ`**, **`t́`/`d́`**, **`ś`/`ź`**) i nie ma sensu używać jednego przedmiotu z pary, pomijając drugi.
+
+Ponieważ te rozszerzenia są opcjonalne, alternatywne reprezentacje nie są bezwzględnie potrzebne. Ponieważ jednak litery `t́` i `d́` nie występują w żadnym języku (nawet w Unicode można je zapisać tylko za pomocą łączącego znaku diakrytycznego), można je też zapisać z haczekiem: `ť` i `ď`; zwróć uwagę, że w większości fontów haczek pojawia się jako apostrof. Podobnie `ĺ` można zapisać jako `ľ`. W końcu zamiast `ė` i `ȯ` można również napisać `è` i `ò`.
+
+### Cyrylica \{#cyrillic}
+
+W alfabecie łacińskim dodatkowe informacje etymologiczne są przekazywane wyłącznie za pomocą znaków diakrytycznych. Dzięki temu zrozumiałość bierna nie jest utrudniona, a czytelnik, który ich nie zna, i tak może zrozumieć tekst. Podobne podejście do cyrylicy (używając znaków takich jak `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ` itd.) nie tylko nadałyby tekstowi wyjątkowo sztuczny wygląd, ale byłyby również mało pomocne, ponieważ modyfikacje nie byłyby zbyt czytelne. Rozszerzona cyrylica z wykorzystaniem historycznych (`ѣ`, `ѩ`, `ѫ`) i regionalnych (`ћ`, `ђ`) znaków byłyby bardzo trudna do zrozumienia dla osób niezaznajomionych z ortografią staro-cerkiewno-słowiańską, a zatem kolidowałyby z celem języka międzysłowiańskiego. Z tego powodu międzysłowiański alfabet etymologiczny nie ma odpowiednika w cyrylicy.
+
+## Przegląd \{#overview}
+
+Poniższa tabela przedstawia odpowiedniki między wyżej wymienionymi literami (sugerowane alternatywne pisownie zaznaczono na szaro w nawiasach). [Transliterator][5] umożliwia transliterację między łaciną a cyrylicą.
+
+<Tabs>
+  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
+    <AlphabetOverview script="art-Latn-x-interslv" />
+  </TabItem>
+
+  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
+    <AlphabetOverview script="art-Cyrl-x-interslv" />
+  </TabItem>
+</Tabs>
+
+## Wytyczne \{#guidelines}
+
+Podsumowując, istnieje kilka możliwości napisania tego samego słowa. Ogólna zasada brzmi: im bardziej zrozumiałe, tym lepiej. Należy jednak pamiętać o kilku rzeczach:
+
+- Aby uniknąć nieporozumień wśród nowicjuszy, staraj się w jak największym stopniu przestrzegać standardowej ortografii łacińskiej i/lub cyrylicy. Układy klawiatury międzysłowiańskiej można pobrać [tutaj][2].
+- Z tego samego powodu nie używaj alfabetu etymologicznego (wcześniej znanego jako :notr[_Naučny medžuslovjansky_]) w zwykłych rozmowach. Ilekroć go używasz, wyraźnie wspomnij, dlaczego to robisz.
+- Unikaj używania znaków z cyrylicy, które nie są już używane (takie jak `ѣ`, `ѩ`, `ѫ`, `ѱ`) i nie korzystaj z alfabetu etymologicznego cyrylicy w jakikolwiek inny sposób, ponieważ oba działania poważnie utrudniłyby zrozumienie.
+- Jeśli masz problemy z pisaniem niektórych znaków, skorzystaj z jednej z sugerowanych alternatyw.
+- Bądź konsekwentny w swoich wyborach. Jeśli na przykład zdecydujesz się użyć `sz` do reprezentowania `š`, zachowaj to w całym tekście lub rozmowie, w przeciwnym razie stworzysz tylko zamieszanie. Z tego samego powodu, jeśli używasz `sz`, nie używaj jednocześnie `č` ani `cx`.
+- Nie używaj znaków innych niż litery (:kbd[^], :kbd['] itp.) jako sposobu na zastąpienie znaków diakrytycznych. Nie sprawią, że Twój tekst będzie bardziej czytelny, a większość ludzi uzna je za brzydkie.
+- Nigdy nie mieszaj łaciny z cyrylicą.
+- Zwracając się do członków określonego narodu słowiańskiego (na przykład podczas podróży), możesz rozważyć [flaworyzowanie swojego języka międzysłowiańskiego][4]. Nie stosuj jednak flaworyzowania w środowiskach wielosłowiańskich.
+
+[1]: #representation-of-problematic-characters
+
+[2]: ../resources/keyboards.md
+
+[3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
+
+[4]: vocabulary/flavourisation.md
+
+[5]: http://steen.free.fr/interslavic/transliterator.html
