@@ -20,14 +20,14 @@ In [**Level 1**][1] you have learned a number of forms that can you can use to m
 
 **Level 2** differs from **Level 1** in two ways:
 
-1. You will learn about gender in Slavic and how to use it in `Slovianto`,
+1. You will learn about gender in Slavic and how to use it in :notr[Slovianto],
 2. You will learn how to conjugate verbs.
 
 ## Gender
 
-Most European languages have grammatical gender – English is one of the very few exceptions. It is no more than logical that words denoting male persons are always masculine and words denoting female persons are always feminine. The idea of grammatical gender, however, is that _every_ noun has a gender, even if there is no logical connection whatsoever between this gender and the meaning of the word. In French, for example, :notr[_l**e** vin_] „the wine” is masculine and :notr[_l**a** bière_] „the beer” is feminine. In German, :de[der Wein] „the wine” is masculine as well, but :de[das Bier] „the beer” is neuter. The gender of a noun affects not only the article, but also adjectives, possessive pronouns and other words that modify this noun. French has _`un bon vin froid`_ „one good cold wine”, but :notr[_un**e** bon**ne** bière froid**e**_] „one good cold beer”.
+Most European languages have grammatical gender – English is one of the very few exceptions. It is no more than logical that words denoting male persons are always masculine and words denoting female persons are always feminine. The idea of grammatical gender, however, is that _every_ noun has a gender, even if there is no logical connection whatsoever between this gender and the meaning of the word. In French, for example, :notr[_l**e** vin_] „the wine” is masculine and :notr[_l**a** bière_] „the beer” is feminine. In German, :de[der Wein] „the wine” is masculine as well, but :de[das Bier] „the beer” is neuter. The gender of a noun affects not only the article, but also adjectives, possessive pronouns and other words that modify this noun. French has _:notr[un bon vin froid]_ „one good cold wine”, but :notr[_un**e** bon**ne** bière froid**e**_] „one good cold beer”.
 
-All Slavic languages have three genders: masculine, feminine and neuter. At the first level of `Slovianto`, gender does not play a role, because it is not essential for communication on the most basic level. Small children often make mistakes with gender, but can still be understood. Which does not change the fact that :notr[dobry žena] „a good woman” sounds clumsy, because :isv[žena] is feminine and the ending `-y` is masculine. You can make your `Slovianto` look and sound a lot more natural if you also take into account gender. Establishing the gender of a noun is not difficult at all, because in almost all cases, looking at the word is enough to know its gender, which means that there is no need to learn the gender separately.
+All Slavic languages have three genders: masculine, feminine and neuter. At the first level of :notr[Slovianto], gender does not play a role, because it is not essential for communication on the most basic level. Small children often make mistakes with gender, but can still be understood. Which does not change the fact that :isv[dobry žena] „a good woman” sounds clumsy, because :isv[žena] is feminine and the ending `-y` is masculine. You can make your :notr[Slovianto] look and sound a lot more natural if you also take into account gender. Establishing the gender of a noun is not difficult at all, because in almost all cases, looking at the word is enough to know its gender, which means that there is no need to learn the gender separately.
 
 ### Nouns
 
@@ -35,88 +35,88 @@ To find out whether a word is masculine, feminine or neuter, it is enough to loo
 
 - Masculine words always end in a consonant:
 
-  _`muž`_ „man”
-  _`syn`_ „son”
-  _`dom`_ „house”
+  :isv[muž] „man”
+  :isv[syn] „son”
+  :isv[dom] „house”
 
 - Words on `-a` are feminine:
 
-  _`žena`_ „woman, wife”
-  _`duša`_ „soul”
-  _`voda`_ „water”
+  :isv[žena] „woman, wife”
+  :isv[duša] „soul”
+  :isv[voda] „water”
 
 - Words on `-o` and `-e` are neuter:
 
-  _`slovo`_ „word”
-  _`děte`_ „child”
-  _`morje`_ „sea”
+  :isv[slovo] „word”
+  :isv[děte] „child”
+  :isv[morje] „sea”
 
 - There is also a group of feminine words ending in a consonant. As a rule of thumb, remember that most of these are words ending on `-ost`:
 
-  _`kost`_ „bone”
-  _`velikost`_ „greatness”
+  :isv[kost] „bone”
+  :isv[velikost] „greatness”
 
 There are a few exceptions, but you don't need to worry about them at this point.
 
 At the first level, you have learned that the plural ending is `-i`. That works well for masculine and feminine nouns, however, in the case of neuter nouns it is better to use `-a` instead:
 
-_`slovo`_ → _slova_ „words”
-_`děte`_ → _děta_ „children”
-_`morje`_ → _morja_ „seas”
+:isv[slovo] → :isv[slova] „words”
+:isv[děte] → :isv[děta] „children”
+:isv[morje] → :isv[morja] „seas”
 
 ### Adjectives
 
-Not only nouns have gender, the same goes for adjectives and similar modifiers, too. Just like in French and German, the Slavic languages have _gender agreement_. This means that when a masculine noun is accompanied by an adjective, this adjective takes the masculine form, a feminine noun takes the feminine form of the adjective, etc. _`Dobry žena`_ looks a bit childish and clumsy, because it combines a feminine noun with a masculine adjective. So remember the following things:
+Not only nouns have gender, the same goes for adjectives and similar modifiers, too. Just like in French and German, the Slavic languages have _gender agreement_. This means that when a masculine noun is accompanied by an adjective, this adjective takes the masculine form, a feminine noun takes the feminine form of the adjective, etc. :isv[Dobry žena] looks a bit childish and clumsy, because it combines a feminine noun with a masculine adjective. So remember the following things:
 
 - The masculine ending is `-y` or `-i`. This is the form given in the dictionary:
 
-  _`dobry muž`_ „a good man”
+  :isv[dobry muž] „a good man”
 
 - The feminine ending is `-a`:
 
-  _`dobra žena`_ „a good woman”
+  :isv[dobra žena] „a good woman”
 
 - The neuter ending is `-e`:
 
-  _`dobre děte`_ „a good child”
+  :isv[dobre děte] „a good child”
 
 - For all genders the plural ending is `-e`:
 
-  _`dobre muži`_ „good men”
-  _`dobre ženi`_ „good woman”
-  _`dobre děta`_ „good children”
+  :isv[dobre muži] „good men”
+  :isv[dobre ženi] „good woman”
+  :isv[dobre děta] „good children”
 
 The same thing that goes for adjectives, goes also for possessive, demonstrative, relative, indefinite pronouns, as well as for numbers.
 
-- The possessive pronouns `moj` „my”, `tvoj` „your, thy”, `naš` „our”, `vaš` „your (pl.)”, `svoj` „one's own” and `čij` „whose” receive the same endings as adjectives (except in the masculine): `moj` (m.), `moja` (f.), `moje` (n.), `moje` (pl.). The same goes for the interrogative pronoun `koj` „which”:
+- The possessive pronouns :isv[moj] „my”, :isv[tvoj] „your, thy”, :isv[naš] „our”, :isv[vaš] „your (:abbr[pl.])”, :isv[svoj] „one's own” and :isv[čij] „whose” receive the same endings as adjectives (except in the masculine): :isv[moj] (:abbr[m.]), :isv[moja] (:abbr[f.]), :isv[moje] (:abbr[n.]), :isv[moje] (:abbr[pl.]). The same goes for the interrogative pronoun :isv[koj] „which”:
 
-  _`moj muž`_ „my husband”
-  _`tvoja žena`_ „your wife”
-  _`naše děte`_ „our child”
-  _`koje prijatelji`_ „which friends”
+  :isv[moj muž] „my husband”
+  :isv[tvoja žena] „your wife”
+  :isv[naše děte] „our child”
+  :isv[koje prijatelji] „which friends”
 
-- Possessive pronouns of the third person (`jego` „his, its”, `jej` „her”, `jih` „their”) do not alter (this is because these words are not strictly possessive pronouns, but literally mean something like „of him”, etc.):
+- Possessive pronouns of the third person (:isv[jego] „his, its”, :isv[jej] „her”, :isv[jih] „their”) do not alter (this is because these words are not strictly possessive pronouns, but literally mean something like „of him”, etc.):
 
-  _`jego žena`_ „his wife”
-  _`jih prijatelji`_ „their friends”
+  :isv[jego žena] „his wife”
+  :isv[jih prijatelji] „their friends”
 
-- The demonstrative pronoun `toj` has the forms `ta` (f.), `to` (n.) and `te` (pl.), instead of _\*`toja`, \*`toje`..._ (the same goes, of course, for `tutoj` and `tamtoj`):
+- The demonstrative pronoun :isv[toj] has the forms :isv[ta] (:abbr[f.]), :isv[to] (:abbr[n.]) and :isv[te] (:abbr[pl.]), instead of _\*:isv[toja], \*:isv[toje]..._ (the same goes, of course, for :isv[tutoj] and :isv[tamtoj]):
 
-  _`toj muž`_ „this man”
-  _`ta žena`_ „that woman”
-  _`to děte`_ „this child”
-  _`te prijatelji`_ „these friends”
+  :isv[toj muž] „this man”
+  :isv[ta žena] „that woman”
+  :isv[to děte] „this child”
+  :isv[te prijatelji] „these friends”
 
-- The relative pronoun `ktory` behaves like an adjective:
+- The relative pronoun:isv[ktory] behaves like an adjective:
 
-  _`žena, ktora čita`_ „a woman who reads”
-  _`děte, ktore ja viděl`_ „the child that I've seen”
+  :isv[žena, ktora čita] „a woman who reads”
+  :isv[děte, ktore ja viděl] „the child that I've seen”
 
-- The number `jedin` „one” has the forms `jedna` (f.) and `jedno` (n.):
+- The number:isv[jedin] „one” has the forms:isv[jedna] (:abbr[f.]) and:isv[jedno] (:abbr[n.]):
 
-  _`jedin muž`_ „one man”
-  _`jedna žena`_ „one woman”
-  _`jedno děte`_ „this child”
+  :isv[jedin muž] „one man”
+  :isv[jedna žena] „one woman”
+  :isv[jedno děte] „this child”
 
 ---
 
@@ -126,37 +126,37 @@ The same thing that goes for adjectives, goes also for possessive, demonstrative
 
 <VerbsPresentTense />
 
-In `Slovianto` level 1 you have learned that the present tense is formed by adding the ending `-(e)t` to the stem: _`ja děla-t`_ "I do", _`vy prosi-t`_ "you ask", _`oni nes-et`_ "they carry". To the Slavic ear, however, this sounds unnatural, because all Slavic languages inflect their verbs for person and number. To make a better impression, there is a lot to be gained by learning some of these personal endings as well.
+In :notr[Slovianto] level 1 you have learned that the present tense is formed by adding the ending `-(e)t` to the stem: :isv[ja děla-t] "I do", :isv[vy prosi-t] "you ask", :isv[oni nes-et] "they carry". To the Slavic ear, however, this sounds unnatural, because all Slavic languages inflect their verbs for person and number. To make a better impression, there is a lot to be gained by learning some of these personal endings as well.
 
 So, time to forget the ending `-t`! Instead, remember the following endings: `-m`, `-š`, `-Ø` (no ending) in the first, second and third person singular, and `-mo`, `-te`, `-ut` in the first, second and third person plural. When the stem ends in a vowel, insert `-j-` before the ending `-ut`. When the stem ends in a consonant, insert `-e-` before the remaining endings. See the table to the right for some examples.
 
-The ending `-š` and the personal pronoun `ty` should be used only for family, friends, children etc. In other cases, address people in the second person plural (`vy`, `-te`).
+The ending `-š` and the personal pronoun :isv[ty] should be used only for family, friends, children etc. In other cases, address people in the second person plural (:isv[vy], `-te`).
 
 ### Past tense
 
 <VerbsPastTense />
 
-In the past tense, verbs are not conjugated for person. However, they are conjugated for gender. This may seem odd, but the explanation is pretty simple: the form _`dělal`_ is actually a participle, meaning something like „having done”, and that's why it agrees with the subject in gender and number, but not in person. The forms are those shown in the table to the right.
+In the past tense, verbs are not conjugated for person. However, they are conjugated for gender. This may seem odd, but the explanation is pretty simple: the form :isv[dělal] is actually a participle, meaning something like „having done”, and that's why it agrees with the subject in gender and number, but not in person. The forms are those shown in the table to the right.
 
 ### Future tense
 
-The future tense is formed by combining the future tense of the verb `byti` „to be” with the infinitive. The forms are the same as if a verb **\*`bud-ti`** were conjugated in the present tense: `ja budem dělati, ty budeš dělati, on bude dělati`, etc.
+The future tense is formed by combining the future tense of the verb :isv[byti] „to be” with the infinitive. The forms are the same as if a verb **\*`bud-ti`** were conjugated in the present tense: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati], etc.
 
 ### Conditional
 
-The conditional is formed by adding the particle `by` to the past tense, and therefore subject to gender agreement: `ja by dělal` „I (m.) would do/have done”, `ty by dělala` „you (f.) would do/have done”, `my by dělali` „we would do/have done”.
+The conditional is formed by adding the particle :isv[by] to the past tense, and therefore subject to gender agreement: :isv[ja by dělal] „I (:abbr[m.]) would do/have done”, :isv[ty by dělala] „you (:abbr[f.]) would do/have done”, :isv[my by dělali] „we would do/have done”.
 
 ### Imperative
 
 <VerbsImperative />
 
-Apart from the imperative form you have already learned (the 2nd person plural), there are also imperative forms for the 2nd person singular and the 1st person plural. The endings are `-j` (2 sg.), `-jmo` (1 pl.) and `-jte` (2 pl.) after a vowel, and `-i` (2 sg.), `-imo` (1 pl.) and `-ite` (2 pl.) after a consonant. Thus, :isv[dělajte] means „do!” and can be directed at more people at once, but also serve as a more polite singular form, while :isv[dělaj] should only be used for friends, family and children. _`Dělajmo`_ means: „Let's do”.
+Apart from the imperative form you have already learned (the 2nd person plural), there are also imperative forms for the 2nd person singular and the 1st person plural. The endings are `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) and `-jte` (:abbr[2 pl.]) after a vowel, and `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.]) and `-ite` (:abbr[2 pl.]) after a consonant. Thus, :isv[dělajte] means „do!” and can be directed at more people at once, but also serve as a more polite singular form, while :isv[dělaj] should only be used for friends, family and children. :isv[Dělajmo] means: „Let's do”.
 
 ### The verb „to be”
 
 <VerbsToBe />
 
-Since all the above also affects the only irregular verb in `Slovianto`, `byti` „to be”, here is its complete conjugation.
+Since all the above also affects the only irregular verb in :notr[Slovianto], :isv[byti] „to be”, here is its complete conjugation.
 
 ---
 
@@ -180,4 +180,4 @@ Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaj
   </TabItem>
 </Tabs>
 
-[1]: level-1.md
+[1]: level-1.mdx
