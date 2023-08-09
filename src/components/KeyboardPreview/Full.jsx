@@ -31,51 +31,40 @@ function Key({ base, alt, shift, altShift, x, y }) {
     setIsClicked(false);
   }
   return (
-    <g>
+    <g onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}>
       <rect
         width={41}
         height={41}
         x={x}
         y={y}
-        fill={isClicked
-          ? "var(--key-fill-click-color)"
-          : "var(--key-fill-color)"
-        }
+        fill={'transparent'}
+        style={{ '--key-fill-color': 'var(--key-fill-click-color)' }}
         stroke={isClicked ? "#147CFA" : "#646464"}
         strokeWidth={isClicked ? 3 : 1}
         rx={3}
-        onMouseDown={handleMouseDown}
-        onMouseUp={handleMouseUp}
       ></rect>
       <KeyText
         className={styles.textColorBase}
         x={x}
         y={y}
-        handleMouseDown={handleMouseDown}
-        handleMouseUp={handleMouseUp}
       >{base}</KeyText>
       <KeyText
         className={styles.textColorAlt}
         x={x}
         y={y}
-        handleMouseDown={handleMouseDown}
-        handleMouseUp={handleMouseUp}
         alt
       >{alt}</KeyText>
       <KeyText
         className={styles.textColorShift}
         x={x}
         y={y}
-        handleMouseDown={handleMouseDown}
-        handleMouseUp={handleMouseUp}
         shift
       >{shift}</KeyText>
       <KeyText
         className={styles.textColorAltShift}
         x={x}
         y={y}
-        handleMouseDown={handleMouseDown}
-        handleMouseUp={handleMouseUp}
         alt shift
       >{altShift}</KeyText>
     </g >
@@ -159,7 +148,8 @@ const secondRow = keyList(91.5, 76.5, 13, 25);
 const thidRow = keyList(105.5, 126.5, 26, 36);
 const fouthRow = keyList(129.5, 174.5, 37, 46);
 
-export default function Full({ alphabet, accentColor }) {
+export default function Full({ name, lang, script, states }) {
+
   return (
     <>
       <svg
@@ -170,14 +160,7 @@ export default function Full({ alphabet, accentColor }) {
         viewBox="0 0 718 274"
         className={styles.svgKeyboard}
       >
-        <path d="M0 0H718V274H0z" className={styles.svgBackground}
-        ></path>
-        <g clipPath="url(#clip0_358_2616)">
-          <path
-            d="M0 0H1233V1248H0z"
-            transform="translate(-61 -243)"
-            className={styles.svgBackground}
-          ></path>
+        <g>
           <g>
             <rect
               width="716"
@@ -212,15 +195,6 @@ export default function Full({ alphabet, accentColor }) {
             </g>
           </g>
         </g>
-        <defs>
-          <clipPath id="clip0_358_2616">
-            <path
-              fill="#fff"
-              d="M0 0H1233V1248H0z"
-              transform="translate(-61 -243)"
-            ></path>
-          </clipPath>
-        </defs>
       </svg>
     </>
   )

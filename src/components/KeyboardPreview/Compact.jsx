@@ -19,7 +19,7 @@ const cyrillicAlphabetData = [
   ['', '', '', '', '', '', '', '', ''],
 ];
 
-export default function Compact({ alphabet, accentColor = 'lathin' }) {
+export default function Compact({ alphabet, script = 'Cyrl' }) {
   let alphabetData = lathinAlphabetData;
   if (alphabet === 'cyrillic') {
     alphabetData = cyrillicAlphabetData;
@@ -27,17 +27,17 @@ export default function Compact({ alphabet, accentColor = 'lathin' }) {
 
   return (
     <>
-      <div className={clsx(styles.keyboard, styles[accentColor])}>
+      <div className={clsx(styles.keyboard, styles[script])}>
         {alphabetData.map((row, rowIndex) => (
           <div key={rowIndex} className={styles.row}>
             {row.map((letter, columnIndex) => (
-              <span key={columnIndex} className={letter !== '' ? styles.key : clsx(styles.key, styles.inactive)}>
+              <span key={columnIndex} className={clsx(styles.key, { [styles.inactive]: letter === '' })}>
                 {letter}
               </span>
             ))}
           </div>
         ))}
-      </div>
+      </div >
     </>
   )
 }

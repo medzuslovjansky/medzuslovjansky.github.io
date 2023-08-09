@@ -1,6 +1,6 @@
 .keyboard {
   display: inline-flex;
-  flex-direction: column;
+  flex-wrap: wrap;
 
   --active-key-bg: #DDE9FB;
   --active-key-fg: #506483;
@@ -50,6 +50,8 @@
 
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 10%), var(--active-key-bg-default);
   color: var(--active-key-fg-default);
+
+
 
   &.inactive {
     background: #f1f3f7;
@@ -152,4 +154,14 @@
       }
     }
   }
+}
+
+.pressed {
+  background-color: #adcaf5;
+}
+
+.serviceKey {
+  padding: 0 1rem;
+  border: solid 1px #000;
+  border-radius: 3px;
 }

@@ -1,31 +1,31 @@
-[data-theme='light'] {
-  --text-color-base: #444;
-  --text-color-alt: #337093;
-  --text-color-shift: #8E4040;
-  --text-color-alt-shift: #671584;
-  --text-color-service: #646464;
-
-  --svg-fill-color: #fff;
-
-  --key-fill-color: #fff;
-  --key-fill-click-color: #e7f3ff;
-}
-
-[data-theme='dark'] {
-  --text-color-base: #eaebec;
-  --text-color-alt: #83a2bb;
-  --text-color-shift: #a0808c;
-  --text-color-alt-shift: #c3b9da;
-  --text-color-service: #eaebec;
-
-  --svg-fill-color: #1a2933;
-
-  --key-fill-color: #1a2933;
-  --key-fill-click-color: #274255;
-}
-
 .svgKeyboard {
   font-family: sans-serif;
+
+  [data-theme='light'] & {
+    --text-color-base: #444;
+    --text-color-alt: #337093;
+    --text-color-shift: #8E4040;
+    --text-color-alt-shift: #671584;
+    --text-color-service: #646464;
+
+    --svg-fill-color: #fff;
+
+    --key-fill-color: #fff;
+    --key-fill-click-color: #e7f3ff;
+  }
+
+  [data-theme='dark'] & {
+    --text-color-base: #eaebec;
+    --text-color-alt: #83a2bb;
+    --text-color-shift: #a0808c;
+    --text-color-alt-shift: #c3b9da;
+    --text-color-service: #eaebec;
+
+    --svg-fill-color: #1a2933;
+
+    --key-fill-color: #1a2933;
+    --key-fill-click-color: #274255;
+  }
 }
 
 .textColorBase {

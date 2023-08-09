@@ -1,1 +1,1 @@
-export { default as KeyboardPreview } from "../KeyboardPreview/Wrapper";
+export { default as KeyboardPreview } from "./Wrapper";
