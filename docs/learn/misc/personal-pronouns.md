@@ -27,7 +27,7 @@ Interslavic is entirely based on the natural Slavic languages, and the forms hav
 - The genitive is generally the same as the accusative.
 - The locative is often very similar or identical to the dative.
 - The genitive is never identical to the dative.
-- The accusative :isv[mene] in Interslavic is based on counting (discounting the smaller languages): 7 `men`-, 3 `mn`-; 8 -`e`, 2 -`ja`.
+- The accusative :isv[mene] in Interslavic is based on counting (discounting the smaller languages): 7 `men-` vs. 3 `mn-`; 8 `-e` vs. 2 `-ja`.
 
 :::
 
