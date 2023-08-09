@@ -20,36 +20,36 @@ The Slavs do not live on an island, and over the centuries their languages have 
 
 Another category is international vocabulary, mostly from Latin and Greek, but later also from French and more recently English. Words of this type tend to be similar throughout Europe and other parts of the world. They constitute an integral part of every Slavic language and can be of great help in achieving mutual intelligibility, especially among the more educated. International words are practically identical in every language, and there are hardly any variations in meaning. When we borrow international vocabulary, we stay as close as possible to spelling of the original word, adapting it only as far as orthography requires. However, especially for Graeco-Latin vocabulary goes the following:
 
-- Geminated consonants are avoided: _gramofon_, _grupa_.
-- The Greek consonants `th` and `ph` are simplified to `t` and `f`: _`teatr, fenomen`_
-- Greek `y` is written `i`, which is closer to both spelling and pronunciation in most Slavic languages: _`sistem, fizika`_
-- The :ipa[k] sound is always written `k` and never `c`: _`kontakt`_
-- The :ipa[x] sound (often represented by `ch`) is written `h`: _`psiholog`_.
-- The :ipa[y] sound (in German written `ü`, in French `u`) becomes `ju`: _`bjuro`_.
-- Between vowels, the :ipa[z] sound (written `-s-`) becomes `z`: _`baza`_.
-- Between vowels, the :ipa[s] sound (written `-ss-`) becomes `s`: _`masa`_.
+- Geminated consonants are avoided: :isv[gramofon], :isv[grupa].
+- The Greek consonants `th` (`θ`) and `ph` (`φ`) are simplified to `t` and `f`: :isv[teatr], :isv[fenomen]
+- Greek `y` (`υ`) is written `i`, which is closer to both spelling and pronunciation in most Slavic languages: :isv[sistem], :isv[fizika]
+- The :ipa[k] sound is always written `k` and never `c`: :isv[kontakt]
+- The :ipa[x] sound (often represented by `ch`) is written `h`: :isv[psiholog].
+- The :ipa[y] sound (in German written `ü`, in French `u`) becomes `ju`: :isv[bjuro].
+- Between vowels, the :ipa[z] sound (written `-s-`) becomes `z`: :isv[baza].
+- Between vowels, the :ipa[s] sound (written `-ss-`) becomes `s`: :isv[masa].
 
 Besides, endings are adapted in a predictable way to what is most common in the Slavic languages:
 
-- Verbs of Latin descent (often _**-`ate`, -`fy`, -`ise`/-`ize`**_ in English, _`-ieren`_ in German) have `-ovati`: :isv[organizovati], _`komunikovati`_.
-- Latin _`-ia`_ (rendered in English as _`-ia`_ or _`-y`_) becomes `-ija`: _`ekonomija`_.
-- English _`-sis`_ (from Greek) becomes `-za`: _`kriza`_.
-- Names of chemical elements etc. on _`-ium`_ become `-ij`: _`helij, kriterij`_.
-- Words on _`-um`_ and _`-us`_ generally keep these endings: _`forum, korpus`_.
-- English _`-ty`_ (Latin _**-`tas`, -`tatis`**_) becomes `-tet`: _`universitet`_.
-- English _`-ics`_ becomes `-ika`: _`ekonomika`_.
-- English _`-ism`_ becomes `-izm`: _`komunizm`_.
-- English _`-ist`_ becomes `-ist`: _`komunist`_.
-- English _`-sion`_ becomes `-zija`: _`televizija`_.
-- English _`-ssion`_ becomes `-sija`: _`diskusija`_.
-- English _`-tion`_ becomes `-cija`: _`akcija`_.
-- Adjectives derived from these nouns have the ending `-ijny`: :isv[televizijny], _`tradicijny`_.
-- English adjectives in _`-al`_ (Latin _`-alis`_) end in `-alny`: _`neutralny`_.
-- English adjectives in _**-`ic`, -`ical`**_ (Latin _`-icus`_) have the ending `-ičny`: :isv[specifičny], _`komičny`_.
-- English adjectives in _`-ive`_ (Latin _`-ivus`_) have the ending `-ivny`: _`pozitivny`_.
-- English adjectives in _`-ous`_ (Latin _`-osus`_) have the ending `-ozny`: _`seriozny`_.
+- Verbs of Latin descent (often `-ate`, `-fy`, `-ise`/`-ize` in English, `-ieren` in German) have `-ovati`: :isv[organizovati], :isv[komunikovati].
+- Latin `-ia` (rendered in English as `-ia` or `-y`) becomes `-ija`: :isv[ekonomija].
+- English `-sis` (from Greek) becomes `-za`: :isv[kriza].
+- Names of chemical elements etc. on `-ium` become `-ij`: :isv[helij], :isv[kriterij].
+- Words on `-um` and `-us` generally keep these endings: :isv[forum], :isv[korpus].
+- English `-ty` (Latin `-tas`, `-tatis`) becomes `-tet`: :isv[universitet].
+- English `-ics` becomes `-ika`: :isv[ekonomika].
+- English `-ism` becomes `-izm`: :isv[komunizm].
+- English `-ist` becomes `-ist`: :isv[komunist].
+- English `-sion` becomes `-zija`: :isv[televizija].
+- English `-ssion` becomes `-sija`: :isv[diskusija].
+- English `-tion` becomes `-cija`: :isv[akcija].
+- Adjectives derived from these nouns have the ending `-ijny`: :isv[televizijny], :isv[tradicijny].
+- English adjectives in `-al` (Latin `-alis`) end in `-alny`: :isv[neutralny].
+- English adjectives in `-ic`, `-ical` (Latin `-icus`) have the ending `-ičny`: :isv[specifičny], :isv[komičny].
+- English adjectives in `-ive` (Latin `-ivus`) have the ending `-ivny`: :isv[pozitivny].
+- English adjectives in `-ous` (Latin `-osus`) have the ending `-ozny`: :isv[seriozny].
 
-More problematic are words borrowed from English. When writing in the Latin alphabet, we can keep the original spelling (_bypass_, _knockout_, _jazz_, _teenager_). However, many texts in Interslavic are written in Cyrillic or in both orthographies parallelly, often with the help of a transliteration program, and one should of course avoid writing _быпасс_ or _кноцкоут_ in Cyrillic! In most cases, we would therefore rather apply a more phonetical approach: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_, etc.
+More problematic are words borrowed from English. When writing in the Latin alphabet, we can keep the original spelling („bypass”, „knockout”, „jazz”, „teenager”). However, many texts in Interslavic are written in Cyrillic or in both orthographies parallelly, often with the help of a transliteration program, and one should of course avoid writing `быпасс` or `кноцкоут` in Cyrillic! In most cases, we would therefore rather apply a more phonetical approach: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], :isv[koktejl], etc.
 
 [1]: ../introduction/design-criteria.md#vocabulary
 
