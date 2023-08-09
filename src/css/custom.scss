@@ -353,6 +353,7 @@ kbd {
   }
 
   &__label {
+    word-break: normal;
   }
 
   &__label::before,
