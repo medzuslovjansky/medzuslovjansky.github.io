@@ -27,7 +27,7 @@ Interslavic is entirely based on the natural Slavic languages, and the forms hav
 - The genitive is generally the same as the accusative.
 - The locative is often very similar or identical to the dative.
 - The genitive is never identical to the dative.
-- The accusative `mene` in Interslavic is based on counting (discounting the smaller languages): 7 `men`-, 3 `mn`-; 8 -`e`, 2 -`ja`.
+- The accusative :isv[mene] in Interslavic is based on counting (discounting the smaller languages): 7 `men-` vs. 3 `mn-`; 8 `-e` vs. 2 `-ja`.
 
 :::
 
@@ -37,7 +37,7 @@ Interslavic is entirely based on the natural Slavic languages, and the forms hav
 
 :::note
 
-The majority solution for the dative would be `tebě`, but we want to keep it separate from the genitive/accusative, therefore `tobě`.
+The majority solution for the dative would be :isv[tebě], but we want to keep it separate from the genitive/accusative, therefore :isv[tobě].
 
 :::
 
@@ -48,7 +48,7 @@ The majority solution for the dative would be `tebě`, but we want to keep it se
 :::note
 
 - The forms themselves are established easily.
-- For all forms on `je-` or `i-` goes that they can be preceded by `n-` after a preposition: _`jego > bez njego_, _im > pri nim`_. The same goes for the other genders and the plural.
+- For all forms on `je-` or `i-` goes that they can be preceded by `n-` after a preposition: :isv[jego] > :isv[bez njego], :isv[jim] > :isv[pri njim]. The same goes for the other genders and the plural.
 
 :::
 
