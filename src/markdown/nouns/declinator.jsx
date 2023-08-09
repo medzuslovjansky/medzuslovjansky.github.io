@@ -1,4 +1,6 @@
 import {declensionNoun, transliterate} from '@interslavic/utils';
+import {Abbr} from '@site/src/components';
+import Translate from '@docusaurus/Translate';
 
 export default function Declinator(props) {
   const {lemma, additional = '', gender, animate = false, plural = false, singular = false, indeclinable = false, athematic = false } = props;
@@ -9,19 +11,25 @@ export default function Declinator(props) {
     <table className="table_full">
       <thead>
       <tr>
-        <th>Case</th>
-        <th>Singular</th>
-        <th>Plural</th>
+        <th>
+          <Translate id="com.interslavic.declinator.case">case</Translate>
+        </th>
+        <th>
+          <Abbr>sg.</Abbr>
+        </th>
+        <th>
+          <Abbr>pl.</Abbr>
+        </th>
       </tr>
       </thead>
       <tbody>
-      <Case title="Nom" row={conv(nom)} />
-      <Case title="Acc" row={conv(acc)} />
-      <Case title="Gen" row={conv(gen)} />
-      <Case title="Dat" row={conv(dat)} />
-      <Case title="Ins" row={conv(ins)} />
-      <Case title="Loc" row={conv(loc)} />
-      <Case title="Voc" row={conv(voc)} />
+      <Case title="nom." row={conv(nom)} />
+      <Case title="acc." row={conv(acc)} />
+      <Case title="gen." row={conv(gen)} />
+      <Case title="dat." row={conv(dat)} />
+      <Case title="ins." row={conv(ins)} />
+      <Case title="loc." row={conv(loc)} />
+      <Case title="voc." row={conv(voc)} />
       </tbody>
     </table>
   );
@@ -35,7 +43,7 @@ function Case({row: [singular, plural], title}) {
 
   return (
     <tr>
-      <th>{title}</th>
+      <th><Abbr>{title}</Abbr></th>
       <td lang="art-x-interslv">{s}</td>
       <td lang="art-x-interslv">{p}</td>
     </tr>

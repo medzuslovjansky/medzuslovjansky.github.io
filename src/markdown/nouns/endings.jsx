@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import {Abbr} from "@site/src/components";
 import styles from './endings.module.scss';
 
 export default function Endings() {
@@ -23,7 +24,7 @@ function Singular() {
       <tbody className={styles.tbody}>
       <tr align="center">
         {" "}
-        <th> Nom </th>
+        <th><Abbr>nom.</Abbr></th>
         <td colSpan={2}><code>-Ø</code></td>
         <td rowSpan={2}><code>-o</code> <code>(-e)</code></td>
         <td><code>-a</code></td>
@@ -31,42 +32,42 @@ function Singular() {
       </tr>
       <tr align="center">
         {" "}
-        <th> Acc </th>
+        <th><Abbr>acc.</Abbr></th>
         <td><code>-a</code></td>
         <td><code>-Ø</code></td>
         <td><code>-u</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Gen </th>
+        <th><Abbr>gen.</Abbr></th>
         <td colSpan={3}><code>-a</code></td>
         <td><code>-y</code> <code>(-e)</code></td>
         <td><code>-i</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Dat </th>
+        <th><Abbr>dat.</Abbr></th>
         <td colSpan={3}><code>-u</code></td>
         <td><code>-ě</code> <code>(-i)</code></td>
         <td><code>-i</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Ins </th>
+        <th><Abbr>ins.</Abbr></th>
         <td colSpan={3}><code>-om</code> <code>(-em)</code></td>
         <td><code>-oju</code> <code>(-eju)</code></td>
         <td><code>-ju</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Loc </th>
+        <th><Abbr>loc.</Abbr></th>
         <td colSpan={3}><code>-u</code></td>
         <td><code>-ě</code> <code>(-i)</code></td>
         <td><code>-i</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Voc </th>
+        <th><Abbr>voc.</Abbr></th>
         <td colSpan={2}><code>-e</code> <code>(-u)</code></td>
         <td><code>-o</code> <code>(-e)</code></td>
         <td><code>-o</code></td>
@@ -74,7 +75,6 @@ function Singular() {
       </tr>
       </tbody>
     </table>
-
   );
 }
 
@@ -85,7 +85,7 @@ function Plural() {
       <tbody>
       <tr align="center">
         {" "}
-        <th> Nom </th>
+        <th><Abbr>nom.</Abbr></th>
         <td><code>-i</code></td>
         <td rowSpan={2}><code>-y</code> <code>(-e)</code></td>
         <td rowSpan={2}><code>-a</code></td>
@@ -94,12 +94,12 @@ function Plural() {
       </tr>
       <tr align="center">
         {" "}
-        <th> Acc </th>
+        <th><Abbr>acc.</Abbr></th>
         <td><code>-ov</code> <code>(-ev)</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Gen </th>
+        <th><Abbr>gen.</Abbr></th>
         <td colSpan={2}><code>-ov</code> <code>(-ev)</code></td>
         <td><code>-Ø</code></td>
         <td><code>-Ø</code></td>
@@ -107,17 +107,17 @@ function Plural() {
       </tr>
       <tr align="center">
         {" "}
-        <th> Dat </th>
+        <th><Abbr>dat.</Abbr></th>
         <td colSpan={5}><code>-am</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Ins </th>
+        <th><Abbr>ins.</Abbr></th>
         <td colSpan={5}><code>-ami</code></td>
       </tr>
       <tr align="center">
         {" "}
-        <th> Loc </th>
+        <th><Abbr>loc.</Abbr></th>
         <td colSpan={5}><code>-ah</code></td>
       </tr>
       </tbody>

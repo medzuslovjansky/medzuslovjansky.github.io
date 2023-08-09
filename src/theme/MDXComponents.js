@@ -1,6 +1,6 @@
 import MDXComponents from '@theme-original/MDXComponents';
 import DocCardList from '@theme/DocCardList';
-import { CustomBeforeSection, CustomAfterSection, IPA } from '@site/src/components';
+import { Abbr, CustomBeforeSection, CustomAfterSection, IPA } from '@site/src/components';
 import MDPronunciation1 from '@site/src/markdown/pronunciation-of-the-alphabet';
 import MDPronunciation2 from '@site/src/markdown/etymological-alphabet-extensions';
 import MDNouns1 from '@site/src/markdown/nouns/endings';

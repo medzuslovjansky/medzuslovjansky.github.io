@@ -104,7 +104,7 @@ Suffixes starting with `-o-` change to `-e-` when following a soft consonant:
   :isv[dělati] „to do” > :isv[dělajuči] „doing, making”, :isv[dělajemy] „being made”, :isv[sdělavši] „having done”, :isv[sdělany] „done”
 - To derive an adjective that expresses a tendency or habit, the ending can be substituted by the suffix `-livy`:
   :isv[govoriti] „to speak, to talk” > :isv[govorlivy] „talkative”
-- To derive an adjective that expresses a possibility (:abbr[cf.] English`-able`/`-ible`), the endings `-omy` (`-emy`, `-imy`) or `-livy` can be attached to the present tense stem:
+- To derive an adjective that expresses a possibility (:abbr[cf.] English `-able`/`-ible`), the endings `-omy` (`-emy`, `-imy`) or `-livy` can be attached to the present tense stem:
   :isv[razuměti] „to understand” > :isv[razumlivy] „understandable”, :isv[nesti] „to carry” > :isv[nesomy] „portable”
 
 #### Adverb to adjective \{#adverb-to-adjective}

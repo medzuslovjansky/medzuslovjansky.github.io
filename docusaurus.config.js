@@ -31,7 +31,6 @@ async function createConfig() {
             sidebarPath: require.resolve('./sidebars.js'),
             editUrl: 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
             editLocalizedFiles: true,
-            showLastUpdateAuthor: true,
             showLastUpdateTime: true,
             remarkPlugins: [
               require('./src/remark/mdx-before-after-plugin'),

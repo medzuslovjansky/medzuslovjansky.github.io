@@ -51,7 +51,7 @@ Notes:
 - In the vocative, `k`, `g` and `h` become `č`, `ž` and `š` before `e`: :isv[člověk] → :isv[člověče], :isv[Bog] → :isv[Bože].
 - Words on `-ec` have the vocative ending `-če` instead of the expected `-cu`: :isv[otec] → :isv[otče].
 - Some nouns ending in a hard consonant have a soft consonant in scientific orthography, e.g. :isv[gosť] „guest”, :isv[lěkaŕ] „doctor, physician”. They can follow both the hard and the soft declension pattern: :abbr[gen.pl.] :isv[gostov] or :isv[gostev].
-- Words on `-anin` lose the morpheme `-in-` in the plural: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina], but: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.] _`Slovjanov`_.
+- Words on `-anin` lose the morpheme `-in-` in the plural: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina], but: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.] :isv[Slovjanov].
 - There are a few words on `-a` denoting male persons, such as :isv[sluga] „servant”, :isv[kolega] „colleague”, :isv[sudja] „judge”, etc. In the plural these are inflected like :isv[brat] or :isv[muž], but in the singular, they follow the pattern of the [second declension][2].
 
 ## Declension of neuter nouns \{#neuter-declension}
@@ -62,7 +62,7 @@ Neuter nouns end in `-o` (hard stems) or `-e` (soft stems). Except for the nomin
 - The nominative/accusative and instrumental singular are affected by the [`o`/`e` rule][4].
 - As for the locative singular, what goes for masculine nouns goes also for neuter nouns: instead of `-u`, it is also possible to write `-ě` after a hard consonant or `-i` after a soft consonant.
 - Neuter nouns do not have a vocative separate from the nominative.
-- In the genitive plural, neuter nouns of the first declension have a zero ending `-Ø`. In cases when this leads to impossible consonant clusters, an `-e-` is inserted before `-j` or after a soft consonant, or an `-o-` between hard consonants: :isv[okn**o**] → :isv[ok**o**n]_, :isv[morj**e**] → :isv[mor**e**j]_.
+- In the genitive plural, neuter nouns of the first declension have a zero ending `-Ø`. In cases when this leads to impossible consonant clusters, an `-e-` is inserted before `-j` or after a soft consonant, or an `-o-` between hard consonants: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
 
 There is also special group of neuter nouns with the ending `-e` (in scientific orthography: `-ę`), for example :isv[ime] „name” (stem: `imen-`) and :isv[tele] „calf” (stem: `telęt-`). It also includes a few words on `-o`, for example :isv[nebo] „heaven” (stem: `nebes-`). In Old Church Slavonic they belonged to a special declension, which nowadays has vanished in most languages. They can be inflected as ordinary neuter nouns (as if their nominatives were :isv[imeno] and :isv[teleto]), they can also be declined according to the more archaic [athematic declension][1].
 
@@ -124,10 +124,10 @@ Interslavic is kept as regular as possible, but a few cases of irregularity cann
 
 - :isv[člověk] (:abbr[m.]) „human being, person”, :abbr[pl.] :isv[ljudi] „people”
 - :isv[děte] (:abbr[gen.] :isv[děteta] or :isv[dětete]) (:abbr[n.]) „child”, :abbr[pl.] :isv[děti] „children”
-- :isv[oko] (:abbr[n.)] „eye”, :abbr[pl.] :isv[oči] „eyes”
-- :isv[uho] (:abbr[n.)] „ear”, :abbr[pl.] :isv[uši] „ears”
+- :isv[oko] (:abbr[n.]) „eye”, :abbr[pl.] :isv[oči] „eyes”
+- :isv[uho] (:abbr[n.]) „ear”, :abbr[pl.] :isv[uši] „ears”
 
-Regular plurals (:abbr[člověki], :abbr[oka] etc.) can be used as well, but some of them sound very strange to the Slavic ear, even though they will be understood anyway.
+Regular plurals (:isv[člověki], :isv[oka] etc.) can be used as well, but some of them sound very strange to the Slavic ear, even though they will be understood anyway.
 
 ## Indeclinable nouns \{#indeclinable-nouns}
 

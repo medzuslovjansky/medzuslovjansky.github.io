@@ -119,7 +119,7 @@ The following combinations are no real prepositions, but are used as such and ar
 :isv[s izključenjem] (:abbr[gen.]) – except, with the exception of
 :isv[s obzirom na] (:abbr[acc.]) – with regard to
 :isv[s pomočju] (:abbr[gen.]) – with the help of
-:isv[sgodno s] (:abbr[inst.]) – conform
+:isv[sgodno s] (:abbr[instr.]) – conform
 :isv[susedno do] (:abbr[gen.]) – next to, neighbouring to
 
 :isv[v času] (:abbr[gen.]) – during
@@ -131,7 +131,7 @@ The following combinations are no real prepositions, but are used as such and ar
 :isv[v protivnosti k] (:abbr[dat.]) – unlike, in opposition to
 :isv[v smyslu] (:abbr[gen.]) – in the sense of
 :isv[v različju od] (:abbr[gen.]) – unlike
-:isv[v svezi s] (:abbr[inst.]) – in connection with
+:isv[v svezi s] (:abbr[instr.]) – in connection with
 :isv[v těčenju] (:abbr[gen.]) – during
 :isv[v vrěmenu] (:abbr[gen.]) – during
 :isv[v zaměn za] (:abbr[acc.]) – instead of, in exchange for

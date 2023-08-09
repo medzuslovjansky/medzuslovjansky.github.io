@@ -1,3 +1,5 @@
+import IPAChart from '@site/static/img/docs/ipa-chart.svg';
+
 export default function PhonologyIPA() {
   return (
     <table
@@ -25,11 +27,7 @@ export default function PhonologyIPA() {
         <th style={{ height: 30 }}>Close</th>
         <td style={{ height: 210, background: "white" }} colSpan={5} rowSpan={7}>
           <div style={{ position: "relative" }}>
-            <img
-              src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Blank_vowel_trapezoid.svg/300px-Blank_vowel_trapezoid.svg.png"
-              width={300}
-              height={210}
-            />
+            <IPAChart />
             <div
               style={{
                 background: "transparent",
