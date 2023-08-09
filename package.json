@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "prepare": "patch-package",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -31,6 +32,7 @@
     "url-loader": "^4.1.1"
   },
   "devDependencies": {
+    "patch-package": "^8.0.0",
     "jest": "^29.0.0",
     "jest-environment-jsdom": "^29.6.1",
     "react-test-renderer": "^18.2.0",
