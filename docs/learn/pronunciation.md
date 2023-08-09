@@ -1,0 +1,114 @@
+---
+sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/pronunciation.html
+description: "A comprehensive guide to pronunciation in Interslavic. This page covers the standard alphabet, etymological alphabet extensions, stress rules, and more."
+keywords: [Interslavic, Medžuslovjansky, Меджусловјанскы, pronunciation, phonemes, language, phonology, etymology]
+---
+
+# Pronunciation
+
+## Overview \{#overview}
+
+How ethnic languages are pronounced is determined by their native speakers. This goes for Interslavic as well: although it is neither an ethnic language nor a language intended to serve as a standard language for Slavs, it should be comfortable and familiar to pronounce for Slavs. All Slavic accents are equally correct: just like the British, American and Australian pronunciations are all equally correct in English, a Russian pronunciation of Interslavic is by no means better or worse than a Serbian or Polish pronunciation. As a result, the pronunciation of most sounds (phonemes) is variable, depending on the nationality of the speaker, and any pronunciation given below is just an approximation. The fact that pronunciation is fairly free, however, does not mean that there cannot be an „ideal” pronunciation for every phoneme.
+
+All letters can be pronounced as they are pronounced in any Slavic alphabet. In the following table, exceptions are given in the third column:
+
+:::component{name=MDPronunciation1}
+* as `a` in :en[f**a**ther]
+* as `b` in :en[**b**ook]
+* as `ts` in :en[bi**ts**]
+* as `ch` in :en[**ch**urch]
+* as `d` in :en[**d**eer]
+* as `j` in :en[**J**ohn]
+* as `e` in :en[b**e**st]
+* as `ye` in :en[**ye**t]
+* as `f` in :en[**f**orest]
+* as `g` in :en[**g**ood]
+* as `ch` in Scottish :en[lo**ch**]
+* as `ea` in :en[b**ea**t]
+* as `y` in :en[**y**ard]
+* as `k` in English, but without aspiration
+* as `l` in English
+* as `li` in :en[mil**li**on]
+* as `m` in :en[**m**op]
+* as `n` in :en[**n**orth]
+* as `ny` in :en[ca**ny**on]
+* as `o` in :en[**o**r]
+* as `p` in English, but without aspiration
+* rolled `r`
+* as `s` in :en[**s**pin]
+* as `sh` in :en[**sh**op]
+* as `t` in English, but without aspiration
+* as `oo` in :en[b**oo**k]
+* as `v` in :en[a**v**oid]
+* as `i` in :en[b**i**t]
+* as `z` in :en[**z**oo]
+* as `si` in :en[vi**si**on]
+:::
+
+**Notes:**
+
+1. In the pronunciation of vowels, there tends to be some variation on the scale of open/closed and front/back. Only `u` is always :ipa[u].
+2. To avoid fuzziness, akanje (pronouncing unstressed vowels as :ipa[ɑ] or :ipa[ə] in Russian) should be avoided.
+3. Apart from `a` `e` `ě` `i` `o` `u` `y`, the letter `r` can be a vowel, too. That is the case when it appears after a consonant and is not followed by a vowel, resulting in so-called _syllabic r_. It should be pronounced with a schwa before it (more or less like the name „Murphy”): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
+4. For the ease of pronunciation, it is always possible to insert a schwa in an inconvenient consonant cluster: :isv[jesm] :ipa[jɛsǝm], :isv[himn] :ipa[ximǝn], :isv[vedl] :ipa[vɛdǝl].
+5. Speakers of languages like English and German should be aware that any type of aspiration (as in English „pork” or German „Tüte”) must be avoided.
+6. When `ě` follows a dental/alveolar consonant (`t` `d` `s` `z` `n` `l` `r`), this consonant is pronounced soft (see [phonology][1]). After other consonants it produces the same sound as `e`, but preceded by `j`: :isv[dělo] sounds like :notr[ďelo], :isv[pěsok] like :notr[pjesok].
+7. A consonant before `i` can be pronounced soft, too, but this is not mandatory.
+8. Likewise, a consonant is inherently soft before `j` as well, unless this consonant is part of a prefix: :isv[žitje] is pronounced :notr[žiťje], but in the word :isv[odjehati] the `d` remains hard.
+9. On the other hand, although the Proto-Slavic phoneme `e` softens the preceding consonant in Polish and Russian, it is better to keep a hard pronunciation in this case.
+10. The letter `l` is a somewhat special case. Before `a` `o` `u` `y`, as well as syllable-finally, it sounds like the „thick” `l` in :en[full]. Before `e`, `ě` and `i` is rather tends to follow the pronunciation pattern of `lj`: :isv[lev] :ipa[lʲɛv] \~ :ipa[ʎɛf], etc.
+11. There are no strict rules for devoicing voiced consonants at the end of a word, or voicing unvoiced consonants before voiced consonants. Anybody can use the pronunciation he feels most comfortable with. Thus, :isv[Bog] :ipa[bɔk] and :isv[prosba] :ipa[prɔzbɑ] are both correct. In general however, it deserves recommendation to follow a pronunciation that is as close as possible to how it is written.
+
+## Etymological alphabet extensions \{#etymological-alphabet-extensions}
+
+Apart from the standard alphabet given above, the Interslavic Latin alphabet also has a set of optional characters that basically do two things. First of all, they represent phonemes that evolved into different directions in the Slavic languages, and secondly, they link directly to their Proto-Slavic origins. For example, the vowel `å` in :isv[kråva] „cow” indicates that this word derives from Proto-Slavic :sla[korva], which became :pl[krova] in Polish and Sorbian, :zle[korova] in East Slavic, and :notr[krava] in Czech, Slovak and South Slavic. The most extreme case is undoubtedly `đ` (from Proto-Slavic `dj`), which in various languages evolved into :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j], etc.
+
+These characters belong to the [etymological alphabet][2]. They are not used in ordinary written Interslavic, i.e. they are written, but without the diacritics (except for `ć` and `đ`, which are written `č` and `dž` respectively), and can of course also be pronounced as such. However, it is also possible to try for an „average” pronunciation that does more justice to the Slavic majority. In the case of aforementioned :isv[kråva], for example, that would mean a sound somewhere between `a` and `o` (in IPA: :ipa[ɒ]).
+
+:::component{name=MDPronunciation2}
+* as `o` in :en[m**o**ther]
+* as `ch` in :en[**ch**eap]
+* as `d` in :en[**d**uke]
+* as `j` in :en[**j**eep]
+* as `e` in :en[bett**e**r]
+* as `ya` in :en[**ya**m]
+* as `lj`, usually before `j`, `n` or `s`
+* as `nj`, usually before `j` or `s`
+* as `o` in :en[mem**o**ry]
+* raised alveolar trill
+* as `sh` in :en[**sh**eet]
+* as `t` in :en[**t**ube]
+* between `ow` in American :en[m**ow**] and `ew` in :en[h**ew**]
+* voiced equivalent of `ś`
+:::
+
+**Notes:**
+
+1. Of particular interest here is the character `ę`. The „hard” pronunciation :ipa[ɛ] is characteristic for South Slavic, but in the remaining languages its pronunciation varies between :ipa[ja], :ipa[jɛ] and :ipa[jɔ̃]. Following majority rule, `e` should be pronounced as a hard :ipa[ɛ], but `ę` more like :ipa[jæ]. This means that `ę` behaves like `ě` rather than `e`, and like `ě` it can soften a preceding consonant.
+2. Despite the ogonek, `ę` and `ų` are not pronounced as nasal vowels like in Polish!
+3. The soft consonants `t́` `d́` `ś` `ź` `ŕ` (pronounced hard in South Slavic, partly also in Czech and Slovak) are realised either by having the hard consonant followed by a `j`-like sound, or by softening or by palatalising it.
+4. When the letter `ŕ` acts as the soft counterpart of syllabic `r`, it can soften the preceding consonant or have it followed by :ipa[j]: _`mŕtvy`_ :ipa[mjǝrtvɪ].
+5. The soft consonants `ľ` and `ń` are used for writing `lj` and `nj` before `j`, resulting in a certain prolongation of the latter, for example _`dělańje`_ :ipa[dʲɛɫanʲĭɛ].
+
+## Stress \{#stress}
+
+Accentuation is free. However, if you want to stay on the safe side, it would deserve recommendation to follow as guidelines:
+
+- When a word has two syllables, stress falls on the first syllable.
+- When a word has three syllables, stress falls on the first or second syllable.
+- When a word has four syllables, stress falls on the second or third syllable.
+- Stress should not be influenced by inflection; if the adjective :isv[běly] is pronounced :isv[b:stress[ě]ly], the genitive should be pronounced :isv[b:stress[ě]logo] and not :isv[běl:stress[o]go].
+- In general, it is better to avoid stress falling on prefixes, suffixes, case endings etc.
+
+## General remark \{#general-remark}
+
+When it comes to speaking, one has always to remember that the listener is probably not familiar with Interslavic, and even if he is, he is not used to hearing it spoken. Whenever you use Interslavic in a conversation, always make sure that the person you are talking to actually understands you. Speak slowly, keep eye-contact, articulate clearly, and always be a good listener. After all, communication is not just a matter of language, the non-verbal part is equally important.
+
+The same, perhaps even more so, goes when you are addressing an audience. Interslavic has been constructed to maximise intelligibility, but that does not mean every Slav can understand every word of it. Listening to Interslavic is a matter of constantly making connections and connotations, and whenever a person hears a word he doesn't understand—which is quite inevitable—the odds are that he starts pondering about it and misses the rest of your sentence. It is necessary that you always give your audience all the time it needs to process your information, to let it sink in. So don't speak fast, speak clearly, take a deep breath between sentences, use prosody as well as you can, and so on...
+
+[1]: ./phonology.md#hard_and_soft
+
+[2]: orthography.md#etymological_alphabet

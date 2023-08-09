@@ -187,6 +187,40 @@ const numbers = {
   }
 };
 
+const animacy = {
+  'anim.': {
+    'en': ['anim.', 'animate'],
+    'ru': ['од.', 'одушевлённое'],
+    'be': ['ад.', 'адушэннае'],
+    'uk': ['од.', 'одушевлене'],
+    'pl': ['o.', 'ożywiony'],
+    'cs': ['ž.', 'životný'],
+    'sk': ['ž.', 'životný'],
+    'sl': ['ož.', 'oživljen'],
+    'sr-Cyrl': ['ож.', 'оживљен'],
+    'hr': ['ož.', 'oživljen'],
+    'bs': ['ož.', 'oživljen'],
+    'mk': ['ож.', 'оживено'],
+    'bg': ['од.', 'одушевено'],
+  },
+  'inanim.': {
+    'en': ['inanim.', 'inanimate'],
+    'ru': ['неод.', 'неодушевлённое'],
+    'be': ['неад.', 'неадушэннае'],
+    'uk': ['неод.', 'неодушевлене'],
+    'pl': ['n.', 'nieożywiony'],
+    'cs': ['nž.', 'neživotný'],
+    'sk': ['nž.', 'neživotný'],
+    'sl': ['než.', 'neživljen'],
+    'sr-Cyrl': ['неож.', 'неоживљен'],
+    'hr': ['než.', 'neživljen'],
+    'bs': ['než.', 'neživljen'],
+    'mk': ['неож.', 'неоживено'],
+    'bg': ['неод.', 'неодушевено'],
+  },
+};
+
+
 function combineAbbr2(abbr1, abbr2) {
   if (!abbr1.endsWith('.') || abbr1.indexOf('.') !== abbr1.lastIndexOf('.')) {
     return abbr1 + ' ' + abbr2;
@@ -222,6 +256,13 @@ for (const g of Object.keys(genders)) {
     for (const n of Object.keys(numbers)) {
       abbreviations[`${g}${c}${n}`] = combine(genders[g], cases[c], numbers[n]);
     }
+  }
+}
+
+for (const a of Object.keys(animacy)) {
+  abbreviations[`m.${a}`] = combine(genders['m.'], animacy[a]);
+  for (const n of Object.keys(numbers)) {
+    abbreviations[`m.${a}${n}`] = combine(genders['m.'], animacy[a], numbers[n]);
   }
 }
 
