@@ -21,8 +21,8 @@ The Slavs do not live on an island, and over the centuries their languages have 
 Another category is international vocabulary, mostly from Latin and Greek, but later also from French and more recently English. Words of this type tend to be similar throughout Europe and other parts of the world. They constitute an integral part of every Slavic language and can be of great help in achieving mutual intelligibility, especially among the more educated. International words are practically identical in every language, and there are hardly any variations in meaning. When we borrow international vocabulary, we stay as close as possible to spelling of the original word, adapting it only as far as orthography requires. However, especially for Graeco-Latin vocabulary goes the following:
 
 - Geminated consonants are avoided: :isv[gramofon], :isv[grupa].
-- The Greek consonants `th` and `ph` are simplified to `t` and `f`: :isv[teatr], :isv[fenomen]
-- Greek `y` is written `i`, which is closer to both spelling and pronunciation in most Slavic languages: :isv[sistem], :isv[fizika]
+- The Greek consonants `th` (`θ`) and `ph` (`φ`) are simplified to `t` and `f`: :isv[teatr], :isv[fenomen]
+- Greek `y` (`υ`) is written `i`, which is closer to both spelling and pronunciation in most Slavic languages: :isv[sistem], :isv[fizika]
 - The :ipa[k] sound is always written `k` and never `c`: :isv[kontakt]
 - The :ipa[x] sound (often represented by `ch`) is written `h`: :isv[psiholog].
 - The :ipa[y] sound (in German written `ü`, in French `u`) becomes `ju`: :isv[bjuro].
