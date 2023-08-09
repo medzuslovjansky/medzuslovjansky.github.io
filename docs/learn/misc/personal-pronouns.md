@@ -48,7 +48,7 @@ The majority solution for the dative would be :isv[tebě], but we want to keep i
 :::note
 
 - The forms themselves are established easily.
-- For all forms on `je-` or `i-` goes that they can be preceded by `n-` after a preposition: :isv[jego] > :isv[bez njego], :isv[im] > :isv[pri nim]. The same goes for the other genders and the plural.
+- For all forms on `je-` or `i-` goes that they can be preceded by `n-` after a preposition: :isv[jego] > :isv[bez njego], :isv[jim] > :isv[pri njim]. The same goes for the other genders and the plural.
 
 :::
 
