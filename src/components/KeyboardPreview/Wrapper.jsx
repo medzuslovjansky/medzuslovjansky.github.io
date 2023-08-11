@@ -5,6 +5,7 @@ import FullKeyboardPreview from './Full'
 import CompactKeyboardPreview from './Compact'
 import CompactJSON from './CompactJSON'
 import layout from './isv.json'
+import { KeyboardProvider } from './keyboard-context'
 
 export default function Wrapper({ alphabet, accentColor }) {
   const [ref, dimensions] = useResizeObserver();
@@ -14,8 +15,10 @@ export default function Wrapper({ alphabet, accentColor }) {
 
   return (
     <div ref={ref} className={styles.container}>
-      <KeyboardPreview {...layout} />
-      <CompactJSON {...layout} />
+      <KeyboardProvider>
+        <KeyboardPreview {...layout} />
+        <CompactJSON {...layout} />
+      </KeyboardProvider>
     </div>
   )
 }
