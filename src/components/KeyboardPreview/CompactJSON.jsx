@@ -1,39 +1,57 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import styles from "./CompactJSON.module.scss";
 import { useKeyboard } from './keyboard-context';
 import layout from './isv.json';
 
-const SHIFT = 1;
-const CTRL = 2;
-const ALT = 4;
-
 export default function CompactJSON({ script = 'Cyrl' }) {
-  const { keyboardState, toggleModifier } = useKeyboard();
+  const { keyboardState, handleKeyDown, handleKeyUp, toggleState } = useKeyboard();
   const [pressedKeys, setPressedKeys] = useState({});
+
+  useEffect(() => {
+    const handleKeyDownEvent = (e) => {
+      if (e.code === 'ShiftLeft' || e.code === 'ShiftRight') {
+        handleKeyDown('shift');
+      } else if (e.code === 'ControlLeft' || e.code === 'ControlRight') {
+        handleKeyDown('ctrl');
+      } else if (e.code === 'AltLeft' || e.code === 'AltRight') {
+        handleKeyDown('alt');
+      }
+    };
+
+    const handleKeyUpEvent = (e) => {
+      if (e.code === 'ShiftLeft' || e.code === 'ShiftRight') {
+        handleKeyUp('shift');
+      } else if (e.code === 'ControlLeft' || e.code === 'ControlRight') {
+        handleKeyUp('ctrl');
+      } else if (e.code === 'AltLeft' || e.code === 'AltRight') {
+        handleKeyUp('alt');
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDownEvent);
+    window.addEventListener('keyup', handleKeyUpEvent);
+
+    return () => {
+      window.removeEventListener('keydown', handleKeyDownEvent);
+      window.removeEventListener('keyup', handleKeyUpEvent);
+    };
+  }, []);
 
   let currentAlphabetData = layout.states[keyboardState.state];
 
   const handleKeyPress = (keyIndex, e) => {
-    if (keyIndex === SHIFT || keyIndex === CTRL || keyIndex === ALT) {
-      toggleModifier(keyIndex);
-    } else {
-      setPressedKeys(prevState => ({
-        ...prevState,
-        [keyIndex]: true,
-      }));
-    }
+    setPressedKeys(prevState => ({
+      ...prevState,
+      [keyIndex]: true,
+    }));
   };
 
   const handleKeyRelease = (keyIndex, e) => {
-    if (keyIndex === SHIFT || keyIndex === CTRL || keyIndex === ALT) {
-      toggleModifier(keyIndex);
-    } else {
-      setPressedKeys(prevState => ({
-        ...prevState,
-        [keyIndex]: false,
-      }));
-    }
+    setPressedKeys(prevState => ({
+      ...prevState,
+      [keyIndex]: false,
+    }));
   };
 
   return (
@@ -41,22 +59,19 @@ export default function CompactJSON({ script = 'Cyrl' }) {
       <div className={clsx(styles.keyboard, styles[script])}>
         <div
           className={clsx(styles.serviceKey, keyboardState.shift && styles.pressed)}
-          onMouseDown={(e) => handleKeyPress(SHIFT, e)}
-          onMouseUp={(e) => handleKeyRelease(SHIFT, e)}
+          onClick={() => toggleState('shift')}
         >
           shift
         </div>
         <div
           className={clsx(styles.serviceKey, keyboardState.ctrl && styles.pressed)}
-          onMouseDown={(e) => handleKeyPress(CTRL, e)}
-          onMouseUp={(e) => handleKeyRelease(CTRL, e)}
+          onClick={() => toggleState('ctrl')}
         >
           ctrl
         </div>
         <div
           className={clsx(styles.serviceKey, keyboardState.alt && styles.pressed)}
-          onMouseDown={(e) => handleKeyPress(ALT, e)}
-          onMouseUp={(e) => handleKeyRelease(ALT, e)}
+          onClick={() => toggleState('alt')}
         >
           alt
         </div>
