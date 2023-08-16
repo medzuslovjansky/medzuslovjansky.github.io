@@ -227,7 +227,7 @@ One or more of the followings prefixes can be used to modify the meaning of word
 
 `prě-`
 
-- across, over (motion): :isv[prějdti] „go on the other side”, :isv[prěvesti] „bring over, to transfer” > „to translate”
+- across, over (motion): :isv[prějdti] „go on the other side”, :isv[prěvesti] „bring over, to transfer”, :isv[prěložiti] „to translate”
 - transformation from something old into something new: :isv[prěbudovati] „to rebuild”, :isv[prěorganizovati] „to reorganise”
 - through, from one side to the other: :isv[prěsěkti] „to cut through, to transsect”, :isv[prěpisati] „to rewrite, to copy”
 - too much, over-: :isv[prěsoliti] „to use too much salt”, :isv[prěvariti] „cook too long”
