@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/adjectives.html
 ---
 
-import BasicEndings from "@site/src/markdown/basic-endings.mdx";
-import AdjectivesGood from "@site/src/markdown/adjectives-good.mdx";
-import AdjectivesFresh from "@site/src/markdown/adjectives-fresh.mdx";
-
 # Adjectives
 
 ## Inflection
@@ -23,19 +19,19 @@ Adjectives match with the noun they modify in gender, case and number. Declensio
 
 The basic endings (applying not only to adjectives, but also to possessive pronouns, demonstrative pronouns and the like) are:
 
-<BasicEndings />
+::component{name=MDAdjectives1}
 
 ### Hard adjectives
 
 Example of the declension of hard adjectives: :isv[dobry] „good”:
 
-<AdjectivesGood />
+::component{name=MDAdjectives2}
 
 ### Soft adjectives
 
 Example of the declension of soft adjectives: :isv[svěži] „fresh”:
 
-<AdjectivesFresh />
+::component{name=MDAdjectives3}
 
 ## Short form
 
@@ -59,25 +55,25 @@ This way of forming a comparative is easiest to use. Simply have the ground form
 
 ### Synthetic comparative
 
-The basic comparative ending for adjectives `-ějši` (`-ejši` after a soft consonant), replacing the ending `-y`/`-i`: :isv[bogaty] > :isv[bogatějši], :isv[slaby] > :isv[slabějši], :isv[blagy] > :isv[blažejši], :isv[svěži] > :isv[svěžejši].
+The basic comparative ending for adjectives `-ějši` (`-ejši` after a soft consonant), replacing the ending `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby] → :isv[slabějši], :isv[blagy] → :isv[blažejši], :isv[svěži] → :isv[svěžejši].
 
-These endings can simply be made into adverbs by replacing the element `-ši` by `-e` (giving the ending `-ěje/-eje` instead of the adverbial ending `-o`/`-e`): :isv[novo] > :isv[nověje], :isv[čisto] > :isv[čistěje], :isv[tiho] > :isv[tišeje], :isv[svěže] > :isv[svěžeje].
+These endings can simply be made into adverbs by replacing the element `-ši` by `-e` (giving the ending `-ěje`/`-eje` instead of the adverbial ending `-o`/`-e`): :isv[novo] → :isv[nověje], :isv[čisto] → :isv[čistěje], :isv[tiho] → :isv[tišeje], :isv[svěže] → :isv[svěžeje].
 
-An exception are adjectives on `-ky`, `-eky`, `-oky`, which have `-ši` instead: :isv[kratky] > :isv[kratši], :isv[tenky] > :isv[tenši], :isv[daleky] > :isv[dalši], :isv[vysoky] > :isv[vysši].
+An exception are adjectives on `-ky`, `-eky`, `-oky`, which have `-ši` instead: :isv[kratky] → :isv[kratši], :isv[tenky] → :isv[tenši], :isv[daleky] → :isv[dalši], :isv[vysoky] → :isv[vysši].
 
-The comparatives of these adjectives can be adverbialised by adding the ending `-je` to the root, causing [iotation][3] of the preceding consonant(s): :isv[daleko] > :isv[dalje], :isv[široko] > :isv[širje], :isv[vysoky] > :isv[vyše], :isv[blizko] > :isv[bliže], :isv[rědko] > :isv[rědže].
+The comparatives of these adjectives can be adverbialised by adding the ending `-je` to the root, causing [iotation][3] of the preceding consonant(s): :isv[daleko] → :isv[dalje], :isv[široko] → :isv[širje], :isv[vysoky] → :isv[vyše], :isv[blizko] → :isv[bliže], :isv[rědko] → :isv[rědže].
 
 ### Irregular comparatives
 
 Seven adjectives have an irregular comparative:
 
-:isv[dobry] „good” > :isv[lěpši] (:abbr[adv.] :isv[lěpje]) or :isv[lučši] (:abbr[adv.] :isv[lučše]) „better”
-:isv[zly] „bad” > :isv[gorši] (:abbr[adv.] :isv[gorje]) „worse”
-:isv[veliky] „big, large” > :isv[večši] (:abbr[adv.] :isv[veče]) or :isv[bolši] (:abbr[adv.] :isv[bolje]) „bigger, larger”
-:isv[maly] „little, small” > :isv[menši] (:abbr[adv.] :isv[menje]) „smaller, less”
-:isv[blagy] „pleasant, joyful” > :isv[unši] (:abbr[adv.] :isv[unje]) „more pleasant/joyful”
-:isv[legky] „easy, light” > :isv[legši] (:abbr[adv.] :isv[legše]) „easier, lighter”
-:isv[mekky] „soft” > :isv[mekši] (:abbr[adv.] :isv[mekše]) „softer”
+1. :isv[dobry] „good” → :isv[lěpši] (:abbr[adv.] :isv[lěpje]) or :isv[lučši] (:abbr[adv.] :isv[lučše]) „better”
+2. :isv[zly] „bad” → :isv[gorši] (:abbr[adv.] :isv[gorje]) „worse”
+3. :isv[veliky] „big, large” → :isv[večši] (:abbr[adv.] :isv[veče]) or :isv[bolši] (:abbr[adv.] :isv[bolje]) „bigger, larger”
+4. :isv[maly] „little, small” → :isv[menši] (:abbr[adv.] :isv[menje]) „smaller, less”
+5. :isv[blagy] „pleasant, joyful” → :isv[unši] (:abbr[adv.] :isv[unje]) „more pleasant/joyful”
+6. :isv[legky] „easy, light” → :isv[legši] (:abbr[adv.] :isv[legše]) „easier, lighter”
+7. :isv[mekky] „soft” → :isv[mekši] (:abbr[adv.] :isv[mekše]) „softer”
 
 It is not impossible to use regular forms of these adjectives (like :isv[dobrějši] or :isv[zlějši]), but to the average Slav this will look childish or artificial.
 
@@ -110,6 +106,6 @@ The prefix `ne-` creates a negative: :isv[neprijetny] „not pleasant, unpleasan
 - :isv[neprosty] „not simple”
 - :isv[prěprosty] „too simple, overly simple, extremely simple”
 
-[1]: ../phonology.md#o
-[2]: ../phonology.md#y
+[1]: ../phonology.md#o--e
+[2]: ../phonology.md#y--ie
 [3]: ../phonology.md#iotation

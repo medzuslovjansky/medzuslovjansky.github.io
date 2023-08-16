@@ -8,6 +8,9 @@ import MDNouns2 from '@site/src/markdown/nouns/masculine';
 import MDNouns3 from '@site/src/markdown/nouns/neuter';
 import MDNouns4 from '@site/src/markdown/nouns/feminine';
 import MDNouns5 from '@site/src/markdown/nouns/athematic'
+import MDAdjectives1 from '@site/src/markdown/basic-endings.mdx';
+import MDAdjectives2 from '@site/src/markdown/adjectives-good.mdx';
+import MDAdjectives3 from '@site/src/markdown/adjectives-fresh.mdx';
 
 export default {
   ...MDXComponents,
@@ -22,4 +25,7 @@ export default {
   MDNouns3,
   MDNouns4,
   MDNouns5,
+  MDAdjectives1,
+  MDAdjectives2,
+  MDAdjectives3,
 };
