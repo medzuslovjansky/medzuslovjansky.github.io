@@ -26,6 +26,10 @@
     --key-fill-color: #1a2933;
     --key-fill-click-color: #274255;
   }
+
+  width: 718px;
+  height: 274px;
+  fill: none;
 }
 
 .textColorBase {
@@ -54,4 +58,11 @@
 
 .keyColors {
   fill: var(--key-fill-color);
+}
+
+.rect {
+  width: 41px;
+  height: 41px;
+  stroke: "#147CFA";
+  fill: "transparent";
 }

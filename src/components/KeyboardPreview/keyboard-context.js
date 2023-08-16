@@ -1,4 +1,11 @@
-import React, { createContext, useContext, useState, useEffect } from "react";
+import React, {
+  createContext,
+  useCallback,
+  useContext,
+  useMemo,
+  useState,
+  useEffect,
+} from "react";
 
 export const KeyboardContext = createContext();
 
@@ -6,65 +13,105 @@ const ALT = 4;
 const CTRL = 2;
 const SHIFT = 1;
 
-export function KeyboardProvider({ children }) {
-  const [keyboardState, setKeyboardState] = useState({
-    state: 0,
-    alt: false,
-    shift: false,
-    ctrl: false,
-    win: false,
-    meta: false,
-    capsLock: false,
-  });
-  console.log(keyboardState);
-
-  const handleKeyDown = (serviceKey) => {
-    setKeyboardState((prevState) => ({
-      ...prevState,
-      [serviceKey]: true,
-    }));
-  };
-
-  const handleKeyUp = (serviceKey) => {
-    setKeyboardState((prevState) => ({
-      ...prevState,
-      [serviceKey]: false,
-    }));
-  };
-
-  const toggleState = (serviceKey) => {
-    setKeyboardState((prevState) => ({
-      ...prevState,
-      [serviceKey]: !prevState[serviceKey],
-    }));
-  };
-
-  useEffect(() => {
-    let newState = 0;
-    if (keyboardState.shift) newState |= SHIFT;
-    if (keyboardState.ctrl) newState |= CTRL;
-    if (keyboardState.alt) newState |= ALT;
-
-    if (
-      [0, 1, 2, 6, 7].includes(newState) &&
-      newState !== keyboardState.state
-    ) {
-      setKeyboardState((prevState) => ({
-        ...prevState,
-        state: newState,
-      }));
-    }
-  }, [keyboardState.shift, keyboardState.ctrl, keyboardState.alt]);
-
+export function KeyboardProvider({ value, children }) {
   return (
-    <KeyboardContext.Provider
-      value={{ keyboardState, handleKeyDown, handleKeyUp, toggleState }}
-    >
+    <KeyboardContext.Provider value={value}>
       {children}
     </KeyboardContext.Provider>
   );
 }
+export function useKeyboard(layout) {
+  const [keyboardState, setKeyboardState] = useState({
+    layout,
+    state: "",
+    modifier: 0,
+    // alt: false,
+    // shift: false,
+    // ctrl: false,
+    // win: false,
+    // meta: false,
+    // capsLock: false,
+    pressed: new Set(),
+  });
 
-export function useKeyboard() {
+  const handleKeyEvent = useCallback(
+    (e) => {
+      const pressed = keyboardState.pressed;
+      let pressedChanged = false;
+      if (e.type === "keydown" && !pressed.has(e.code)) {
+        pressed.add(e.code);
+        pressedChanged = true;
+      }
+      if (e.type === "keyup" && pressed.has(e.code)) {
+        pressed.delete(e.code);
+        pressedChanged = true;
+      }
+
+      const alt = e.getModifierState("Alt");
+      const shift = e.getModifierState("Shift");
+      const ctrl = e.getModifierState("Control");
+
+      const modifier =
+        0 | (shift ? SHIFT : 0) | (alt ? ALT | CTRL : 0) | (ctrl ? CTRL : 0);
+
+      const state = "";
+
+      if (
+        state !== keyboardState.state ||
+        modifier !== keyboardState.modifier ||
+        pressedChanged
+      ) {
+        setKeyboardState({
+          state,
+          modifier,
+          pressed,
+        });
+      }
+    },
+    [keyboardState, setKeyboardState]
+  );
+
+  const handleBlur = useCallback(
+    (e) => {
+      setKeyboardState({
+        state: "",
+        modifier: 0,
+        pressed: new Set(),
+      });
+    },
+    [setKeyboardState]
+  );
+
+  useEffect(() => {
+    window.addEventListener("keydown", handleKeyEvent);
+    window.addEventListener("keyup", handleKeyEvent);
+    window.addEventListener("blur", handleBlur);
+
+    return () => {
+      window.removeEventListener("keydown", handleKeyEvent);
+      window.removeEventListener("keyup", handleKeyEvent);
+      window.removeEventListener("blur", handleBlur);
+    };
+  }, [handleKeyEvent, handleBlur]);
+
+  // const toggleState = (serviceKey) => {
+  // setKeyboardState((prevState) => ({
+  //   ...prevState,
+  //   [serviceKey]: !prevState[serviceKey],
+  // }));
+  // };
+
+  return useMemo(
+    () => ({
+      keyboardState,
+      // handleKeyEvent,
+      // handleKeyUp,
+      // toggleState,
+    }),
+    [keyboardState]
+  );
+}
+
+export function useKey() {
   return useContext(KeyboardContext);
 }

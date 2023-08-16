@@ -4,6 +4,10 @@ import styles from "./CompactJSON.module.scss";
 import { useKeyboard } from './keyboard-context';
 import layout from './isv.json';
 
+const inactiveKey = [
+  ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '`'],
+];
+
 export default function CompactJSON({ script = 'Cyrl' }) {
   const { keyboardState, handleKeyDown, handleKeyUp, toggleState } = useKeyboard();
   const [pressedKeys, setPressedKeys] = useState({});
@@ -56,25 +60,12 @@ export default function CompactJSON({ script = 'Cyrl' }) {
 
   return (
     <>
-      <div className={clsx(styles.keyboard, styles[script])}>
-        <div
-          className={clsx(styles.serviceKey, keyboardState.shift && styles.pressed)}
-          onClick={() => toggleState('shift')}
-        >
-          shift
-        </div>
-        <div
-          className={clsx(styles.serviceKey, keyboardState.ctrl && styles.pressed)}
-          onClick={() => toggleState('ctrl')}
-        >
-          ctrl
-        </div>
-        <div
-          className={clsx(styles.serviceKey, keyboardState.alt && styles.pressed)}
-          onClick={() => toggleState('alt')}
-        >
-          alt
-        </div>
+      <div className={clsx(styles.keyboard, styles.row, styles[script])}>
+        {inactiveKey[0].map((key, keyIndex) => (
+          <span key={keyIndex} className={clsx(styles.key, styles.inactive)}>
+            {key}
+          </span>
+        ))}
         {Object.values(currentAlphabetData).map((letter, letterIndex) => (
           <div
             key={letterIndex}
@@ -85,6 +76,25 @@ export default function CompactJSON({ script = 'Cyrl' }) {
             {letter}
           </div>
         ))}
+        <div
+          className={clsx(styles.key, styles.shift, keyboardState.shift && styles.pressed)}
+          onClick={() => toggleState('shift')}
+        >
+          shift
+        </div>
+        <div
+          className={clsx(styles.key, styles.ctrl, keyboardState.ctrl && styles.pressed)}
+          onClick={() => toggleState('ctrl')}
+        >
+          ctrl
+        </div>
+        <div
+          className={clsx(styles.key, styles.alt, keyboardState.alt && styles.pressed)}
+          onClick={() => toggleState('alt')}
+        >
+          alt
+        </div>
+
       </div>
     </>
   );
