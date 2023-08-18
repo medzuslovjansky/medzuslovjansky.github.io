@@ -208,18 +208,28 @@ export default function Full({ name, lang, script, states, layout }) {
           </g>
         </g>
       </svg>
+      <FullKeyboard2 layout={layout} code={0} />
+      <FullKeyboard layout={layout} code={0} />
     </>
   )
 }
 /*==============*/
 
-function CustomText({ x, y, children, correctionPointX = 10, correctionPointY = 12, alt = false, shift = false, className, handleMouseDown, handleMouseUp }) {
+function CustomText({ x, y, shift = false, alt = false, correctionPointX = 10, correctionPointY = 12, handleMouseDown, handleMouseUp, children }) {
   const tx = x + correctionPointX + (alt ? 20 : 0);
   const ty = y + correctionPointY + (shift ? 0 : 20);
 
+  const simbolStyle = alt
+    ? shift
+      ? styles.textColorAltShift
+      : styles.textColorAlt
+    : shift
+      ? styles.textColorShift
+      : styles.textColorBase;
+
   return (
     <text
-      className={className}
+      className={clsx(styles.keyText, simbolStyle)}
       x={tx}
       y={ty}
       onMouseDown={handleMouseDown}
@@ -229,8 +239,15 @@ function CustomText({ x, y, children, correctionPointX = 10, correctionPointY = 
   );
 }
 
-function FullKey({ code, layout, x, y, width = 75, height = 41, correctionPointY = 0, content }) {
+function FullKey2({ code, layout, x, y, width = 41, height = 41 }) {
   const [isClicked, setIsClicked] = useState(false);
+
+  const context = useKey().keyboardState;
+  const { state, modifier, pressed } = context;
+  const contentBase = layout.states[state][code]?.[0] ?? '\u00a0';
+  const contentShif = layout.states[state][code]?.[1] ?? '\u00a0';
+  const contentAlt = layout.states[state][code]?.[6] ?? '\u00a0';
+  const contentAltShif = layout.states[state][code]?.[7] ?? '\u00a0';
 
   const handleMouseDown = () => {
     setIsClicked(true);
@@ -238,13 +255,6 @@ function FullKey({ code, layout, x, y, width = 75, height = 41, correctionPointY
 
   const handleMouseUp = () => {
     setIsClicked(false);
-  };
-
-  const keyTextProps = {
-    x,
-    y,
-    fontSize: 13,
-    fontWeight: 600,
   };
 
   return (
@@ -261,21 +271,15 @@ function FullKey({ code, layout, x, y, width = 75, height = 41, correctionPointY
         strokeWidth={isClicked ? 3 : 1}
         rx={3}
       />
-      <CustomText {...keyTextProps} className={styles.textColorBase}>
-        {content}
-      </CustomText>
-      {alt && <CustomText {...keyTextProps} className={styles.textColorAlt}>{content}</CustomText>}
-      {shift && <CustomText {...keyTextProps} className={styles.textColorShift}>{content}</CustomText>}
-      {altShift && <CustomText {...keyTextProps} className={styles.textColorAltShift}>{content}</CustomText>}
+      <CustomText x={x} y={y}>{contentBase}</CustomText>
+      <CustomText x={x} y={y} alt={true}>{contentShif}</CustomText>
+      <CustomText x={x} y={y} shift={true}>{contentAlt}</CustomText>
+      <CustomText x={x} y={y} alt={true} shift={true}>{contentAltShif}</CustomText>
     </g>
   );
 }
 
-function FullKeyboard({ className, layout, code }) {
-
-  const context = useKey().keyboardState;
-  const { state, modifier, pressed } = context;
-  const content = layout.states[state][code]?.[modifier] ?? '\u00a0';
+function FullKeyboard2({ className, layout }) {
 
   return (
     <svg
@@ -286,29 +290,57 @@ function FullKeyboard({ className, layout, code }) {
       <g>
         <g>
           <rect
-            width="716"
-            height="272"
+            className={styles.mainRect}
             x="1"
             y="1"
             rx="8"
-            stroke="#777"
           ></rect>
           <g>
-            {/* <div className={clsx(styles.keyboard, className)}>
-              {keys.map((row, rowIndex) => (
-                <div key={rowIndex} className={styles.row}>
-                  {row.map((code, columnIndex) => (
-                    <FullKey key={columnIndex} code={code} layout={layout} />
-                  ))}
-                </div>
-              ))}
-            </div > */}
-            <FullKey />
+            {keys.map((row, rowIndex) => (
+              <g key={rowIndex} className={styles.row}>
+                {row.map((code, columnIndex) => {
+                  const x = 9.5 + columnIndex * 48;
+                  const y = 28.5 + rowIndex * 48;
+                  return <FullKey2 key={columnIndex} code={code} layout={layout} x={x} y={y} />
+                })}
+              </g>
+            ))}
           </g>
         </g>
       </g>
     </svg>
 
+  );
+}
+
+function keySimbol() { };
+
+function FullKey({ code, layout }) {
+  const context = useKey().keyboardState;
+  const { state, modifier, pressed, onKeyDown, onKeyUp } = context;
+  const content = layout.states[state][code]?.[modifier] ?? '\u00a0';
+
+  /* const onMouseDown = useCallback(() => onKeyDown(code), [code, onKeyDown]);
+  const onMouseUp = useCallback(() => onKeyUp(code), [code, onKeyUp]); */
+
+  return (
+    <span className={clsx(styles.key, { [styles.inactive]: SERVICE_KEYS.has(code), [styles.pressed]: pressed.has(code) })} /* onMouseDown={onMouseDown} onMouseUp={onMouseUp} */>
+      {content}
+    </span>
+  );
+}
+
+function FullKeyboard({ className, layout }) {
+  return (
+    <div className={clsx(styles.keyboard, className)}>
+      {keys.map((row, rowIndex) => (
+        <div key={rowIndex} className={styles.row}>
+          {row.map((code, columnIndex) => (
+            <FullKey key={columnIndex} code={code} layout={layout} />
+          ))}
+        </div>
+      ))}
+    </div >
   );
 }
 
