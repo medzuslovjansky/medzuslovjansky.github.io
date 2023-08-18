@@ -153,3 +153,12 @@
     }
   }
 }
+
+.figure {
+  margin: 0;
+
+  > figcaption {
+    font-weight: bold;
+    margin: 0.5em 0 0;
+  }
+}

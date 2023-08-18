@@ -3,7 +3,6 @@ import { useResizeObserver } from '@site/src/hooks'
 import styles from './Wrapper.module.scss'
 import FullKeyboardPreview from './Full'
 import CompactKeyboardPreview from './Compact'
-import CompactJSON from './CompactJSON'
 import layout from './isv.json'
 import { useKeyboard, KeyboardProvider } from './keyboard-context'
 

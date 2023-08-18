@@ -16,21 +16,45 @@ const keys = [
 
 export default function Compact({ className, layout }) {
   return (
+    <div>
+      <figure className={styles.figure}>
+        <figcaption>Default</figcaption>
+        <CompactKeyboard className={className} layout={layout} />
+      </figure>
+      <figure className={styles.figure}>
+        <figcaption>Shift</figcaption>
+        <CompactKeyboard className={className} layout={layout} modifier={1} />
+      </figure>
+      <figure className={styles.figure}>
+        <figcaption>Alt</figcaption>
+        <CompactKeyboard className={className} layout={layout} modifier={6} />
+      </figure>
+      <figure className={styles.figure}>
+        <figcaption>Alt + Shift</figcaption>
+        <CompactKeyboard className={className} layout={layout} modifier={7} />
+      </figure>
+    </div>
+  );
+}
+
+function CompactKeyboard({ className, layout, modifier }) {
+  return (
     <div className={clsx(styles.keyboard, className)}>
       {keys.map((row, rowIndex) => (
         <div key={rowIndex} className={styles.row}>
           {row.map((code, columnIndex) => (
-            <CompactKey key={columnIndex} code={code} layout={layout} />
+            <CompactKey key={columnIndex} code={code} layout={layout} modifier={modifier} />
           ))}
         </div>
       ))}
-    </div >
+    </div>
   );
 }
 
-function CompactKey({ code, layout }) {
+function CompactKey({ code, layout, modifier: modifierOverride }) {
   const context = useKey().keyboardState;
-  const { state, modifier, pressed, onKeyDown, onKeyUp } = context;
+  const { state, modifier: modifierDynamic, pressed, onKeyDown, onKeyUp } = context;
+  const modifier = modifierOverride ?? modifierDynamic;
   const content = layout.states[state][code]?.[modifier] ?? '\u00a0';
 
   /* const onMouseDown = useCallback(() => onKeyDown(code), [code, onKeyDown]);

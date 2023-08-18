@@ -208,7 +208,6 @@ export default function Full({ name, lang, script, states, layout }) {
           </g>
         </g>
       </svg>
-      <FullKeyboard layout={layout} />
     </>
   )
 }
