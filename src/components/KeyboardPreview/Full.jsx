@@ -14,23 +14,7 @@ const keys = [
   ['ControlLeft', 'AltLeft', 'Space', 'AltRight', 'ControlRight', 'ArrowLeft', 'ArrowUp', 'ArrowDown', 'ArrowRight'],
 ];
 
-function CustomText({ x, y, children, correctionPointX = 0, correctionPointY = 0, alt = false, shift = false, className, fontSize = 10, fontWeight = 500, handleMouseDown, handleMouseUp }) {
-  const tx = x + correctionPointX + (alt ? 20 : 0);
-  const ty = y + correctionPointY + (shift ? 0 : 20);
 
-  return (
-    <text
-      fontSize={fontSize}
-      fontWeight={fontWeight}
-      className={className}
-      x={tx}
-      y={ty}
-      onMouseDown={handleMouseDown}
-      onMouseUp={handleMouseUp}>
-      {children}
-    </text>
-  );
-}
 
 
 function KeyText({ x, y, alt, shift, children, handleMouseDown, handleMouseUp, className }) {
@@ -229,7 +213,71 @@ export default function Full({ name, lang, script, states, layout }) {
   )
 }
 /*==============*/
-function FullKeyboard({ className, layout }) {
+
+function CustomText({ x, y, children, correctionPointX = 10, correctionPointY = 12, alt = false, shift = false, className, handleMouseDown, handleMouseUp }) {
+  const tx = x + correctionPointX + (alt ? 20 : 0);
+  const ty = y + correctionPointY + (shift ? 0 : 20);
+
+  return (
+    <text
+      className={className}
+      x={tx}
+      y={ty}
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}>
+      {children}
+    </text>
+  );
+}
+
+function FullKey({ code, layout, x, y, width = 75, height = 41, correctionPointY = 0, content }) {
+  const [isClicked, setIsClicked] = useState(false);
+
+  const handleMouseDown = () => {
+    setIsClicked(true);
+  };
+
+  const handleMouseUp = () => {
+    setIsClicked(false);
+  };
+
+  const keyTextProps = {
+    x,
+    y,
+    fontSize: 13,
+    fontWeight: 600,
+  };
+
+  return (
+    <g
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}
+    >
+      <rect
+        width={width}
+        height={height}
+        x={x}
+        y={y}
+        stroke={isClicked ? "#147CFA" : "#646464"}
+        strokeWidth={isClicked ? 3 : 1}
+        rx={3}
+      />
+      <CustomText {...keyTextProps} className={styles.textColorBase}>
+        {content}
+      </CustomText>
+      {alt && <CustomText {...keyTextProps} className={styles.textColorAlt}>{content}</CustomText>}
+      {shift && <CustomText {...keyTextProps} className={styles.textColorShift}>{content}</CustomText>}
+      {altShift && <CustomText {...keyTextProps} className={styles.textColorAltShift}>{content}</CustomText>}
+    </g>
+  );
+}
+
+function FullKeyboard({ className, layout, code }) {
+
+  const context = useKey().keyboardState;
+  const { state, modifier, pressed } = context;
+  const content = layout.states[state][code]?.[modifier] ?? '\u00a0';
+
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -247,7 +295,7 @@ function FullKeyboard({ className, layout }) {
             stroke="#777"
           ></rect>
           <g>
-            <div className={clsx(styles.keyboard, className)}>
+            {/* <div className={clsx(styles.keyboard, className)}>
               {keys.map((row, rowIndex) => (
                 <div key={rowIndex} className={styles.row}>
                   {row.map((code, columnIndex) => (
@@ -255,7 +303,8 @@ function FullKeyboard({ className, layout }) {
                   ))}
                 </div>
               ))}
-            </div >
+            </div > */}
+            <FullKey />
           </g>
         </g>
       </g>
@@ -264,14 +313,3 @@ function FullKeyboard({ className, layout }) {
   );
 }
 
-function FullKey({ code, layout }) {
-  const context = useKey().keyboardState;
-  const { state, modifier, pressed } = context;
-  const content = layout.states[state][code]?.[modifier] ?? '\u00a0';
-
-  return (
-    <span className={clsx(styles.key, { [styles.inactive]: SERVICE_KEYS.has(code), [styles.pressed]: pressed.has(code) })}>
-      {content}
-    </span>
-  );
-}
