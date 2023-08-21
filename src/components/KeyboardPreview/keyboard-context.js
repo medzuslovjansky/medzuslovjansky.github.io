@@ -62,6 +62,7 @@ export function useKeyboard(layout) {
         pressedChanged
       ) {
         setKeyboardState({
+          ...keyboardState,
           state,
           modifier,
           pressed,
@@ -74,6 +75,7 @@ export function useKeyboard(layout) {
   const handleBlur = useCallback(
     (e) => {
       setKeyboardState({
+        ...keyboardState,
         state: "",
         modifier: 0,
         pressed: new Set(),
