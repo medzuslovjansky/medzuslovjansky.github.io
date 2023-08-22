@@ -14,7 +14,7 @@ origin: http://steen.free.fr/interslavic/introduction.html
 In other words, Interslavic is a language with three different aspects:
 
 - it is an improvised ad hoc language that evolves spontaneously in Inter-Slavic contacts
-- it is a scientific extrapolation of the hypothetic language at the very centre of the Slavic languages
+- it is a scientific interpolation of the hypothetic language at the very centre of the Slavic languages
 - it is a modernised continuation of the common ancestor of the Slavic languages (Proto-Slavic) or its close relative, Old Church Slavonic
 
 Although the Slavic languages share enough characteristics in grammar, vocabulary and syntax to allow for some basic mutual understanding, each language has idiosyncrasies that stand in the way of full understanding. To enhance communication between speakers of different Slavic languages, Interslavic removes these idiosyncrasies and focuses on the numerous words and forms that the Slavic languages have in common. It can be learned and used as a Slavic Esperanto, but it can also be treated as a set of recommendations for altering any Slavic language as to facilitate communication with other Slavic speakers. As a result, every piece of newly acquired knowledge can be put into practical use immediately; knowledge that is helpful not only in making yourself understandable, but also in getting a better understanding of texts written in any other Slavic language.
