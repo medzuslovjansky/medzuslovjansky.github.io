@@ -28,10 +28,112 @@ const serviceKeys = {
   ArrowLeft: { x: 564.5, y: 245.5, width: 44, height: 21, label: '◄' },
   ArrowUp: { x: 613.5, y: 224.5, width: 44, height: 21, label: '▲' },
   ArrowDown: { x: 613.5, y: 245.5, width: 44, height: 21, label: '▼' },
-  ArrowRight: { x: 662.5, y: 245.5, width: 44, height: 21, label: '►' },
-
-
+  ArrowRight: { x: 662.5, y: 245.5, width: 44, height: 21, label: '►' }
 };
+
+const keyRow = (overrides, keys) => {
+  const defaults = {
+    x: 9.5,
+    y: 28.5,
+    width: 41,
+    height: 41,
+
+    ...overrides,
+  };
+
+  const result = {};
+
+  for (const key of keys) {
+    const code = typeof key === 'string' ? key : key.code;
+    const props = typeof key === 'string' ? { ...defaults } : { ...defaults, ...key };
+    result[props.code] = props;
+  }
+
+  return result;
+};
+
+const row1 = (keys) => keyRow({ x: 9.5, y: 28.5 }, keys);
+const row2 = (keys) => keyRow({ x: 91.5, y: 76.5 }, keys);
+const row3 = (keys) => keyRow({ x: 105.5, y: 126.5 }, keys);
+const row4 = (keys) => keyRow({ x: 129.5, y: 174.5 }, keys);
+const row5 = (keys) => keyRow({ x: 9.5, y: 224.5 }, keys);
+
+const keysData = {
+  ...row1([
+    "Backquote",
+    "Digit1",
+    "Digit2",
+    "Digit3",
+    "Digit4",
+    "Digit5",
+    "Digit6",
+    "Digit7",
+    "Digit8",
+    "Digit9",
+    "Digit0",
+    "Minus",
+    "Equal",
+    { code: "Backspace", label: 'backspace', width: 75 },
+  ]),
+
+  ...row2([
+    { code: "Tab", label: 'tab', width: 41 },
+    "KeyQ",
+    "KeyW",
+    "KeyE",
+    "KeyR",
+    "KeyT",
+    "KeyY",
+    "KeyU",
+    "KeyI",
+    "KeyO",
+    "KeyP",
+    "BracketLeft",
+    "BracketRight",
+    "Backslash"
+  ]),
+  ...row3([
+    { code: "CapsLock", label: 'caps lock', width: 89 },
+    "KeyA",
+    "KeyS",
+    "KeyD",
+    "KeyF",
+    "KeyG",
+    "KeyH",
+    "KeyJ",
+    "KeyK",
+    "KeyL",
+    "Semicolon",
+    "Quote",
+    { code: "Enter", label: 'enter', width: 75 },
+  ]),
+  ...row4([
+    { code: "ShiftLeft", label: 'shift', width: 113 },
+    "KeyZ",
+    "KeyX",
+    "KeyC",
+    "KeyV",
+    "KeyB",
+    "KeyN",
+    "KeyM",
+    "Comma",
+    "Period",
+    "Slash",
+    { code: "ShiftRight", label: 'shift', width: 99 },
+  ]),
+  ...row5([
+    { code: "ControlLeft", label: 'ctrl', width: 102 },
+    { code: "AltLeft", label: 'alt', width: 92 },
+    { code: "Space", label: '', width: 238 },
+    { code: "AltRight", label: 'alt', width: 44 },
+    { code: "ControlRight", label: 'ctrl', width: 44 },
+    { code: "ArrowLeft", label: '◄', width: 44, height: 21 },
+    { code: "ArrowUp", label: '▲', width: 44, height: 21 },
+    { code: "ArrowDown", label: '▼', width: 44, height: 21 },
+    { code: "ArrowRight", label: '►', width: 44, height: 21 },
+  ])
+};
+console.log(keysData);
 
 function KeySimbol({ x, y, modifier, shift = false, alt = false, label, correctionPointX = 10, correctionPointY = 12, children }) {
   let tx = x + correctionPointX;
