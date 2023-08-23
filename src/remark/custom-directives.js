@@ -29,6 +29,8 @@ const plugin = (_options) => {
           return notr(node);
         case 'ipa':
           return ipa(node);
+        case 'component':
+          return component(node);
         case 'be':
         case 'bg':
         case 'bs':
@@ -139,6 +141,16 @@ function getShallowText(node) {
 function lang(node) {
   const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
   prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
+}
+
+function component(node) {
+  const { name, ...props } = node.attributes || {};
+  if (!name) return;
+
+  Object.assign(prepareNode(node).data, {
+    hName: name,
+    hProperties: props,
+  });
 }
 
 module.exports = plugin;

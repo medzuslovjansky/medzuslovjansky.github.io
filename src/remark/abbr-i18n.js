@@ -122,8 +122,8 @@ const cases = {
     'mk': ['пр.', 'предложен падеж'],
     'bg': ['м.', 'местен падеж'],
   },
-  'inst.': {
-    'en': ['inst.', 'instrumental'],
+  'ins.': {
+    'en': ['ins.', 'instrumental'],
     'ru': ['тв.', 'творительный падеж'],
     'be': ['тв.', 'творны выпадак'],
     'uk': ['ор.', 'орудний відмінок'],
@@ -153,6 +153,8 @@ const cases = {
     'bg': ['з.', 'звателен падеж'],
   },
 };
+
+cases['instr.'] = cases['ins.'];
 
 const numbers = {
   'sg.': {
@@ -187,6 +189,153 @@ const numbers = {
   }
 };
 
+const animacy = {
+  'anim.': {
+    'en': ['anim.', 'animate'],
+    'ru': ['од.', 'одушевлённое'],
+    'be': ['ад.', 'адушэннае'],
+    'uk': ['од.', 'одушевлене'],
+    'pl': ['o.', 'ożywiony'],
+    'cs': ['ž.', 'životný'],
+    'sk': ['ž.', 'životný'],
+    'sl': ['ož.', 'oživljen'],
+    'sr-Cyrl': ['ож.', 'оживљен'],
+    'hr': ['ož.', 'oživljen'],
+    'bs': ['ož.', 'oživljen'],
+    'mk': ['ож.', 'оживено'],
+    'bg': ['од.', 'одушевено'],
+  },
+  'inanim.': {
+    'en': ['inanim.', 'inanimate'],
+    'ru': ['неод.', 'неодушевлённое'],
+    'be': ['неад.', 'неадушэннае'],
+    'uk': ['неод.', 'неодушевлене'],
+    'pl': ['n.', 'nieożywiony'],
+    'cs': ['nž.', 'neživotný'],
+    'sk': ['nž.', 'neživotný'],
+    'sl': ['než.', 'neživljen'],
+    'sr-Cyrl': ['неож.', 'неоживљен'],
+    'hr': ['než.', 'neživljen'],
+    'bs': ['než.', 'neživljen'],
+    'mk': ['неож.', 'неоживено'],
+    'bg': ['неод.', 'неодушевено'],
+  },
+};
+
+const partsOfSpeech = {
+  'adj.': {
+    'en': ['adj.', 'adjective'],
+    'ru': ['прил.', 'прилагательное'],
+    'be': ['прысл.', 'прыслоўе'],
+    'uk': ['прикм.', 'прикметник'],
+    'pl': ['przym.', 'przymiotnik'],
+    'cs': ['příd.', 'přídavné jméno'],
+    'sk': ['príd.', 'prídavné meno'],
+    'sl': ['pridev.', 'pridevnik'],
+    'sr-Cyrl': ['прид.', 'придев'],
+    'hr': ['prid.', 'pridjev'],
+    'bs': ['prid.', 'pridjev'],
+    'mk': ['прид.', 'придавка'],
+    'bg': ['прил.', 'прилагателно'],
+  },
+  'adv.': {
+    'en': ['adv.', 'adverb'],
+    'ru': ['нар.', 'наречие'],
+    'be': ['накл.', 'наклон'],
+    'uk': ['присл.', 'прислівник'],
+    'pl': ['przysł.', 'przysłówek'],
+    'cs': ['přís.', 'příslovce'],
+    'sk': ['prís.', 'príslovka'],
+    'sl': ['prislov.', 'prislov'],
+    'sr-Cyrl': ['присл.', 'прислов'],
+    'hr': ['pris.', 'prislov'],
+    'bs': ['pris.', 'prislov'],
+    'mk': ['присл.', 'присловка'],
+    'bg': ['нар.', 'наречие'],
+  },
+};
+
+const misc = {
+  'fig.': {
+    'en': ['fig.', 'figuratively'],
+    'ru': ['перен.', 'переносно'],
+    'be': ['перан.', 'пераносна'],
+    'uk': ['перен.', 'переносно'],
+    'pl': ['przen.', 'przenośnie'],
+    'cs': ['přen.', 'přenosem'],
+    'sk': ['pren.', 'prenosom'],
+    'sl': ['pren.', 'preneseno'],
+    'sr-Cyrl': ['прен.', 'преносно'],
+    'hr': ['pren.', 'preneseno'],
+    'bs': ['pren.', 'preneseno'],
+    'mk': ['прен.', 'пренесено'],
+    'bg': ['прен.', 'преносно'],
+  },
+  'lit.': {
+    'en': ['lit.', 'literally'],
+    'ru': ['букв.', 'буквально'],
+    'be': ['літ.', 'літаральна'],
+    'uk': ['букв.', 'буквально'],
+    'pl': ['dosł.', 'dosłownie'],
+    'cs': ['dosl.', 'doslovně'],
+    'sk': ['dosl.', 'doslovne'],
+    'sl': ['dobes.', 'dobesedno'],
+    'sr-Cyrl': ['досл.', 'дословно'],
+    'hr': ['dosl.', 'doslovno'],
+    'bs': ['dosl.', 'doslovno'],
+    'mk': ['досл.', 'дословно'],
+    'bg': ['досл.', 'дословно'],
+  },
+  'cf.': {
+    'en': ['cf.', 'compare'],
+    'ru': ['ср.', 'сравните'],
+    'be': ['пар.', 'параўнаць'],
+    'uk': ['пор.', 'порівняйте'],
+    'pl': ['por.', 'porównaj'],
+    'cs': ['srov.', 'srovnejte'],
+    'sk': ['por.', 'porovnajte'],
+    'sl': ['primerj.', 'primerjaj'],
+    'sr-Cyrl': ['пор.', 'пореди'],
+    'hr': ['usp.', 'usporedi'],
+    'bs': ['usp.', 'usporedi'],
+    'mk': ['спор.', 'спореди'],
+    'bg': ['ср.', 'сравни'],
+  },
+};
+
+const aspects = {
+  'impf.': {
+    'en': ['impf.', 'imperfective'],
+    'ru': ['несов.', 'несовершенный вид'],
+    'be': ['несов.', 'несовершенный вид'],
+    'uk': ['недок.', 'недоконаний вид'],
+    'pl': ['niedok.', 'niedokonany'],
+    'cs': ['nedok.', 'nedokonavý'],
+    'sk': ['nedok.', 'nedokonavý'],
+    'sl': ['nedov.', 'nedovršni'],
+    'sr-Cyrl': ['недов.', 'недовршени'],
+    'hr': ['nedov.', 'nedovršeni'],
+    'bs': ['nedov.', 'nedovršeni'],
+    'mk': ['недов.', 'недовршен'],
+    'bg': ['несв.', 'несвършен вид'],
+  },
+  'pf.': {
+    'en': ['pf.', 'perfective'],
+    'ru': ['сов.', 'совершенный вид'],
+    'be': ['сов.', 'совершенный вид'],
+    'uk': ['док.', 'доконаний вид'],
+    'pl': ['dok.', 'dokonany'],
+    'cs': ['dok.', 'dokonavý'],
+    'sk': ['dok.', 'dokonavý'],
+    'sl': ['dov.', 'dovršni'],
+    'sr-Cyrl': ['дов.', 'довршени'],
+    'hr': ['dov.', 'dovršeni'],
+    'bs': ['dov.', 'dovršeni'],
+    'mk': ['дов.', 'довршен'],
+    'bg': ['св.', 'свършен вид'],
+  },
+};
+
 function combineAbbr2(abbr1, abbr2) {
   if (!abbr1.endsWith('.') || abbr1.indexOf('.') !== abbr1.lastIndexOf('.')) {
     return abbr1 + ' ' + abbr2;
@@ -208,9 +357,13 @@ function combine(...abbrs) {
 }
 
 const abbreviations = {
-  ...genders,
+  ...animacy,
+  ...aspects,
   ...cases,
+  ...genders,
+  ...misc,
   ...numbers,
+  ...partsOfSpeech,
 };
 
 for (const g of Object.keys(genders)) {
@@ -222,6 +375,13 @@ for (const g of Object.keys(genders)) {
     for (const n of Object.keys(numbers)) {
       abbreviations[`${g}${c}${n}`] = combine(genders[g], cases[c], numbers[n]);
     }
+  }
+}
+
+for (const a of Object.keys(animacy)) {
+  abbreviations[`m.${a}`] = combine(genders['m.'], animacy[a]);
+  for (const n of Object.keys(numbers)) {
+    abbreviations[`m.${a}${n}`] = combine(genders['m.'], animacy[a], numbers[n]);
   }
 }
 

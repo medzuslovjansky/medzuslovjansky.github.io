@@ -22,6 +22,7 @@ export default {
   ...MDXComponents,
   CustomAfterSection,
   CustomBeforeSection,
+  DocCardList,
   IPA,
   MDPronunciation1,
   MDPronunciation2,
