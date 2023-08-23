@@ -143,7 +143,7 @@ Interslavic ја користи буквата `ј` од српската и м�
 
 [1]: \#representation-of-problematic-characters
 
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 

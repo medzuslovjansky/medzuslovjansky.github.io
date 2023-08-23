@@ -76,7 +76,7 @@ export function useKeyboard(layout) {
     (e) => {
       setKeyboardState({
         ...keyboardState,
-        state: "",
+        state: '',
         modifier: 0,
         pressed: new Set(),
       });
@@ -96,19 +96,9 @@ export function useKeyboard(layout) {
     };
   }, [handleKeyEvent, handleBlur]);
 
-  // const toggleState = (serviceKey) => {
-  // setKeyboardState((prevState) => ({
-  //   ...prevState,
-  //   [serviceKey]: !prevState[serviceKey],
-  // }));
-  // };
-
   return useMemo(
     () => ({
       keyboardState,
-      // handleKeyEvent,
-      // handleKeyUp,
-      // toggleState,
     }),
     [keyboardState]
   );

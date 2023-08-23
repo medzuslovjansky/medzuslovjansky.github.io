@@ -1,4 +1,5 @@
 import { KeyboardPreview } from "@site/src/components";
+import layout from "@site/src/markdown/keyboards/art-Latn-x-interslv.json";
 
 # Keyboards
 
@@ -34,7 +35,7 @@ For the **Interslavic Cyrillic** alphabet:
 
 - Serbian (exempted, without "Ы")
 
-<KeyboardPreview alphabet="Lathin" accentColor="Lathin" />
+<KeyboardPreview layout={layout} />
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 [2]: http://usachov.eu/g

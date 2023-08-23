@@ -154,7 +154,7 @@ Here are some websites dedicated to the Interslavic language and culture:
 
 [17]: https://www.patro.cz/interslavic-zonal-constructed-language/
 
-[18]: ./keyboards.mdx
+[18]: ./keyboards/index.md
 
 [19]: https://interslavic-dictionary.com/
 

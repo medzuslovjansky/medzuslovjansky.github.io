@@ -158,7 +158,7 @@ Poniżej jest kilka stron poświęconych językowi i kulturze międzysłowiańsk
 
 [17]: https://www.patro.cz/interslavic-zonal-constructed-language/
 
-[18]: ./keyboards.md
+[18]: ./keyboards/index.md
 
 [19]: https://interslavic-dictionary.com/
 
