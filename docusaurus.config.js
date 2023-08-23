@@ -31,7 +31,6 @@ async function createConfig() {
             sidebarPath: require.resolve('./sidebars.js'),
             editUrl: 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
             editLocalizedFiles: true,
-            showLastUpdateAuthor: true,
             showLastUpdateTime: true,
             remarkPlugins: [
               require('./src/remark/mdx-before-after-plugin'),
@@ -69,14 +68,7 @@ async function createConfig() {
         'sl',
         'sr-Cyrl',
         'uk',
-        'uk-Latn',
       ],
-      localeConfigs: {
-        'uk-Latn': {
-          label: 'Ukrajins\'ka',
-          direction: 'ltr',
-        },
-      }
     },
 
     themeConfig:

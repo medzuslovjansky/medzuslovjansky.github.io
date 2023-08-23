@@ -20,7 +20,7 @@
     "description": "Title of the button to submit a new search"
   },
   "com.admonitions.autotranslation.message": {
-    "message": "Ten artykuł został przetłumaczony automatycznie i może zawierać błędy. Zapewnienie tłumaczenia w ponad dziesięciu językach to trudne zadanie i czekamy na Twoją pomoc. Skontaktuj się z nami na {Discord}, \u200B\u200Bjeśli chcesz pomóc nam poprawić jakość naszych tłumaczeń. Alternatywnie możesz zasugerować poprawki bezpośrednio przez {GitHub}."
+    "message": "Ten artykuł został przetłumaczony automatycznie i może zawierać błędy. Zapewnienie tłumaczenia w ponad dziesięciu językach to trudne zadanie i czekamy na Twoją pomoc. Skontaktuj się z nami na {Discord}, ​​jeśli chcesz pomóc nam poprawić jakość naszych tłumaczeń. Alternatywnie możesz zasugerować poprawki bezpośrednio przez {GitHub}."
   },
   "com.admonitions.autotranslation.title": {
     "message": "Automatyczne tłumaczenie"
@@ -366,5 +366,26 @@
   "theme.unlistedContent.title": {
     "message": "Niepubliczna strona",
     "description": "The unlisted content banner title"
+  },
+  "com.script.Standard": {
+    "message": "Standard"
+  },
+  "com.script.Etymological": {
+    "message": "Etymological"
+  },
+  "com.script.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Latin": {
+    "message": "Latin"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Cyrillic": {
+    "message": "Cyrillic"
   }
 }

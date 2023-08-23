@@ -1,9 +1,30 @@
-|           | singular                 |                         |             |         | plural                  |                         |             |         |
-| --------- | ------------------------ | ----------------------- | ----------- | ------- | ----------------------- | ----------------------- | ---------- | ------- |
-|           | masculine<br>(animate)   | masculine<br>(inanimate) | neuter      | feminine | masculine<br>(animate)  | masculine<br>(inanimate) | neuter      | feminine |
-| Nom       | dobry                    | dobry                   | dobro       | dobra   | dobri                   | dobri                   | dobre       | dobre   |
-| Acc       | dobrogo                  | dobry                   | dobru       | dobryh   | dobri                   | dobri                   | dobre       | dobre   |
-| Gen       | dobrogo                  | dobrogo              | dobrogo   | dobroj | dobryh              | dobryh              | dobryh   | dobryh |
-| Dat       | dobromu                  | dobromu              | dobromu   | dobroj | dobrym              | dobrym              | dobrym   | dobrym |
-| Ins       | dobrym                   | dobrym                   | dobrym       | dobroju | dobrymi               | dobrymi               | dobrymi       | dobrymi |
-| Loc       | dobrom                   | dobrom                   | dobrom       | dobroj | dobryh              | dobryh              | dobryh   | dobryh |
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import {translate} from "@docusaurus/Translate";
+
+<Tabs groupId="number">
+  <TabItem value="sg" label={translate({ id: 'com.grammar.singular', message: 'Singular' })} default>
+
+| Case | Masculine (animate) | Masculine (inanimate) | Neuter  | Feminine |
+| ---- | ------------------ | -------------------- | ------- | -------- |
+| Nom  | dobry              | dobry                | dobro   | dobra    |
+| Acc  | dobrogo            | dobry                | dobro   | dobru    |
+| Gen  | dobrogo            | dobrogo              | dobrogo | dobroj   |
+| Dat  | dobromu            | dobromu              | dobromu | dobroj   |
+| Ins  | dobrym             | dobrym               | dobrym  | dobroju  |
+| Loc  | dobrom             | dobrom               | dobrom  | dobroj   |
+
+  </TabItem>
+  <TabItem value="pl" label={translate({ id: 'com.grammar.plural', message: 'Plural' })}>
+
+| Case | Masculine (animate) | Masculine (inanimate)  | Neuter  | Feminine |
+| ---- | ------------------- | ---------------------- | ------- | -------- |
+| Nom  | dobri               | dobre                  | dobre   | dobre    |
+| Acc  | dobryh              | dobre                  | dobre   | dobre    |
+| Gen  | dobryh              | dobryh                 | dobryh  | dobryh   |
+| Dat  | dobrym              | dobrym                 | dobrym  | dobrym   |
+| Ins  | dobrymi             | dobrymi                | dobrymi | dobrymi  |
+| Loc  | dobryh              | dobryh                 | dobryh  | dobryh   |
+
+  </TabItem>
+</Tabs>

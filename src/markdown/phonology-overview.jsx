@@ -20,7 +20,8 @@ export default function PhonologyOverview() {
         <th colSpan={4}>clusters</th>
       </tr>
       <tr>
-        <th>Hard</th> <td>p</td>
+        <th>Hard</th>
+        <td>p</td>
         <td>b</td>
         <td>f</td>
         <td>v</td>

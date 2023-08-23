@@ -22,5 +22,13 @@
   "sidebar.learnSidebar.category.Grammar": {
     "message": "Grammar",
     "description": "The label for category Grammar in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Gramatika": {
+    "message": "Gramatika",
+    "description": "The label for category Gramatika in sidebar learnSidebar"
+  },
+  "sidebar.learnSidebar.category.Jednoduchá gramatika": {
+    "message": "Jednoduchá gramatika",
+    "description": "The label for category Jednoduchá gramatika in sidebar learnSidebar"
   }
 }

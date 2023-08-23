@@ -377,13 +377,19 @@
     "message": "Cyrillic"
   },
   "com.script.Pronunciation": {
-    "message": "Pronun\u00ADciation"
+    "message": "Pronun­ciation"
   },
   "com.script.Etymological": {
-    "message": "Etym\u00ADologi\u00ADcal"
+    "message": "Etym­ologi­cal"
   },
   "com.script.Standard": {
-    "message": "St\u00ADan\u00ADdard"
+    "message": "St­an­dard"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronun\u00ADciation"
   },
   "com.platform.windows": {
     "message": "Windows",

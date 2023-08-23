@@ -1,9 +1,30 @@
-|           | singular          |                  |             |         | plural           |                  |             |         |
-| --------- | ----------------- | ---------------- | ----------- | ------- | ---------------- | ---------------- | ----------- | ------- |
-|           | masculine (animate) | masculine (inanimate) | neuter      | feminine | masculine (animate) | masculine (inanimate) | neuter      | feminine |
-| Nom       | -y (-i)                 | -y (-i)                | -o (-e)       | -a        | -i               | -i               | -e          | -e       |
-| Acc       | -ogo (-ego)             | -y (-i)                | -u             | -yh (-ih) | -i               | -i               | -e          | -e       |
-| Gen       | -ogo (-ego)             | -ogo (-ego)         | -ogo (-ego) | -oj (-ej) | -yh (-ih)   | -yh (-ih)   | -yh (-ih) | -yh (-ih) |
-| Dat       | -omu (-emu)             | -omu (-emu)         | -omu (-emu) | -oj (-ej) | -ym (-im)   | -ym (-im)   | -ym (-im) | -ym (-im) |
-| Ins       | -ym (-im)                 | -ym (-im)                | -ym (-im)       | -oju (-eju) | -ymi (-imi)   | -ymi (-imi)   | -ymi (-imi) | -ymi (-imi) |
-| Loc       | -om (-em)                 | -om (-em)                | -om (-em)       | -oj (-ej) | -yh (-ih)   | -yh (-ih)   | -yh (-ih) | -yh (-ih) |
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import {translate} from "@docusaurus/Translate";
+
+<Tabs groupId="number">
+  <TabItem value="sg" label={translate({ id: 'com.grammar.singular', message: 'Singular' })} default>
+
+| Case | Masculine (animate) | Masculine (inanimate) | Neuter      | Feminine    |
+| ---- | ------------------- | --------------------- | ----------- | ----------- |
+| Nom  | -y (-i)             | -y (-i)               | -o (-e)     | -a          |
+| Acc  | -ogo (-ego)         | -y (-i)               | -o (-e)     | -u          |
+| Gen  | -ogo (-ego)         | -ogo (-ego)           | -ogo (-ego) | -oj (-ej)   |
+| Dat  | -omu (-emu)         | -omu (-emu)           | -omu (-emu) | -oj (-ej)   |
+| Ins  | -ym (-im)           | -ym (-im)             | -ym (-im)   | -oju (-eju) |
+| Loc  | -om (-em)           | -om (-em)             | -om (-em)   | -oj (-ej)   |
+
+  </TabItem>
+  <TabItem value="pl" label={translate({ id: 'com.grammar.plural', message: 'Plural' })}>
+
+| Case | Masculine (animate) | Masculine (inanimate) | Neuter      | Feminine    |
+| ---- | ------------------- | --------------------- | ----------- | ----------- |
+| Nom  | -i                  | -e                    | -e          | -e          |
+| Acc  | -yh (-ih)           | -e                    | -e          | -e          |
+| Gen  | -yh (-ih)           | -yh (-ih)             | -yh (-ih)   | -yh (-ih)   |
+| Dat  | -ym (-im)           | -ym (-im)             | -ym (-im)   | -ym (-im)   |
+| Ins  | -ymi (-imi)         | -ymi (-imi)           | -ymi (-imi) | -ymi (-imi) |
+| Loc  | -yh (-ih)           | -yh (-ih)             | -yh (-ih)   | -yh (-ih)   |
+
+  </TabItem>
+</Tabs>

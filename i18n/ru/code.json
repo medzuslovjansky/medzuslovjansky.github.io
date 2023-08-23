@@ -68,7 +68,7 @@
     "message": "В бизнесе и туризме"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Межславянский язык не связан с какой-либо конкретной культурой, языком, нацией или правительством. Ни один носитель языка не имеет несправедливого преимущества. Таким образом, межславянский поддерживается международным сообществом, свободным от политических и этнических проблем."
+    "message": "Межславянский язык не связан с какой-либо конкретной культурой, языком, нацией или правительством. Никакому конкретному языку не дается несправедливого преимущества, благодаря чему межславянское сообщество сохраняет разнообразие и свободу от политических и этнических вопросов."
   },
   "pages.home.sections[1].cards[1].title": {
     "message": "Нейтральный язык"
@@ -366,5 +366,26 @@
   "theme.unlistedContent.title": {
     "message": "Unlisted page",
     "description": "The unlisted content banner title"
+  },
+  "com.script.Standard": {
+    "message": "Standard"
+  },
+  "com.script.Etymological": {
+    "message": "Etymological"
+  },
+  "com.script.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Latin": {
+    "message": "Latin"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Cyrillic": {
+    "message": "Cyrillic"
   }
 }

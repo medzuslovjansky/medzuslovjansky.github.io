@@ -20,7 +20,7 @@
     "description": "Title of the button to submit a new search"
   },
   "com.admonitions.autotranslation.message": {
-    "message": "Ta članek je bil samodejno preveden in lahko vsebuje morebitne napake. Zagotavljanje prevodov v več kot deset jezikov je zahtevna naloga in veselimo se vaše pomoči. Pišite nam na {Discord}, \u200B\u200Bče nam želite pomagati izboljšati kakovost naših prevodov. Lahko pa predlagate popravke neposredno prek {GitHub}."
+    "message": "Ta članek je bil samodejno preveden in lahko vsebuje morebitne napake. Zagotavljanje prevodov v več kot deset jezikov je zahtevna naloga in veselimo se vaše pomoči. Pišite nam na {Discord}, ​​če nam želite pomagati izboljšati kakovost naših prevodov. Lahko pa predlagate popravke neposredno prek {GitHub}."
   },
   "com.admonitions.autotranslation.title": {
     "message": "Samodejno prevajanje"
@@ -366,5 +366,26 @@
   "theme.unlistedContent.title": {
     "message": "Nezabeležena stran",
     "description": "The unlisted content banner title"
+  },
+  "com.script.Standard": {
+    "message": "Standard"
+  },
+  "com.script.Etymological": {
+    "message": "Etymological"
+  },
+  "com.script.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Latin": {
+    "message": "Latin"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Cyrillic": {
+    "message": "Cyrillic"
   }
 }

@@ -366,5 +366,26 @@
   "theme.unlistedContent.title": {
     "message": "Unlisted page",
     "description": "The unlisted content banner title"
+  },
+  "com.script.Standard": {
+    "message": "Standard"
+  },
+  "com.script.Etymological": {
+    "message": "Etymological"
+  },
+  "com.script.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Latin": {
+    "message": "Latin"
+  },
+  "com.script.IPA": {
+    "message": "IPA"
+  },
+  "com.markdown.Pronunciation": {
+    "message": "Pronunciation"
+  },
+  "com.script.Cyrillic": {
+    "message": "Cyrillic"
   }
 }
