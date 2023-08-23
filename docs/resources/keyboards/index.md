@@ -1,3 +1,6 @@
+import { KeyboardPreview } from "@site/src/components";
+import layout from "@site/src/markdown/keyboards/art-Latn-x-interslv.json";
+
 # Keyboards
 
 ### Windows \{#windows}
@@ -32,6 +35,7 @@ For the **Interslavic Cyrillic** alphabet:
 
 - Serbian (exempted, without "Ы")
 
-[1]: http://tyflonet.com/siciliano/klaviatury
+<KeyboardPreview layout={layout} />
 
+[1]: http://tyflonet.com/siciliano/klaviatury
 [2]: http://usachov.eu/g

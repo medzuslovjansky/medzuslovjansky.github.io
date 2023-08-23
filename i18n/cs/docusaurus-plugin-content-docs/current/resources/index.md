@@ -158,7 +158,7 @@ Zde jsou některé webové stránky věnované mezislovanskému jazyku a kultuř
 
 [17]: https://www.patro.cz/interslavic-zonal-constructed-language/
 
-[18]: ./keyboards.md
+[18]: ./keyboards/index.md
 
 [19]: https://interslavic-dictionary.com/
 

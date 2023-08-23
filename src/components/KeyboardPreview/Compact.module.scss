@@ -1,0 +1,164 @@
+.keyboard {
+  display: inline-flex;
+  flex-direction: column;
+
+  --active-key-bg: #DDE9FB;
+  --active-key-fg: #506483;
+  --inactive-key-bg: #F1F3F7;
+
+  --inactive-key-bg-default: var(--inactive-key-bg, transparent);
+  --active-key-bg-default: var(--active-key-bg, transparent);
+  --active-key-fg-default: var(--active-key-fg, #000);
+
+  font: 700 13px/14px sans-serif;
+
+  border: 1px solid var(--inactive-key-bg-default);
+  padding: 3px;
+}
+
+.Cyrl {
+  --active-key-bg-default: #DED8F1;
+  --active-key-fg-default: #3F3274;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 6px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  >* {
+    margin-right: 4px;
+  }
+
+  > :last-child {
+    margin-right: 0;
+  }
+}
+
+.key {
+  display: flex;
+  width: 17px;
+  height: 16px;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 3px;
+  text-align: center;
+
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0) 10%), var(--active-key-bg-default);
+  color: var(--active-key-fg-default);
+
+  &.inactive {
+    background: #f1f3f7;
+
+    .row:nth-child(1)>& {
+      height: 9px;
+
+      &:first-child {
+        width: 18px;
+      }
+
+      &:last-child {
+        width: 26px;
+      }
+    }
+
+    .row:nth-child(2)>& {
+      &:last-child {
+        width: 26px;
+      }
+    }
+
+    .row:nth-child(3)>& {
+      &:first-child {
+        width: 27px;
+      }
+
+      &:last-child {
+        width: 26px;
+      }
+    }
+
+    .row:nth-child(4)>& {
+      &:first-child {
+        width: 33px;
+      }
+
+      &:last-child {
+        width: 32px;
+      }
+    }
+
+    .row:nth-child(5)>& {
+      &:first-child {
+        width: 43px;
+      }
+
+      &:last-child {
+        width: 43px;
+      }
+    }
+
+    .row:nth-child(6)>& {
+      width: 27px;
+
+      &:nth-child(4) {
+        width: 99px;
+      }
+
+      &:nth-child(5) {
+        width: 21px;
+      }
+
+      &:nth-child(6) {
+        width: 17px;
+      }
+
+      &:nth-child(7) {
+        width: 17px;
+      }
+
+      &:nth-child(8) {
+        width: 17px;
+        background: none;
+        position: relative;
+
+        &::before,
+        &::after {
+          position: absolute;
+          border-radius: inherit;
+          content: '';
+          background: var(--inactive-key-bg-default);
+          width: 100%;
+          height: calc(50% - 1px);
+        }
+
+        &::before {
+          top: 0;
+          border-radius: 3px 3px 0 0;
+        }
+
+        &::after {
+          bottom: 0;
+          border-radius: 0 0 3px 3px;
+        }
+      }
+
+      &:nth-child(9) {
+        width: 17px;
+      }
+    }
+  }
+}
+
+.figure {
+  margin: 0;
+
+  > figcaption {
+    font-weight: bold;
+    margin: 0.5em 0 0;
+  }
+}

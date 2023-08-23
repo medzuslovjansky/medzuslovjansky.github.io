@@ -1,0 +1,68 @@
+.wrapper {
+    height: 150px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: #EEF4FD;
+
+    & a {
+        text-decoration: none;
+        color: inherit;
+    }
+}
+
+
+.flexItem {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+        background-color: #DDE9FB;
+    }
+
+    & svg {
+        min-width: 49px;
+        min-height: 40px;
+    }
+}
+
+.icon {
+    text-align: center;
+}
+
+.linkText {
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.icon_windows,
+.icon_mac,
+.icon_debian,
+.icon_fedora {}
+
+@media (max-width: 768px) {
+    .wrapper {
+        height: 600px;
+        width: 250px;
+        margin: 0 auto;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .flexItem {
+        width: 100%;
+        height: 25%;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+
+}

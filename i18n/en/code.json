@@ -389,6 +389,22 @@
     "message": "IPA"
   },
   "com.markdown.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Pronun\u00ADciation"
+  },
+  "com.platform.windows": {
+    "message": "Windows",
+    "description": "Windows Platform"
+  },
+  "com.platform.mac": {
+    "message": "MacOS",
+    "description": "Mac Platform"
+  },
+  "com.platform.deb": {
+    "message": "Debian",
+    "description": "Debian Platform"
+  },
+  "com.platform.rpm": {
+    "message": "Fedora",
+    "description": "Fedora Platform"
   }
 }

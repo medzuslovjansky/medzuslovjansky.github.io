@@ -2,7 +2,7 @@ import React from 'react';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import {translate} from "@docusaurus/Translate";
-import {Banner, Features, Carousel} from "../components";
+import {Banner, Features, Carousel } from "../components";
 import MovieIcon from '@site/static/img/icons/movie.svg';
 import styles from './index.module.css';
 
@@ -72,6 +72,7 @@ export default function HomePage() {
             })}
           />
         </Features>
+        
         <Banner
           image={require('@site/static/img/home/banner_resources.png').default}
           title={translate({id: 'pages.home.sections[2].title', message: 'Resources to master and use Interslavic'})}
@@ -86,6 +87,6 @@ export default function HomePage() {
           }
         />
       </main>
-    </Layout>
+    </Layout>    
   );
 }
