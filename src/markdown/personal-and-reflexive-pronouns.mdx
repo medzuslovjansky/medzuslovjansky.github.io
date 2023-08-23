@@ -1,10 +1,60 @@
-|       | Singular  |        |           |           |         | Plural |        |           |          | Reflexive |
-| ----- | --------- | ------ | --------- | --------- | ------- | ------ | ------ | --------- | -------- | --------- |
-|       | 1st person| 2nd person| 3rd person | 3rd person | 3rd person | 1st person | 2nd person | 3rd person | 3rd person |           |
-|       |           |          | masc.     | neut.     | fem.    |         |         | masc.anim. | other    |           |
-| Nom   | ja        | ty       | on        | ono       | ona     | my      | vy      | oni       | one      | —         |
-| Acc   | mene (me) | tebe (te)| jego (go) | jego (go) | ju      | nas     | vas     | jih        | je       | sebe (se) |
-| Gen   | mene      | tebe     | jego      | jego      | jej     | jih     | sebe    |           |          |           |
-| Dat   | mně (mi)  | tobě (ti)| jemu (mu) | jemu (mu) | jej     | nam     | vam     | jim       | sobě (si)|           |
-| Ins   | mnoju     | toboju   | jim       | jim       | jeju    | nami    | vami    | jimi      | soboju   |           |
-| Loc   | mně       | tobě     | jim       | jim       | jej     | nas     | vas     | jih       | sobě     |           |
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+export const Table = ({ col1, col2, col3 }) => {
+  return (
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>{col1[0]}</th>
+          <th>{col2[0]}</th>
+          {col3 ? <th>{col3[0]}</th> : undefined}
+        </tr>
+      </thead>
+      <tbody>
+        {['nom.', 'acc.', 'gen.', 'dat.', 'ins.', 'loc.'].map((x, i) =>
+          (<tr key={i}>
+            <th>{x}</th>
+            <td>{col1[i + 1]}</td>
+            <td>{col2[i + 1]}</td>
+            {col3 ? <td>{col3[i + 1]}</td> : undefined}
+          </tr>)
+        )}
+      </tbody>
+    </table>
+  );
+};
+
+<Tabs>
+  <TabItem value="1st" label="1st person">
+    <Table
+      col1={["sg.", "ja", "mene (me)", "mene", "mně (mi)", "mnoju", "mně"]}
+      col2={["pl.", "my", "nas", "nas", "nam", "nami", "nas"]}
+    />
+  </TabItem>
+  <TabItem value="2nd" label="2nd person">
+    <Table
+      col1={["sg.", "ty", "tebe (te)", "tebe", "tobě (ti)", "toboju", "tobě"]}
+      col2={["pl.", "vy", "vas", "vas", "vam", "vami", "vas"]}
+    />
+  </TabItem>
+  <TabItem value="3rd" label="3rd person">
+    <Tabs>
+      <TabItem value="m." label="Masculine">
+        <Table
+          col1={["sg.", "on", "jego (go)", "jego", "jemu (mu)", "jim", "jim"]}
+          col2={["pl.anim.", "oni", "jih", "jih", "jim", "jimi", "jih"]}
+          col3={["pl.inanim.", "one", "je", "je", "jim", "jimi", "jih"]}
+        />
+      </TabItem>
+      <TabItem value="f." label="Feminine">
+      </TabItem>
+      <TabItem value="n." label="Neuter">
+      </TabItem>
+    </Tabs>
+  </TabItem>
+  <TabItem value="refl." label="Reflexive">
+
+  </TabItem>
+</Tabs>

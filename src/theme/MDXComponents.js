@@ -11,6 +11,12 @@ import MDNouns5 from '@site/src/markdown/nouns/athematic'
 import MDAdjectives1 from '@site/src/markdown/basic-endings.mdx';
 import MDAdjectives2 from '@site/src/markdown/adjectives-good.mdx';
 import MDAdjectives3 from '@site/src/markdown/adjectives-fresh.mdx';
+import MDPronouns1 from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
+import MDPronouns2 from '@site/src/markdown/moj-pronouns.mdx';
+import MDPronouns3 from '@site/src/markdown/toj-pronouns.mdx';
+import MDPronouns4 from '@site/src/markdown/kto-pronouns.mdx';
+import MDPronouns5 from '@site/src/markdown/ves-is-inflected.mdx';
+import MDPronouns6 from '@site/src/markdown/pronominal-adverbs.mdx';
 
 export default {
   ...MDXComponents,
@@ -28,4 +34,10 @@ export default {
   MDAdjectives1,
   MDAdjectives2,
   MDAdjectives3,
+  MDPronouns1,
+  MDPronouns2,
+  MDPronouns3,
+  MDPronouns4,
+  MDPronouns5,
+  MDPronouns6,
 };

@@ -5,13 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-import VesIsInflected from '@site/src/markdown/ves-is-inflected.mdx';
-import KtoPronouns from '@site/src/markdown/kto-pronouns.mdx';
-import TojPronouns from '@site/src/markdown/toj-pronouns.mdx';
-import MojPronouns from '@site/src/markdown/moj-pronouns.mdx';
-import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
-
 # Pronouns
 
 ## Personal and reflexive pronouns \{#personal-and-reflexive-pronouns}
@@ -20,7 +13,7 @@ Personal pronouns have six cases—the same as nouns but without the vocative. T
 
 The forms between brackets are clitic forms, i.e. they are weaker and always unstressed. :isv[Se] is used in reflexive verbs: :isv[Ja myju se] „I'm washing myself”. If it needs to be stressed, the longer form is used: :isv[Ja myju jedino sebe] „I wash nobody but myself”. After a preposition, it is better to use the longer forms: :isv[k mně], :isv[za tebe].
 
-<PersonalAndReflexivePronouns />
+::component{name=MDPronouns1}
 
 Notes:
 
@@ -60,7 +53,7 @@ There are also interrogative, definite and indefinite possessive pronouns: :isv[
 
 Just like adjectives, possessive pronouns correspond with the noun they modify in gender, number and case. Except for the masculine nominative and accusative singular, their declension is identical to that of adjectives (:isv[moj], :isv[tvoj], :isv[naš], :isv[vaš], :isv[svoj] and :isv[čij] like :isv[svěži]; :isv[jegov], :isv[jejin] and :isv[jihny] like :isv[dobry]):
 
-<MojPronouns />
+::component{name=MDPronouns2}
 
 ## Demonstrative pronouns \{#demonstrative-pronouns}
 
@@ -68,7 +61,7 @@ The primary demonstrative pronoun is :isv[toj] „this, that”, and it should b
 
 If we need to be more precise, the simplest solution is using :isv[tutoj] for „this” and :isv[tamtoj] for „that, yonder”. They are declined as follows:
 
-<TojPronouns />
+::component{name=MDPronouns3}
 
 Notes:
 
@@ -87,7 +80,7 @@ A third option is the more archaic :isv[iže] – used in the nominative for all
 
 The interrogative pronouns are :isv[kto] „who” and :isv[čto] (or :isv[što]) „what”. They are inflected as follows:
 
-<KtoPronouns />
+::component{name=MDPronouns4}
 
 Interrogative determiners are :isv[koj] (inflected like :isv[moj]) „which” (instead, :isv[ktory] can be used as well), the possessive pronoun :isv[čij] „whose” (see above), and the adjective :isv[kaky] „what kind of”.
 
@@ -111,13 +104,13 @@ Referring to another item of a group (`in-`): :isv[inokto] „someone else”, :
 
 :isv[Vsekto], :isv[nikto], :isv[něčto], :isv[čtokoli] etc. are inflected like :isv[kto] and :isv[čto]. Likewise, :isv[nikoj], :isv[něčij] etc. are inflected like :isv[koj] and :isv[čij] (and thus like :isv[moj]). :isv[Ves] is inflected as follows:
 
-<VesIsInflected />
+::component{name=MDPronouns5}
 
 ## Pronominal adverbs \{#pronominal-adverbs}
 
 One of Zamenhof's best inventions was his **table of correlatives**, a group of interrelated pronouns, adjectives and adverbs. There words have been kept as regular as possible, but not at the expense of recognisability for speakers of Slavic languages. A few virtually impossible words have been left out, and a few other regular forms have been replaced by forms that are common in the natural languages. Irregular forms (i.e. not looking the way they should according to the table) are shown in _**italics**_.
 
-<PronominalAdverbs />
+::component{name=MDPronouns6}
 
 Notes:
 
