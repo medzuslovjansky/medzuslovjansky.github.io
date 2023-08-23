@@ -22,6 +22,11 @@ The forms between brackets are clitic forms, i.e. they are weaker and always uns
 
 <PersonalAndReflexivePronouns />
 
+---
+
+:::component{name=MDPronouns1}
+:::
+
 Notes:
 
 1. After a preposition, all pronouns of the third person are preceded by `n-`: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
@@ -125,5 +130,4 @@ Notes:
 - In all cases when `-gda` appears, `-gdy` can be used interchangeably.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-
 [2]: #pronominal_adverbs
