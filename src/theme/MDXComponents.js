@@ -17,6 +17,10 @@ import MDAdjectives1 from "@site/src/markdown/basic-endings.mdx";
 import MDAdjectives2 from "@site/src/markdown/adjectives-good.mdx";
 import MDAdjectives3 from "@site/src/markdown/adjectives-fresh.mdx";
 import MDPronouns1 from "@site/src/markdown/pronouns/personal";
+import MDPronouns2 from "@site/src/markdown/pronouns/posessive";
+import MDPronouns3 from "@site/src/markdown/pronouns/demonstrative";
+import MDPronouns4 from "@site/src/markdown/pronouns/interrogative";
+import MDPronouns5 from "@site/src/markdown/pronouns/indefinite";
 
 export default {
   ...MDXComponents,
@@ -35,4 +39,8 @@ export default {
   MDAdjectives2,
   MDAdjectives3,
   MDPronouns1,
+  MDPronouns2,
+  MDPronouns3,
+  MDPronouns4,
+  MDPronouns5,
 };
