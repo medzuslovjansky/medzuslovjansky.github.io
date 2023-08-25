@@ -39,7 +39,8 @@ Sometimes aspect pairs are irregular, for example :isv[nazyvati] (:abbr[impf.])/
 
 A special category of verbs in terms of aspects are verbs of motion. Unlike other verbs, they usually make a three-way distinction: non-directional imperfective, directional imperfective, perfective. The first of these expresses movement without any particular direction, and therefore has no perfective equivalent of its own. For example:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 For example: :isv[Igor jezdil po Moskvě] „Igor was driving around in Moscow”. :isv[Igor jehal do Moskvy] „Igor was driving do Moscow”. :isv[Igor pojehal do Moskvy] „Igor has gone to Moscow”.
 
@@ -83,7 +84,7 @@ Usually, the _present tense stem_ (used for the present tense, the imperative an
 - Second conjugation:
   - verbs on `-iti` and most verbs on `-ěti` have the present tense stem `-i-`: :isv[hvaliti] > :isv[hval-i-] „to praise”, :isv[viděti] > :isv[vid-i-] „to see”
 
-A number of verbs use a separate root in the present tense. In most cases, these are verbs of the mixed `a/j`, `a/i` and `ě/i` classes in Slavic. An active user of Interslavic will have to learn both forms. He will notice, however, that in most cases the formation of this second root happens in a predictable way. Whenever the present-tense stem cannot be derived from the infinitive by applying the rules above, it will be given in the dictionary. A few examples: :isv[pisati] (:isv[piš-e)] „to write”, _:isv[htěti] (:isv[hoč-e]) „to want”, :isv[spati] (:isv[sp-i]) „to sleep”, :isv[zvati] (:isv[zov-e]) „to call”, :isv[brati] (:isv[ber-e]) „to take (:abbr[impf.])”, :isv[vzeti] (:isv[vozm-e]) „to take (:abbr[pf.])”.
+A number of verbs use a separate root in the present tense. In most cases, these are verbs of the mixed `a/j`, `a/i` and `ě/i` classes in Slavic. An active user of Interslavic will have to learn both forms. He will notice, however, that in most cases the formation of this second root happens in a predictable way. Whenever the present-tense stem cannot be derived from the infinitive by applying the rules above, it will be given in the dictionary. A few examples: :isv[pisati] (:isv[piš-e)] „to write”, \_:isv[htěti] (:isv[hoč-e]) „to want”, :isv[spati] (:isv[sp-i]) „to sleep”, :isv[zvati] (:isv[zov-e]) „to call”, :isv[brati] (:isv[ber-e]) „to take (:abbr[impf.])”, :isv[vzeti] (:isv[vozm-e]) „to take (:abbr[pf.])”.
 
 ### Present tense \{#present-tense}
 
@@ -96,7 +97,8 @@ Instead of `-u`/`-ju` in the first person singular, **-`em`/-`im`** can be used 
 
 The West and South Slavic languages also have a third conjugation, based on contraction of `-aje-` sequences, resulting in the endings: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Notes:
 
@@ -111,7 +113,8 @@ In the third person, the forms of :isv[byti] (:isv[je], :isv[jest], :isv[sut]) a
 
 This system gives an imperfect tense when applied to imperfective verbs (:isv[ja jesm dělal] „I did, I was doing”), and a perfect tense when applied to perfective verbs (:isv[ja jesm sdělal] „I have done”).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
 The L-participle is always formed regularly except for one verb: :isv[idti] „to go” has :isv[šel], :isv[šla], :isv[šlo], :isv[šli] „went” (sometimes written was :isv[išel] etc.). This goes for its compounds as well: :isv[pojdti] > :isv[pošel], :isv[vojdti] > :isv[všel], etc.
 
@@ -180,7 +183,7 @@ The **present passive participle** is derived from the present tense stem as wel
 
 The **past passive participle** is formed by adding `-ny` to the infinitive stem when the latter ends in a vowel, and `-eny` when it ends in a consonant: :isv[dělany] „done”, :isv[neseny] „carried”. However:
 
-- Verbs on `-iti` have `-jeny` instead of **\*-`iny`** (whereby **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*-`djeny`, \*-`stjeny`, \*-`zdjeny`** become **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti] > :isv[govorjeny] „spoken”, :isv[ljubiti] > :isv[ljubjeny] „loved”, :isv[prositi] > :isv[prošeny] „required”
+- Verbs on `-iti` have `-jeny` instead of **\*-`iny`** (whereby **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*-`djeny`, \*-`stjeny`, \*-`zdjeny`** become **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): \_:isv[govoriti] > :isv[govorjeny] „spoken”, :isv[ljubiti] > :isv[ljubjeny] „loved”, :isv[prositi] > :isv[prošeny] „required”
 - in the case of verbs on `-nuti`, the ending is `-neny` instead of **\*-`nuny`**: :isv[tegnuti] > :isv[tegneny] „pulled”
 - all monosyllabic stems (except those on `a`), i.e. those that have `-j-` in the present tense, have `-ty` instead of `-ny`: :isv[biti] > :isv[bity] „hitten”, :isv[čuti] > :isv[čuty] „felt”, :isv[podjeti] > :isv[podjety] „undertaken”
 

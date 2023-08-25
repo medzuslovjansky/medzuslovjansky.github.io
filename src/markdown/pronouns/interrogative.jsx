@@ -1,4 +1,3 @@
-import React from 'react'
 import { Abbr } from "@site/src/components";
 
 export default function Interrogative() {

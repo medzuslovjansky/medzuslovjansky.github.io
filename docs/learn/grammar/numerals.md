@@ -5,9 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/numerals.html
 ---
 
-import Numbers24 from '@site/src/markdown/numbers-2-4.mdx';
-import Numbers599 from '@site/src/markdown/numbers-5-99.mdx';
-
 # Numerals
 
 ## Cardinal numbers \{#cardinal-numbers}
@@ -49,7 +46,8 @@ Except for the masculine nominative singular, the word :isv[jedin] „one” is 
 
 These numbers are declined in a somewhat unfamiliar way, because their patterns show remnants of the ancient dual. Only :isv[dva] „two” has gender distinction, albeit only in the nominative/accusative.
 
-<Numbers24 />
+:::component{name=MDNumerals1}
+:::
 
 The neuter of "2" is :isv[dva] in Russian, Belarussian, Ukrainian, Polish, Cashubian and Serbocroat, :isv[dvě] in Old Church Slavonic, Czech, Slovak, Upper and Lower Sorbian, Slovene, Macedonian, Bulgarian and Rusyn. In Interslavic, both options are equally valid.
 
@@ -59,7 +57,8 @@ Also declined like :isv[dva] are the words :isv[oba] and :isv[obydva] „both”
 
 The numbers :isv[pet] and up are inflected like nouns of the pattern :isv[kost]. The subject always remains in the genitive plural. Examples:
 
-<Numbers599 />
+:::component{name=MDNumerals2}
+:::
 
 #### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
 

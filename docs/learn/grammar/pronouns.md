@@ -5,8 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-
 # Pronouns
 
 ## Personal and reflexive pronouns \{#personal-and-reflexive-pronouns}
@@ -117,7 +115,8 @@ Referring to another item of a group (`in-`): :isv[inokto] „someone else”, :
 
 One of Zamenhof's best inventions was his **table of correlatives**, a group of interrelated pronouns, adjectives and adverbs. There words have been kept as regular as possible, but not at the expense of recognisability for speakers of Slavic languages. A few virtually impossible words have been left out, and a few other regular forms have been replaced by forms that are common in the natural languages. Irregular forms (i.e. not looking the way they should according to the table) are shown in _**italics**_.
 
-<PronominalAdverbs />
+:::component{name=MDPronouns6}
+:::
 
 Notes:
 
