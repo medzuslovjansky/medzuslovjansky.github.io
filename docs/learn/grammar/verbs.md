@@ -5,17 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Verbs
 
 ## Perfective and imperfective aspect \{#perfective-and-imperfective-aspect}
@@ -131,7 +120,8 @@ The _simple past_ denotes an action that took place somewhere in the past. It fu
 - If the stem ends in a vowel: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - If the stem ends in a consonant: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Perfect tense**
 
@@ -145,7 +135,8 @@ At last, the _pluperfect tense_ is formed by combining the L-participle with the
 
 The future tense is formed by combining the future tense of the verb :isv[byti] „to be” with the infinitive. The forms are the same as if a verb with the stem `bud-` were conjugated in the present tense. Examples:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Using the present tense of a perfective verb for the future (as is done in West and East Slavic) is rather to be avoided, as it can easily be misunderstood by South Slavs.
 
@@ -153,7 +144,8 @@ Using the present tense of a perfective verb for the future (as is done in West 
 
 The conditional is be formed by using the L-participle with the conditional of :isv[byti] „to be”: :isv[ja byh dělal(a)] „I would do”.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 A past conditional can be formed by inserting the paste tense of the verb „to be” into the normal conditional form:
 
@@ -164,7 +156,8 @@ A past conditional can be formed by inserting the paste tense of the verb „to 
 
 The imperative has forms for the 2nd person singular, the 1st person plural and the 2nd person plural: :isv[dělaj] „do!” (to one person, informal), :isv[dělajmo] „let's do!”, :isv[dělajte] „do!” (to more persons, or to one person formal). It is formed by adding `-i` to the present tense stem (`-j` after a vowel, `-Ø` after `j`). Examples:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Interslavic has no imperatives in the third person. When such a form is needed, the optative particle :isv[nehaj] is used: :isv[Nehaj umre!] „Let him die!” :isv[Nehaj žive dolgo!] „May he live long!”
 
@@ -190,7 +183,8 @@ The **past passive participle** is formed by adding `-ny` to the infinitive stem
 A verb can very simply be converted into a noun (_gerund, verbal noun_) by substituting the ending `-ny` of the perfect past participle by `-nje` (or `-ty` by `tje`). Examples: :isv[dělanje] „(the act of) doing”, :isv[pitje] „drinking”.
 Examples:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### The passive voice \{#the-passive-voice}
 
@@ -210,13 +204,17 @@ The passive voice is created by combining a form of the verb `byti` „to be” 
 
 The only truly irregular verb is :isv[byti] „to be”. It is conjugated as follows:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 The verbs :isv[dati] „to give”, :isv[jesti] „to eat” and :isv[věděti] „to know” have an irregular present tense. Like :isv[byti], they belong to the so-called _athematic conjugation_, meaning that they have their root ending in a vowel. In the present tense, they are inflected as follows:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 All other forms of these three verbs are formed regularly.
 

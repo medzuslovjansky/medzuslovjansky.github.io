@@ -27,6 +27,14 @@ import MDNumerals2 from "@site/src/markdown/numerals/5-30";
 import MDVerbs1 from "@site/src/markdown/verbs/motion";
 import MDVerbs2 from "@site/src/markdown/verbs/presentTense";
 import MDVerbs3 from "@site/src/markdown/verbs/pastTense";
+import MDVerbs4 from "@site/src/markdown/verbs/simplePastTense";
+import MDVerbs5 from "@site/src/markdown/verbs/futureTense";
+import MDVerbs6 from "@site/src/markdown/verbs/conditional";
+import MDVerbs7 from "@site/src/markdown/verbs/imperative";
+import MDVerbs8 from "@site/src/markdown/verbs/participlesAndGerund";
+import MDVerbs9 from "@site/src/markdown/verbs/byti1";
+import MDVerbs10 from "@site/src/markdown/verbs/byti2";
+import MDVerbs11 from "@site/src/markdown/verbs/IrregularExamples";
 
 export default {
   ...MDXComponents,
@@ -55,4 +63,12 @@ export default {
   MDVerbs1,
   MDVerbs2,
   MDVerbs3,
+  MDVerbs4,
+  MDVerbs5,
+  MDVerbs6,
+  MDVerbs7,
+  MDVerbs8,
+  MDVerbs9,
+  MDVerbs10,
+  MDVerbs11,
 };
