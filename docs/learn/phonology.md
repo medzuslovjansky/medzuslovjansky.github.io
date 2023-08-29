@@ -51,7 +51,8 @@ It is pronounced with a schwa before it: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ip
 
 There are 23 basic consonants (including 3 affricates and 2 palatalised alveolars) with a more or less fixed pronunciation, as well as 7 optional consonants with a variable pronunciation:
 
-<Consonants />
+:::component{name=MDPhonology1}
+:::
 
 ## Hard and soft consonants \{#hard-and-soft-consonants}
 
