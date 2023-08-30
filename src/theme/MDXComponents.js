@@ -13,7 +13,7 @@ import MDNouns2 from "@site/src/markdown/nouns/masculine";
 import MDNouns3 from "@site/src/markdown/nouns/neuter";
 import MDNouns4 from "@site/src/markdown/nouns/feminine";
 import MDNouns5 from "@site/src/markdown/nouns/athematic";
-import MDAdjectives1 from "@site/src/markdown/basic-endings.mdx";
+import MDAdjectives1 from "@site/src/markdown/adjectives/basicEndings";
 import MDAdjectives2 from "@site/src/markdown/adjectives-good.mdx";
 import MDAdjectives3 from "@site/src/markdown/adjectives-fresh.mdx";
 import MDPronouns1 from "@site/src/markdown/pronouns/personal";
@@ -35,7 +35,10 @@ import MDVerbs8 from "@site/src/markdown/verbs/participlesAndGerund";
 import MDVerbs9 from "@site/src/markdown/verbs/byti1";
 import MDVerbs10 from "@site/src/markdown/verbs/byti2";
 import MDVerbs11 from "@site/src/markdown/verbs/irregularExamples";
-import MDPhonology1 from "@site/src/markdown/phonology/consonants";
+import MDPhonology1 from "@site/src/markdown/phonology/phonology-ipa";
+import MDPhonology2 from "@site/src/markdown/phonology/consonants";
+import MDPhonology3 from "@site/src/markdown/phonology/phonologyOverview";
+import MDAdjectives57 from "@site/src/markdown/adjectives/basicEndings";
 
 export default {
   ...MDXComponents,
@@ -73,4 +76,6 @@ export default {
   MDVerbs10,
   MDVerbs11,
   MDPhonology1,
+  MDPhonology2,
+  MDPhonology3,
 };

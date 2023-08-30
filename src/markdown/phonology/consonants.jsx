@@ -7,7 +7,7 @@ export default function Consonants() {
       <TabItem value="part1" label="Labial, dental">
         <Part1 />
       </TabItem>
-      <TabItem value="part2" label="Dental, velar">
+      <TabItem value="part2" label="Palatal, velar">
         <Part2 />
       </TabItem>
     </Tabs>

@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Phonology
 
 ## Phoneme inventory \{#phoneme-inventory}
@@ -41,7 +37,8 @@ In addition, there are 5 optional vowels (`å` `ė` `ę` `ȯ` `ų`) whose pronun
 The diacritical marks are usually not written.
 In flavourised versions of Interslavic however, `å` can be written and pronounced as `o`, `ę` as `ja`, `ȯ` as `e` and `y` as `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Interslavic also has syllabic `r` and `ŕ` (the latter belonging to the non-mandatory set).
 This is the case when it is preceded by a consonant and _not_ followed by a vowel.
@@ -51,7 +48,7 @@ It is pronounced with a schwa before it: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ip
 
 There are 23 basic consonants (including 3 affricates and 2 palatalised alveolars) with a more or less fixed pronunciation, as well as 7 optional consonants with a variable pronunciation:
 
-:::component{name=MDPhonology1}
+:::component{name=MDPhonology2}
 :::
 
 ## Hard and soft consonants \{#hard-and-soft-consonants}
@@ -154,7 +151,8 @@ Complicated as this may seem, all this means in writing is that the suffixes `-j
 
 The differences between softened, patalalised and iotated consonants are demonstrated in the following table (again, phonemes in gray are optional):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
