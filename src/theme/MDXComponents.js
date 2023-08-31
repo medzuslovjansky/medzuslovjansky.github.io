@@ -14,8 +14,8 @@ import MDNouns3 from "@site/src/markdown/nouns/neuter";
 import MDNouns4 from "@site/src/markdown/nouns/feminine";
 import MDNouns5 from "@site/src/markdown/nouns/athematic";
 import MDAdjectives1 from "@site/src/markdown/adjectives/basicEndings";
-import MDAdjectives2 from "@site/src/markdown/adjectives-good.mdx";
-import MDAdjectives3 from "@site/src/markdown/adjectives-fresh.mdx";
+import MDAdjectives2 from "@site/src/markdown/adjectives/good";
+import MDAdjectives3 from "@site/src/markdown/adjectives/fresh";
 import MDPronouns1 from "@site/src/markdown/pronouns/personal";
 import MDPronouns2 from "@site/src/markdown/pronouns/posessive";
 import MDPronouns3 from "@site/src/markdown/pronouns/demonstrative";
@@ -38,7 +38,7 @@ import MDVerbs11 from "@site/src/markdown/verbs/irregularExamples";
 import MDPhonology1 from "@site/src/markdown/phonology/phonology-ipa";
 import MDPhonology2 from "@site/src/markdown/phonology/consonants";
 import MDPhonology3 from "@site/src/markdown/phonology/phonologyOverview";
-import MDAdjectives57 from "@site/src/markdown/adjectives/basicEndings";
+import MDDerivation from "@site/src/markdown/derivation/commonSlavicSounds";
 
 export default {
   ...MDXComponents,
@@ -78,4 +78,5 @@ export default {
   MDPhonology1,
   MDPhonology2,
   MDPhonology3,
+  MDDerivation,
 };
