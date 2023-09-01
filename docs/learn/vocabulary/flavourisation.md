@@ -6,10 +6,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {translate} from "@docusaurus/Translate";
 
-import NorthAndSouth from '@site/src/markdown/north-and-south.mdx';
-import Flavourisation1 from '@site/src/markdown/flavourisation1.mdx';
-import Flavourisation2 from '@site/src/markdown/flavourisation2.mdx';
-
 # Flavourisation
 
 ## Interslavic dialects \{#interslavic-dialects}
@@ -59,7 +55,8 @@ At last, the sequence `šč` (Cyrillic: `шч`) can be flavourised `št` in a So
 
 Again, the number of possible combinations between languages is almost endless, and it would go way too far to describe every possible flavourised form of Interslavic. The most obvious differences between the Slavic languages can be covered with two different flavourisation models (in addition to „standard” Interslavic): a more Northern-oriented one (focusing on Russian, Belarusian, Polish and Sorbian, with secondary focus on Czech, Slovak and Ukrainian), and a more Southern-oriented one (centered around South Slavic, also with secondary focus on Czech, Slovak and Ukrainian). Based on the previous paragraph, they could look as follows (the yellow fields are those where the flavourised form differs from the standard form):
 
-<NorthAndSouth />
+:::component{name=MDFlavourisation1}
+:::
 
 In addition, in the Northern flavourisation infinitives end in `-ť` instead of `-ti`, the nominative/accusative singular of adjectives should be `-e` instead of `-o` (:notr[dobre detja] instead of Southern :notr[dobro děte]). The Northern flavourisation favours the relative pronoun :isv[ktory] whereas the Southern flavourisation favours :isv[koj]. Likewise, in the case of the prefix `vy-`/`iz-`, the former is North-oriented, the latter South-oriented. In the Southern flavourisation the preposition :isv[dlja] „for” should be substituted with :isv[za].
 
@@ -69,11 +66,13 @@ _`Flavorizacija v pravopisanju`_
 
 Interslavic can be also made more accessible to certain groups by manipulating the way it is written. The standard Latin alphabet is mostly based on the Slovene alphabet, with the addition of `y` (from West Slavic) and `ě` (from Czech and Sorbian). This alphabet, however, differs substantially from the Polish alphabet, and Polish speakers may not immediately understand letters like `ě` or `š`. To make it easier for them, one can for example replace `v`, `č`, `š`, `ž` and `ě` with `w`, `cz`, `sz`, `ż` and `ie`. Poles would also be helped by adopting `ę` and `ų` from the etymological alphabet, represented as `ię` and `ą` respectively. Similar modifications can be made for speakers of other languages as well:
 
-<Flavourisation1 />
+:::component{name=MDFlavourisation2}
+:::
 
 The standard Cyrillic alphabet is based on Serbian/Macedonian Cyrillic, with the addition of `ы` (from Russian and Belarussian) and `є` (from Ukrainian). It is problematic in so far that East Slavs do not always correctly understand Cyrillic `ј`, which they tend to pronounce as `dž` as in English, while many South Slavs are unfamiliar with the letter `ы`. In situations where a text is presented both in Latin and Cyrillic, it can be a good idea to use a flavourised spelling that is specifically directed at East Slavs, since Serbs and Macedonians are more familiar with the Latin alphabet.
 
-<Flavourisation2 />
+:::component{name=MDFlavourisation3}
+:::
 
 ## Examples \{#examples}
 
@@ -84,18 +83,21 @@ _`Priměry`_
     ### Etymological alphabet \{#etymological-alphabet}
 
     Međuslovjańsky jest orųďje dlja komunikacije s Slovjanami. Učeńje ne jest tęžko i ne trȯvaje dȯlgo. Znajųći taky język, člověk imaje možnosť, da by izražal sę vȯ vśakoj slovjańskoj dŕžavě i råzuměl skoro vśe, čto ljudi k njemu govoręt i pišųt. S pomoćjų flavorizacije možno jest približati svoje teksty ješče bolje k regionaľnym ili městnym variantam, da by one iměli vęće vȯzhodnyh, sěvernyh, zapadnyh ili južnyh čŕt.
+
   </TabItem>
 
   <TabItem value="standard-latin-alphabet" label="Standard Latin alphabet">
     ### Standard Latin alphabet \{#standard-latin-alphabet}
 
     Medžuslovjansky jest orudje dlja komunikacije s Slovjanami. Učenje ne jest težko i ne trovaje dolgo. Znajuči taky jezyk, člověk imaje možnost, da by izražal se vo vsakoj slovjanskoj državě i razuměl skoro vse, čto ljudi k njemu govoret i pišut. S pomočju flavorizacije možno jest približati svoje teksty ješče bolje k regionalnym ili městnym variantam, da by one iměli veče vozhodnyh, sěvernyh, zapadnyh ili južnyh črt.
+
   </TabItem>
 
   <TabItem value="standard-cyrillic-alphabet" label="Standard Cyrillic alphabet">
     ### Standard Cyrillic alphabet \{#standard-cyrillic-alphabet}
 
     Меджусловјанскы јест орудје дља комуникације с Словјанами. Ученје не јест тежко и не троваје долго. Знајучи такы језык, чловєк имаје можност, да бы изражал се во всакој словјанској државє и разумєл скоро все, что људи к њему говорет и пишут. С помочју флаворизације можно јест приближати своје тексты јешче боље к регионалным или мєстным вариантам, да бы оне имєли вече возходных, сєверных, западных или јужных чрт.
+
   </TabItem>
 </Tabs>
 
@@ -104,18 +106,21 @@ _`Priměry`_
     ### Northern variant, East Slavic orthography \{#northern-variant-east-slavic-orthography}
 
     Меджусловяньски ест орудье для комуникацие с Словянами. Ученье не ест тяжко и не тровае долго. Знаючи такы язык, чловек имае можность, да бы изражал ся во всякой словяньской державе и розумел скоро все, что люди к ньему говорят и пишут. С помочю флаворизацие можно ест приближать свое тексты еще болье к региональным или местным вариантам, да бы оне имели вяче возходных, северных, западных или южных черт.
+
   </TabItem>
 
   <TabItem value="northern-variant-polish-based-orthography" label="Northern variant, Polish-based orthography">
     ### Northern variant, Polish-based orthography \{#northern-variant-polish-based-orthography}
 
     Miedżusłowiański jest orudie dla komunikacije s Słowianami. Uczenie nie jest tiażko i nie trowaje dołgo. Znajuczi taki jazyk, człowiek imaje możnosť, da by izrażał sia wo wsiakoj słowiańskoj dierżawie i rozumieł skoro wsie, czto ludi k niemu goworiat i piszut. S pomocziu flaworizacije możno jest pribliżati swoje teksty jeszcze bole k regionalnym ili miestnym wariantam, da by one imieli wiacze wozchodnych, siewiernych, zapadnych ili jużnych czert.
+
   </TabItem>
 
   <TabItem value="southern-variant-croatian-based-orthography" label="Southern variant, Croatian-based orthography">
     ### Southern variant, Croatian-based orthography \{#southern-variant-croatian-based-orthography}
 
     Međuslovjanski jest orudje dlja komunikacije s Slovjanami. Učenje ne jest težko i ne trăvaje dălgo. Znajući taki jezik, človjek imaje možnost, da bi izražal se vo vsakoj slovjanskoj državje i razumjel skoro vse, što ljudi k njemu govoret i pišut. S pomoćju flavorizacije možno jest približati svoje teksti ješte bolje k regionalnim ili mjestnim variantam, da bi one imjeli veće văzhodnih, sjevernih, zapadnih ili južnih črt.
+
   </TabItem>
 </Tabs>
 

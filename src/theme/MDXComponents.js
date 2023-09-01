@@ -39,6 +39,20 @@ import MDPhonology1 from "@site/src/markdown/phonology/phonology-ipa";
 import MDPhonology2 from "@site/src/markdown/phonology/consonants";
 import MDPhonology3 from "@site/src/markdown/phonology/phonologyOverview";
 import MDDerivation from "@site/src/markdown/derivation/commonSlavicSounds";
+import MDFlavourisation1 from "@site/src/markdown/flavourisation/northAndSouth";
+import MDFlavourisation2 from "@site/src/markdown/flavourisation/spelling1";
+import MDFlavourisation3 from "@site/src/markdown/flavourisation/spelling2";
+import MDSimpleGrammar1 from "@site/src/markdown/simpleGrammar/presentTense";
+import MDSimpleGrammar2 from "@site/src/markdown/simpleGrammar/pastTense";
+import MDSimpleGrammar3 from "@site/src/markdown/simpleGrammar/imperative";
+import MDSimpleGrammar4 from "@site/src/markdown/simpleGrammar/toBe";
+import MDPersonalPronouns1 from "@site/src/markdown/personalPronouns/firstPersSing";
+import MDPersonalPronouns2 from "@site/src/markdown/personalPronouns/secondPersSing";
+import MDPersonalPronouns3 from "@site/src/markdown/personalPronouns/thirdPersSingMascNeuter";
+import MDPersonalPronouns4 from "@site/src/markdown/personalPronouns/thirdPersSingFem";
+import MDPersonalPronouns5 from "@site/src/markdown/personalPronouns/firstPersPlural";
+import MDPersonalPronouns6 from "@site/src/markdown/personalPronouns/secondPersPlural";
+import MDPersonalPronouns7 from "@site/src/markdown/personalPronouns/thirdPersPlural";
 
 export default {
   ...MDXComponents,
@@ -79,4 +93,18 @@ export default {
   MDPhonology2,
   MDPhonology3,
   MDDerivation,
+  MDFlavourisation1,
+  MDFlavourisation2,
+  MDFlavourisation3,
+  MDSimpleGrammar1,
+  MDSimpleGrammar2,
+  MDSimpleGrammar3,
+  MDSimpleGrammar4,
+  MDPersonalPronouns1,
+  MDPersonalPronouns2,
+  MDPersonalPronouns3,
+  MDPersonalPronouns4,
+  MDPersonalPronouns5,
+  MDPersonalPronouns6,
+  MDPersonalPronouns7,
 };
