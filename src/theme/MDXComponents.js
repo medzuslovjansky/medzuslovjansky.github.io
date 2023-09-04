@@ -53,6 +53,7 @@ import MDPersonalPronouns4 from "@site/src/markdown/personalPronouns/thirdPersSi
 import MDPersonalPronouns5 from "@site/src/markdown/personalPronouns/firstPersPlural";
 import MDPersonalPronouns6 from "@site/src/markdown/personalPronouns/secondPersPlural";
 import MDPersonalPronouns7 from "@site/src/markdown/personalPronouns/thirdPersPlural";
+import MDNumbers1 from "@site/src/markdown/numbers-1-10/numbers";
 
 export default {
   ...MDXComponents,
@@ -107,4 +108,5 @@ export default {
   MDPersonalPronouns5,
   MDPersonalPronouns6,
   MDPersonalPronouns7,
+  MDNumbers1,
 };
