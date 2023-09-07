@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
 import {translate} from "@docusaurus/Translate";
 
-import Alphabet from '@site/src/markdown/alphabet.mdx';
+import Alphabet from '@site/src/markdown/alphabet.jsx';
 import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
 import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
 import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
@@ -26,6 +26,7 @@ Since the border between Latin and Cyrillic runs straight through the middle of 
 The **Interslavic Latin alphabet** uses 27 letters: 23 letters from the base Latin alphabet (all except `q`, `w` and `x`) plus four consonants with a caron (`š`, `ž`, `č` and `ě`), as well as three digraphs (`dž`, `lj`, `nj`):
 
 <LatinAlphabet />
+debugger;
 
 The **Interslavic Cyrillic alphabet** has 29 letters: all characters that the various Cyrillic orthographies have in common, with the addition of `є`, `ы`, `ј`, `љ`, `њ`, as well as one digraph (`дж`):
 
@@ -141,11 +142,7 @@ To summarise, there are several possibilities for writing the same word. The gen
 - When addressing a members of a particular Slavic nation (for example, when you are travelling), you might consider [flavourising your Interslavic][4]. However, do not use flavorisation in multi-Slavic environments.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

@@ -27,3 +27,13 @@
     padding-left: 1.8ch;
   }
 }
+
+.audioPlaying {
+  opacity: 1;
+  animation: audioPlaying 500ms linear infinite alternate;
+}
+
+@keyframes audioPlaying {
+  from { opacity: 1; }
+  to { opacity: 0.5; }
+}

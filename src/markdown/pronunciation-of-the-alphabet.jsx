@@ -15,7 +15,7 @@ const alphabet = [
   { isv: 'F', ipa: <IPA>f</IPA> },
   { isv: 'G', ipa: <><IPA>g</IPA> ~ <IPA>ɦ</IPA></>, uk: 'ґ', ru: 'ґ' },
   { isv: 'H', ipa: <IPA>x</IPA>, pl: 'ch', cz: 'ch', sl: 'ch' },
-  { isv: 'I', ipa: <><IPA>i</IPA> ~ <IPA>ɪ</IPA></>, uk: 'і', ru: 'і', bg: 'и' },
+  { isv: 'I', ipa: <><IPA>ɪ</IPA> ~ <IPA>i</IPA></>, uk: 'і', ru: 'і', bg: 'и' },
   { isv: 'J', ipa: <IPA>j</IPA>, ru: 'й', uk: 'й', bg: 'й' },
   { isv: 'K', ipa: <IPA>k</IPA> },
   { isv: 'L', ipa: <><IPA>l</IPA> ~ <IPA>ɫ</IPA></> },
