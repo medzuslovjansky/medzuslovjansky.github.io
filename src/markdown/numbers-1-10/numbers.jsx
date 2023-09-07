@@ -19,7 +19,7 @@ export default function NaturalLanguages() {
           <th>10</th>
         </tr>
         <tr>
-          <td>Proto-Slavic</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Proto-Slavic</td>
           <td>jedinŭ</td>
           <td>dŭva</td>
           <td>trĭje, tri</td>
@@ -32,7 +32,7 @@ export default function NaturalLanguages() {
           <td>desętĭ</td>
         </tr>
         <tr>
-          <td>Old Church Slavonic</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Old Church Slavonic</td>
           <td>ѥдинъ</td>
           <td>дъва</td>
           <td>триѥ, три</td>
@@ -45,7 +45,7 @@ export default function NaturalLanguages() {
           <td>дєсѧть</td>
         </tr>
         <tr>
-          <td>Old Novgorodian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Old Novgorodian</td>
           <td>одинъ</td>
           <td>дъва</td>
           <td>три(ѥ)</td>
@@ -58,7 +58,7 @@ export default function NaturalLanguages() {
           <td>дєсѧть</td>
         </tr>
         <tr>
-          <td>Old Russian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Old Russian</td>
           <td>одинъ</td>
           <td>дъва</td>
           <td>триѥ</td>
@@ -71,7 +71,7 @@ export default function NaturalLanguages() {
           <td>дєсѧть</td>
         </tr>
         <tr>
-          <td>Russian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Russian</td>
           <td>один</td>
           <td>два</td>
           <td>три</td>
@@ -84,7 +84,7 @@ export default function NaturalLanguages() {
           <td>десять</td>
         </tr>
         <tr>
-          <td>Belarusian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Belarusian</td>
           <td>
             адзін
             <br />
@@ -137,7 +137,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Podlachian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Podlachian</td>
           <td>odin</td>
           <td>dva</td>
           <td>try</td>
@@ -150,7 +150,7 @@ export default function NaturalLanguages() {
           <td>deseť</td>
         </tr>
         <tr>
-          <td>Ukrainian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Ukrainian</td>
           <td>один</td>
           <td>два</td>
           <td>три</td>
@@ -163,7 +163,7 @@ export default function NaturalLanguages() {
           <td>десять</td>
         </tr>
         <tr>
-          <td>Rusyn</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Rusyn</td>
           <td>єден</td>
           <td>два</td>
           <td>три</td>
@@ -176,7 +176,7 @@ export default function NaturalLanguages() {
           <td>десять</td>
         </tr>
         <tr>
-          <td>Hutsul</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Hutsul</td>
           <td>oden</td>
           <td>dva</td>
           <td>tre</td>
@@ -189,7 +189,7 @@ export default function NaturalLanguages() {
           <td>deasichǐ</td>
         </tr>
         <tr>
-          <td>Lemko-Rusyn</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Lemko-Rusyn</td>
           <td>єден</td>
           <td>два</td>
           <td>три</td>
@@ -202,7 +202,7 @@ export default function NaturalLanguages() {
           <td>десят</td>
         </tr>
         <tr>
-          <td>Silesian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Silesian</td>
           <td>jedyn</td>
           <td>dwa</td>
           <td>tři</td>
@@ -215,7 +215,7 @@ export default function NaturalLanguages() {
           <td>dźeśyńć</td>
         </tr>
         <tr>
-          <td>Polish</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Polish</td>
           <td>jeden</td>
           <td>dwa</td>
           <td>trzy</td>
@@ -228,7 +228,7 @@ export default function NaturalLanguages() {
           <td>dziesięć</td>
         </tr>
         <tr>
-          <td>Kashubian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Kashubian</td>
           <td>jeden</td>
           <td>dwa</td>
           <td>trzë</td>
@@ -241,7 +241,7 @@ export default function NaturalLanguages() {
           <td>dzesãc</td>
         </tr>
         <tr>
-          <td>Polabian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Polabian</td>
           <td>jadån</td>
           <td>dåvo</td>
           <td>tåri</td>
@@ -254,7 +254,7 @@ export default function NaturalLanguages() {
           <td>disąt</td>
         </tr>
         <tr>
-          <td>Lower Sorbian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Lower Sorbian</td>
           <td>jaden</td>
           <td>dwa</td>
           <td>tśi</td>
@@ -267,7 +267,7 @@ export default function NaturalLanguages() {
           <td>źaseś</td>
         </tr>
         <tr>
-          <td>Upper Sorbian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Upper Sorbian</td>
           <td>jedyn</td>
           <td>dwaj</td>
           <td>tři</td>
@@ -280,7 +280,7 @@ export default function NaturalLanguages() {
           <td>dźesać</td>
         </tr>
         <tr>
-          <td>Czech</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Czech</td>
           <td>jeden</td>
           <td>dva</td>
           <td>tři</td>
@@ -293,7 +293,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Slovak</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovak</td>
           <td>jeden</td>
           <td>dva</td>
           <td>tri</td>
@@ -306,7 +306,7 @@ export default function NaturalLanguages() {
           <td>desať</td>
         </tr>
         <tr>
-          <td>Slovene</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovene</td>
           <td>ena</td>
           <td>dva</td>
           <td>tri</td>
@@ -319,7 +319,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Kajkavian Croatian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Kajkavian Croatian</td>
           <td>jeden</td>
           <td>dva</td>
           <td>tri</td>
@@ -332,7 +332,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Čakavian Croatian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Čakavian Croatian</td>
           <td>eny</td>
           <td>duy</td>
           <td>tary</td>
@@ -345,7 +345,7 @@ export default function NaturalLanguages() {
           <td>dešet</td>
         </tr>
         <tr>
-          <td>Croatian/Bosnian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Croatian/Bosnian</td>
           <td>jedan</td>
           <td>dva</td>
           <td>tri</td>
@@ -358,7 +358,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Serbian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Serbian</td>
           <td>
             један
             <br />
@@ -411,7 +411,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Macedonian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Macedonian</td>
           <td>еден</td>
           <td>два</td>
           <td>три</td>
@@ -424,7 +424,7 @@ export default function NaturalLanguages() {
           <td>десет</td>
         </tr>
         <tr>
-          <td>Bulgarian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Bulgarian</td>
           <td>един</td>
           <td>два</td>
           <td>три</td>
@@ -437,7 +437,7 @@ export default function NaturalLanguages() {
           <td>десет</td>
         </tr>
         <tr>
-          <td>Russenorsk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Russenorsk</td>
           <td>odín</td>
           <td>tva</td>
           <td>tri</td>
@@ -453,7 +453,7 @@ export default function NaturalLanguages() {
           <th colSpan={11}>Constructed Slavic auxiliary languages</th>
         </tr>
         <tr>
-          <th>Language</th>
+          <th style={{ background: "var(--ifm-table-head-background)" }}>Language</th>
           <th>1</th>
           <th>2</th>
           <th>3</th>
@@ -466,7 +466,7 @@ export default function NaturalLanguages() {
           <th>10</th>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Ruski jezik <i>(Križanić)</i>
           </td>
           <td>једѐн</td>
@@ -481,7 +481,7 @@ export default function NaturalLanguages() {
           <td>дéсет</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Sveslavjanski jezik <i>(Ban)</i>
           </td>
           <td>jedin</td>
@@ -496,7 +496,7 @@ export default function NaturalLanguages() {
           <td>desjat</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Vsjeslovianьskyь <i>(Bambas)</i>
           </td>
           <td>jedinъ</td>
@@ -511,7 +511,7 @@ export default function NaturalLanguages() {
           <td>diesjatь</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Uzajemni Pravopis Slavjanski <i>(Majar)</i>
           </td>
           <td>једен</td>
@@ -526,7 +526,7 @@ export default function NaturalLanguages() {
           <td>десет</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Neuslawisch <i>(Hošek)</i>
           </td>
           <td>jeden</td>
@@ -541,7 +541,7 @@ export default function NaturalLanguages() {
           <td>desat</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Občeslovjanski <i>(Hošek)</i>
           </td>
           <td>odin</td>
@@ -556,7 +556,7 @@ export default function NaturalLanguages() {
           <td>desatj</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Slavina <i>(Konečný)</i>
           </td>
           <td>én</td>
@@ -571,7 +571,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Slovanština <i>(Kolkop)</i>
           </td>
           <td>prv</td>
@@ -586,7 +586,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Slavski <i>(Holý)</i>
           </td>
           <td>en</td>
@@ -601,7 +601,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>
             Slovan <i>(Zidek)</i>
           </td>
           <td>edna</td>
@@ -616,7 +616,7 @@ export default function NaturalLanguages() {
           <td>dasot</td>
         </tr>
         <tr>
-          <td>Meždunarodski jazik</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Meždunarodski jazik</td>
           <td>йедин</td>
           <td>два</td>
           <td>три</td>
@@ -629,7 +629,7 @@ export default function NaturalLanguages() {
           <td>десет</td>
         </tr>
         <tr>
-          <td>Slovio, Ruslavsk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovio, Ruslavsk</td>
           <td>
             din
             <br />
@@ -682,7 +682,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Slovo</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovo</td>
           <td>
             jedin
             <br />
@@ -735,7 +735,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Glagolica</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Glagolica</td>
           <td>jeden</td>
           <td>dva</td>
           <td>tri</td>
@@ -748,7 +748,7 @@ export default function NaturalLanguages() {
           <td>desat</td>
         </tr>
         <tr>
-          <td>Proslava</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Proslava</td>
           <td>edin</td>
           <td>dva</td>
           <td>tri</td>
@@ -761,7 +761,7 @@ export default function NaturalLanguages() {
           <td>desat</td>
         </tr>
         <tr>
-          <td>Panslavien</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Panslavien</td>
           <td>edin</td>
           <td>dva</td>
           <td>tri</td>
@@ -774,7 +774,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Medjazik (Slavonske jazik)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Medjazik (Slavonske jazik)</td>
           <td>jedin</td>
           <td>dva</td>
           <td>tri</td>
@@ -787,7 +787,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Sloviensk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Sloviensk</td>
           <td>en</td>
           <td>dve</td>
           <td>tri</td>
@@ -800,7 +800,7 @@ export default function NaturalLanguages() {
           <td>des</td>
         </tr>
         <tr>
-          <td>Slovianski</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovianski</td>
           <td>
             jedin
             <br />
@@ -853,7 +853,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Slavenen (Noven Slovio)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slavenen (Noven Slovio)</td>
           <td>edin</td>
           <td>dva</td>
           <td>tri</td>
@@ -866,7 +866,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Slovioski</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovioski</td>
           <td>
             jedin
             <br />
@@ -919,7 +919,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Slavski jezik</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slavski jezik</td>
           <td>jedan</td>
           <td>dva</td>
           <td>tri</td>
@@ -932,7 +932,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Novoslovienskij</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Novoslovienskij</td>
           <td>
             iedin
             <br />
@@ -985,7 +985,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Naučny Medžuslovjanski</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Naučny Medžuslovjanski</td>
           <td>jedin</td>
           <td>dva</td>
           <td>tri</td>
@@ -998,7 +998,7 @@ export default function NaturalLanguages() {
           <td>desęť</td>
         </tr>
         <tr>
-          <td>Slovianto</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovianto</td>
           <td>
             jedin
             <br />
@@ -1051,7 +1051,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Prostoslovjanski</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Prostoslovjanski</td>
           <td>jedin</td>
           <td>dva</td>
           <td>tri</td>
@@ -1064,7 +1064,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Rusanto</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Rusanto</td>
           <td>odin</td>
           <td>dva</td>
           <td>tri</td>
@@ -1077,7 +1077,7 @@ export default function NaturalLanguages() {
           <td>desiat</td>
         </tr>
         <tr>
-          <td>Slovko</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovko</td>
           <td>edno</td>
           <td>dvi</td>
           <td>tri</td>
@@ -1090,7 +1090,7 @@ export default function NaturalLanguages() {
           <td>deseti</td>
         </tr>
         <tr>
-          <td>Venedčina</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Venedčina</td>
           <td>jedenj</td>
           <td>dva</td>
           <td>tri</td>
@@ -1103,7 +1103,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Nowoslownica</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Nowoslownica</td>
           <td>једен</td>
           <td>два</td>
           <td>три</td>
@@ -1116,7 +1116,7 @@ export default function NaturalLanguages() {
           <td>десѣт</td>
         </tr>
         <tr>
-          <td>Slovenska nova lingvafranka (SNL)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slovenska nova lingvafranka (SNL)</td>
           <td>jeden</td>
           <td>dva</td>
           <td>tri</td>
@@ -1145,7 +1145,7 @@ export default function NaturalLanguages() {
           <th>10</th>
         </tr>
         <tr>
-          <td>Sevorian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Sevorian</td>
           <td>iedøn</td>
           <td>dvaa</td>
           <td>trii</td>
@@ -1158,7 +1158,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Vozgian (Gŭor vŭozgašchai)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Vozgian (Gŭor vŭozgašchai)</td>
           <td>
             іђін
             <br />
@@ -1211,7 +1211,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Našica (old)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Našica (old)</td>
           <td>edët</td>
           <td>deva</td>
           <td>trie</td>
@@ -1224,7 +1224,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Nasika (new)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Nasika (new)</td>
           <td>inu</td>
           <td>ta</td>
           <td>tiirä</td>
@@ -1237,7 +1237,7 @@ export default function NaturalLanguages() {
           <td>tesemti</td>
         </tr>
         <tr>
-          <td>Seversk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Seversk</td>
           <td>jedan</td>
           <td>dva</td>
           <td>tre</td>
@@ -1250,7 +1250,7 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Mrezisk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Mrezisk</td>
           <td>jedan</td>
           <td>deva</td>
           <td>tera</td>
@@ -1263,7 +1263,7 @@ export default function NaturalLanguages() {
           <td>desat</td>
         </tr>
         <tr>
-          <td>Slavëni</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slavëni</td>
           <td>gedan</td>
           <td>deva</td>
           <td>tera</td>
@@ -1276,7 +1276,7 @@ export default function NaturalLanguages() {
           <td>desat</td>
         </tr>
         <tr>
-          <td>Slavisk</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Slavisk</td>
           <td>gidan</td>
           <td>déva</td>
           <td>tera</td>
@@ -1289,7 +1289,7 @@ export default function NaturalLanguages() {
           <td>désat</td>
         </tr>
         <tr>
-          <td>Ijslova</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Ijslova</td>
           <td>jijn</td>
           <td>dvis</td>
           <td>tris</td>
@@ -1302,7 +1302,7 @@ export default function NaturalLanguages() {
           <td>disam</td>
         </tr>
         <tr>
-          <td>Skuodian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Skuodian</td>
           <td>jeriino</td>
           <td>dovaa</td>
           <td>trije/trii</td>
@@ -1315,7 +1315,7 @@ export default function NaturalLanguages() {
           <td>diesiente</td>
         </tr>
         <tr>
-          <td>Novegradian</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Novegradian</td>
           <td>
             едене
             <br />
@@ -1368,7 +1368,7 @@ export default function NaturalLanguages() {
           </td>
         </tr>
         <tr>
-          <td>Onegian (Onegskoi ezeik)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Onegian (Onegskoi ezeik)</td>
           <td>edin</td>
           <td>dva</td>
           <td>tri</td>
@@ -1381,13 +1381,13 @@ export default function NaturalLanguages() {
           <td>deset</td>
         </tr>
         <tr>
-          <td>Rothian (Rodzku jezuk)</td>
+          <td style={{ background: "var(--ifm-table-head-background)" }}>Rothian (Rodzku jezuk)</td>
           <td>jödin</td>
           <td>dva</td>
           <td>tri</td>
           <td>ššetüri</td>
         </tr>
       </tbody>
-    </table>
+    </table >
   )
 }

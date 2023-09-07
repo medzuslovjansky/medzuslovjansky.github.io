@@ -38,7 +38,7 @@ function Labian() {
           <td>v</td>
           <td>m</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Soft (’)</th>
           <td colSpan={5}>—</td>
         </tr>
@@ -62,11 +62,11 @@ function DentalAlveolar() {
   return (
     <table className="table_sticky">
       <tbody>
-        <tr>
+        <tr align="center">
           <th />
           <th colSpan={8}>dental/alveolar</th>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Hard</th>
           <td>s</td>
           <td>z</td>
@@ -77,7 +77,7 @@ function DentalAlveolar() {
           <td>l</td>
           <td>c</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Soft (’)</th>
           <td>
             <font color="gray">ś</font>
@@ -98,7 +98,7 @@ function DentalAlveolar() {
           <td rowSpan={2}>lj</td>
           <td rowSpan={2}>č</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Hard + j</th>
           <td>š</td>
           <td>ž</td>
@@ -110,7 +110,7 @@ function DentalAlveolar() {
           </td>
           <td>rj</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Cons. + ’ + j</th>
           <td>
             sj <font color="gray">(śj)</font>
@@ -137,6 +137,7 @@ function DentalAlveolar() {
         </tr>
       </tbody>
     </table>
+
   )
 }
 
@@ -149,14 +150,14 @@ function VelarPalatar() {
           <th colSpan={3}>velar</th>
           <th>palatal</th>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Hard</th>
           <td>k</td>
           <td>g</td>
           <td>h</td>
           <td>—</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Soft (’)</th>
           <td rowSpan={2}>č</td>
           <td rowSpan={2}>ž</td>
@@ -185,21 +186,21 @@ function Clusters() {
           <th />
           <th colSpan={4}>clusters</th>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Hard</th>
           <td>st</td>
           <td>zd</td>
           <td>sk</td>
           <td>zg</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Soft (’)</th>
           <td>st́</td>
           <td>zd́</td>
           <td>—</td>
           <td>—</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Hard + j</th>
           <td>
             šč <font color="gray">(šć)</font>
@@ -210,7 +211,7 @@ function Clusters() {
           <td>šč</td>
           <td>ždž</td>
         </tr>
-        <tr>
+        <tr align="center">
           <th>Cons. + ’ + j</th>
           <td>
             stj <font color="gray">(st́j)</font>

@@ -19,12 +19,6 @@ function First() {
     <table className="table_sticky">
       <tbody>
         <tr>
-          <th />
-          <th colSpan={2}>
-            <em>First conjugation</em>
-          </th>
-        </tr>
-        <tr>
           <th>
             <em>infinitive</em>
           </th>
@@ -87,12 +81,6 @@ function Second() {
   return (
     <table className="table_sticky">
       <tbody>
-        <tr>
-          <th />
-          <th>
-            <em>Second conjugation</em>
-          </th>
-        </tr>
         <tr>
           <th>
             <em>infinitive</em>

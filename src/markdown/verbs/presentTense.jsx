@@ -16,15 +16,6 @@ export default function PresentTense() {
 function FirstConjugation() {
   return (
     <table className="table_sticky">
-      <thead>
-        <tr></tr>
-        <tr>
-          <th />
-          <th colSpan={2}>
-            <em>First conjugation</em>
-          </th>
-        </tr>
-      </thead>
       <tbody>
         <tr>
           <th>
@@ -82,15 +73,6 @@ function FirstConjugation() {
 function SecondConjugation() {
   return (
     <table className="table_sticky">
-      <thead>
-        <tr></tr>
-        <tr>
-          <th />
-          <th colSpan={2}>
-            <em>Second conjugation</em>
-          </th>
-        </tr>
-      </thead>
       <tbody>
         <tr>
           <th>

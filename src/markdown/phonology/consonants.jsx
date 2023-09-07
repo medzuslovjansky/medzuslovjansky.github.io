@@ -1,20 +1,4 @@
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 export default function Consonants() {
-  return (
-    <Tabs groupId="number">
-      <TabItem value="part1" label="Labial, dental">
-        <Part1 />
-      </TabItem>
-      <TabItem value="part2" label="Palatal, velar">
-        <Part2 />
-      </TabItem>
-    </Tabs>
-  )
-}
-
-function Part1() {
   return (
     <table className="table_sticky">
       <tbody>
@@ -26,6 +10,12 @@ function Part1() {
             labiodental
           </th>
           <th colSpan={2}>dental/alveolar</th>
+          <th rowSpan={2}>
+            postalveolar/
+            <br />
+            palatal
+          </th>
+          <th rowSpan={2}>velar</th>
         </tr>
         <tr>
           <th>hard</th>
@@ -45,6 +35,10 @@ function Part1() {
             </b>
             <font color="gray">[tʲ] ~ [c]</font>
           </td>
+          <td />
+          <td>
+            <b>k</b> [k]
+          </td>
         </tr>
         <tr>
           <th>Voiced stops</th>
@@ -59,6 +53,10 @@ function Part1() {
               <font color="gray">d́</font>
             </b>
             <font color="gray">[dʲ] ~ [ɟ]</font>
+          </td>
+          <td />
+          <td>
+            <b>g</b> [g]
           </td>
         </tr>
         <tr>
@@ -75,6 +73,12 @@ function Part1() {
             </b>
             <font color="gray"> [sʲ] ~ [ɕ]</font>
           </td>
+          <td>
+            <b>š</b> [ʃ] ~ [ʂ]
+          </td>
+          <td>
+            <b>h</b> [x]
+          </td>
         </tr>
         <tr>
           <th>Voiced fricatives</th>
@@ -90,6 +94,10 @@ function Part1() {
             </b>
             <font color="gray"> [zʲ] ~ [ʑ]</font>
           </td>
+          <td>
+            <b>ž</b> [ʒ] ~ [ʐ]
+          </td>
+          <td />
         </tr>
         <tr>
           <th>Voiceless affricates</th>
@@ -103,6 +111,10 @@ function Part1() {
             </b>
             <font color="gray">[t͡ɕ]</font>
           </td>
+          <td>
+            <b>č</b> [t͡ʃ] ~ [t͡ʂ]
+          </td>
+          <td />
         </tr>
         <tr>
           <th>Voiced affricates</th> <td /> <td />
@@ -112,6 +124,10 @@ function Part1() {
             </b>
             <font color="gray">[d͡ʑ]</font>
           </td>
+          <td>
+            <b>dž</b> [d͡ʒ] ~ [d͡ʐ]
+          </td>
+          <td />
         </tr>
         <tr>
           <th>Trills</th> <td />
@@ -124,6 +140,7 @@ function Part1() {
             </b>
             <font color="gray"> [rʲ] ~ [r̝]</font>
           </td>
+          <td /> <td />
         </tr>
         <tr>
           <th>Nasals</th>
@@ -134,6 +151,10 @@ function Part1() {
             <b>n</b> [n]
           </td>
           <td />
+          <td>
+            <b>nj</b> [nʲ] ~ [ɲ]
+          </td>
+          <td />
         </tr>
         <tr>
           <th>Laterals</th> <td />
@@ -141,94 +162,13 @@ function Part1() {
             <b>l</b> [ɫ] ~ [l]
           </td>
           <td />
-        </tr>
-        <tr>
-          <th>Approximants</th> <td /> <td /> <td />
-        </tr>
-      </tbody>
-    </table>
-  )
-}
-
-function Part2() {
-  return (
-    <table className="table_sticky">
-      <tbody>
-        <tr>
-          <th rowSpan={2} />
-
-          <th rowSpan={2}>
-            postalveolar/
-            <br />
-            palatal
-          </th>
-          <th rowSpan={2}>velar</th>
-        </tr>
-        <tr />
-        <tr>
-          <th>Voiceles stops</th>
-          <td />
-          <td>
-            <b>k</b> [k]
-          </td>
-        </tr>
-        <tr>
-          <th>Voiced stops</th>
-          <td />
-          <td>
-            <b>g</b> [g]
-          </td>
-        </tr>
-        <tr>
-          <th>Voiceless fricatives</th>
-          <td>
-            <b>š</b> [ʃ] ~ [ʂ]
-          </td>
-          <td>
-            <b>h</b> [x]
-          </td>
-        </tr>
-        <tr>
-          <th>Voiced fricatives</th>
-          <td>
-            <b>ž</b> [ʒ] ~ [ʐ]
-          </td>
-          <td />
-        </tr>
-        <tr>
-          <th>Voiceless affricates</th>
-          <td>
-            <b>č</b> [t͡ʃ] ~ [t͡ʂ]
-          </td>
-          <td />
-        </tr>
-        <tr>
-          <th>Voiced affricates</th>
-          <td>
-            <b>dž</b> [d͡ʒ] ~ [d͡ʐ]
-          </td>
-          <td />
-        </tr>
-        <tr>
-          <th>Trills</th>
-          <td /> <td />
-        </tr>
-        <tr>
-          <th>Nasals</th>
-          <td>
-            <b>nj</b> [nʲ] ~ [ɲ]
-          </td>
-          <td />
-        </tr>
-        <tr>
-          <th>Laterals</th>
           <td>
             <b>lj</b> [l] ~ [ʎ]
           </td>
           <td />
         </tr>
         <tr>
-          <th>Approximants</th>
+          <th>Approximants</th> <td /> <td /> <td />
           <td>
             <b>j</b> [j]
           </td>
