@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
 import {translate} from "@docusaurus/Translate";
 
-import Alphabet from '@site/src/markdown/alphabet.mdx';
+import Alphabet from '@site/src/markdown/alphabet.jsx';
 import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
 import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
 import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
