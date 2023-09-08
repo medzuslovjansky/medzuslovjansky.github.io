@@ -10,11 +10,6 @@ description: Gender, nouns, adjectives, verbs
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
-
 # Úroveň 2
 
 V [**Úrovni 1**][1] jste se naučili řadu forem, které můžete použít, abyste se stali srozumitelnými pro Slovany na velmi základní úrovni. Tento jazyk je však velmi primitivní a vůbec neodpovídá bohatství slovanských jazyků. Takže, pokud jste na tuto výzvu, zde jsou některé další nástroje, které můžete použít k tomu, aby `Slovianto` vypadal a zněl mnohem přirozeněji.
@@ -125,17 +120,19 @@ Totéž platí pro přídavná jména, platí také pro přivlastňovací, ukazo
 
 ### Přítomný čas
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 V `Slovianto` úrovni 1 jste se naučili, že přítomný čas se tvoří přidáním koncovky `-(e)t` ke kmeni: _`ja děla-t`_ "já", _`vy prosi-t`_ "ty se ptáš", _`oni nes-et`_ "oni nést". Slovanskému uchu to však zní nepřirozeně, protože všechny slovanské jazyky skloňují svá slovesa pro osobu a číslo. Chcete-li udělat lepší dojem, je možné hodně získat tím, že se také naučíte některé z těchto osobních konců.
 
-Takže je čas zapomenout na koncovku `-t`! Místo toho si zapamatujte následující koncovky: `-m`, `-š`, `-Ø`  (bez koncovky) v první, druhé a třetí osobě jednotného čísla a `-mo`, `-te`, `-ut`  v první, druhé a třetí osobě množného čísla. Když kmen končí samohláskou, vložte `-j-` před koncovku `-ut`. Když kmen končí souhláskou, vložte před zbývající koncovky `-e-`. Některé příklady naleznete v tabulce vpravo.
+Takže je čas zapomenout na koncovku `-t`! Místo toho si zapamatujte následující koncovky: `-m`, `-š`, `-Ø` (bez koncovky) v první, druhé a třetí osobě jednotného čísla a `-mo`, `-te`, `-ut` v první, druhé a třetí osobě množného čísla. Když kmen končí samohláskou, vložte `-j-` před koncovku `-ut`. Když kmen končí souhláskou, vložte před zbývající koncovky `-e-`. Některé příklady naleznete v tabulce vpravo.
 
 Koncovku `-š` a osobní zájmeno `ty` použijte pouze pro rodinu, přátele, děti atd. V ostatních případech oslovujte osoby ve druhé osobě množného čísla (`vy`, `-te`).
 
 ### Minulý čas
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 V minulém čase nejsou slovesa spojována s osobou. Jsou však konjugovány pro pohlaví. Může se to zdát zvláštní, ale vysvětlení je docela jednoduché: tvar _`dělal`_ je ve skutečnosti příčestí, což znamená něco jako „udělal“, a proto souhlasí s předmětem v rodu a čísle, ale ne osobně. Formuláře jsou ty, které jsou uvedeny v tabulce vpravo.
 
@@ -149,15 +146,17 @@ Podmiňovací způsob je tvořen přidáním částice `by` k minulému času, a
 
 ### Rozkazovací způsob
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Kromě rozkazovacího způsobu, který jste se již naučili (2. osoba množného čísla), existují také rozkazovací způsoby pro 2. osobu jednotného čísla a 1. osobu množného čísla. Koncovky jsou `-j` (2 sg.), `-jmo` (1 pl.) a `-jte` (2 pl.) po samohlásce a `-i` (2 sg.), `-imo` (1 pl. ) a `-ite` (2 pl.) po souhlásce. :isv[dělajte] tedy znamená „dělat!“ a může být zaměřen na více lidí najednou, ale také slouží jako zdvořilejší forma jednotného čísla, zatímco :isv[dělaj] by se mělo používat pouze pro přátele, rodinu a děti. _`Dělajmo`_ znamená: „Udělejme to“.
 
 ### Sloveso být"
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
-Protože vše výše uvedené také ovlivňuje jediné nepravidelné sloveso v `Slovianto`, `byti`  „být“, zde je jeho úplná konjugace.
+Protože vše výše uvedené také ovlivňuje jediné nepravidelné sloveso v `Slovianto`, `byti` „být“, zde je jeho úplná konjugace.
 
 ---
 
@@ -170,14 +169,14 @@ Iz vse možlive města, kde žijut ljudi, ja naj-mnogo ljubim male selo, daleko 
 
 Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaji, sobrati se i byti prijatelji s te vse jedinstvene ljudi okolo nas! Tako, že my budemo znati vse zakutki i povrati od tenke ulici i solnečne luki, ktore my prohodimo vsaki denj. Mala socialna grupa, ktora jest selska společnost, jest to, za čto poezija i proza blagodarijut naj-mnogo. Dolga, raztegnjena draga, ktora bludi se v mily, teply denj i prěhodi črěz velika, široka draga, polna od avta i tiri. Vy hočete putovati s mene, dragi čitatelj? Put ne bude dolgy. My načinamo na dolina konec i odtudy my budemo pohoditi v vrh.
 :::
-  </TabItem>
+</TabItem>
 
   <TabItem value="our-village" label="Our village">
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 
 [1]: level-1.md
-

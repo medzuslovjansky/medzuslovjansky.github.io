@@ -5,15 +5,7 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.mdx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
+import { AlphabetOverview } from '@site/src/components';
 
 # Pravopis
 
@@ -23,13 +15,15 @@ Pitanje kako bi se međuslavenski trebao pisati oduvijek je bilo predmetom raspr
 
 Budući da granica između latinice i ćirilice prolazi ravno sredinom slavenskog teritorija, međuslavenski ima standardna pisma za oba. Ni jedno ni drugo ne temelji se na posebnom nacionalnom pravopisu. Umjesto toga, osmišljeni su kao kompromis, s namjerom da budu intuitivno razumljivi i da omoguće jednostavnu transliteraciju između njih. Korisnici se snažno potiču da koriste te standardne abecede, ali onima koji imaju problema s pisanjem određenih znakova nudimo i neka [alternativna rješenja][1].
 
-**Međuslavenska latinica** koristi 27 slova: 23 slova iz osnovne latinice (sva osim `q`, `w`  i `x`) plus četiri suglasnika sa znakom (`š`, `ž`, `č`  i `ě`), kao i tri digrafi (`dž`, `lj`, `nj`):
+**Međuslavenska latinica** koristi 27 slova: 23 slova iz osnovne latinice (sva osim `q`, `w` i `x`) plus četiri suglasnika sa znakom (`š`, `ž`, `č` i `ě`), kao i tri digrafi (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
-**Međuslavenska ćirilica** ima 29 slova: sve znakove koji su zajednički različitim ćiriličnim pravopisima, uz dodatak `є`, `ы`, `ј`, `љ`, `њ`,  kao i jedan digraf (`дж`):
+**Međuslavenska ćirilica** ima 29 slova: sve znakove koji su zajednički različitim ćiriličnim pravopisima, uz dodatak `є`, `ы`, `ј`, `љ`, `њ`, kao i jedan digraf (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Oba su pravopisa ravnopravna, au objavljenim tekstovima zaslužuje preporuku da se daju verzije i na latinici i na ćirilici, kako bi bili razumljivi s obje strane granice.
 
@@ -74,7 +68,8 @@ Interslavic koristi slovo `ј` iz srpske i makedonske ćirilice kao ekvivalent l
 
 Uz standardnu ​​latinicu, međuslavenski također sadrži niz neobveznih slova koja se posebno odnose na praslavenske/starocrkvenoslavenske foneme koji su se odvojili ili nestali u većini modernih jezika:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Samoglasnici `ę` i `ų` odgovaraju nosnim samoglasnicima `ѧ` i `ѫ` u staroslavenskom (mali yus i veliki yus, obično se transliteriraju kao `ę` i `ǫ`).
 - Samoglasnik `å` pojavljuje se u kombinacijama `rå` i `lå` iza kojih slijedi suglasnik, gdje poljski ima **`ro`/`ró`** i **`ło`/`łó`**, a istočnoslavenski ima **(`o` )`ro`** i **(`o`)`lo`**.
@@ -92,7 +87,7 @@ Imajte na umu da međuslavenska etimološka abeceda ne uključuje oznake duljine
 
 Osnovna međuslavenska latinica i ćirilica sastoje se od slova čiji je izgovor sličan u svim slavenskim jezicima. Međutim, praslavenski i starocrkvenoslavenski također su imali niz fonema koji su se razvili u različitim smjerovima. U većini suvremenih jezika te su glasovne promjene bile izuzetno predvidljive. Dodjeljivanjem posebnog znaka tim fonemima, svaki od njih može se povezati s određenim fonemom u bilo kojem od suvremenih slavenskih jezika, čime se pokrivaju glavne fonološke razlike između potonjih. Drugim riječima, ovo prošireno pismo može poslužiti kao most između staroslavenskog i suvremenih slavenskih jezika, ali i kao posrednički pravopis između staroslavenskog i međuslavenskog.
 
-Za razliku od alfabeta kao što su međunarodni fonetski alfabet i [slavistički alfabet][3], ovaj pravopis nema za cilj dati podatke o izgovoru pojedinih jezika, već pokazati odnos među njima. Može se usporediti s ortografijom engleskog: iako postoje velike razlike u izgovoru između britanskog engleskog, škotskog engleskog i američkog engleskog, svi su napisani na praktički isti način, koristeći pravopisne konvencije koje predstavljaju govorni jezik 14. stoljeća. Kad bi Slaveni koristili sličnu abecedu umjesto svojih nacionalnih pravopisa koji se temelje na izgovoru, riječ za „pet” mogla bi se pisati kao :isv[_pęt́_] u svim slavenskim jezicima, umjesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_]  itd.
+Za razliku od alfabeta kao što su međunarodni fonetski alfabet i [slavistički alfabet][3], ovaj pravopis nema za cilj dati podatke o izgovoru pojedinih jezika, već pokazati odnos među njima. Može se usporediti s ortografijom engleskog: iako postoje velike razlike u izgovoru između britanskog engleskog, škotskog engleskog i američkog engleskog, svi su napisani na praktički isti način, koristeći pravopisne konvencije koje predstavljaju govorni jezik 14. stoljeća. Kad bi Slaveni koristili sličnu abecedu umjesto svojih nacionalnih pravopisa koji se temelje na izgovoru, riječ za „pet” mogla bi se pisati kao :isv[_pęt́_] u svim slavenskim jezicima, umjesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
 
 Ova abeceda zasnovana na etimologiji (ranije poznata kao :notr[_Naučny medžuslovjansky_] „znanstveni međuslavenski”) također služi kao izvorni kod za međuslavenski. Osmišljen je tako da se od standardnog međuslavenskog razlikuje samo dodatnim dijakritičkim znakovima, tako da ih čitatelj koji ih ne poznaje može jednostavno zanemariti. Korištenje ovog pravopisa u međuslavenskom može poslužiti u sljedeće svrhe:
 
@@ -112,7 +107,7 @@ Budući da su ta proširenja izborna, alternativni prikazi nisu striktno potrebn
 
 ### Ćirilica \{#cyrillic}
 
-U latiničnom pismu dodatne etimološke informacije prenose se samo pomoću dijakritičkih znakova. Dakle, pasivna razumljivost nije otežana, a čitatelj koji ih ne poznaje ionako može razumjeti tekst. Sličan pristup za ćirilicu (upotrebom znakova poput `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`,  itd.) ne samo da bi učinio da tekst izgleda krajnje umjetno, već bi bio i malo od pomoći, jer bi izmjene bile daleko od toga da se same po sebi objašnjavaju. Proširena ćirilica koja koristi povijesne (`ѣ`, `ѩ`, `ѫ`) i regionalne (`ћ`, `ђ`) znakove bila bi vrlo teško razumljiva ljudima koji nisu upoznati sa staroslavenskim pravopisom i stoga bi bila u sukobu sa svrhom međuslavenskog. Zbog toga međuslavenska etimološka abeceda nema ćirilički ekvivalent.
+U latiničnom pismu dodatne etimološke informacije prenose se samo pomoću dijakritičkih znakova. Dakle, pasivna razumljivost nije otežana, a čitatelj koji ih ne poznaje ionako može razumjeti tekst. Sličan pristup za ćirilicu (upotrebom znakova poput `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`, itd.) ne samo da bi učinio da tekst izgleda krajnje umjetno, već bi bio i malo od pomoći, jer bi izmjene bile daleko od toga da se same po sebi objašnjavaju. Proširena ćirilica koja koristi povijesne (`ѣ`, `ѩ`, `ѫ`) i regionalne (`ћ`, `ђ`) znakove bila bi vrlo teško razumljiva ljudima koji nisu upoznati sa staroslavenskim pravopisom i stoga bi bila u sukobu sa svrhom međuslavenskog. Zbog toga međuslavenska etimološka abeceda nema ćirilički ekvivalent.
 
 ## Pregled \{#overview}
 
@@ -123,9 +118,9 @@ Sljedeća tablica prikazuje podudarnosti između gore navedenih slova (predlože
     <AlphabetOverview script="art-Latn-x-interslv" />
   </TabItem>
 
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
+<TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
+<AlphabetOverview script="art-Cyrl-x-interslv" />
+</TabItem>
 </Tabs>
 
 ## Smjernice \{#guidelines}
@@ -137,18 +132,12 @@ Ukratko, postoji nekoliko mogućnosti za pisanje iste riječi. Opća smjernica j
 - Izbjegavajte korištenje ćiriličnih slova koja se više ne koriste (kao što je `ѣ`, `ѩ`, `ѫ`, `ѱ`) i nemojte pokušavati ćirilizirati etimološko pismo na bilo koji drugi način, jer bi oboje ozbiljno ugrozilo razumljivost.
 - Ako imate problema s pisanjem određenih znakova, upotrijebite jednu od predloženih alternativa.
 - Budite dosljedni u svojim izborima. Ako, primjerice, odlučite koristiti `sz` za predstavljanje `š`, neka tako ostane u cijelom tekstu ili razgovoru, inače ćete samo stvoriti zabunu. Iz istog razloga, ako koristite `sz`, nemojte koristiti `č` ili `cx` u isto vrijeme.
-- Nemojte koristiti znakove koji nisu slova (:kbd[^], :kbd[']  itd.) kao sredstvo za zamjenu dijakritičkih znakova. Oni neće učiniti vaš tekst čitljivijim i većina ih ljudi smatra ružnima.
+- Nemojte koristiti znakove koji nisu slova (:kbd[^], :kbd['] itd.) kao sredstvo za zamjenu dijakritičkih znakova. Oni neće učiniti vaš tekst čitljivijim i većina ih ljudi smatra ružnima.
 - Nikad ne miješajte latinicu s ćirilicom.
 - Kada se obraćate pripadnicima određenog slavenskog naroda (na primjer, kada putujete), razmislite o [aromatiziranju svog međuslavenskog][4]. Međutim, nemojte koristiti aromatizaciju u višeslavenskim sredinama.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html
-
-

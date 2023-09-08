@@ -10,11 +10,6 @@ description: Gender, nouns, adjectives, verbs
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
-
 # Узровень 2
 
 На [**узроўні 1**][1] вы вывучылі шэраг формаў, якія вы можаце выкарыстоўваць, каб зрабіць сябе зразумелым для славян на самым базавым узроўні. Гэтая мова, аднак, вельмі прымітыўная, і зусім не аддае належнага багацьцю славянскіх моваў. Такім чынам, калі вы спраўляецеся з гэтай задачай, вось яшчэ некалькі інструментаў, якія вы можаце выкарыстоўваць, каб `Slovianto` выглядаў і гучаў нашмат больш натуральна.
@@ -54,8 +49,8 @@ import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
 
 — Ёсць яшчэ група слоў жаночага роду, якія заканчваюцца на зычны. Як правіла, памятайце, што большасць з гэтых слоў заканчваюцца на `-ost`:
 
-  _`kost`_ «костка»
-  _`velikost`_ «веліч»
+_`kost`_ «костка»
+_`velikost`_ «веліч»
 
 Ёсць некалькі выключэнняў, але на дадзены момант вам не трэба пра іх турбавацца.
 
@@ -125,17 +120,19 @@ _`morje`_ → _morja_ „мора”
 
 ### Цяперашні час
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 На ўзроўні 1 `Slovianto` вы даведаліся, што цяперашні час утвараецца шляхам дадання канчатка `-(e)t` да асновы: _`ja děla-t`_ "я", _`vy prosi-t`_ "вы пытаеце", _`oni nes-et`_ "яны несці". Аднак для славянскага вуха гэта гучыць ненатуральна, бо ўсе славянскія мовы скланяюць свае дзеясловы па асобе і ліку. Каб зрабіць лепшае ўражанне, можна шмат чаго атрымаць, вывучыўшы некаторыя з гэтых асабістых канчаткаў.
 
-Такім чынам, час забыць канцоўку `-t`! Замест гэтага запомніце наступныя канчаткі: `-m`, `-š`, `-Ø`  (без заканчэння) у першай, другой і трэцяй асобе адзіночнага ліку і `-mo`, `-te`, `-ut`  у першай, другой і трэцяй асобе множнага ліку. Калі аснова заканчваецца на галосную, устаўце `-j-` перад канчаткам `-ut`. Калі аснова заканчваецца на зычны, устаўце `-e-` перад астатнімі канчаткамі. Некалькі прыкладаў глядзіце ў табліцы справа.
+Такім чынам, час забыць канцоўку `-t`! Замест гэтага запомніце наступныя канчаткі: `-m`, `-š`, `-Ø` (без заканчэння) у першай, другой і трэцяй асобе адзіночнага ліку і `-mo`, `-te`, `-ut` у першай, другой і трэцяй асобе множнага ліку. Калі аснова заканчваецца на галосную, устаўце `-j-` перад канчаткам `-ut`. Калі аснова заканчваецца на зычны, устаўце `-e-` перад астатнімі канчаткамі. Некалькі прыкладаў глядзіце ў табліцы справа.
 
 Канчатак `-š` і асабісты займеннік `ty` трэба выкарыстоўваць толькі для сям'і, сяброў, дзяцей і г. д. У іншых выпадках звяртайцеся да людзей у другой асобе множнага ліку (`vy`, `-te`).
 
 ### Прошлы час
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 У прошлым часе дзеясловы па асобе не спражаюцца. Аднак яны спалучаюцца па полу. Гэта можа здацца дзіўным, але тлумачэнне даволі простае: форма _`dělal`_ насамрэч з'яўляецца дзеепрыметнікам, што азначае нешта накшталт «зрабіўшы», і таму яна ўзгадняецца з дзейнікам у родзе і ліку, але не ў асобах. Формы паказаны ў табліцы справа.
 
@@ -149,15 +146,17 @@ _`morje`_ → _morja_ „мора”
 
 ### Імператыў
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Акрамя загаднага ладу, які вы ўжо вывучылі (2-я асоба множнага ліку), існуюць таксама загадныя формы для 2-й асобы адзіночнага ліку і 1-й асобы множнага ліку. Канчаткі `-j` (2 мн.), `-jmo` (1 мн.) і `-jte` (2 мн.) пасля галоснай, а таксама `-i` (2 мн.), `-imo` (1 мн.). ) і `-ite` (2 мн.) пасля зычнага. Такім чынам, :isv[dělajte] азначае «рабіць!» і можа быць накіраваны адначасова на больш людзей, але таксама служыць больш ветлівай формай адзіночнага ліку, у той час як :isv[dělaj] варта выкарыстоўваць толькі для сяброў, сям'і і дзяцей. _`Dělajmo`_ азначае: «Давайце зробім».
 
 ### Дзеяслоў «быць»
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
-Паколькі ўсё вышэйсказанае таксама ўплывае на адзіны няправільны дзеяслоў у `Slovianto`, `byti`  «to be», вось яго поўнае спражэнне.
+Паколькі ўсё вышэйсказанае таксама ўплывае на адзіны няправільны дзеяслоў у `Slovianto`, `byti` «to be», вось яго поўнае спражэнне.
 
 ---
 
@@ -170,14 +169,14 @@ Iz vse možlive města, kde žijut ljudi, ja naj-mnogo ljubim male selo, daleko 
 
 Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaji, sobrati se i byti prijatelji s te vse jedinstvene ljudi okolo nas! Tako, že my budemo znati vse zakutki i povrati od tenke ulici i solnečne luki, ktore my prohodimo vsaki denj. Mala socialna grupa, ktora jest selska společnost, jest to, za čto poezija i proza blagodarijut naj-mnogo. Dolga, raztegnjena draga, ktora bludi se v mily, teply denj i prěhodi črěz velika, široka draga, polna od avta i tiri. Vy hočete putovati s mene, dragi čitatelj? Put ne bude dolgy. My načinamo na dolina konec i odtudy my budemo pohoditi v vrh.
 :::
-  </TabItem>
+</TabItem>
 
   <TabItem value="our-village" label="Our village">
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 
 [1]: level-1.md
-

@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-import Souns from '@site/src/markdown/common-slavic-sounds.mdx';
-
 # Pochodzenie słów
 
 ## Prasłowiański \{#proto-slavic}
@@ -12,7 +10,8 @@ Słowa oparte są na żywych językach słowiańskich, a gdy te ostatnie nie są
 
 Poniższa tabela pokazuje, w jaki sposób różne pospolite słowiańskie dźwięki i sekwencje są traktowane w języku intersłowiańskim. Proszę zwrócić uwagę, że w niektórych przypadkach możliwe jest rozróżnienie wersji północno- i południowosłowiańskiej (zob. [Flavourisation][2]).
 
-<Souns />
+:::component{name=MDDerivation}
+:::
 
 ## Międzynarodowe słownictwo \{#international-vocabulary}
 
@@ -49,9 +48,7 @@ Poza tym końcówki dostosowane są w przewidywalny sposób do tego, co najczę�
 - Angielskie przymiotniki w _`-ive`_ (łac. _`-ivus`_) mają końcówkę `-ivny`: _`pozitivny`_.
 - Angielskie przymiotniki w _`-ous`_ (łac. _`-osus`_) mają końcówkę `-ozny`: _`seriozny`_.
 
-Bardziej problematyczne są słowa zapożyczone z języka angielskiego. Pisząc alfabetem łacińskim możemy zachować oryginalną pisownię (_bypass_, _knockout_, _jazz_, _teenager_). Jednak wiele tekstów w języku starosłowiańskim jest pisanych cyrylicą lub w obu ortografiach równolegle, często z pomocą programu do transliteracji, i oczywiście należy unikać pisania _быпасс_ lub _кноцкоут_ w cyrylicy! W większości przypadków wolelibyśmy zatem raczej zastosować podejście fonetyczne: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol],  _`koktejl`_ itd.
+Bardziej problematyczne są słowa zapożyczone z języka angielskiego. Pisząc alfabetem łacińskim możemy zachować oryginalną pisownię (_bypass_, _knockout_, _jazz_, _teenager_). Jednak wiele tekstów w języku starosłowiańskim jest pisanych cyrylicą lub w obu ortografiach równolegle, często z pomocą programu do transliteracji, i oczywiście należy unikać pisania _быпасс_ lub _кноцкоут_ w cyrylicy! W większości przypadków wolelibyśmy zatem raczej zastosować podejście fonetyczne: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
 [1]: ../introduction/design-criteria.md#vocabulary
-
 [2]: flavourisation.md
-

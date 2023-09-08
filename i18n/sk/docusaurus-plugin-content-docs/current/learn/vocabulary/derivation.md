@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-import Souns from '@site/src/markdown/common-slavic-sounds.mdx';
-
 # Odvodzovanie slov
 
 ## praslovanský \{#proto-slavic}
@@ -12,7 +10,8 @@ Slová sú založené na živých slovanských jazykoch, a keď sa tieto navzáj
 
 Nasledujúca tabuľka ukazuje, ako sa v medzislovančine narába s rôznymi bežnými slovanskými zvukmi a sekvenciami. Upozorňujeme, že v niektorých prípadoch je možné rozlíšiť medzi severnou a južnou slovanskou verziou (pozri [dochutenie][2]).
 
-<Souns />
+:::component{name=MDDerivation}
+:::
 
 ## Medzinárodná slovná zásoba \{#international-vocabulary}
 
@@ -49,9 +48,7 @@ Okrem toho sú koncovky prispôsobené predvídateľným spôsobom tomu, čo je 
 - Anglické prídavné mená v _`-ive`_ (latinsky _`-ivus`_) majú koncovku `-ivny`: _`pozitivny`_.
 - Anglické prídavné mená v _`-ous`_ (latinka _`-osus`_) majú koncovku `-ozny`: _`seriozny`_.
 
-Problematickejšie sú slová prevzaté z angličtiny. Pri písaní latinkou môžeme ponechať pôvodný pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnohé texty v interslovančine sú však písané v azbuke alebo v oboch pravopisoch súbežne, často pomocou prepisovacieho programu, a samozrejme sa treba vyhnúť písaniu _быпасс_ alebo _кноцкоут_ v azbuke! Vo väčšine prípadov by sme preto radšej použili fonetickejší prístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol],  _`koktejl`_ atď.
+Problematickejšie sú slová prevzaté z angličtiny. Pri písaní latinkou môžeme ponechať pôvodný pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnohé texty v interslovančine sú však písané v azbuke alebo v oboch pravopisoch súbežne, často pomocou prepisovacieho programu, a samozrejme sa treba vyhnúť písaniu _быпасс_ alebo _кноцкоут_ v azbuke! Vo väčšine prípadov by sme preto radšej použili fonetickejší prístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ atď.
 
 [1]: ../introduction/design-criteria.md#vocabulary
-
 [2]: flavourisation.md
-

@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-import Souns from '@site/src/markdown/common-slavic-sounds.mdx';
-
 # Odvozování slov
 
 ## praslovanština \{#proto-slavic}
@@ -12,7 +10,8 @@ Slova jsou založena na živých slovanských jazycích, a když tyto nejsou ve 
 
 Následující tabulka ukazuje, jak jsou různé běžné slovanské zvuky a sekvence řešeny v mezislovanštině. Upozorňujeme, že v některých případech je možné rozlišit mezi severoslovanskou a jihoslovanskou verzí (viz [ochucení][2]).
 
-<Souns />
+:::component{name=MDDerivation}
+:::
 
 ## Mezinárodní slovní zásoba \{#international-vocabulary}
 
@@ -49,9 +48,7 @@ Kromě toho jsou koncovky přizpůsobeny předvídatelným způsobem tomu, co je
 - Anglická přídavná jména v _`-ive`_ (latinsky _`-ivus`_) mají koncovku `-ivny`: _`pozitivny`_.
 - Anglická přídavná jména v _`-ous`_ (latinsky _`-osus`_) mají koncovku `-ozny`: _`seriozny`_.
 
-Problematičtější jsou slova přejatá z angličtiny. Při psaní latinkou můžeme zachovat původní pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnoho textů v interslovanštině je však psáno v azbuce nebo v obou pravopisech souběžně, často s pomocí transliteračního programu, a samozřejmě je třeba se vyhnout psaní _быпасс_ nebo _кноцкоут_ v azbuce! Ve většině případů bychom proto raději použili fonetičtější přístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol],  _`koktejl`_ atd.
+Problematičtější jsou slova přejatá z angličtiny. Při psaní latinkou můžeme zachovat původní pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnoho textů v interslovanštině je však psáno v azbuce nebo v obou pravopisech souběžně, často s pomocí transliteračního programu, a samozřejmě je třeba se vyhnout psaní _быпасс_ nebo _кноцкоут_ v azbuce! Ve většině případů bychom proto raději použili fonetičtější přístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ atd.
 
 [1]: ../introduction/design-criteria.md#vocabulary
-
 [2]: flavourisation.md
-

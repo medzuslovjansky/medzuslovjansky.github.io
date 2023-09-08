@@ -7,4 +7,4 @@ origin: http://steen.free.fr/interslavic/numbers_1-10.html
 :::component{name=MDNumbers1}
 :::
 
-<!-- TODO - як це доопрацювати -->
+<!-- TODO - як це доопрацювати у всіх локалях-->

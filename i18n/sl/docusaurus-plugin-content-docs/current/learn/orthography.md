@@ -5,15 +5,7 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.mdx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
+import { AlphabetOverview } from '@site/src/components';
 
 # Pravopis
 
@@ -23,13 +15,15 @@ Vprašanje, kako naj se medslovansko piše, je bilo vedno predmet razprav. Ideal
 
 Ker meja med latinico in cirilico poteka naravnost po sredini slovanskega ozemlja, ima medslovanska standardna pisava za obe. Nobeden od njiju ne temelji na nobenem posebnem nacionalnem pravopisu. Namesto tega so bili zasnovani kot kompromis, ki naj bi bili intuitivno razumljivi in ​​omogočali enostavno prečrkovanje med njimi. Uporabnike močno spodbujamo k uporabi teh standardnih abeced, a tistim, ki imajo težave s pisanjem določenih znakov, ponujamo tudi nekaj [alternativnih rešitev][1].
 
-**Medslovanska latinica** uporablja 27 črk: 23 črk osnovne latinice (vse razen `q`, `w`  in `x`) ter štiri soglasnike s karonom (`š`, `ž`, `č`  in `ě`) ter tri digrafi (`dž`, `lj`, `nj`):
+**Medslovanska latinica** uporablja 27 črk: 23 črk osnovne latinice (vse razen `q`, `w` in `x`) ter štiri soglasnike s karonom (`š`, `ž`, `č` in `ě`) ter tri digrafi (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
-**Medslovanska cirilica** ima 29 črk: vse znake, ki so skupni različnim pravopisom cirilice, z dodatkom `є`, `ы`, `ј`, `љ`, `њ`,  in enim digrafom (`дж`):
+**Medslovanska cirilica** ima 29 črk: vse znake, ki so skupni različnim pravopisom cirilice, z dodatkom `є`, `ы`, `ј`, `љ`, `њ`, in enim digrafom (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Oba pravopisa sta enakovredna, v objavljenih besedilih pa velja priporočilo, da se zagotovita različici tako v latinici kot v cirilici, da bosta razumljivi na obeh straneh meje.
 
@@ -74,7 +68,8 @@ Cirilični dvojnici `lj` in `nj` sta `љ` in `њ`, prav tako vzeti iz srbske in 
 
 Poleg standardne latinice medslovanska abeceda vsebuje tudi številne neobvezne črke, ki se nanašajo posebej na praslovanske/starocerkvenoslovanske foneme, ki so se v večini sodobnih jezikov razšli ali izginili:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Samoglasnika `ę` in `ų` se ujemata z nosnima samoglasnikoma `ѧ` in `ѫ` v stari cerkveni slovanščini (mali jus oziroma veliki jus, običajno prečrkovana kot `ę` in `ǫ`).
 - Samoglasnik `å` se pojavi v kombinacijah `rå` in `lå`, ki jima sledi soglasnik, kjer imata poljščina **`ro`/`ró`** in **`ło`/`łó`**, vzhodnoslovanska pa **(`o` )`ro`** in **(`o`)`lo`**.
@@ -92,7 +87,7 @@ Upoštevajte, da medslovanska etimološka abeceda ne vključuje dolžinskih ali 
 
 Osnovna medslovanska latinica in cirilica sta sestavljeni iz črk, katerih izgovorjava je podobna v vseh slovanskih jezikih. Vendar sta praslovanščina in stara cerkvena slovanščina imela tudi številne foneme, ki so se razvijali v različne smeri. V večini sodobnih jezikov so bile te glasovne spremembe izjemno predvidljive. Z dodelitvijo posebnega znaka tem fonemom lahko vsakega od njih povežemo z določenim fonemom v katerem koli od sodobnih slovanskih jezikov in tako pokrijemo glavne fonološke razlike med slednjimi. Z drugimi besedami, ta razširjena abeceda lahko služi kot most med starocerkveno slovanščino in sodobnimi slovanskimi jeziki, pa tudi kot vmesni pravopis med starocerkveno slovanščino in medslovanščino.
 
-V nasprotju z abecedami, kot sta mednarodna fonetična abeceda in [slavistična abeceda][3], ta pravopis ni namenjen podajanju informacij o izgovorjavi posameznih jezikov, temveč prikazu razmerja med njimi. Lahko ga primerjamo z ortografijo angleščine: čeprav obstajajo velike razlike v izgovorjavi med britansko angleščino, škotsko angleščino in ameriško angleščino, so vse napisane na praktično enak način, z uporabo črkovalnih konvencij, ki predstavljajo govorjeni jezik 14. stoletja. Če bi Slovani uporabljali podobno abecedo namesto svojih nacionalnih pravopisov, ki temeljijo na izgovoru, bi lahko besedo za pet v vseh slovanskih jezikih zapisali kot :isv[_pęt́_], namesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_]  itd.
+V nasprotju z abecedami, kot sta mednarodna fonetična abeceda in [slavistična abeceda][3], ta pravopis ni namenjen podajanju informacij o izgovorjavi posameznih jezikov, temveč prikazu razmerja med njimi. Lahko ga primerjamo z ortografijo angleščine: čeprav obstajajo velike razlike v izgovorjavi med britansko angleščino, škotsko angleščino in ameriško angleščino, so vse napisane na praktično enak način, z uporabo črkovalnih konvencij, ki predstavljajo govorjeni jezik 14. stoletja. Če bi Slovani uporabljali podobno abecedo namesto svojih nacionalnih pravopisov, ki temeljijo na izgovoru, bi lahko besedo za pet v vseh slovanskih jezikih zapisali kot :isv[_pęt́_], namesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
 
 Ta na etimologiji temelječa abeceda (prej znana kot :notr[_Naučny medžuslovjansky_] »znanstvena medslovanska«) služi tudi kot izvorna koda za medslovansko. Oblikovana je bila tako, da se od standardne medslovanske loči le po dodatnih diakritikah, tako da jih bralec, ki teh diakritik ne pozna, preprosto prezre. Uporaba tega pravopisa v medslovanščini lahko služi za naslednje namene:
 
@@ -112,7 +107,7 @@ Ker so te razširitve neobvezne, alternativne predstavitve niso nujno potrebne. 
 
 ### cirilica \{#cyrillic}
 
-V latinici so dodatne etimološke informacije posredovane samo z diakritičnimi znaki. Tako pasivna razumljivost ni ovirana, bralec, ki jih ne pozna, pa lahko besedilo vseeno razume. Podoben pristop za cirilico (uporaba znakov, kot je `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`,  itd.) ne bi samo naredil, da bi bilo besedilo videti zelo umetno, ampak bi bil tudi malo koristen, saj bi bile spremembe daleč od tega, da bi bile samoumevne. Razširjena cirilica, ki uporablja zgodovinske (`ѣ`, `ѩ`, `ѫ`) in regionalne (`ћ`, `ђ`) znake, bi bila zelo težko razumljiva ljudem, ki starocerkvenoslovanskega pravopisa niso seznanjeni, in bi bila zato v nasprotju z namenom medslovanščine. Zato medslovanska etimološka abeceda nima ustreznice v cirilici.
+V latinici so dodatne etimološke informacije posredovane samo z diakritičnimi znaki. Tako pasivna razumljivost ni ovirana, bralec, ki jih ne pozna, pa lahko besedilo vseeno razume. Podoben pristop za cirilico (uporaba znakov, kot je `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`, itd.) ne bi samo naredil, da bi bilo besedilo videti zelo umetno, ampak bi bil tudi malo koristen, saj bi bile spremembe daleč od tega, da bi bile samoumevne. Razširjena cirilica, ki uporablja zgodovinske (`ѣ`, `ѩ`, `ѫ`) in regionalne (`ћ`, `ђ`) znake, bi bila zelo težko razumljiva ljudem, ki starocerkvenoslovanskega pravopisa niso seznanjeni, in bi bila zato v nasprotju z namenom medslovanščine. Zato medslovanska etimološka abeceda nima ustreznice v cirilici.
 
 ## Pregled \{#overview}
 
@@ -123,9 +118,9 @@ Naslednja tabela prikazuje ujemanja med zgoraj omenjenimi črkami (predlagana al
     <AlphabetOverview script="art-Latn-x-interslv" />
   </TabItem>
 
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
+<TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
+<AlphabetOverview script="art-Cyrl-x-interslv" />
+</TabItem>
 </Tabs>
 
 ## Smernice \{#guidelines}
@@ -137,18 +132,12 @@ Naslednja tabela prikazuje ujemanja med zgoraj omenjenimi črkami (predlagana al
 - Izogibajte se uporabi črk v cirilici, ki se ne uporabljajo več (kot je `ѣ`, `ѩ`, `ѫ`, `ѱ`) in tudi ne poskušajte cirilizirati etimološke abecede na kakršenkoli drug način, saj bi oboje resno oviralo razumljivost.
 - Če imate težave pri pisanju določenih znakov, uporabite eno od predlaganih alternativ.
 - Bodite dosledni pri svojih odločitvah. Če se na primer odločite uporabiti `sz` za predstavitev `š`, naj bo tako v celotnem besedilu ali pogovoru, sicer boste ustvarili samo zmedo. Iz istega razloga, če uporabljate `sz`, ne uporabljajte `č` ali `cx` hkrati.
-- Ne uporabljajte znakov, ki niso črke (:kbd[^], :kbd[']  itd.), kot sredstva za zamenjavo diakritičnih znakov. Vašega besedila ne bodo naredili bolj berljivega in večini ljudi se zdijo grdi.
+- Ne uporabljajte znakov, ki niso črke (:kbd[^], :kbd['] itd.), kot sredstva za zamenjavo diakritičnih znakov. Vašega besedila ne bodo naredili bolj berljivega in večini ljudi se zdijo grdi.
 - Nikoli ne mešajte latinice s cirilico.
 - Ko nagovarjate pripadnike določenega slovanskega naroda (na primer, ko ste na potovanju), lahko razmislite o tem, da [okusite svojo medslovanščino][4]. Vendar pa aromatiziranja ne uporabljajte v večslovanskih okoljih.
 
-[1]: \#representation-of-problematic-characters
-
+[1]: #representation-of-problematic-characters
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html
-
-

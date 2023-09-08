@@ -10,11 +10,6 @@ description: Gender, nouns, adjectives, verbs
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
-
 # Уровень 2
 
 На [**Уровне 1**][1] вы изучили ряд форм, которые вы можете использовать, чтобы быть понятными славянам на самом базовом уровне. Однако этот язык очень примитивен и совсем не соответствует богатству славянских языков. Итак, если вы готовы принять вызов, вот еще несколько инструментов, которые вы можете использовать, чтобы `Slovianto` выглядел и звучал намного более естественно.
@@ -125,17 +120,19 @@ _`morje`_ → _morja_ «моря»
 
 ### Настоящее время
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 На первом уровне `Slovianto` вы узнали, что настоящее время образуется путем добавления окончания `-(e)t` к основе: _`ja děla-t`_ "я делаю", _`vy prosi-t`_ "вы спрашиваете", _`oni nes-et`_ "они нести". Однако для славянского уха это звучит неестественно, потому что все славянские языки склоняют свои глаголы по лицам и числам. Чтобы произвести лучшее впечатление, можно многому научиться, выучив некоторые из этих личных окончаний.
 
-Итак, пора забыть концовку `-t`! Вместо этого запомните следующие окончания: `-m`, `-š`, `-Ø`  (без окончания) в первом, втором и третьем лице единственного числа и `-mo`, `-te`, `-ut`  во множественном числе от первого, второго и третьего лица. Когда основа заканчивается на гласную, вставьте `-j-` перед окончанием `-ut`. Когда основа оканчивается на согласную, вставьте `-e-` перед остальными окончаниями. См. таблицу справа для некоторых примеров.
+Итак, пора забыть концовку `-t`! Вместо этого запомните следующие окончания: `-m`, `-š`, `-Ø` (без окончания) в первом, втором и третьем лице единственного числа и `-mo`, `-te`, `-ut` во множественном числе от первого, второго и третьего лица. Когда основа заканчивается на гласную, вставьте `-j-` перед окончанием `-ut`. Когда основа оканчивается на согласную, вставьте `-e-` перед остальными окончаниями. См. таблицу справа для некоторых примеров.
 
 Окончание `-š` и личное местоимение `ty` следует использовать только для семьи, друзей, детей и т. д. В остальных случаях обращайтесь ко второму лицу множественного числа (`vy`, `-te`).
 
 ### Прошедшее время
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 В прошедшем времени глаголы не спрягаются по лицам. Однако они сопряжены по полу. Это может показаться странным, но объяснение довольно простое: форма _`dělal`_ на самом деле является причастием, означающим что-то вроде «совершив», и поэтому оно согласуется с подлежащим в роде и числе, но не в лице. Формы показаны в таблице справа.
 
@@ -149,15 +146,17 @@ _`morje`_ → _morja_ «моря»
 
 ### Императив
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Помимо уже изученной формы повелительного наклонения (2-го лица множественного числа), существуют также повелительные формы для 2-го лица единственного числа и 1-го лица множественного числа. Окончания `-j` (2 ед.), `-jmo` (1 мн.ч.) и `-jte` (2 мн.ч.) после гласной, а также `-i` (2 ед.р.), `-imo` (1 мн.ч.) ) и `-ite` (2 пл.) после согласного. Таким образом, :isv[dělajte] означает «делать!» и может быть адресовано большему количеству людей одновременно, но также служит более вежливой формой единственного числа, в то время как :isv[dělaj] следует использовать только для друзей, семьи и детей. _`Dělajmo`_ означает: «Давайте сделаем».
 
 ### Глагол быть"
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
-Так как все вышесказанное касается и единственного неправильного глагола в `Slovianto`, `byti`  «to be», вот его полное спряжение.
+Так как все вышесказанное касается и единственного неправильного глагола в `Slovianto`, `byti` «to be», вот его полное спряжение.
 
 ---
 
@@ -170,14 +169,14 @@ Iz vse možlive města, kde žijut ljudi, ja naj-mnogo ljubim male selo, daleko 
 
 Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaji, sobrati se i byti prijatelji s te vse jedinstvene ljudi okolo nas! Tako, že my budemo znati vse zakutki i povrati od tenke ulici i solnečne luki, ktore my prohodimo vsaki denj. Mala socialna grupa, ktora jest selska společnost, jest to, za čto poezija i proza blagodarijut naj-mnogo. Dolga, raztegnjena draga, ktora bludi se v mily, teply denj i prěhodi črěz velika, široka draga, polna od avta i tiri. Vy hočete putovati s mene, dragi čitatelj? Put ne bude dolgy. My načinamo na dolina konec i odtudy my budemo pohoditi v vrh.
 :::
-  </TabItem>
+</TabItem>
 
   <TabItem value="our-village" label="Our village">
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 
 [1]: level-1.md
-

@@ -10,11 +10,6 @@ description: Gender, nouns, adjectives, verbs
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
-
 # 2. stopnja
 
 V [**Ravni 1**][1] ste se naučili številnih oblik, ki jih lahko uporabite, da postanete razumljivi Slovanom na zelo osnovni ravni. Ta jezik pa je zelo primitiven in sploh ne upošteva bogastva slovanskih jezikov. Torej, če ste kos izzivu, je tukaj še nekaj orodij, s katerimi lahko `Slovianto` naredite videz in zvok veliko bolj naraven.
@@ -125,17 +120,19 @@ Enako kot za pridevnike, velja tudi za svojilne, kazalne, odnosne, nedoločne za
 
 ### Sedanjik
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 V `Slovianto` stopnji 1 ste se naučili, da se sedanjik tvori z dodajanjem končnice `-(e)t` k korenu: _`ja děla-t`_ "jaz", _`vy prosi-t`_ "sprašujete", _`oni nes-et`_ "oni nositi". Za slovansko uho pa se to sliši nenaravno, ker vsi slovanski jeziki sklanjajo svoje glagole za osebo in število. Če želite narediti boljši vtis, lahko veliko pridobite, če se naučite tudi nekaterih teh osebnih koncev.
 
-Torej, čas je, da pozabite konec `-t`! Namesto tega si zapomnite naslednje končnice: `-m`, `-š`, `-Ø`  (brez končnice) v prvi, drugi in tretji osebi ednine in `-mo`, `-te`, `-ut`  v prvi, drugi in tretji osebi množine. Ko se koren konča na samoglasnik, vstavite `-j-` pred končnico `-ut`. Ko se koren konča na soglasnik, vstavite `-e-` pred preostale končnice. Oglejte si tabelo na desni za nekaj primerov.
+Torej, čas je, da pozabite konec `-t`! Namesto tega si zapomnite naslednje končnice: `-m`, `-š`, `-Ø` (brez končnice) v prvi, drugi in tretji osebi ednine in `-mo`, `-te`, `-ut` v prvi, drugi in tretji osebi množine. Ko se koren konča na samoglasnik, vstavite `-j-` pred končnico `-ut`. Ko se koren konča na soglasnik, vstavite `-e-` pred preostale končnice. Oglejte si tabelo na desni za nekaj primerov.
 
 Končnico `-š` in osebni zaimek `ty` uporabljajte samo za družino, prijatelje, otroke itd. V drugih primerih ljudi naslavljajte v drugi osebi množine (`vy`, `-te`).
 
 ### Preteklik
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 V preteklem času se glagoli ne spregajo za osebo. Vendar pa so konjugirani glede na spol. To se morda zdi nenavadno, vendar je razlaga precej preprosta: oblika _`dělal`_ je pravzaprav deležnik, ki pomeni nekaj takega kot "opraviti", in se zato ujema s subjektom v spolu in številu, ne pa osebno. Obrazci so prikazani v tabeli na desni.
 
@@ -149,15 +146,17 @@ Pogojnik nastane z dodajanjem delca `by` preteklemu času in je zato predmet dog
 
 ### Nujno
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Poleg velelne oblike, ki ste se je že naučili (2. oseba množine), obstajajo tudi velelne oblike za 2. osebo ednine in 1. osebo množine. Končnice so `-j` (2 mn.), `-jmo` (1 mn.) in `-jte` (2 mn.) za samoglasnikom ter `-i` (2 mn.), `-imo` (1 mn.). ) in `-ite` (2 mn.) za soglasnikom. Tako :isv[dělajte] pomeni "naredi!" in je lahko namenjen več osebam hkrati, vendar služi tudi kot bolj vljudna edninska oblika, medtem ko se :isv[dělaj] uporablja samo za prijatelje, družino in otroke. _`Dělajmo`_ pomeni: "Naredimo".
 
 ### Glagol "biti"
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
-Ker vse zgoraj navedeno vpliva tudi na edini nepravilni glagol v `Slovianto`, `byti`  „biti“, je tukaj njegova popolna spregatev.
+Ker vse zgoraj navedeno vpliva tudi na edini nepravilni glagol v `Slovianto`, `byti` „biti“, je tukaj njegova popolna spregatev.
 
 ---
 
@@ -170,14 +169,14 @@ Iz vse možlive města, kde žijut ljudi, ja naj-mnogo ljubim male selo, daleko 
 
 Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaji, sobrati se i byti prijatelji s te vse jedinstvene ljudi okolo nas! Tako, že my budemo znati vse zakutki i povrati od tenke ulici i solnečne luki, ktore my prohodimo vsaki denj. Mala socialna grupa, ktora jest selska společnost, jest to, za čto poezija i proza blagodarijut naj-mnogo. Dolga, raztegnjena draga, ktora bludi se v mily, teply denj i prěhodi črěz velika, široka draga, polna od avta i tiri. Vy hočete putovati s mene, dragi čitatelj? Put ne bude dolgy. My načinamo na dolina konec i odtudy my budemo pohoditi v vrh.
 :::
-  </TabItem>
+</TabItem>
 
   <TabItem value="our-village" label="Our village">
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 
 [1]: level-1.md
-

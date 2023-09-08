@@ -6,10 +6,6 @@ original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Фаналогія
 
 ## Інвентар фанем \{#phoneme-inventory}
@@ -42,7 +38,8 @@ import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
 Дыякрытычныя знакі звычайна не пішуцца.
 Аднак у араматызаваных версіях міжславянскай мовы `å` можна пісаць і вымаўляць як `o`, `ę`, як `ja`, `ȯ`, як `e`, і `y`, як `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 У міжславянскай мове ёсць таксама складовыя `r` і `ŕ` (апошні належыць да неабавязковага набору).
 Гэта той выпадак, калі перад ім стаіць зычная, а пасля _не_ ідзе галосная.
@@ -52,7 +49,8 @@ import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
 
 Ёсць 23 асноўныя зычныя (у тым ліку 3 афрыкаты і 2 палаталізаваныя альвеалярныя) з больш-менш фіксаваным вымаўленнем, а таксама 7 факультатыўных зычных са зменным вымаўленнем:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Цвёрдыя і мяккія зычныя \{#hard-and-soft-consonants}
 
@@ -154,7 +152,8 @@ _Палаталізацыя_ азначае, што пры пэўных умов
 
 Адрозненні паміж змякчанымі, паталізаванымі і ётаванымі зычнымі дэманструюцца ў наступнай табліцы (зноў фанемы, пазначаныя шэрым колерам, неабавязковыя):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -196,22 +195,22 @@ _Палаталізацыя_ азначае, што пры пэўных умов
 Мімалётныя `o` і `e` (у этымалагічным алфавіце пазначаныя кропкай: `ȯ` і `ė`) з'яўляюцца асабліва ў наступных выпадках:
 
 - у назоўным (а ў выпадку неадушаўлёных назоўнікаў — вінавальным) адзіночным ліку назоўнікаў мужчынскага роду, асабліва тых, што заканчваюцца на `-ec` і `-ok`, а таксама некаторых іншых назоўнікаў:
-   :abbr[nom.sg.] :isv[ot**ė**c] „бацька” > :abbr[gen.sg.] :isv[otca]
-   :abbr[nom.sg.] :isv[pěs**ȯ**k] „пясок” > :abbr[gen.sg.] :isv[pěska]
-   :abbr[nom.sg.] :isv[p**ė**s] „сабака” > :abbr[gen.sg.] :isv[psa]
-   :abbr[nom.sg.] :isv[s**ȯ**n] „мара” > :abbr[gen.sg.] :isv[sna]
-   :abbr[nom.sg.] :isv[kr**ȯ**v] „кроў” > :abbr[gen.sg.] :isv[krvi]
+  :abbr[nom.sg.] :isv[ot**ė**c] „бацька” > :abbr[gen.sg.] :isv[otca]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „пясок” > :abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[p**ė**s] „сабака” > :abbr[gen.sg.] :isv[psa]
+  :abbr[nom.sg.] :isv[s**ȯ**n] „мара” > :abbr[gen.sg.] :isv[sna]
+  :abbr[nom.sg.] :isv[kr**ȯ**v] „кроў” > :abbr[gen.sg.] :isv[krvi]
 - у родным склоне множнага ліку назоўнікаў жаночага і ніякага роду, якія ў іншым выпадку заканчваліся б на зычныя:
-   :abbr[nom.sg.] :isv[okno] „акно” > :abbr[gen.pl.] :isv[ok**ė**n]
-   :abbr[nom.sg.] :isv[miska] „чаша” > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  :abbr[nom.sg.] :isv[okno] „акно” > :abbr[gen.pl.] :isv[ok**ė**n]
+  :abbr[nom.sg.] :isv[miska] „чаша” > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - у формах назоўнага склону адзіночнага ліку асобных займеннікаў мужчынскага роду:
-   :abbr[m.nom.sg.] :isv[v**ė**ś] „усё, увесь”, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „усё, увесь”, :abbr[f.nom.sg.] :isv[vśa]
 - перад некаторымі суфіксамі:
-   :isv[piśmo] „ліст, скрыпт” > :isv[pis**ė**mny] „напісана, пісьмова”
+  :isv[piśmo] „ліст, скрыпт” > :isv[pis**ė**mny] „напісана, пісьмова”
 - прыназоўнікі :isv[s] і :isv[v], калі стаяць перад некаторымі займеннікамі або групамі зычных, або калі выкарыстоўваюцца ў якасці прэфікса перад галоснымі або групамі зычных:
-   _`s`_ „з” + :isv[mnojų] „я” (:abbr[instr.sg.]) > :isv[s**ȯ** mnojų],
-   _`v`_ „у” + :isv[vsih] „усё” (:abbr[loc.pl.]) > :isv[v**ȯ** vsih],
-   _`s-`_ + :isv[držati] > :isv[s**ȯ**držati] «утрымліваць»,
-   _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „увайсці”.
+  _`s`_ „з” + :isv[mnojų] „я” (:abbr[instr.sg.]) > :isv[s**ȯ** mnojų],
+  _`v`_ „у” + :isv[vsih] „усё” (:abbr[loc.pl.]) > :isv[v**ȯ** vsih],
+  _`s-`_ + :isv[držati] > :isv[s**ȯ**držati] «утрымліваць»,
+  _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „увайсці”.
 
 [1]: orthography.md#etymological_alphabet

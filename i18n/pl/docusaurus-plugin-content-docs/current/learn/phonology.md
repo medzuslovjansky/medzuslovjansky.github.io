@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Fonologia
 
 ## Spis fonemów \{#phoneme-inventory}
@@ -29,7 +25,8 @@ Podstawowy międzysłowiański ma 7 fonemów samogłoskowych, z których pięć 
 
 Ponadto istnieje 5 opcjonalnych samogłosek (`å` `ė` `ę` `ȯ` `ų`), których wymowa może się różnić. Znaki diakrytyczne zwykle nie są zapisywane. Jednak w flaworyzowanych wersjach języka międzysłowiańskiego `å` można zapisać i wymówić jako `o`, `ę` jako `ja`, `ȯ` jako `e` i `y` jako `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Międzysłowiański ma również sylabiczne `r` i `ŕ` (ten ostatni należy do zestawu nieobowiązkowego). Dzieje się tak, gdy poprzedzone jest spółgłoską, a po nim _nie_ następuje samogłoska. Wymawia się je ze szwa przed nią: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjərtvɪ], :isv[cukr] :ipa[ʦukər].
 
@@ -37,7 +34,8 @@ Międzysłowiański ma również sylabiczne `r` i `ŕ` (ten ostatni należy do z
 
 Istnieją 23 podstawowe spółgłoski (w tym 3 spółgłoski zwarto-szczelinowe i 2 spółgłoski dziąsłowo-podniebienne) o mniej lub bardziej ustalonej wymowie, a także 7 opcjonalnych spółgłosek o zmiennej wymowie:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Twarde i miękkie spółgłoski \{#hard-and-soft-consonants}
 
@@ -120,7 +118,8 @@ Choć może się to wydawać skomplikowane, oznacza to, że przyrostki `-je`, `-
 
 Różnice między spółgłoskami palatalizowanymi i jotowanymi pokazano w poniższej tabeli (ponownie fonemy zaznaczone na szaro są opcjonalne):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 

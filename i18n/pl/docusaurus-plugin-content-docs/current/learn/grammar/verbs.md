@@ -6,17 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Czasowniki
 
 ## Aspekt dokonany i niedoskonały \{#perfective-and-imperfective-aspect}
@@ -40,13 +29,14 @@ Czasami pary aspektów są nieregularne, na przykład :isv[nazyvati] (impf.)/:is
 
 Szczególną kategorią czasowników pod względem aspektów są czasowniki ruchu. W przeciwieństwie do innych czasowników, zwykle dokonują trójstopniowego rozróżnienia: bezkierunkowy niedokonany, kierunkowy niedokonany, dokonany. Pierwszy z nich wyraża ruch bez określonego kierunku, a zatem nie ma własnego doskonałego odpowiednika. Na przykład:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 Na przykład: :isv[Igor jezdil po Moskvě] „Igor jeździł po Moskwie”. :isv[Igor jehal do Moskvy] „Igor jechał do Moskwy”. :isv[Igor pojehal do Moskvy] „Igor pojechał do Moskwy”.
 
 Kiedy bezkierunkowy czasownik ruchu i tak ma kierunek, wyraża to nawyk: :isv[Igor jezdil do Moskvy] „Igor \[zawsze|często] jeździł do Moskwy”.
 
-Poza :isv[hoditi], :isv[idti]  i :isv[pojdti] istnieje jeszcze słowo :isv[pohoditi], które może oznaczać „trochę iść”, ale także „chodzić w wielu kierunkach”.
+Poza :isv[hoditi], :isv[idti] i :isv[pojdti] istnieje jeszcze słowo :isv[pohoditi], które może oznaczać „trochę iść”, ale także „chodzić w wielu kierunkach”.
 
 W złożeniach z przedrostkiem forma bezkierunkowa jest używana dla czasownika niedokonanego, forma kierunkowa dla czasownika dokonanego:
 :isv[odhoditi] (impf.)/:isv[oditi] (pf.) „odejść”
@@ -72,7 +62,7 @@ W słowniku czasowniki są zawsze podawane w bezokoliczniku. Wszystkie bezokolic
 
 Rdzeń _bezokolicznika_ jest tworzony poprzez usunięcie końcówki `-ti` i służy jako punkt wyjścia dla czasów przeszłych, trybu warunkowego, imiesłowów czasu przeszłego i rzeczownika odsłownego.
 
-Bezokoliczniki są prawie zawsze regularne, więc zakończenie `-ti` nie zmienia rdzenia bezokolicznika. Dzieje się tak również w czasownikach takich jak :isv[mogti] „może”, :isv[pekti] „piec”, :isv[běgti] „biegać” itp. (zamiast oczekiwanych, ale mniej przejrzystych :isv[moči], :isv[peči]  i :isv[běči]). Jedynymi wyjątkami są czasowniki na `-sti`: w większości przypadków ich temat bezokolicznikowy kończy się na `d`, czasem także `t` lub `s`. Na przykład :isv[klasti] „położyć, położyć”, :isv[pasti] „spaść” i :isv[gnesti] „zmiażdżyć” mają rdzenie _`klad-`_, _`pad-`_ i _`gnet-`_. Aby odróżnić te przypadki od :isv[nesti] (rdzeń: _`nes-`_) i tym podobne, są one reprezentowane w słowniku w następujący sposób: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
+Bezokoliczniki są prawie zawsze regularne, więc zakończenie `-ti` nie zmienia rdzenia bezokolicznika. Dzieje się tak również w czasownikach takich jak :isv[mogti] „może”, :isv[pekti] „piec”, :isv[běgti] „biegać” itp. (zamiast oczekiwanych, ale mniej przejrzystych :isv[moči], :isv[peči] i :isv[běči]). Jedynymi wyjątkami są czasowniki na `-sti`: w większości przypadków ich temat bezokolicznikowy kończy się na `d`, czasem także `t` lub `s`. Na przykład :isv[klasti] „położyć, położyć”, :isv[pasti] „spaść” i :isv[gnesti] „zmiażdżyć” mają rdzenie _`klad-`_, _`pad-`_ i _`gnet-`_. Aby odróżnić te przypadki od :isv[nesti] (rdzeń: _`nes-`_) i tym podobne, są one reprezentowane w słowniku w następujący sposób: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
 
 Zazwyczaj _rdzeń czasu teraźniejszego_ (używany dla czasu teraźniejszego, trybu rozkazującego i imiesłowów czasu teraźniejszego) można wyprowadzić regularnie z tematu bezokolicznika. Istnieje różnica między pierwszą a drugą koniugacją:
 
@@ -84,7 +74,7 @@ Zazwyczaj _rdzeń czasu teraźniejszego_ (używany dla czasu teraźniejszego, tr
 - Druga koniugacja:
   - czasowniki na `-iti` i większość czasowników na `-ěti` ma temat czasu teraźniejszego `-i-`: _`hvaliti > hval-i-`_ „chwalić”, _`viděti > vid-i-`_ „widzieć”
 
-Wiele czasowników używa osobnego rdzenia w czasie teraźniejszym. W większości przypadków są to czasowniki mieszanych klas `a/j`, `a/i`  i `ě/i` w języku słowiańskim. Aktywny użytkownik Interslavic będzie musiał nauczyć się obu form. Zauważy jednak, że w większości przypadków formowanie się tego drugiego korzenia odbywa się w przewidywalny sposób. Ilekroć tematu czasu teraźniejszego nie można wyprowadzić z bezokolicznika stosując powyższe zasady, zostanie to podane w słowniku. Kilka przykładów: _`pisati (piš-e)`_ „pisać”, _`htěti (hoč-e)`_ „chcieć”, _`spati (sp-i)`_ „spać”, _`zvati (zov-e)`_ „dzwonić”, _`brati (ber-e)`_ „brać (impf. )”, _`vzeti (vozm-e)`_ „wziąć (pf.)”.
+Wiele czasowników używa osobnego rdzenia w czasie teraźniejszym. W większości przypadków są to czasowniki mieszanych klas `a/j`, `a/i` i `ě/i` w języku słowiańskim. Aktywny użytkownik Interslavic będzie musiał nauczyć się obu form. Zauważy jednak, że w większości przypadków formowanie się tego drugiego korzenia odbywa się w przewidywalny sposób. Ilekroć tematu czasu teraźniejszego nie można wyprowadzić z bezokolicznika stosując powyższe zasady, zostanie to podane w słowniku. Kilka przykładów: _`pisati (piš-e)`_ „pisać”, _`htěti (hoč-e)`_ „chcieć”, _`spati (sp-i)`_ „spać”, _`zvati (zov-e)`_ „dzwonić”, _`brati (ber-e)`_ „brać (impf. )”, _`vzeti (vozm-e)`_ „wziąć (pf.)”.
 
 ### Czas teraźniejszy \{#present-tense}
 
@@ -97,12 +87,13 @@ Zamiast **-`u`/-`ju`** w pierwszej osobie liczby pojedynczej można również u�
 
 Języki zachodniosłowiańskie i południowosłowiańskie mają również trzecią koniugację, opartą na skróceniu sekwencji `-aje-`, co skutkuje końcówkami: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Uwagi:
 
 - Jeśli rdzeń kończy się na `k` lub `g`, staje się `č` lub `ž` przed `-e-`. Zatem: _`mog-eš`_ > :isv[možeš], _`pek-eš`_ > _`pečeš`_.
-- Jeżeli w drugiej koniugacji ostatnią spółgłoską rdzenia jest `s`, `z`, `t`, `d`, `st`  lub `zd`, łączy się ona z `j` w `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
+- Jeżeli w drugiej koniugacji ostatnią spółgłoską rdzenia jest `s`, `z`, `t`, `d`, `st` lub `zd`, łączy się ona z `j` w `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
 
 ### Czas przeszły \{#past-tense}
 
@@ -112,9 +103,10 @@ W trzeciej osobie zwykle pomija się formy `byti` (_`je, jest, sut`_), chociaż 
 
 System ten daje czas niedokonany w przypadku czasowników niedokonanych (:isv[ja jesm dělal] „robiłem, robiłem”), a czas dokonany w przypadku czasowników dokonanych (_`ja jesm sdělal`_ „zrobiłem”).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
-Imiesłów L jest zawsze tworzony regularnie z wyjątkiem jednego czasownika: `idti` „to go” ma `šel`, `šla`, `šlo`, `šli`  „udało się” (czasami pisane było `išel` itd.). Dotyczy to również jego związków: :isv[pojdti] > :isv[pošel], :isv[vojdti]  > _`všel`_ itd.
+Imiesłów L jest zawsze tworzony regularnie z wyjątkiem jednego czasownika: `idti` „to go” ma `šel`, `šla`, `šlo`, `šli` „udało się” (czasami pisane było `išel` itd.). Dotyczy to również jego związków: :isv[pojdti] > :isv[pošel], :isv[vojdti] > _`všel`_ itd.
 
 ### Dodatkowe czasy przeszłe \{#additional-past-tenses}
 
@@ -124,12 +116,13 @@ Słowo ostrzeżenia jest jednak na miejscu. Dla zdecydowanej większości Słowi
 
 **Czas przeszły prosty**
 
-__`simple past`_ oznacza czynność, która miała miejsce gdzieś w przeszłości. Pełni rolę czasu niedokonanego i powstaje poprzez dodanie do tematu bezokolicznika następujących końcówek:
+\__`simple past`_ oznacza czynność, która miała miejsce gdzieś w przeszłości. Pełni rolę czasu niedokonanego i powstaje poprzez dodanie do tematu bezokolicznika następujących końcówek:
 
 - Jeśli rdzeń kończy się na samogłoskę: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - Jeśli rdzeń kończy się na spółgłoskę: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Czas przeszły dokonany**
 
@@ -143,7 +136,8 @@ W końcu czas _zapełniony_ jest tworzony przez połączenie imiesłowu L z czas
 
 Czas przyszły powstaje przez połączenie czasu przyszłego czasownika `byti` „być” z bezokolicznikiem. Formy są takie same, jak gdyby czasownik z rdzeniem `bud-` był odmieniany w czasie teraźniejszym. Przykłady:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Należy raczej unikać używania czasu teraźniejszego czasownika dokonanego na przyszłość (jak to ma miejsce w językach zachodnio- i wschodniosłowiańskich), ponieważ Słowianie południowi mogą go łatwo źle zrozumieć.
 
@@ -151,7 +145,8 @@ Należy raczej unikać używania czasu teraźniejszego czasownika dokonanego na 
 
 Tryb warunkowy tworzymy za pomocą imiesłowu L z trybem warunkowym `byti` „być”: _`ja byh dělal(a)`_ „Zrobiłbym”.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 Czas przeszły warunkowy można utworzyć, wstawiając czasownik „być” w czasie pasty do normalnej formy warunkowej:
 
@@ -162,7 +157,8 @@ Czas przeszły warunkowy można utworzyć, wstawiając czasownik „być” w cz
 
 Tryb rozkazujący ma formy dla 2. osoby liczby pojedynczej, 1. osoby liczby mnogiej i 2. osoby liczby mnogiej: `dělaj` „do!” (do jednej osoby, nieformalnie), `dělajmo` „zróbmy!”, `dělajte` „zróbmy!” (do większej liczby osób lub do jednej osoby formalnej). Powstaje poprzez dodanie `-i` do tematu czasu teraźniejszego (`-j` po samogłosce, `-Ø` po `j`). Przykłady:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Intersłowiański nie ma imperatywów w trzeciej osobie. Gdy potrzebna jest taka forma, stosuje się partykułę optatywną `nehaj`: :isv[Nehaj umre!] „Niech zginie!” _`Nehaj žive dolgo!`_ „Niech żyje długo!”
 
@@ -188,7 +184,8 @@ Imiesłów czynny czasu teraźniejszego przysłówkowego (zwany także „transg
 Czasownik można bardzo łatwo zamienić na rzeczownik (_gerund, rzeczownik odsłowny_) poprzez zastąpienie końcówki `-ny` imiesłowu czasu przeszłego dokonanego przez `-nje` (lub `-ty` przez `tje`). Przykłady: :isv[dělanje] „(akt) robienia”, _`pitje`_ „picia”.
 Przykłady:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### Strona bierna \{#the-passive-voice}
 
@@ -198,7 +195,7 @@ Stronę bierną tworzy się przez połączenie formy czasownika `byti` „być�
 - :isv[ja byl neseny] ≈ _`ja byl nesomy`_ „Byłem niesiony, niesiony”
 - _`ja budu neseny`_ „Będę niesiony”
 - _`ja byh neseny`_ „Będę niósł
-- __`ja byl byh neseny`_ „Poniósłbym”
+- \__`ja byl byh neseny`_ „Poniósłbym”
 
 ---
 
@@ -208,13 +205,17 @@ Stronę bierną tworzy się przez połączenie formy czasownika `byti` „być�
 
 Jedynym prawdziwie nieregularnym czasownikiem jest `byti` „być”. Jest sprzężony w następujący sposób:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
 
 Czasowniki `dati` „dawać”, `jesti` „jeść” i `věděti` „wiedzieć” mają nieregularny czas teraźniejszy. Podobnie jak `byti` należą do tzw. _`athematic conjugation`_, co oznacza, że ​​ich rdzeń kończy się na samogłoskę. W czasie teraźniejszym są one odmieniane w następujący sposób:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 Wszystkie inne formy tych trzech czasowników powstają regularnie.
 
@@ -223,4 +224,3 @@ Wszystkie inne formy tych trzech czasowników powstają regularnie.
 Czasownik `idti` „iść” odmienia się regularnie, z wyjątkiem imiesłowu L `šel` (f. `šla`, rz. `šlo`) i (spokrewnionego) imiesłowu czynnego czasu przeszłego `šedši`. Czasami formy te poprzedzone są `i-`: _`išel, išla`_ itd.
 
 Bezokolicznik `idti` jest czasami zapisywany jako `iti`.
-

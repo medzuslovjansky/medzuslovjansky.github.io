@@ -5,15 +5,7 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.mdx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
+import { AlphabetOverview } from '@site/src/components';
 
 # Orthography
 
@@ -25,11 +17,13 @@ Since the border between Latin and Cyrillic runs straight through the middle of 
 
 The **Interslavic Latin alphabet** uses 27 letters: 23 letters from the base Latin alphabet (all except `q`, `w` and `x`) plus four consonants with a caron (`š`, `ž`, `č` and `ě`), as well as three digraphs (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 The **Interslavic Cyrillic alphabet** has 29 letters: all characters that the various Cyrillic orthographies have in common, with the addition of `є`, `ы`, `ј`, `љ`, `њ`, as well as one digraph (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Both orthographies are equal, and in published texts, it deserves recommendation to provide versions in both Latin and Cyrillic, so that they can be understood on both sides of the frontier.
 
@@ -74,7 +68,8 @@ The Cyrillic counterparts of `lj` and `nj` are `љ` and `њ`, taken from Serbian
 
 In addition to the standard Latin alphabet, Interslavic also contains a number of optional letters that refer specifically to Proto-Slavic/Old Church Slavonic phonemes that have diverged or disappeared in most modern languages:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - The vowels `ę` and `ų` match the nasal vowels `ѧ` and `ѫ` in Old Church Slavonic (little yus and big yus respectively, usually transliterated as `ę` and `ǫ`).
 - The vowel `å` occurs in the combinations `rå` and `lå` followed by a consonant, where Polish has **`ro`/`ró`** and **`ło`/`łó`** and East Slavic has **(`o`)`ro`** and **(`o`)`lo`**.
@@ -118,14 +113,7 @@ In the Latin alphabet, additional etymological information is conveyed by means 
 
 The following table shows the correspondences between the letters mentioned above (suggested alternative spellings are shown in grey between brackets). The [transliterator][5] makes it possible to transliterate between Latin and Cyrillic.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+<AlphabetOverview />
 
 ## Guidelines \{#guidelines}
 
@@ -141,11 +129,7 @@ To summarise, there are several possibilities for writing the same word. The gen
 - When addressing a members of a particular Slavic nation (for example, when you are travelling), you might consider [flavourising your Interslavic][4]. However, do not use flavorisation in multi-Slavic environments.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

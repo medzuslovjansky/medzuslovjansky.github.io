@@ -10,11 +10,6 @@ description: Gender, nouns, adjectives, verbs
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
-
 # Ниво 2
 
 Во [**Ниво 1**][1] научивте голем број на форми кои можете да ги користите за да бидете разбирливи за Словените на многу основно ниво. Овој јазик, сепак, е многу примитивен и воопшто не го задоволува богатството на словенските јазици. Значи, ако сте во висина на предизвикот, еве уште неколку алатки што можете да ги користите за да направите `Slovianto` да изгледа и да звучи многу поприродно.
@@ -125,17 +120,19 @@ _`morje`_ → _morja_ „мориња“
 
 ### Сегашно време
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 Во `Slovianto` ниво 1 научивте дека сегашното време се формира со додавање на завршетокот `-(e)t` на стеблото: _`ja děla-t`_ „I do“, _`vy prosi-t`_ „ти прашуваш“, _`oni nes-et`_ „тие носете“. За словенско уво, сепак, ова звучи неприродно, бидејќи сите словенски јазици ги флектираат своите глаголи за лице и број. За да оставите подобар впечаток, треба многу да се стекне со учење на некои од овие лични завршетоци.
 
-Значи, време е да го заборавиме крајот `-t`! Наместо тоа, запомнете ги следните завршетоци: `-m`, `-š`, `-Ø`  (без крај) во прво, второ и трето лице еднина, и `-mo`, `-te`, `-ut`  во прво, второ и трето лице множина. Кога стеблото ќе заврши на самогласка, внесете `-j-` пред крајот `-ut`. Кога стеблото ќе заврши на согласка, ставете `-e-` пред останатите завршетоци. Погледнете ја табелата десно за некои примери.
+Значи, време е да го заборавиме крајот `-t`! Наместо тоа, запомнете ги следните завршетоци: `-m`, `-š`, `-Ø` (без крај) во прво, второ и трето лице еднина, и `-mo`, `-te`, `-ut` во прво, второ и трето лице множина. Кога стеблото ќе заврши на самогласка, внесете `-j-` пред крајот `-ut`. Кога стеблото ќе заврши на согласка, ставете `-e-` пред останатите завршетоци. Погледнете ја табелата десно за некои примери.
 
 Завршувањето `-š` и личната заменка `ty` треба да се користат само за семејството, пријателите, децата итн. Во други случаи, обраќајте им се на луѓето во второ лице множина (`vy`, `-te`).
 
 ### Минато време
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 Во минато време, глаголите не се конјугирани за лице. Сепак, тие се конјугирани за пол. Ова може да изгледа чудно, но објаснувањето е прилично едноставно: формата _`dělal`_ е всушност партицип, што значи нешто како „направив“, и затоа се согласува со темата по пол и број, но не лично. Формите се оние прикажани во табелата десно.
 
@@ -149,15 +146,17 @@ _`morje`_ → _morja_ „мориња“
 
 ### Императив
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Освен заповедната форма која веќе ја научивте (второ лице множина), има и заповедни форми за второ лице еднина и 1 лице множина. Завршувањата се `-j` (2 сг.), `-jmo` (1 мн.) и `-jte` (2 стр.) по самогласка, и `-i` (2 сг.), `-imo` (1 мн. ) и `-ite` (2 мн.) по согласка. Така, :isv[dělajte] значи „направи!“ и може да се насочи кон повеќе луѓе одеднаш, но и да служи како поучтива единствена форма, додека :isv[dělaj] треба да се користи само за пријателите, семејството и децата. _`Dělajmo`_ значи: „Ајде да направиме“.
 
 ### Глаголот „да се биде“
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
-Бидејќи сето горенаведено влијае и на единствениот неправилен глагол во `Slovianto`, `byti`  „да се биде“, еве ја неговата целосна конјугација.
+Бидејќи сето горенаведено влијае и на единствениот неправилен глагол во `Slovianto`, `byti` „да се биде“, еве ја неговата целосна конјугација.
 
 ---
 
@@ -170,14 +169,14 @@ Iz vse možlive města, kde žijut ljudi, ja naj-mnogo ljubim male selo, daleko 
 
 Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaji, sobrati se i byti prijatelji s te vse jedinstvene ljudi okolo nas! Tako, že my budemo znati vse zakutki i povrati od tenke ulici i solnečne luki, ktore my prohodimo vsaki denj. Mala socialna grupa, ktora jest selska společnost, jest to, za čto poezija i proza blagodarijut naj-mnogo. Dolga, raztegnjena draga, ktora bludi se v mily, teply denj i prěhodi črěz velika, široka draga, polna od avta i tiri. Vy hočete putovati s mene, dragi čitatelj? Put ne bude dolgy. My načinamo na dolina konec i odtudy my budemo pohoditi v vrh.
 :::
-  </TabItem>
+</TabItem>
 
   <TabItem value="our-village" label="Our village">
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 
 [1]: level-1.md
-

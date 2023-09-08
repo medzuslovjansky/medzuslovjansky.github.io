@@ -6,15 +6,7 @@ original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.mdx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
+import { AlphabetOverview } from '@site/src/components';
 
 # Арфаграфія
 
@@ -26,11 +18,13 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 
 **Міжславянскі лацінскі алфавіт** выкарыстоўвае 27 літар: 23 літары базавага лацінскага алфавіта (усе, акрамя `q`, `w` і `x`) плюс чатыры зычныя з знак (`š`, `ž`, `č` і `ě`), а таксама тры дыграфы (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 **Міжславянскі кірылічны алфавіт** мае 29 літар: усе сімвалы, агульныя для розных кірылічных арфаграфій, з даданнем `є`, `ы`, `ј` , `љ`, `њ`, а таксама адзін дыграф (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Абодва правапісы роўныя, і ў апублікаваных тэкстах варта рэкамендаваць даваць версіі як лацінкай, так і кірыліцай, каб яны былі зразумелыя па абодва бакі мяжы.
 
@@ -75,7 +69,8 @@ Interslavic выкарыстоўвае літару `ј` з сербскай і 
 
 У дадатак да стандартнага лацінскага альфабэту міжславянская мова таксама ўтрымлівае шэраг неабавязковых літар, якія адносяцца менавіта да праславянскіх/стараславянскіх фанэмаў, якія разышліся або зьніклі ў большасьці сучасных моваў:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Галосныя `ę` і `ų` супадаюць з насавымі галоснымі `ѧ` і `ѫ` у стараславянскай (звычайна маленькі юс і вялікі юс адпаведна транслітаруецца як `ę` і `ǫ`).
 - Галосная `å` сустракаецца ў спалучэннях `rå` і `lå`, за якімі ідзе зычная, дзе ў польскай мове ёсць **`ro`/`ró`** і **`ło`/`łó`** і ва ўсходнеславянскіх **(`o`)`ro`** і **(`o`)`lo`**.
@@ -119,14 +114,7 @@ Interslavic выкарыстоўвае літару `ј` з сербскай і 
 
 Наступная табліца паказвае адпаведнасць паміж названымі вышэй літарамі (прапанаваныя варыянты напісання паказаны шэрым колерам у дужках). [Транслітаратор][5] дазваляе транслітараваць паміж лацінкай і кірыліцай.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+<AlphabetOverview />
 
 ## Рэкамендацыі \{#guidelines}
 
@@ -142,11 +130,7 @@ Interslavic выкарыстоўвае літару `ј` з сербскай і 
 - Звяртаючыся да прадстаўнікоў пэўнай славянскай нацыі (напрыклад, калі вы падарожнічаеце), вы можаце падумаць пра тое, каб [прыкарыстаць свой міжславянскі][4]. Аднак не выкарыстоўвайце араматызацыю ў поліславянскай асяроддзі.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

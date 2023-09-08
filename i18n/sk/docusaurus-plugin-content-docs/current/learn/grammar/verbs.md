@@ -6,17 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Slovesá
 
 ## Dokonalý a nedokonalý aspekt \{#perfective-and-imperfective-aspect}
@@ -40,13 +29,14 @@ Niekedy sú páry aspektov nepravidelné, napríklad :isv[nazyvati] (impf.)/:isv
 
 Osobitnou kategóriou slovies z hľadiska aspektov sú slovesá pohybu. Na rozdiel od iných slovies väčšinou rozlišujú trojstranne: nesmerové nedokonavé, smerové nedokonavé, dokonavé. Prvý z nich vyjadruje pohyb bez akéhokoľvek konkrétneho smeru, a preto nemá vlastný dokonalý ekvivalent. Napríklad:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 Napríklad: :isv[Igor jezdil po Moskvě] „Igor išiel po Moskve“. :isv[Igor jehal do Moskvy] „Igor šoféroval do Moskvy“. :isv[Igor pojehal do Moskvy] „Igor odišiel do Moskvy“.
 
 Keď má nesmerové sloveso pohybu aj tak smer, vyjadruje to zvyk: :isv[Igor jezdil do Moskvy] „Igor \[vždy|často] chodil do Moskvy“.
 
-Okrem :isv[hoditi], :isv[idti]  a :isv[pojdti] existuje aj slovo :isv[pohoditi], ktoré môže vyjadrovať „trochu kráčať“, ale aj „kráčať viacerými smermi“.
+Okrem :isv[hoditi], :isv[idti] a :isv[pojdti] existuje aj slovo :isv[pohoditi], ktoré môže vyjadrovať „trochu kráčať“, ale aj „kráčať viacerými smermi“.
 
 V zlúčeninách s predponou sa nesmerový tvar používa pre nedokonavé sloveso, smerový tvar pre teba dokonavé sloveso:
 :isv[odhoditi] (impf.)/:isv[oditi] (pf.) „odísť“
@@ -72,7 +62,7 @@ V slovníku sa slovesá uvádzajú vždy v infinitíve. Všetky infinitívy maj�
 
 _infinitívny kmeň_ vzniká odstránením koncovky `-ti` a slúži ako východiskový bod pre minulé časy, podmieňovací spôsob, minulé príčastia a slovesné podstatné meno.
 
-Infinitív je takmer vždy pravidelný, takže koncovka `-ti` nemení infinitívny kmeň. To je aj prípad slovies ako :isv[mogti] „can“, :isv[pekti] „piecť“, :isv[běgti] „bežať“ atď. (namiesto očakávaných, ale menej transparentných :isv[moči], :isv[peči]  a :isv[běči]). Jedinou výnimkou sú slovesá na `-sti`: vo väčšine prípadov sa ich infinitívne kmene končia na `d`, niekedy aj `t` alebo `s`. Napríklad :isv[klasti] „položiť, položiť“, :isv[pasti] „spadnúť“ a :isv[gnesti] „rozdrviť“ majú stonky _`klad-`_, _`pad-`_ a _`gnet-`_. Aby sa tieto prípady odlíšili od :isv[nesti] (kmeň: _`nes-`_) a podobne, sú v slovníku zastúpené takto: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
+Infinitív je takmer vždy pravidelný, takže koncovka `-ti` nemení infinitívny kmeň. To je aj prípad slovies ako :isv[mogti] „can“, :isv[pekti] „piecť“, :isv[běgti] „bežať“ atď. (namiesto očakávaných, ale menej transparentných :isv[moči], :isv[peči] a :isv[běči]). Jedinou výnimkou sú slovesá na `-sti`: vo väčšine prípadov sa ich infinitívne kmene končia na `d`, niekedy aj `t` alebo `s`. Napríklad :isv[klasti] „položiť, položiť“, :isv[pasti] „spadnúť“ a :isv[gnesti] „rozdrviť“ majú stonky _`klad-`_, _`pad-`_ a _`gnet-`_. Aby sa tieto prípady odlíšili od :isv[nesti] (kmeň: _`nes-`_) a podobne, sú v slovníku zastúpené takto: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
 
 _Kmeň prítomného času_ (používaný pre prítomný čas, rozkazovací spôsob a prítomné príčastia) možno zvyčajne odvodiť od infinitívneho kmeňa. Medzi prvou a druhou konjugáciou je rozdiel:
 
@@ -84,7 +74,7 @@ _Kmeň prítomného času_ (používaný pre prítomný čas, rozkazovací spôs
 - Druhá konjugácia:
   - slovesá na `-iti` a väčšina slovies na `-ěti` má kmeň prítomného času `-i-`: _`hvaliti > hval-i-`_ „chváliť“, _`viděti > vid-i-`_ „vidieť“
 
-Mnoho slovies používa samostatný koreň v prítomnom čase. Vo väčšine prípadov ide o slovesá zmiešaných tried `a/j`, `a/i`  a `ě/i` v slovanskom jazyku. Aktívny používateľ interslovančiny sa bude musieť naučiť obe formy. Všimne si však, že vo väčšine prípadov sa vytvorenie tohto druhého koreňa deje predvídateľným spôsobom. Kedykoľvek sa kmeň prítomného času nedá odvodiť z infinitívu použitím vyššie uvedených pravidiel, uvedie sa v slovníku. Niekoľko príkladov: _`pisati (piš-e)`_ „písať“, _`htěti (hoč-e)`_ „chceť“, _`spati (sp-i)`_ „spať“, _`zvati (zov-e)`_ „zavolať“, _`brati (ber-e)`_ „vziať (impf. )“, _`vzeti (vozm-e)`_ „vziať (pf.)“.
+Mnoho slovies používa samostatný koreň v prítomnom čase. Vo väčšine prípadov ide o slovesá zmiešaných tried `a/j`, `a/i` a `ě/i` v slovanskom jazyku. Aktívny používateľ interslovančiny sa bude musieť naučiť obe formy. Všimne si však, že vo väčšine prípadov sa vytvorenie tohto druhého koreňa deje predvídateľným spôsobom. Kedykoľvek sa kmeň prítomného času nedá odvodiť z infinitívu použitím vyššie uvedených pravidiel, uvedie sa v slovníku. Niekoľko príkladov: _`pisati (piš-e)`_ „písať“, _`htěti (hoč-e)`_ „chceť“, _`spati (sp-i)`_ „spať“, _`zvati (zov-e)`_ „zavolať“, _`brati (ber-e)`_ „vziať (impf. )“, _`vzeti (vozm-e)`_ „vziať (pf.)“.
 
 ### Prítomný čas \{#present-tense}
 
@@ -97,12 +87,13 @@ Namiesto **-`u`/-`ju`** v prvej osobe jednotného čísla možno použiť aj **-
 
 Západoslovanské a juhoslovanské jazyky majú aj tretiu konjugáciu, založenú na kontrakcii `-aje-` sekvencií, výsledkom čoho sú koncovky: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Poznámky:
 
 - Ak kmeň končí na `k` alebo `g`, stane sa `č` alebo `ž` pred `-e-`. Teda: _`mog-eš`_ > :isv[možeš], _`pek-eš`_ > _`pečeš`_.
-- Ak je v druhej konjugácii koncová spoluhláska kmeňa `s`, `z`, `t`, `d`, `st`  alebo `zd`, zlúči sa s `j` do `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
+- Ak je v druhej konjugácii koncová spoluhláska kmeňa `s`, `z`, `t`, `d`, `st` alebo `zd`, zlúči sa s `j` do `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
 
 ### Minulý čas \{#past-tense}
 
@@ -112,9 +103,10 @@ V tretej osobe sa tvary `byti` (_`je, jest, sut`_) zvyčajne vynechávajú, hoci
 
 Tento systém dáva nedokonavý čas pri použití na nedokonavé slovesá (:isv[ja jesm dělal] „urobil som, robil som“) a dokonalý čas pri použití na dokonavé slovesá (_`ja jesm sdělal`_ „urobil som“).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
-L-príčastie sa tvorí vždy pravidelne okrem jedného slovesa: `idti` „ísť“ má `šel`, `šla`, `šlo`, `šli`  „šiel“ (niekedy sa píše `išel` atď.). To platí aj pre jeho zlúčeniny: :isv[pojdti] > :isv[pošel], :isv[vojdti]  > _`všel`_ atď.
+L-príčastie sa tvorí vždy pravidelne okrem jedného slovesa: `idti` „ísť“ má `šel`, `šla`, `šlo`, `šli` „šiel“ (niekedy sa píše `išel` atď.). To platí aj pre jeho zlúčeniny: :isv[pojdti] > :isv[pošel], :isv[vojdti] > _`všel`_ atď.
 
 ### Ďalšie minulé časy \{#additional-past-tenses}
 
@@ -129,7 +121,8 @@ _`simple past`_ označuje akciu, ktorá sa odohrala niekde v minulosti. Plní ú
 - Ak sa kmeň končí na samohlásku: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - Ak sa kmeň končí na spoluhlásku: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Predprítomný čas**
 
@@ -143,7 +136,8 @@ Nakoniec sa _pluperfektný čas_ vytvorí spojením L-častice s minulým (jedno
 
 Budúci čas vzniká spojením budúceho času slovesa `byti` „byť“ s infinitívom. Tvary sú rovnaké, ako keby sloveso s kmeňom `bud-` bolo konjugované v prítomnom čase. Príklady:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Používaniu prítomného času dokonavého slovesa pre budúcnosť (ako sa to robí v západnej a východnej slovančine) sa radšej vyvarujte, pretože južní Slovania ho môžu ľahko nepochopiť.
 
@@ -151,7 +145,8 @@ Používaniu prítomného času dokonavého slovesa pre budúcnosť (ako sa to r
 
 Podmieňovací spôsob sa tvorí použitím L-príčastia s podmienkovým znakom `byti` „byť“: _`ja byh dělal(a)`_ „urobil by som“.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 Minulý podmienkový stav možno vytvoriť vložením pastového času slovesa „byť“ do normálneho podmienkového tvaru:
 
@@ -162,7 +157,8 @@ Minulý podmienkový stav možno vytvoriť vložením pastového času slovesa �
 
 Rozkazovací spôsob má tvary pre 2. osobu jednotného čísla, 1. osobu množného čísla a 2. osobu množného čísla: `dělaj` „rob!“ (jednej osobe, neformálne), `dělajmo` „urobme!“, `dělajte` „urobme!“ (viacerým osobám, alebo jednej osobe formálne). Vzniká pridaním `-i` ku kmeňu prítomného času (`-j` po samohláske, `-Ø` po `j`). Príklady:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Interslovančina nemá žiadne imperatívy v tretej osobe. Keď je takýto tvar potrebný, použije sa optatívna častica `nehaj`: :isv[Nehaj umre!] „Nechaj ho zomrieť!“ _`Nehaj žive dolgo!`_ "Nech žije dlho!"
 
@@ -188,7 +184,8 @@ Príslovkové prítomné činné príčastie (známe aj ako „prestupník“) m
 Sloveso možno veľmi jednoducho premeniť na podstatné meno (_gerundium, slovesné podstatné meno_) nahradením koncovky `-ny` dokonalého minulého príčastia za `-nje` (alebo `-ty` za `tje`). Príklady: :isv[dělanje] „činenie“, _`pitje`_ „pitie“.
 Príklady:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### Pasívny hlas \{#the-passive-voice}
 
@@ -208,13 +205,17 @@ Trpný rod vzniká spojením tvaru slovesa `byti` „byť“ s trpným príčast
 
 Jediné skutočne nepravidelné sloveso je `byti` „byť“. Konjuguje sa takto:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
 
 Slovesá `dati` „dať“, `jesti` „jesť“ a `věděti` „vedieť“ majú nepravidelný prítomný čas. Podobne ako `byti` patria medzi takzvané _`athematic conjugation`_, čo znamená, že ich koreň sa končí na samohlásku. V prítomnom čase sa skloňujú takto:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 Všetky ostatné tvary týchto troch slovies sa tvoria pravidelne.
 
@@ -223,4 +224,3 @@ Všetky ostatné tvary týchto troch slovies sa tvoria pravidelne.
 Sloveso `idti` „ísť“ sa konjuguje pravidelne, okrem L-príčastia `šel` (d. `šla`, č. `šlo`) a (príbuzného) minulého aktívneho príčastia `šedši`. Niekedy sa pred týmito tvarmi uvádza `i-`: _`išel, išla`_ atď.
 
 Infinitív `idti` sa niekedy píše `iti`.
-

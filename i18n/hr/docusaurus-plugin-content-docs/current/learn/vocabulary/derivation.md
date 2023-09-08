@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-import Souns from '@site/src/markdown/common-slavic-sounds.mdx';
-
 # Derivacija riječi
 
 ## Praslavenski \{#proto-slavic}
@@ -12,7 +10,8 @@ Riječi se temelje na živim slavenskim jezicima, a kada se potonji međusobno n
 
 Sljedeća tablica pokazuje kako se s različitim zajedničkoslavenskim glasovima i sekvencama postupa u međuslavenskom. Imajte na umu da je u nekim slučajevima moguće razlikovati sjevernoslavensku od južnoslavenske inačice (vidi [aromatizacija][2]).
 
-<Souns />
+:::component{name=MDDerivation}
+:::
 
 ## Međunarodni vokabular \{#international-vocabulary}
 
@@ -49,9 +48,7 @@ Osim toga, završeci su na predvidljiv način prilagođeni onome što je najče�
 - Engleski pridjevi u _`-ive`_ (latinski _`-ivus`_) imaju završetak `-ivny`: _`pozitivny`_.
 - Engleski pridjevi u _`-ous`_ (latinski _`-osus`_) imaju završetak `-ozny`: _`seriozny`_.
 
-Problematičnije su riječi posuđenice iz engleskog. Kod pisanja latiničnim pismom možemo zadržati izvorni način pisanja (_bypass_, _nokaut_, _jazz_, _tinejdžer_). Međutim, mnogi su tekstovi na međuslavenskom pisani ćirilicom ili u oba pravopisa paralelno, često uz pomoć programa za transliteraciju, te naravno treba izbjegavati pisanje _bypass_ ili _knockout_ ćirilicom! U većini slučajeva radije bismo primijenili fonetski pristup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol],  _`koktejl`_ itd.
+Problematičnije su riječi posuđenice iz engleskog. Kod pisanja latiničnim pismom možemo zadržati izvorni način pisanja (_bypass_, _nokaut_, _jazz_, _tinejdžer_). Međutim, mnogi su tekstovi na međuslavenskom pisani ćirilicom ili u oba pravopisa paralelno, često uz pomoć programa za transliteraciju, te naravno treba izbjegavati pisanje _bypass_ ili _knockout_ ćirilicom! U većini slučajeva radije bismo primijenili fonetski pristup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
 [1]: ../introduction/design-criteria.md#vocabulary
-
 [2]: flavourisation.md
-

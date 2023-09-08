@@ -54,6 +54,9 @@ import MDPersonalPronouns5 from "@site/src/markdown/personalPronouns/firstPersPl
 import MDPersonalPronouns6 from "@site/src/markdown/personalPronouns/secondPersPlural";
 import MDPersonalPronouns7 from "@site/src/markdown/personalPronouns/thirdPersPlural";
 import MDNumbers1 from "@site/src/markdown/numbers-1-10/numbers";
+import MDOrthography1 from "@site/src/markdown/orthography/latin-alphabet.mdx";
+import MDOrthography2 from "@site/src/markdown/orthography/cyrillic-alphabet.mdx";
+import MDOrthography3 from "@site/src/markdown/orthography/disappeared-phonemes.mdx";
 
 export default {
   ...MDXComponents,
@@ -109,4 +112,7 @@ export default {
   MDPersonalPronouns6,
   MDPersonalPronouns7,
   MDNumbers1,
+  MDOrthography1,
+  MDOrthography2,
+  MDOrthography3,
 };

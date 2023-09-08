@@ -6,17 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Glagoli
 
 ## Dovršni in nedovršni vidik \{#perfective-and-imperfective-aspect}
@@ -40,13 +29,14 @@ Včasih so pari vidikov nepravilni, na primer :isv[nazyvati] (impf.)/:isv[nazvat
 
 Posebna kategorija glagolov glede na vidike so glagoli gibanja. Za razliko od drugih glagolov običajno ločijo trosmerno: nesmerni nedovršnik, smerni nedovršnik, dovršnik. Prvi od njih izraža gibanje brez določene smeri in zato nima svojega popolnega ekvivalenta. Na primer:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 Na primer: :isv[Igor jezdil po Moskvě] „Igor se je vozil po Moskvi”. :isv[Igor jehal do Moskvy] „Igor se je vozil do Moskve”. :isv[Igor pojehal do Moskvy] „Igor je odšel v Moskvo”.
 
 Kadar ima nesmerni glagol gibanja smer tako ali tako, to izraža navado: :isv[Igor jezdil do Moskvy] „Igor \[vedno|pogosto] je hodil v Moskvo”.
 
-Razen za :isv[hoditi], :isv[idti]  in :isv[pojdti] obstaja tudi beseda :isv[pohoditi], ki lahko izraža »malo hoditi«, pa tudi »hoditi v več smeri«.
+Razen za :isv[hoditi], :isv[idti] in :isv[pojdti] obstaja tudi beseda :isv[pohoditi], ki lahko izraža »malo hoditi«, pa tudi »hoditi v več smeri«.
 
 V zloženkah s predpono se za nedovršni glagol uporablja nesmerna oblika, za tebe pa smerna oblika:
 :isv[odhoditi] (impf.)/:isv[oditi] (pf.) „oditi”
@@ -72,7 +62,7 @@ V slovarju so glagoli vedno navedeni v nedoločniku. Vsi nedoločniki imajo kon�
 
 _Nedoločniško deblo_ nastane z odstranitvijo končnice `-ti` in služi kot izhodišče za pretekle čase, pogojnik, pretekle deležnike in glagolski samostalnik.
 
-Nedoločniki so skoraj vedno pravilni, tako da končnica `-ti` ne spremeni nedoločniškega debla. To velja tudi za glagole, kot so :isv[mogti] „lahko”, :isv[pekti] „peči”, :isv[běgti] „teči” itd. (namesto pričakovanih, a manj preglednih :isv[moči], :isv[peči]  in :isv[běči]). Edina izjema so glagoli na `-sti`: v večini primerov se njihovo nedoločniško deblo konča na `d`, včasih tudi na `t` ali `s`. Na primer :isv[klasti] „položiti, postaviti”, :isv[pasti] „pasti” in :isv[gnesti] „zdrobiti” imajo debla _`klad-`_, _`pad-`_ in _`gnet-`_. Da bi te primere razlikovali od :isv[nesti] (deblo: _`nes-`_) in podobnih, so v slovarju predstavljeni na naslednji način: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
+Nedoločniki so skoraj vedno pravilni, tako da končnica `-ti` ne spremeni nedoločniškega debla. To velja tudi za glagole, kot so :isv[mogti] „lahko”, :isv[pekti] „peči”, :isv[běgti] „teči” itd. (namesto pričakovanih, a manj preglednih :isv[moči], :isv[peči] in :isv[běči]). Edina izjema so glagoli na `-sti`: v večini primerov se njihovo nedoločniško deblo konča na `d`, včasih tudi na `t` ali `s`. Na primer :isv[klasti] „položiti, postaviti”, :isv[pasti] „pasti” in :isv[gnesti] „zdrobiti” imajo debla _`klad-`_, _`pad-`_ in _`gnet-`_. Da bi te primere razlikovali od :isv[nesti] (deblo: _`nes-`_) in podobnih, so v slovarju predstavljeni na naslednji način: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
 
 Običajno lahko _sedanjikovo deblo_ (uporablja se za sedanjik, velelnik in sedanjikove deležnike) redno izhaja iz nedoločnika. Med prvo in drugo konjugacijo je razlika:
 
@@ -84,7 +74,7 @@ Običajno lahko _sedanjikovo deblo_ (uporablja se za sedanjik, velelnik in sedan
 - Druga konjugacija:
   - glagoli na `-iti` in večina glagolov na `-ěti` imajo sedanjikovo deblo `-i-`: _`hvaliti > hval-i-`_ „hvaliti”, _`viděti > vid-i-`_ „videti”
 
-Številni glagoli uporabljajo ločen koren v sedanjiku. V večini primerov so to glagoli mešanih razredov `a/j`, `a/i`  in `ě/i` v slovanščini. Aktiven uporabnik medslovanščine se bo moral naučiti obeh oblik. Opazil pa bo, da se v večini primerov nastanek te druge korenine zgodi na predvidljiv način. Če sedanjikovega debla ni mogoče izpeljati iz nedoločnika z uporabo zgornjih pravil, bo to navedeno v slovarju. Nekaj ​​primerov: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „želeti”, _`spati (sp-i)`_ „spati”, _`zvati (zov-e)`_ „klicati”, _`brati (ber-e)`_ „vzeti (impf. )”, _`vzeti (vozm-e)`_ „vzeti (pf.)”.
+Številni glagoli uporabljajo ločen koren v sedanjiku. V večini primerov so to glagoli mešanih razredov `a/j`, `a/i` in `ě/i` v slovanščini. Aktiven uporabnik medslovanščine se bo moral naučiti obeh oblik. Opazil pa bo, da se v večini primerov nastanek te druge korenine zgodi na predvidljiv način. Če sedanjikovega debla ni mogoče izpeljati iz nedoločnika z uporabo zgornjih pravil, bo to navedeno v slovarju. Nekaj ​​primerov: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „želeti”, _`spati (sp-i)`_ „spati”, _`zvati (zov-e)`_ „klicati”, _`brati (ber-e)`_ „vzeti (impf. )”, _`vzeti (vozm-e)`_ „vzeti (pf.)”.
 
 ### Sedanjik \{#present-tense}
 
@@ -97,12 +87,13 @@ Namesto **-`u`/-`ju`** v prvi osebi ednine se lahko uporablja tudi **-`em`/-`im`
 
 Zahodni in južnoslovanski jeziki imajo tudi tretjo konjugacijo, ki temelji na krčenju zaporedij `-aje-`, kar ima za posledico končnice: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Opombe:
 
 - Če se koren konča na `k` ali `g`, postane `č` ali `ž` pred `-e-`. Tako: _`mog-eš`_ > :isv[možeš], _`pek-eš`_ > _`pečeš`_.
-- Če je v drugi spregatvi končni soglasnik debla `s`, `z`, `t`, `d`, `st`  ali `zd`, se zlije z `j` v `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
+- Če je v drugi spregatvi končni soglasnik debla `s`, `z`, `t`, `d`, `st` ali `zd`, se zlije z `j` v `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
 
 ### Pretekli čas \{#past-tense}
 
@@ -112,9 +103,10 @@ V tretji osebi so oblike `byti` (_`je, jest, sut`_) običajno izpuščene, čepr
 
 Ta sistem daje nedovršni čas, ko se uporablja za nedovršne glagole (:isv[ja jesm dělal] „I did, I was doing”), in dovršni čas, kadar se uporablja za dovršne glagole (_`ja jesm sdělal`_ „I have done”).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
-Deležnik L je vedno tvorjen pravilno, razen pri enem glagolu: `idti` „iti” ima `šel`, `šla`, `šlo`, `šli`  „šel” (včasih je bilo zapisano `išel` itd.). To velja tudi za njegove spojine: :isv[pojdti] > :isv[pošel], :isv[vojdti]  > _`všel`_ itd.
+Deležnik L je vedno tvorjen pravilno, razen pri enem glagolu: `idti` „iti” ima `šel`, `šla`, `šlo`, `šli` „šel” (včasih je bilo zapisano `išel` itd.). To velja tudi za njegove spojine: :isv[pojdti] > :isv[pošel], :isv[vojdti] > _`všel`_ itd.
 
 ### Dodatni pretekli časi \{#additional-past-tenses}
 
@@ -129,7 +121,8 @@ _`simple past`_ označuje dejanje, ki se je zgodilo nekje v preteklosti. Izpolnj
 - Če se koren konča na samoglasnik: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - Če se deblo konča na soglasnik: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Popoln čas**
 
@@ -143,7 +136,8 @@ Končno se _pluperfect tense_ oblikuje s kombinacijo L-delca s preteklim (prepro
 
 Prihodnjik se tvori z združitvijo prihodnjika glagola `byti` „biti” z nedoločnikom. Oblike so enake, kot če bi glagol z deblom `bud-` spregali v sedanjiku. Primeri:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Uporabi sedanjika dovršnega glagola za prihodnjik (kot je storjeno v zahodni in vzhodni slovanščini) se raje izogibajmo, saj jo Južni Slovani zlahka napačno razumejo.
 
@@ -151,7 +145,8 @@ Uporabi sedanjika dovršnega glagola za prihodnjik (kot je storjeno v zahodni in
 
 Pogojnik se oblikuje z uporabo L-delnika s pogojnikom `byti` „biti”: _`ja byh dělal(a)`_ „Bi naredil”.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 Pretekli pogojnik se lahko oblikuje tako, da se vstavi glagol "biti" v običajno pogojno obliko:
 
@@ -162,7 +157,8 @@ Pretekli pogojnik se lahko oblikuje tako, da se vstavi glagol "biti" v običajno
 
 Velilnik ima oblike za 2. osebo ednine, 1. osebo množine in 2. osebo množine: `dělaj` „stori!“ (za eno osebo, neformalno), `dělajmo` „naredimo!”, `dělajte` „naredi!” (na več oseb ali na eno osebo formalno). Nastane tako, da sedanjikovemu deblu doda `-i` (`-j` za samoglasnikom, `-Ø` za `j`). Primeri:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Medslovanščina nima imperativa v tretji osebi. Kadar je potrebna taka oblika, se uporabi optativ `nehaj`: :isv[Nehaj umre!] »Naj umre!« _`Nehaj žive dolgo!`_ "Naj še dolgo živi!"
 
@@ -188,7 +184,8 @@ Prislovni sedanjik (znan tudi kot »prestopniški«) ima enako končnico, vendar
 Glagol lahko zelo preprosto pretvorite v samostalnik (_gerund, verbalni samostalnik_) tako, da zamenjate končnico `-ny` dovršnega preteklika z `-nje` (ali `-ty` z `tje`). Primeri: :isv[dělanje] „(dejanje) početja”, _`pitje`_ „pitje”.
 Primeri:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### Pasiv \{#the-passive-voice}
 
@@ -208,13 +205,17 @@ Trpni glas je ustvarjen z združitvijo oblike glagola `byti` „biti” s trpnim
 
 Edini zares nepravilni glagol je `byti` "biti". Konjugiran je na naslednji način:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
 
 Glagoli `dati` „dati”, `jesti` „jesti” in `věděti` „vedeti” imajo nepravilen sedanjik. Tako kot `byti` spadajo v tako imenovani _`athematic conjugation`_, kar pomeni, da se njihov koren konča na samoglasnik. V sedanjiku se sklanjajo takole:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 Vse druge oblike teh treh glagolov so pravilno tvorjene.
 
@@ -223,4 +224,3 @@ Vse druge oblike teh treh glagolov so pravilno tvorjene.
 Glagol `idti` „iti” se sprega redno, razen L-deležnika `šel` (f. `šla`, n. `šlo`) in (sorodnega) preteklega aktivnega deležnika `šedši`. Včasih je pred temi oblikami `i-`: _`išel, išla`_ itd.
 
 Infinitiv `idti` se včasih piše `iti`.
-
