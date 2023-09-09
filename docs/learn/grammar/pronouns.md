@@ -16,11 +16,6 @@ The forms between brackets are clitic forms, i.e. they are weaker and always uns
 :::component{name=MDPronouns1}
 :::
 
----
-
-:::component{name=MDPronouns1}
-:::
-
 Notes:
 
 1. After a preposition, all pronouns of the third person are preceded by `n-`: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
