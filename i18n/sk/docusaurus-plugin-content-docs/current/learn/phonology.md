@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Fonológia
 
 ## Inventár foném \{#phoneme-inventory}
@@ -39,9 +35,10 @@ Základná interslovančina má 7 samohláskových foném, z ktorých päť (`a`
 
 Okrem toho existuje 5 voliteľných samohlások (`å` `ė` `ę` `ȯ` `ų`), ktorých výslovnosť sa môže líšiť.
 Diakritické znamienka sa zvyčajne nepíšu.
-V ochutených verziách interslovančiny sa však `å` môže písať a vyslovovať ako `o`, `ę`  ako `ja`, `ȯ`  ako `e` a `y` ako `i`.
+V ochutených verziách interslovančiny sa však `å` môže písať a vyslovovať ako `o`, `ę` ako `ja`, `ȯ` ako `e` a `y` ako `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Medzislovančina má aj slabičné `r` a `ŕ` (druhé patriace do nepovinnej množiny).
 To je prípad, keď pred ním nasleduje spoluhláska a _nie_ nasleduje samohláska.
@@ -51,29 +48,30 @@ Vyslovuje sa so schwa pred ním: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjərt
 
 Existuje 23 základných spoluhlások (vrátane 3 afrikátov a 2 palatalizovaných alveolárov) s viac-menej pevnou výslovnosťou, ako aj 7 voliteľných spoluhlások s premenlivou výslovnosťou:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Tvrdé a mäkké spoluhlásky \{#hard-and-soft-consonants}
 
 Rovnako ako všetky slovanské jazyky, aj medzislovančina rozlišuje medzi _tvrdými_ a _mäkkými_ spoluhláskami:
 
-- Tvrdé spoluhlásky sú: labiály `p` `b` `f` `v` `m`,  tvrdé zubné/alveolárne `t` `d` `s` `z` `n` `r` `l`,  a veláry `k` `g` `h`.
-- Mäkké spoluhlásky sú: postalveoláre `š` `ž` `č` `dž`,  mäkké zubné/alveolárne `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`,  a palatinálne aproximanty `j`.
-- Afrikát `c` :ipa[t͡s]  sa vyslovuje tvrdo, ale v gramatike sa správa ako mäkká spoluhláska. Jeho znený náprotivok :ipa[d͡z] sa v medzislovančine nevyskytuje.
+- Tvrdé spoluhlásky sú: labiály `p` `b` `f` `v` `m`, tvrdé zubné/alveolárne `t` `d` `s` `z` `n` `r` `l`, a veláry `k` `g` `h`.
+- Mäkké spoluhlásky sú: postalveoláre `š` `ž` `č` `dž`, mäkké zubné/alveolárne `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`, a palatinálne aproximanty `j`.
+- Afrikát `c` :ipa[t͡s] sa vyslovuje tvrdo, ale v gramatike sa správa ako mäkká spoluhláska. Jeho znený náprotivok :ipa[d͡z] sa v medzislovančine nevyskytuje.
 
 Zmäkčenie je proces pridávania :ipa[ʲ] k spoluhláske, čo vedie k palatínovejšej výslovnosti.
 Počet mäkkých ekvivalentov tvrdých spoluhlások v inventári foném sa v jednotlivých jazykoch značne líši.
-V medzislovančine sú povinné iba `lj` a `nj`, etymologická abeceda má tiež `t́` `d́` `ś` `ź` `ŕ`  (normálne sa píše `t` `d` `s` `z` `r`): ostrý prízvuk nahrádza cyriliku `ь`, ktorá sa dnes používa ako zmäkčovač, ale bývala samohláska za starých čias: ultrakrátka `ĭ`.
+V medzislovančine sú povinné iba `lj` a `nj`, etymologická abeceda má tiež `t́` `d́` `ś` `ź` `ŕ` (normálne sa píše `t` `d` `s` `z` `r`): ostrý prízvuk nahrádza cyriliku `ь`, ktorá sa dnes používa ako zmäkčovač, ale bývala samohláska za starých čias: ultrakrátka `ĭ`.
 
 Ako vidno z vyššie uvedenej tabuľky, výslovnosť mäkkých spoluhlások sa líši.
 Osoby hovoriace východným Slovanom ich pravdepodobne vyslovujú ako zmäkčené zubné alebo alveolárne spoluhlásky, osoby hovoriace západným Slovanom skôr ako palatinálne spoluhlásky.
 Obidve výslovnosti sú rovnako správne, aj keď tá prvá je pre južných Slovanov zrejme zrozumiteľnejšia.
 
-K mäkkým spoluhláskam patria aj postalveolárne `š`, `ž`, `č`  a `dž`, ako aj africké mená `ć` a `đ`.
+K mäkkým spoluhláskam patria aj postalveolárne `š`, `ž`, `č` a `dž`, ako aj africké mená `ć` a `đ`.
 Posledné dve sa zvyčajne píšu a vyslovujú `č` a `dž`; rozdiel je etymologickej povahy: `ć` a `đ` sú iotované náprotivky `t` a `d` (pozri nižšie).
 
-Pred `i`, `ě`, `ę`, `ė`  a `ŕ` môže byť tvrdá spoluhláska zmäkčená alebo palatalizovaná.
-Preto sa slovo ako :isv[buditi] vyslovuje buď :ipa[buditi], :ipa[budʲitʲi]  alebo :ipa[buɟici].
+Pred `i`, `ě`, `ę`, `ė` a `ŕ` môže byť tvrdá spoluhláska zmäkčená alebo palatalizovaná.
+Preto sa slovo ako :isv[buditi] vyslovuje buď :ipa[buditi], :ipa[budʲitʲi] alebo :ipa[buɟici].
 
 ## Fonotaktika \{#phonotactics}
 
@@ -82,8 +80,8 @@ Jediné obmedzenia súvisia s kombinovaním určitých samohlások s určitými 
 
 Je dôležité vedieť nasledovné:
 
-- Každá slabika obsahuje jednu z nasledujúcich samohlások: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y`  alebo slabičné `r` `ŕ`
-- `å` `ę` `ė` `ě` `ȯ` `ų` `y`  a slabičné `r` `ŕ`: nikdy sa nevyskytujú slovo - na začiatku alebo po samohláske
+- Každá slabika obsahuje jednu z nasledujúcich samohlások: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y` alebo slabičné `r` `ŕ`
+- `å` `ę` `ė` `ě` `ȯ` `ų` `y` a slabičné `r` `ŕ`: nikdy sa nevyskytujú slovo - na začiatku alebo po samohláske
 - `y`: nikdy nemôže nasledovať mäkkú spoluhlásku
 - `ě` `ŕ`: vždy nasleduje tvrdá spoluhláska alebo `c` (v prípadoch ako :isv[jěsti] a :isv[čŕny] sú nadbytočné), ale môžu sa vysloviť tak, že ich zjemnia
 - `o` `ȯ`: zriedka nasleduje mäkká spoluhláska, s výnimkou prepožičaných slov ako :isv[majonez] a :isv[čokolada]
@@ -98,16 +96,16 @@ Zohrávajú kľúčovú úlohu v procese skloňovania aj tvorby slov, a preto sa
 
 ### Palatalizácia \{#palatalisation}
 
-_Palatalizácia_ znamená, že za určitých podmienok sa velárne spoluhlásky `k` `g` `h`  (rovnako ako zubná afrikacia `c`) menia na postalveolárne spoluhlásky `č` `ž` `š`.
+_Palatalizácia_ znamená, že za určitých podmienok sa velárne spoluhlásky `k` `g` `h` (rovnako ako zubná afrikacia `c`) menia na postalveolárne spoluhlásky `č` `ž` `š`.
 Stáva sa to v nasledujúcich prípadoch:
 
-- pred `-e` v jednotnom vokatíve podstatných mien mužského rodu: :isv[Bo**g**] „Boh“ > :isv[Bo**ž**e], :isv[hlåpė**c**]  „chlapec“ > :isv[hlåp**č**e]
-- pred `-e`, `-eš`  atď. v prítomnom čase slovies: :isv[pe**k**-ti] „piecť“ > :isv[pe**č**eš], :isv[mo**g**-ti]  „môže“ > :isv[mo**ž**eš]
+- pred `-e` v jednotnom vokatíve podstatných mien mužského rodu: :isv[Bo**g**] „Boh“ > :isv[Bo**ž**e], :isv[hlåpė**c**] „chlapec“ > :isv[hlåp**č**e]
+- pred `-e`, `-eš` atď. v prítomnom čase slovies: :isv[pe**k**-ti] „piecť“ > :isv[pe**č**eš], :isv[mo**g**-ti] „môže“ > :isv[mo**ž**eš]
 - pred `-i-` v odvodených slovesách: :isv[muka] „mučiť“ > :isv[mu**č**iti] „mučiť“, :isv[slu**g**a] „sluha“ > :isv[slu**ž**iti] „slúžiť“
-- pred príponami `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`,  atď.: :isv[rų**k**a] „ruka“ > :isv[rų**č**ny] „manuál“, :isv[mu**h**a] „lietať“ > :isv[mu**š**ka] „malá muška“
+- pred príponami `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`, atď.: :isv[rų**k**a] „ruka“ > :isv[rų**č**ny] „manuál“, :isv[mu**h**a] „lietať“ > :isv[mu**š**ka] „malá muška“
 
 Okrem spomínaného vokatívu sa palatalizácia nikdy nevyskytuje pri skloňovaní podstatných mien, prídavných mien a zámen.
-Teda: :abbr[sg.] :isv[Čeh]  „Čech“ > :abbr[pl.] :isv[Čehi]  „Češi“; :abbr[sg.] :isv[dȯlgy]  „dlhý“ > :abbr[pl.] :isv[dȯlgi]  (živý) alebo :isv[dȯlge] (neživý).
+Teda: :abbr[sg.] :isv[Čeh] „Čech“ > :abbr[pl.] :isv[Čehi] „Češi“; :abbr[sg.] :isv[dȯlgy] „dlhý“ > :abbr[pl.] :isv[dȯlgi] (živý) alebo :isv[dȯlge] (neživý).
 
 ### Iotácia \{#iotation}
 
@@ -116,12 +114,12 @@ Výsledok sa nazýva _iotation_, čo nie je to isté ako zmäkčenie.
 Vzory, podľa ktorých spoluhlásky interagujú s týmto `j`, sa líšia od jedného jazyka k druhému.
 Niekedy je výsledok rovnaký ako v prípade zmäkčenej spoluhlásky, niekedy je iný:
 
-- Rety `p` `b` `m` `f` `v`  sú vždy tvrdé. Pred `j` sa vo východnej a južnej slovančine vkladá `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), ale v medzislovančine jednoducho píšeme `pj`, `vj`  atď., a to z dôvodov jasnosti a pravidelnosti.
+- Rety `p` `b` `m` `f` `v` sú vždy tvrdé. Pred `j` sa vo východnej a južnej slovančine vkladá `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), ale v medzislovančine jednoducho píšeme `pj`, `vj` atď., a to z dôvodov jasnosti a pravidelnosti.
 - Veláry `k` `g` `h`, , keď za nimi nasleduje `j`, palatalizujú na `č` `ž` `š`.
-- V prípade `l` `n` `r`,  iotácia dáva rovnaký výsledok ako zmäkčenie: `lj` `nj` `rj`.
+- V prípade `l` `n` `r`, iotácia dáva rovnaký výsledok ako zmäkčenie: `lj` `nj` `rj`.
 - Kombinácie `s`+`j` a `z`+`j` sa stanú `š` `ž`.
-- Kombinácie `t`+`j` a `d`+`j` sa stanú `ć` `đ`  (bežne sa píše `č` `dž`).
-- V sekvenciách `sk` `st` `zg` `zd`,  sú `s` a `z` iotované spolu s nasledujúcou spoluhláskou, teda: `st`+`j` > `šć` atď.
+- Kombinácie `t`+`j` a `d`+`j` sa stanú `ć` `đ` (bežne sa píše `č` `dž`).
+- V sekvenciách `sk` `st` `zg` `zd`, sú `s` a `z` iotované spolu s nasledujúcou spoluhláskou, teda: `st`+`j` > `šć` atď.
 
 Iotácia sa vyskytuje väčšinou v slovesách triedy `-i-`:
 
@@ -135,7 +133,7 @@ Iotácia nenastane, keď pred slovom s iniciálou `j` predchádza predpona: `s`+
 
 Keď za _mäkkou spoluhláskou_ nasleduje `j`, spoluhláska aj kĺzanie zostanú nedotknuté.
 Akékoľvek zmeny sú takpovediac blokované zmäkčovačom.
-V etymologickom pravopise sa `ljj`, `njj`  atď. píšu ako `ľj` `ńj`, , aby sa zabránilo geminácii `j`.
+V etymologickom pravopise sa `ljj`, `njj` atď. píšu ako `ľj` `ńj`, , aby sa zabránilo geminácii `j`.
 Podobne napíšeme aj `ŕj` `t́j` `d́j` `śj` `źj` `šj` `žj` `čj` .
 V štandardnom pravopise v týchto prípadoch jednoducho napíšeme `lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj` .
 Ak kmeň končí na `-j`, nasledujúce `j-` sa jednoducho prehltne: :isv[dvo**j**-iti] > :isv[dvo**j-j**ų] > :isv[dvo**j**ų].
@@ -144,16 +142,17 @@ K tomu dochádza v nasledujúcich situáciách:
 
 - s palatalizujúcou príponou `-’je` (označuje napríklad miesto): :isv[morje]> :isv[pri+mor+’je] > :isv[primoŕje] (bežne sa píše :isv[primorje])
 - v slovesných podstatných menách, kde sa koncovka `-y` trpného príčastia nahrádza za (palatalizujúce) `-’je`: :isv[dělati] > :isv[dělańje] (normálne písané :isv[dělanje])
-- s palatalizujúcou privlastňovacou príponou `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot]  + `’ji` > :isv[`kot́ji`] (normálne písané :isv[kotji])
+- s palatalizujúcou privlastňovacou príponou `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot] + `’ji` > :isv[`kot́ji`] (normálne písané :isv[kotji])
 - v inštrumentálnom jednotnom čísle podstatných mien typu :isv[kost]: :isv[kost] + `’jų` > :isv[kost́jų] (normálne písané :isv[kostju])
 
-Akokoľvek sa to môže zdať komplikované, všetko to v písaní znamená, že prípony `-je`, `-ji`  a inštrumentálna koncovka `-jų` nespôsobujú iotáciu, ale iba palatalizáciu `k` `g` `h` `c`.
+Akokoľvek sa to môže zdať komplikované, všetko to v písaní znamená, že prípony `-je`, `-ji` a inštrumentálna koncovka `-jų` nespôsobujú iotáciu, ale iba palatalizáciu `k` `g` `h` `c`.
 
 #### Prehľad \{#overview}
 
 Rozdiely medzi zmäkčenými, patalizovanými a iotovanými spoluhláskami sú znázornené v nasledujúcej tabuľke (opäť sú voliteľné fonémy v sivej farbe):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -162,14 +161,14 @@ Tento vývoj zanechal stopy vo všetkých slovanských jazykoch, aj keď v súč
 Napríklad v ruštine sú sekvencie mäkkej spoluhlásky + `o` vzácnosťou, kým poľština má len niektoré lexikalizované pozostatky pravidla (napr. :pl[królewski] „kráľovský“, ale: :pl[królowa] „kráľovná“).
 
 Toto pravidlo platí aj v medzislovančine.
-Koncovky ako `-o`, `-ov`, `-om`, `-ogo`  a `-oj` sa teda po mäkkej spoluhláske stanú `-e`, `-ev`, `-em`, `-ego`  a `-ej`.
-Kvôli pravidlu `o`/`e`  máme :isv[morje] oproti :isv[okno], :isv[krajev]  oproti :isv[gradov] a :isv[čego] oproti :isv[kogo].
-Rovnaký mechanizmus funguje aj v kombinácii s príponami ako `-ost`, `-ovati`  a `-ovy`, napríklad: :isv[svěžest́], :isv[nočevati].
+Koncovky ako `-o`, `-ov`, `-om`, `-ogo` a `-oj` sa teda po mäkkej spoluhláske stanú `-e`, `-ev`, `-em`, `-ego` a `-ej`.
+Kvôli pravidlu `o`/`e` máme :isv[morje] oproti :isv[okno], :isv[krajev] oproti :isv[gradov] a :isv[čego] oproti :isv[kogo].
+Rovnaký mechanizmus funguje aj v kombinácii s príponami ako `-ost`, `-ovati` a `-ovy`, napríklad: :isv[svěžest́], :isv[nočevati].
 
 #### `Y` > `I`/`E` \{#y--ie}
 
 V južnoslovančine a ukrajinčine, ako aj v hovorovej češtine a slovenčine sa `i` a `y` spojili do jednej samohlásky.
-V medzislovančine teda môže byť výslovnosť `y` :ipa[i], :ipa[ɪ], :ipa[ɨ]  alebo čokoľvek medzi tým.
+V medzislovančine teda môže byť výslovnosť `y` :ipa[i], :ipa[ɪ], :ipa[ɨ] alebo čokoľvek medzi tým.
 Dôležité však je, že `y` sa môže vyskytovať _iba_ po tvrdej spoluhláske, a teda nie po mäkkej spoluhláske (`š` `ž` `č` `dž` `c` `lj` `nj` `j`), po samohláske alebo slove - na začiatku.
 Pretože `y` hrá významnú úlohu v medzislovanskom skloňovaní, väčšina deklinácií má kvôli tomuto obmedzeniu tvrdú a mäkkú verziu.
 
@@ -177,7 +176,7 @@ Pri skloňovaní prídavných mien a zámen sa pádové koncovky na `y` stávaj�
 Z tohto dôvodu máme prídavné mená ako :isv[svěž-**i**] spolu s prídavnými menami ako :isv[dobr-**y**] a zámenné tvary ako :isv[moj-**ih**] spolu s tvarmi ako :isv[jegov-**yh**].
 
 Pri skloňovaní podstatných mien je však mäkký náprotivok `y` vždy `e`.
-Napríklad: :abbr[m.pl.] :isv[dom-**y**]  verzus :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**]  verzus :isv[zemj-**e**].
+Napríklad: :abbr[m.pl.] :isv[dom-**y**] verzus :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**] verzus :isv[zemj-**e**].
 
 Pretože viaceré slovanské jazyky vôbec nerozlišujú medzi `i` a `y`, nahradenie všetkých výskytov `y` `i` je prijateľné zjednodušenie v písanej medzislovančine.
 
@@ -195,16 +194,16 @@ Vo väčšine prípadov sa táto samohláska objavuje v slovách, ktoré by inak
 Prchavé `o` a `e` (v etymologickej abecede označené bodkou: `ȯ` a `ė`) sa objavujú najmä v nasledujúcich prípadoch:
 
 - v nominatíve (a v prípade neživotných podstatných mien v akuzatíve) jednotnom čísle podstatných mien mužského rodu, najmä tých, ktoré sa končia na `-ec` a `-ok`, ako aj niekoľkých ďalších podstatných mien:
-  :abbr[nom.sg.] :isv[ot**ė**c]  „otec“ > :abbr[gen.sg.] :isv[otca]
-  :abbr[nom.sg.] :isv[pěs**ȯ**k]  „piesok“ > :abbr[gen.sg.] :isv[pěska]
-  :abbr[nom.sg.] :isv[p**ė**s]  „pes“ > :abbr[gen.sg.] :isv[psa]
-  :abbr[nom.sg.] :isv[s**ȯ**n]  „sen“ > :abbr[gen.sg.] :isv[sna]
-  :abbr[nom.sg.] :isv[kr**ȯ**v]  „krv“ > :abbr[gen.sg.] :isv[krvi]
+  :abbr[nom.sg.] :isv[ot**ė**c] „otec“ > :abbr[gen.sg.] :isv[otca]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „piesok“ > :abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[p**ė**s] „pes“ > :abbr[gen.sg.] :isv[psa]
+  :abbr[nom.sg.] :isv[s**ȯ**n] „sen“ > :abbr[gen.sg.] :isv[sna]
+  :abbr[nom.sg.] :isv[kr**ȯ**v] „krv“ > :abbr[gen.sg.] :isv[krvi]
 - v genitíve množného čísla podstatných mien ženského a stredného rodu, ktoré by sa inak končili na zhluk spoluhlások:
-  :abbr[nom.sg.] :isv[okno]  „okno“ > :abbr[gen.pl.] :isv[ok**ė**n]
-  :abbr[nom.sg.] :isv[miska]  „miska“ > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  :abbr[nom.sg.] :isv[okno] „okno“ > :abbr[gen.pl.] :isv[ok**ė**n]
+  :abbr[nom.sg.] :isv[miska] „miska“ > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - v nominatíve jednotného čísla mužského rodu určitých zámen:
-  :abbr[m.nom.sg.] :isv[v**ė**ś]  „všetky, celé“, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „všetky, celé“, :abbr[f.nom.sg.] :isv[vśa]
 - pred určitými príponami:
   :isv[piśmo] „list, scenár” > :isv[pis**ė**mny] „písomne, písomne”
 - predložky :isv[s] a :isv[v] pred určitými zámenami alebo zoskupeniami spoluhlások, alebo keď sa používajú ako predpona pred samohláskou alebo zoskupením spoluhlások:
@@ -214,5 +213,3 @@ Prchavé `o` a `e` (v etymologickej abecede označené bodkou: `ȯ` a `ė`) sa o
   _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „vstúpiť“.
 
 [1]: orthography.md#etymological_alphabet
-
-

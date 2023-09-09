@@ -5,16 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.jsx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
-
 # Pravopis
 
 ## Štandardná abeceda \{#standard-alphabet}
@@ -23,13 +13,15 @@ Otázka, ako sa má písať interslovančina, bola vždy predmetom diskusie. V i
 
 Keďže hranica medzi latinkou a azbukou prechádza priamo stredom slovanského územia, medzislovančina má pre obe štandardné abecedy. Ani jeden z nich nevychádza z konkrétneho národného pravopisu. Namiesto toho boli navrhnuté ako kompromis, ktorý má byť intuitívne zrozumiteľný a umožňuje jednoduchý prepis medzi nimi. Používateľom sa dôrazne odporúča používať tieto štandardné abecedy, ale tým, ktorí majú problémy s písaním určitých znakov, sa ponúkajú aj niektoré [alternatívne riešenia][1].
 
-**medzislovanská latinská abeceda** používa 27 písmen: 23 písmen zo základnej latinskej abecedy (všetky okrem `q`, `w`  a `x`) plus štyri spoluhlásky s karónom (`š`, `ž`, `č`  a `ě`), ako aj tri digrafy (`dž`, `lj`, `nj`):
+**medzislovanská latinská abeceda** používa 27 písmen: 23 písmen zo základnej latinskej abecedy (všetky okrem `q`, `w` a `x`) plus štyri spoluhlásky s karónom (`š`, `ž`, `č` a `ě`), ako aj tri digrafy (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 **Medzislovanská azbuka** má 29 písmen: všetky znaky, ktoré majú rôzne cyrilické pravopisy spoločné, s pridaním `є`, `ы`, `ј`, `љ`, `њ`, , ako aj jedného digrafu (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Obidva pravopisy sú rovnocenné a v publikovaných textoch si zaslúži odporúčanie uvádzať verzie v latinke aj cyrilike, aby boli zrozumiteľné na oboch stranách hranice.
 
@@ -74,7 +66,8 @@ Cyrilické náprotivky `lj` a `nj` sú `љ` a `њ`, prevzaté tiež zo srbskej a
 
 Okrem štandardnej latinskej abecedy obsahuje medzislovančina aj množstvo nepovinných písmen, ktoré sa konkrétne vzťahujú na praslovanské/staroslovanské fonémy, ktoré sa vo väčšine moderných jazykov rozchádzali alebo vymizli:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Samohlásky `ę` a `ų` sa zhodujú s nosovými samohláskami `ѧ` a `ѫ` v staroslovienčine (malé yus a veľké yus, zvyčajne sa prepisujú ako `ę` a `ǫ`).
 - Samohláska `å` sa vyskytuje v kombináciách `rå` a `lå`, za ktorými nasleduje spoluhláska, kde poľština má **`ro`/`ró`** a **`ło`/`łó`** a východoslovančina má **(`o` )`ro`** a **(`o`)`lo`**.
@@ -92,7 +85,7 @@ Všimnite si, že medzislovanská etymologická abeceda nezahŕňa značky dĺž
 
 Základné latinské a cyrilské abecedy interslovančiny pozostávajú z písmen, ktorých výslovnosť je podobná vo všetkých slovanských jazykoch. Praslovančina a staroslovienčina však mala aj množstvo foném, ktoré sa vyvíjali rôznymi smermi. Vo väčšine moderných jazykov boli tieto zmeny zvuku pozoruhodne predvídateľné. Priradením špeciálneho znaku týmto fonémam môže byť každá z nich spojená s konkrétnou fonémou v ktoromkoľvek z moderných slovanských jazykov, čím sa pokrývajú hlavné fonologické rozdiely medzi nimi. Inými slovami, táto rozšírená abeceda môže slúžiť ako most medzi staroslovienčinou a modernými slovanskými jazykmi, ale aj ako prostredník medzi staroslovienčinou a medzislovančinou.
 
-Na rozdiel od abecied, akými sú medzinárodná fonetická abeceda a [slovanská abeceda][3], tento pravopis nemá podávať informácie o výslovnosti jednotlivých jazykov, ale ukázať vzťah medzi nimi. Dá sa to prirovnať k pravopisu angličtiny: hoci existujú obrovské rozdiely vo výslovnosti medzi britskou angličtinou, škótskou angličtinou a americkou angličtinou, všetky sú napísané prakticky rovnakým spôsobom, pričom sa používajú pravopisné konvencie, ktoré predstavujú hovorený jazyk 14. storočia. Ak by Slovania namiesto svojich národných pravopisov založených na výslovnosti používali podobnú abecedu, slovo „päť“ by sa vo všetkých slovanských jazykoch mohlo písať ako :isv[_pęt́_], namiesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_]  atď.
+Na rozdiel od abecied, akými sú medzinárodná fonetická abeceda a [slovanská abeceda][3], tento pravopis nemá podávať informácie o výslovnosti jednotlivých jazykov, ale ukázať vzťah medzi nimi. Dá sa to prirovnať k pravopisu angličtiny: hoci existujú obrovské rozdiely vo výslovnosti medzi britskou angličtinou, škótskou angličtinou a americkou angličtinou, všetky sú napísané prakticky rovnakým spôsobom, pričom sa používajú pravopisné konvencie, ktoré predstavujú hovorený jazyk 14. storočia. Ak by Slovania namiesto svojich národných pravopisov založených na výslovnosti používali podobnú abecedu, slovo „päť“ by sa vo všetkých slovanských jazykoch mohlo písať ako :isv[_pęt́_], namiesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] atď.
 
 Táto abeceda založená na etymológii (predtým známa ako :notr[_Naučny medžuslovjansky_] „Vedecká medzislovančina“) tiež slúži ako zdrojový kód medzislovančiny. Bola navrhnutá tak, že sa od štandardnej medzislovanskej odlišuje len dodatočnou diakritikou, takže čitateľ, ktorý túto diakritiku nepozná, ju môže jednoducho ignorovať. Používanie tohto pravopisu v interslovančine môže slúžiť na tieto účely:
 
@@ -112,21 +105,14 @@ Pretože tieto rozšírenia sú voliteľné, alternatívne reprezentácie nie s�
 
 ### Cyrilika \{#cyrillic}
 
-V latinskej abecede sú dodatočné etymologické informácie sprostredkované iba pomocou diakritických znamienok. Pasívnej zrozumiteľnosti sa teda nebráni a čitateľ, ktorý sa v nich nevyzná, môže textu aj tak porozumieť. Podobný prístup pre azbuku (použitie znakov ako `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`,  atď.) by nielen spôsobil, že text vyzeral extrémne umelo, ale bol by aj málo užitočný, pretože úpravy by boli ďaleko od samozrejmosti. Rozšírená azbuka využívajúca historické (`ѣ`, `ѩ`, `ѫ`) a regionálne (`ћ`, `ђ`) znaky by bola pre ľudí, ktorí nepoznajú starosloviensky pravopis, veľmi ťažko zrozumiteľná, a preto je v rozpore s účelom medzislovančiny. Z tohto dôvodu nemá medzislovanská etymologická abeceda ekvivalent v cyrilike.
+V latinskej abecede sú dodatočné etymologické informácie sprostredkované iba pomocou diakritických znamienok. Pasívnej zrozumiteľnosti sa teda nebráni a čitateľ, ktorý sa v nich nevyzná, môže textu aj tak porozumieť. Podobný prístup pre azbuku (použitie znakov ako `ӑ`, `ԙ`, `ө`, `ұ`, `ӣ`, `ҷ`, `ӝ`, atď.) by nielen spôsobil, že text vyzeral extrémne umelo, ale bol by aj málo užitočný, pretože úpravy by boli ďaleko od samozrejmosti. Rozšírená azbuka využívajúca historické (`ѣ`, `ѩ`, `ѫ`) a regionálne (`ћ`, `ђ`) znaky by bola pre ľudí, ktorí nepoznajú starosloviensky pravopis, veľmi ťažko zrozumiteľná, a preto je v rozpore s účelom medzislovančiny. Z tohto dôvodu nemá medzislovanská etymologická abeceda ekvivalent v cyrilike.
 
 ## Prehľad \{#overview}
 
 Nasledujúca tabuľka zobrazuje zhody medzi písmenami uvedenými vyššie (navrhované alternatívne hláskovanie je zobrazené sivou farbou v zátvorkách). [transliterátor][5] umožňuje prepis medzi latinkou a azbukou.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+:::component{name=MDOrthography4}
+:::
 
 ## Pokyny \{#guidelines}
 
@@ -137,18 +123,12 @@ Aby som to zhrnul, existuje niekoľko možností na napísanie toho istého slov
 - Vyhnite sa používaniu písmen azbuky, ktoré sa už nepoužívajú (napríklad `ѣ`, `ѩ`, `ѫ`, `ѱ`) a nepokúšajte sa ani iným spôsobom cyrilizovať etymologickú abecedu, pretože oboje by vážne narušilo zrozumiteľnosť.
 - Ak máte problémy s písaním určitých znakov, použite jednu z navrhovaných alternatív.
 - Buďte dôslední pri výbere. Ak sa napríklad rozhodnete použiť `sz` na vyjadrenie `š`, ponechajte to tak v celom texte alebo konverzácii, inak len vytvoríte zmätok. Z rovnakého dôvodu, ak používate `sz`, potom nepoužívajte súčasne `č` alebo `cx`.
-- Nepoužívajte iné ako písmenové znaky (:kbd[^], :kbd[']  atď.) ako prostriedok na nahradenie diakritiky. Neurobia váš text čitateľnejším a väčšina ľudí ich považuje za škaredé.
+- Nepoužívajte iné ako písmenové znaky (:kbd[^], :kbd['] atď.) ako prostriedok na nahradenie diakritiky. Neurobia váš text čitateľnejším a väčšina ľudí ich považuje za škaredé.
 - Nikdy nemiešajte latinku s azbukou.
 - Keď oslovujete príslušníkov konkrétneho slovanského národa (napríklad keď cestujete), môžete zvážiť [ochutenie medzislovančiny][4]. Aromatizáciu však nepoužívajte v multislovanskom prostredí.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html
-
-

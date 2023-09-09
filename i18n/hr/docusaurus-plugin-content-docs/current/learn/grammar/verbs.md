@@ -6,17 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Glagoli
 
 ## Svršeni i nesvršeni vid \{#perfective-and-imperfective-aspect}
@@ -40,13 +29,14 @@ Ponekad su parovi aspekata nepravilni, na primjer :isv[nazyvati] (impf.)/:isv[na
 
 Posebna kategorija glagola po vidu su glagoli kretanja. Za razliku od drugih glagola, oni obično trosmjerno razlikuju: nesmjerni imperfektiv, smjerni imperfektiv, svršeni. Prvi od njih izražava kretanje bez ikakvog određenog smjera, te stoga nema svoj savršeni ekvivalent. Na primjer:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 Na primjer: :isv[Igor jezdil po Moskvě] „Igor se vozio po Moskvi”. :isv[Igor jehal do Moskvy] „Igor je vozio do Moskve”. :isv[Igor pojehal do Moskvy] „Igor je otišao u Moskvu”.
 
 Kad neusmjereni glagol kretanja ionako ima smjer, to izražava naviku: :isv[Igor jezdil do Moskvy] „Igor je \[uvijek|često] išao u Moskvu”.
 
-Osim :isv[hoditi], :isv[idti]  i :isv[pojdti], postoji i riječ :isv[pohoditi], koja može izraziti „šetati malo”, ali i „hodati u više smjerova”.
+Osim :isv[hoditi], :isv[idti] i :isv[pojdti], postoji i riječ :isv[pohoditi], koja može izraziti „šetati malo”, ali i „hodati u više smjerova”.
 
 U složenicama s prefiksom nesmjerni se oblik upotrebljava za nesvršeni glagol, a smjerni oblik za svršeni glagol:
 :isv[odhoditi] (impf.)/:isv[oditi] (pf.) „otići”
@@ -72,7 +62,7 @@ U rječniku se glagoli uvijek navode u infinitivu. Svi infinitivi imaju završet
 
 _Infinitivna osnova_ nastaje uklanjanjem završetka `-ti` i služi kao polazište za prošla vremena, kondicional, participe prošlosti i glagolsku imenicu.
 
-Infinitivi su gotovo uvijek pravilni, tako da završetak `-ti` ne mijenja infinitivnu osnovu. To je također slučaj u glagolima kao što su :isv[mogti] „mogu”, :isv[pekti] „peći”, :isv[běgti] „trčati” itd. (umjesto očekivanih, ali manje transparentnih :isv[moči], :isv[peči]  i :isv[běči]). Jedina iznimka su glagoli na `-sti`: u većini slučajeva njihova infinitivna osnova završava na `d`, ponekad i na `t` ili `s`. Na primjer :isv[klasti] „položiti, staviti”, :isv[pasti] „pasti” i :isv[gnesti] „zdrobiti” imaju korijene _`klad-`_, _`pad-`_ i _`gnet-`_. Kako bi se ti padeži razlikovali od :isv[nesti] (osnova: _`nes-`_) i sličnih, u rječniku su predstavljeni na sljedeći način: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
+Infinitivi su gotovo uvijek pravilni, tako da završetak `-ti` ne mijenja infinitivnu osnovu. To je također slučaj u glagolima kao što su :isv[mogti] „mogu”, :isv[pekti] „peći”, :isv[běgti] „trčati” itd. (umjesto očekivanih, ali manje transparentnih :isv[moči], :isv[peči] i :isv[běči]). Jedina iznimka su glagoli na `-sti`: u većini slučajeva njihova infinitivna osnova završava na `d`, ponekad i na `t` ili `s`. Na primjer :isv[klasti] „položiti, staviti”, :isv[pasti] „pasti” i :isv[gnesti] „zdrobiti” imaju korijene _`klad-`_, _`pad-`_ i _`gnet-`_. Kako bi se ti padeži razlikovali od :isv[nesti] (osnova: _`nes-`_) i sličnih, u rječniku su predstavljeni na sljedeći način: _`klasti (klad-e)`_, _`gnesti (gnet-e)`_.
 
 Obično se _osnova sadašnjeg vremena_ (koristi se za sadašnje vrijeme, imperativ i participe sadašnjeg) može redovito biti izvedena iz osnove infinitiva. Postoji razlika između prve i druge konjugacije:
 
@@ -84,7 +74,7 @@ Obično se _osnova sadašnjeg vremena_ (koristi se za sadašnje vrijeme, imperat
 - Druga konjugacija:
   - glagoli na `-iti` i većina glagola na `-ěti` imaju osnovu sadašnjeg vremena `-i-`: _`hvaliti > hval-i-`_ „hvaliti”, _`viděti > vid-i-`_ „vidjeti”
 
-Brojni glagoli koriste zasebni korijen u sadašnjem vremenu. U većini slučajeva to su glagoli mješovite `a/j`, `a/i`  i `ě/i` klase u slavenskom jeziku. Aktivni korisnik Interslavic-a morat će naučiti oba oblika. Primijetit će, međutim, da se u većini slučajeva stvaranje ovog drugog korijena događa na predvidljiv način. Kad god se osnova sadašnjeg vremena ne može izvesti iz infinitiva primjenom gornjih pravila, bit će navedena u rječniku. Nekoliko primjera: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „htjeti”, _`spati (sp-i)`_ „spavati”, _`zvati (zov-e)`_ „nazvati”, _`brati (ber-e)`_ „uzeti (impf. )”, _`vzeti (vozm-e)`_ „uzeti (pf.)”.
+Brojni glagoli koriste zasebni korijen u sadašnjem vremenu. U većini slučajeva to su glagoli mješovite `a/j`, `a/i` i `ě/i` klase u slavenskom jeziku. Aktivni korisnik Interslavic-a morat će naučiti oba oblika. Primijetit će, međutim, da se u većini slučajeva stvaranje ovog drugog korijena događa na predvidljiv način. Kad god se osnova sadašnjeg vremena ne može izvesti iz infinitiva primjenom gornjih pravila, bit će navedena u rječniku. Nekoliko primjera: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „htjeti”, _`spati (sp-i)`_ „spavati”, _`zvati (zov-e)`_ „nazvati”, _`brati (ber-e)`_ „uzeti (impf. )”, _`vzeti (vozm-e)`_ „uzeti (pf.)”.
 
 ### Sadašnje vrijeme \{#present-tense}
 
@@ -97,12 +87,13 @@ Umjesto **-`u`/-`ju`** u prvom licu jednine može se koristiti i **-`em`/-`im`**
 
 Zapadni i južnoslavenski jezici također imaju treću konjugaciju, koja se temelji na kontrakciji nizova `-aje-`, što rezultira završecima: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Bilješke:
 
 - Ako korijen završava na `k` ili `g`, postaje `č` ili `ž` prije `-e-`. Dakle: _`mog-eš`_ > :isv[možeš], _`pek-eš`_ > _`pečeš`_.
-- Ako je u drugoj konjugaciji krajnji suglasnik osnove `s`, `z`, `t`, `d`, `st`  ili `zd`, on se spaja s `j` u `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
+- Ako je u drugoj konjugaciji krajnji suglasnik osnove `s`, `z`, `t`, `d`, `st` ili `zd`, on se spaja s `j` u `š`, `ž`, `č`, `dž`, `šč`, `ždž`: _`prositi > pros-ju > prošu`_, _`viděti > vid-ju > vidžu`_.
 
 ### Prošlo vrijeme \{#past-tense}
 
@@ -112,9 +103,10 @@ U trećem licu, oblici `byti` (_`je, jest, sut`_) obično se izostavljaju, iako 
 
 Ovaj sustav daje nesvršeno vrijeme kada se primjenjuje na nesvršene glagole (:isv[ja jesm dělal] „I did, I was doing”), i svršeno vrijeme kada se primjenjuje na svršene glagole (_`ja jesm sdělal`_ „I have done”).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
-L-particip se uvijek pravilno tvori osim kod jednog glagola: `idti` „ići” ima `šel`, `šla`, `šlo`, `šli`  „otišao” (ponekad se piše `išel` itd.). To vrijedi i za njegove spojeve: :isv[pojdti] > :isv[pošel], :isv[vojdti]  > _`všel`_ itd.
+L-particip se uvijek pravilno tvori osim kod jednog glagola: `idti` „ići” ima `šel`, `šla`, `šlo`, `šli` „otišao” (ponekad se piše `išel` itd.). To vrijedi i za njegove spojeve: :isv[pojdti] > :isv[pošel], :isv[vojdti] > _`všel`_ itd.
 
 ### Dodatna prošla vremena \{#additional-past-tenses}
 
@@ -129,7 +121,8 @@ _`simple past`_ označava radnju koja se dogodila negdje u prošlosti. Ispunjava
 - Ako korijen završava na samoglasnik: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - Ako korijen završava na suglasnik: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Perfektno vrijeme**
 
@@ -143,7 +136,8 @@ Naposljetku, _pluperfect tense_ nastaje kombiniranjem L-participa s prošlim (pr
 
 Buduće vrijeme nastaje kombinacijom budućeg vremena glagola `byti` „biti” s infinitivom. Oblici su isti kao da je glagol s osnovom `bud-` konjugiran u prezentu. Primjeri:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Korištenje prezenta svršenog glagola za budućnost (kao što se radi u zapadnoslavenskom i istočnoslavenskom) treba izbjegavati, jer ga Južni Slaveni lako mogu pogrešno razumjeti.
 
@@ -151,7 +145,8 @@ Korištenje prezenta svršenog glagola za budućnost (kao što se radi u zapadno
 
 Kondicional se formira korištenjem L-participa s kondicionalom `byti` „biti”: _`ja byh dělal(a)`_ „Učinio bih”.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 Prošli kondicional može se oblikovati umetanjem zalijepljenog vremena glagola „biti” u normalni kondicionalni oblik:
 
@@ -162,7 +157,8 @@ Prošli kondicional može se oblikovati umetanjem zalijepljenog vremena glagola 
 
 Imperativ ima oblike za 2. lice jednine, 1. lice množine i 2. lice množine: `dělaj` „učini!” (jednoj osobi, neformalno), `dělajmo` „učinimo!”, `dělajte` „učinimo!” (za više osoba, ili za jednu osobu formalno). Nastaje dodavanjem `-i` osnovici sadašnjeg vremena (`-j` nakon samoglasnika, `-Ø` nakon `j`). Primjeri:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Međuslavenski nema imperativa u trećem licu. Kada je takav oblik potreban, koristi se optativ čestica `nehaj`: :isv[Nehaj umre!] „Neka umre!” _`Nehaj žive dolgo!`_ „Živio dugo!”
 
@@ -188,7 +184,8 @@ Priložni particip prezenta (poznat i kao „transgresivni”) ima isti završet
 Glagol se može vrlo jednostavno pretvoriti u imenicu (_gerund, verbalna imenica_) zamjenom završetka `-ny` savršenog participa prošlosti s `-nje` (ili `-ty` s `tje`). Primjeri: :isv[dělanje] „(čin) činjenja”, _`pitje`_ „pijenje”.
 Primjeri:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### Pasiv \{#the-passive-voice}
 
@@ -208,13 +205,17 @@ Pasiv se stvara kombinacijom oblika glagola `byti` „biti” s participom pasiv
 
 Jedini istinski nepravilan glagol je `byti` „biti”. Konjugiran je na sljedeći način:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
 
 Glagoli `dati` „dati”, `jesti` „jesti” i `věděti` „znati” imaju nepravilan prezent. Kao i `byti`, oni pripadaju takozvanom _`athematic conjugation`_, što znači da im korijen završava na samoglasnik. U sadašnjem vremenu se mijenjaju na sljedeći način:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 Svi ostali oblici ova tri glagola tvore se pravilno.
 
@@ -223,4 +224,3 @@ Svi ostali oblici ova tri glagola tvore se pravilno.
 Glagol `idti` „ići” redovito se konjugira, osim L-participa `šel` (f. `šla`, n. `šlo`) i (srodnog) prošlog aktivnog participa `šedši`. Ponekad ovim oblicima prethodi `i-`: _`išel, išla`_ itd.
 
 Infinitiv `idti` ponekad se piše `iti`.
-

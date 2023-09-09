@@ -5,17 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/verbs.html
 ---
 
-import VerbsOfMotion from '@site/src/markdown/verbs-of-motion.mdx';
-import ThirdConjugation from '@site/src/markdown/third-conjugation.mdx';
-import PastTenseExamples from '@site/src/markdown/past-tense-examples.mdx';
-import SimplePastTenseExamples from '@site/src/markdown/simple-past-tense-examples.mdx';
-import FutureTenseExamples from '@site/src/markdown/future-tense-examples.mdx';
-import ConditionalExamples from '@site/src/markdown/conditional-examples.mdx';
-import ImperativeExamples from '@site/src/markdown/imperative-examples.mdx';
-import VerbConvertedIntoNoun from '@site/src/markdown/verb-converted-into-noun.mdx';
-import IrregularVerbsExamples from '@site/src/markdown/irregular-verbs-examples.mdx';
-import DatiJestiVedeti from '@site/src/markdown/dati-jesti-vedeti.mdx';
-
 # Verbs
 
 ## Perfective and imperfective aspect \{#perfective-and-imperfective-aspect}
@@ -39,7 +28,8 @@ Sometimes aspect pairs are irregular, for example :isv[nazyvati] (:abbr[impf.])/
 
 A special category of verbs in terms of aspects are verbs of motion. Unlike other verbs, they usually make a three-way distinction: non-directional imperfective, directional imperfective, perfective. The first of these expresses movement without any particular direction, and therefore has no perfective equivalent of its own. For example:
 
-<VerbsOfMotion />
+:::component{name=MDVerbs1}
+:::
 
 For example: :isv[Igor jezdil po Moskvě] „Igor was driving around in Moscow”. :isv[Igor jehal do Moskvy] „Igor was driving do Moscow”. :isv[Igor pojehal do Moskvy] „Igor has gone to Moscow”.
 
@@ -83,7 +73,7 @@ Usually, the _present tense stem_ (used for the present tense, the imperative an
 - Second conjugation:
   - verbs on `-iti` and most verbs on `-ěti` have the present tense stem `-i-`: :isv[hvaliti] > :isv[hval-i-] „to praise”, :isv[viděti] > :isv[vid-i-] „to see”
 
-A number of verbs use a separate root in the present tense. In most cases, these are verbs of the mixed `a/j`, `a/i` and `ě/i` classes in Slavic. An active user of Interslavic will have to learn both forms. He will notice, however, that in most cases the formation of this second root happens in a predictable way. Whenever the present-tense stem cannot be derived from the infinitive by applying the rules above, it will be given in the dictionary. A few examples: :isv[pisati] (:isv[piš-e)] „to write”, _:isv[htěti] (:isv[hoč-e]) „to want”, :isv[spati] (:isv[sp-i]) „to sleep”, :isv[zvati] (:isv[zov-e]) „to call”, :isv[brati] (:isv[ber-e]) „to take (:abbr[impf.])”, :isv[vzeti] (:isv[vozm-e]) „to take (:abbr[pf.])”.
+A number of verbs use a separate root in the present tense. In most cases, these are verbs of the mixed `a/j`, `a/i` and `ě/i` classes in Slavic. An active user of Interslavic will have to learn both forms. He will notice, however, that in most cases the formation of this second root happens in a predictable way. Whenever the present-tense stem cannot be derived from the infinitive by applying the rules above, it will be given in the dictionary. A few examples: :isv[pisati] (:isv[piš-e)] „to write”, \_:isv[htěti] (:isv[hoč-e]) „to want”, :isv[spati] (:isv[sp-i]) „to sleep”, :isv[zvati] (:isv[zov-e]) „to call”, :isv[brati] (:isv[ber-e]) „to take (:abbr[impf.])”, :isv[vzeti] (:isv[vozm-e]) „to take (:abbr[pf.])”.
 
 ### Present tense \{#present-tense}
 
@@ -96,7 +86,8 @@ Instead of `-u`/`-ju` in the first person singular, **-`em`/-`im`** can be used 
 
 The West and South Slavic languages also have a third conjugation, based on contraction of `-aje-` sequences, resulting in the endings: `-am, -aš, -a, -amo, -ate, -ajut`.
 
-<ThirdConjugation />
+:::component{name=MDVerbs2}
+:::
 
 Notes:
 
@@ -111,7 +102,8 @@ In the third person, the forms of :isv[byti] (:isv[je], :isv[jest], :isv[sut]) a
 
 This system gives an imperfect tense when applied to imperfective verbs (:isv[ja jesm dělal] „I did, I was doing”), and a perfect tense when applied to perfective verbs (:isv[ja jesm sdělal] „I have done”).
 
-<PastTenseExamples />
+:::component{name=MDVerbs3}
+:::
 
 The L-participle is always formed regularly except for one verb: :isv[idti] „to go” has :isv[šel], :isv[šla], :isv[šlo], :isv[šli] „went” (sometimes written was :isv[išel] etc.). This goes for its compounds as well: :isv[pojdti] > :isv[pošel], :isv[vojdti] > :isv[všel], etc.
 
@@ -128,7 +120,8 @@ The _simple past_ denotes an action that took place somewhere in the past. It fu
 - If the stem ends in a vowel: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - If the stem ends in a consonant: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
 
-<SimplePastTenseExamples />
+:::component{name=MDVerbs4}
+:::
 
 **Perfect tense**
 
@@ -142,7 +135,8 @@ At last, the _pluperfect tense_ is formed by combining the L-participle with the
 
 The future tense is formed by combining the future tense of the verb :isv[byti] „to be” with the infinitive. The forms are the same as if a verb with the stem `bud-` were conjugated in the present tense. Examples:
 
-<FutureTenseExamples />
+:::component{name=MDVerbs5}
+:::
 
 Using the present tense of a perfective verb for the future (as is done in West and East Slavic) is rather to be avoided, as it can easily be misunderstood by South Slavs.
 
@@ -150,7 +144,8 @@ Using the present tense of a perfective verb for the future (as is done in West 
 
 The conditional is be formed by using the L-participle with the conditional of :isv[byti] „to be”: :isv[ja byh dělal(a)] „I would do”.
 
-<ConditionalExamples />
+:::component{name=MDVerbs6}
+:::
 
 A past conditional can be formed by inserting the paste tense of the verb „to be” into the normal conditional form:
 
@@ -161,7 +156,8 @@ A past conditional can be formed by inserting the paste tense of the verb „to 
 
 The imperative has forms for the 2nd person singular, the 1st person plural and the 2nd person plural: :isv[dělaj] „do!” (to one person, informal), :isv[dělajmo] „let's do!”, :isv[dělajte] „do!” (to more persons, or to one person formal). It is formed by adding `-i` to the present tense stem (`-j` after a vowel, `-Ø` after `j`). Examples:
 
-<ImperativeExamples />
+:::component{name=MDVerbs7}
+:::
 
 Interslavic has no imperatives in the third person. When such a form is needed, the optative particle :isv[nehaj] is used: :isv[Nehaj umre!] „Let him die!” :isv[Nehaj žive dolgo!] „May he live long!”
 
@@ -180,14 +176,15 @@ The **present passive participle** is derived from the present tense stem as wel
 
 The **past passive participle** is formed by adding `-ny` to the infinitive stem when the latter ends in a vowel, and `-eny` when it ends in a consonant: :isv[dělany] „done”, :isv[neseny] „carried”. However:
 
-- Verbs on `-iti` have `-jeny` instead of **\*-`iny`** (whereby **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*-`djeny`, \*-`stjeny`, \*-`zdjeny`** become **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti] > :isv[govorjeny] „spoken”, :isv[ljubiti] > :isv[ljubjeny] „loved”, :isv[prositi] > :isv[prošeny] „required”
+- Verbs on `-iti` have `-jeny` instead of **\*-`iny`** (whereby **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*-`djeny`, \*-`stjeny`, \*-`zdjeny`** become **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): \_:isv[govoriti] > :isv[govorjeny] „spoken”, :isv[ljubiti] > :isv[ljubjeny] „loved”, :isv[prositi] > :isv[prošeny] „required”
 - in the case of verbs on `-nuti`, the ending is `-neny` instead of **\*-`nuny`**: :isv[tegnuti] > :isv[tegneny] „pulled”
 - all monosyllabic stems (except those on `a`), i.e. those that have `-j-` in the present tense, have `-ty` instead of `-ny`: :isv[biti] > :isv[bity] „hitten”, :isv[čuti] > :isv[čuty] „felt”, :isv[podjeti] > :isv[podjety] „undertaken”
 
 A verb can very simply be converted into a noun (_gerund, verbal noun_) by substituting the ending `-ny` of the perfect past participle by `-nje` (or `-ty` by `tje`). Examples: :isv[dělanje] „(the act of) doing”, :isv[pitje] „drinking”.
 Examples:
 
-<VerbConvertedIntoNoun />
+:::component{name=MDVerbs8}
+:::
 
 ### The passive voice \{#the-passive-voice}
 
@@ -207,13 +204,17 @@ The passive voice is created by combining a form of the verb `byti` „to be” 
 
 The only truly irregular verb is :isv[byti] „to be”. It is conjugated as follows:
 
-<IrregularVerbsExamples />
+:::component{name=MDVerbs9}
+:::
+:::component{name=MDVerbs10}
+:::
 
 ### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 The verbs :isv[dati] „to give”, :isv[jesti] „to eat” and :isv[věděti] „to know” have an irregular present tense. Like :isv[byti], they belong to the so-called _athematic conjugation_, meaning that they have their root ending in a vowel. In the present tense, they are inflected as follows:
 
-<DatiJestiVedeti />
+:::component{name=MDVerbs11}
+:::
 
 All other forms of these three verbs are formed regularly.
 

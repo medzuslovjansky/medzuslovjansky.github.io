@@ -4,7 +4,6 @@ license: republish
 author: Jan van Steenbergen
 custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/history.html
-title: History of Interslavic
 ---
 
 # Кратка историја међусловенског

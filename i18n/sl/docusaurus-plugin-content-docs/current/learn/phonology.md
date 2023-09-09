@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Fonologija
 
 ## Popis fonemov \{#phoneme-inventory}
@@ -39,9 +35,10 @@ Osnovna medslovanska ima 7 samoglasniških fonemov, od katerih ima pet (`a` `e` 
 
 Poleg tega je na voljo 5 izbirnih samoglasnikov (`å` `ė` `ę` `ȯ` `ų`), katerih izgovorjava se lahko razlikuje.
 Diakritični znaki običajno niso napisani.
-V aromatiziranih različicah medslovanskega jezika pa je `å` mogoče zapisati in izgovoriti kot `o`, `ę`  kot `ja`, `ȯ`  kot `e` in `y` kot `i`.
+V aromatiziranih različicah medslovanskega jezika pa je `å` mogoče zapisati in izgovoriti kot `o`, `ę` kot `ja`, `ȯ` kot `e` in `y` kot `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Medslovanščina ima tudi zlogovni `r` in `ŕ` (slednji spada v neobvezni sklop).
 To je v primeru, ko je pred njim soglasnik in _ne_ sledi samoglasnik.
@@ -51,29 +48,30 @@ Izgovarja se s črko pred njo: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjərtv�
 
 Obstaja 23 osnovnih soglasnikov (vključno s 3 afrikatami in 2 palataliziranima alveolaroma) z bolj ali manj fiksno izgovorjavo ter 7 neobveznih soglasnikov s spremenljivo izgovorjavo:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Trdi in mehki soglasniki \{#hard-and-soft-consonants}
 
 Tako kot vsi slovanski jeziki tudi medslovanski razlikuje med _trdimi_ in _mehkimi_ soglasniki:
 
-- Trdi soglasniki so: ustnični `p` `b` `f` `v` `m`,  trdi dentali/alveolarji `t` `d` `s` `z` `n` `r` `l`,  in velarji `k` `g` `h`.
-- Mehki soglasniki so: poštni veolarji `š` `ž` `č` `dž`,  mehki dentali/alveolarji `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`,  in palatalni aproksimant `j`.
-- Afrikata `c` :ipa[t͡s]  se izgovarja trdo, vendar se v slovnici obnaša kot mehak soglasnik. Njegov zveneči dvojnik :ipa[d͡z] se v medslovanščini ne pojavlja.
+- Trdi soglasniki so: ustnični `p` `b` `f` `v` `m`, trdi dentali/alveolarji `t` `d` `s` `z` `n` `r` `l`, in velarji `k` `g` `h`.
+- Mehki soglasniki so: poštni veolarji `š` `ž` `č` `dž`, mehki dentali/alveolarji `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`, in palatalni aproksimant `j`.
+- Afrikata `c` :ipa[t͡s] se izgovarja trdo, vendar se v slovnici obnaša kot mehak soglasnik. Njegov zveneči dvojnik :ipa[d͡z] se v medslovanščini ne pojavlja.
 
 Mehčanje je postopek dodajanja :ipa[ʲ] soglasniku, kar ima za posledico bolj palatalno izgovorjavo.
 Število mehkih ustreznikov trdih soglasnikov v popisu fonemov se zelo razlikuje od jezika do jezika.
-V medslovanščini sta obvezna samo `lj` in `nj`, etimološka abeceda ima tudi `t́` `d́` `ś` `ź` `ŕ`  (običajno zapisan `t` `d` `s` `z` `r`): akutni naglas nadomešča cirilico `ь`, ki se danes uporablja kot mehčalec, včasih pa je bil samoglasnik v starih časih: ultrakratek `ĭ`.
+V medslovanščini sta obvezna samo `lj` in `nj`, etimološka abeceda ima tudi `t́` `d́` `ś` `ź` `ŕ` (običajno zapisan `t` `d` `s` `z` `r`): akutni naglas nadomešča cirilico `ь`, ki se danes uporablja kot mehčalec, včasih pa je bil samoglasnik v starih časih: ultrakratek `ĭ`.
 
 Kot je razvidno iz zgornje tabele, je izgovorjava mehkih soglasnikov različna.
 Vzhodnoslovanski govorci jih bodo verjetno izgovarjali kot omehčane zobne ali alveolarne soglasnike, zahodnoslovanski govorci raje kot palatalne soglasnike.
 Oba izgovora sta enako pravilna, čeprav je prvi verjetno lažje razumljiv Južnim Slovanom.
 
-Med mehke soglasnike sodijo tudi postaveolarni `š`, `ž`, `č`  in `dž` ter afrikata `ć` in `đ`.
+Med mehke soglasnike sodijo tudi postaveolarni `š`, `ž`, `č` in `dž` ter afrikata `ć` in `đ`.
 Zadnja dva se običajno pišeta in izgovarjata tudi `č` in `dž`; razlika je etimološke narave: `ć` in `đ` sta jotovani dvojnici `t` in `d` (glej spodaj).
 
-Pred `i`, `ě`, `ę`, `ė`  in `ŕ` je trd soglasnik mogoče omehčati ali palatalizirati.
-Zato se beseda, kot je :isv[buditi], izgovori ali :ipa[buditi], :ipa[budʲitʲi]  ali :ipa[buɟici].
+Pred `i`, `ě`, `ę`, `ė` in `ŕ` je trd soglasnik mogoče omehčati ali palatalizirati.
+Zato se beseda, kot je :isv[buditi], izgovori ali :ipa[buditi], :ipa[budʲitʲi] ali :ipa[buɟici].
 
 ## Fonotaktika \{#phonotactics}
 
@@ -82,8 +80,8 @@ Edine omejitve so povezane s kombiniranjem določenih samoglasnikov z določenim
 
 Pomembno je vedeti naslednje:
 
-- Vsak zlog vsebuje enega od naslednjih samoglasnikov: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y`  ali zlogovni `r` `ŕ`
-- `å` `ę` `ė` `ě` `ȯ` `ų` `y`  in zlogovni `r` `ŕ`: nikoli se ne pojavi beseda na začetku ali za samoglasnikom
+- Vsak zlog vsebuje enega od naslednjih samoglasnikov: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y` ali zlogovni `r` `ŕ`
+- `å` `ę` `ė` `ě` `ȯ` `ų` `y` in zlogovni `r` `ŕ`: nikoli se ne pojavi beseda na začetku ali za samoglasnikom
 - `y`: nikoli ne more slediti mehkemu soglasniku
 - `ě` `ŕ`: vedno sledi trdemu soglasniku ali `c` (so odveč v primerih, kot sta :isv[jěsti] in :isv[čŕny]), lahko pa se izgovorijo tako, da ga omehčajo
 - `o` `ȯ`: redko sledi mehkemu soglasniku, razen v izposojenih besedah, kot sta :isv[majonez] in :isv[čokolada]
@@ -98,16 +96,16 @@ Imajo ključno vlogo tako pri pregibanju kot pri besedotvorju, zato se jim ne mo
 
 ### Palatalizacija \{#palatalisation}
 
-_Palatalizacija_ pomeni, da se pod določenimi pogoji velarni soglasniki `k` `g` `h`  (kot tudi zobni afrikat `c`) spremenijo v postaveolarne soglasnike `č` `ž` `š`.
+_Palatalizacija_ pomeni, da se pod določenimi pogoji velarni soglasniki `k` `g` `h` (kot tudi zobni afrikat `c`) spremenijo v postaveolarne soglasnike `č` `ž` `š`.
 To se zgodi v naslednjih primerih:
 
-- pred `-e` v vokativu ednine moških samostalnikov: :isv[Bo**g**] „Bog” > :isv[Bo**ž**e], :isv[hlåpė**c**]  „fant” > :isv[hlåp**č**e]
-- pred `-e`, `-eš`  itd. v sedanjiku glagolov: :isv[pe**k**-ti] „peči” > :isv[pe**č**eš], :isv[mo**g**-ti]  „lahko” > :isv[mo**ž**eš]
+- pred `-e` v vokativu ednine moških samostalnikov: :isv[Bo**g**] „Bog” > :isv[Bo**ž**e], :isv[hlåpė**c**] „fant” > :isv[hlåp**č**e]
+- pred `-e`, `-eš` itd. v sedanjiku glagolov: :isv[pe**k**-ti] „peči” > :isv[pe**č**eš], :isv[mo**g**-ti] „lahko” > :isv[mo**ž**eš]
 - pred `-i-` v izpeljanih glagolih: :isv[muka] „mučiti” > :isv[mu**č**iti] „mučiti”, :isv[slu**g**a] „služabnik” > :isv[slu**ž**iti] „streči”
-- pred priponami `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`,  itd.: :isv[rų**k**a] „roka” > :isv[rų**č**ny] „ročno”, :isv[mu**h**a] „muha” > :isv[mu**š**ka] „majhna muha”
+- pred priponami `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`, itd.: :isv[rų**k**a] „roka” > :isv[rų**č**ny] „ročno”, :isv[mu**h**a] „muha” > :isv[mu**š**ka] „majhna muha”
 
 Razen v omenjenem vokativu se palatalizacija nikoli ne pojavi pri sklanjanju samostalnikov, pridevnikov in zaimkov.
-Tako: :abbr[sg.] :isv[Čeh]  „Čeh” > :abbr[pl.] :isv[Čehi]  „Čeh”; :abbr[sg.] :isv[dȯlgy]  „dolgo” > :abbr[pl.] :isv[dȯlgi]  (živo) ali :isv[dȯlge] (neživo).
+Tako: :abbr[sg.] :isv[Čeh] „Čeh” > :abbr[pl.] :isv[Čehi] „Čeh”; :abbr[sg.] :isv[dȯlgy] „dolgo” > :abbr[pl.] :isv[dȯlgi] (živo) ali :isv[dȯlge] (neživo).
 
 ### Jotovanje \{#iotation}
 
@@ -116,12 +114,12 @@ Rezultat se imenuje _iotacija_, kar ni isto kot mehčanje.
 Vzorci, po katerih soglasniki komunicirajo s tem `j`, se razlikujejo od enega jezika do drugega.
 Včasih je rezultat enak kot pri zmehčanem soglasniku, včasih je drugačen:
 
-- Labiali `p` `b` `m` `f` `v`  so vedno trdi. V vzhodni in južni slovanščini pred `j` vstavita `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), v medslovanščini pa preprosto pišemo `pj`, `vj`  itd., tako zaradi jasnosti kot pravilnosti.
+- Labiali `p` `b` `m` `f` `v` so vedno trdi. V vzhodni in južni slovanščini pred `j` vstavita `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), v medslovanščini pa preprosto pišemo `pj`, `vj` itd., tako zaradi jasnosti kot pravilnosti.
 - Velarji `k` `g` `h`, , ko jim sledi `j`, se palatalizirajo v `č` `ž` `š`.
-- V primeru `l` `n` `r`,  jotiranje daje enak rezultat kot mehčanje: `lj` `nj` `rj`.
+- V primeru `l` `n` `r`, jotiranje daje enak rezultat kot mehčanje: `lj` `nj` `rj`.
 - Kombinaciji `s`+`j` in `z`+`j` postaneta `š` `ž`.
-- Kombinaciji `t`+`j` in `d`+`j` postaneta `ć` `đ`  (običajno zapisano `č` `dž`).
-- V zaporedjih `sk` `st` `zg` `zd`,  sta `s` in `z` jotovana skupaj z naslednjim soglasnikom, torej: `st`+`j` > `šć` itd.
+- Kombinaciji `t`+`j` in `d`+`j` postaneta `ć` `đ` (običajno zapisano `č` `dž`).
+- V zaporedjih `sk` `st` `zg` `zd`, sta `s` in `z` jotovana skupaj z naslednjim soglasnikom, torej: `st`+`j` > `šć` itd.
 
 Jotovanje se večinoma pojavlja pri glagolih razreda `-i-`:
 
@@ -135,7 +133,7 @@ Do jotiranja ne pride, če je pred besedo z začetnico `j` predpona: `s`+:isv[je
 
 Ko _mehkemu soglasniku_ sledi `j`, ostaneta tako soglasnik kot drsenje nedotaknjena.
 Kakršne koli spremembe tako rekoč blokira mehčalec.
-V etimološkem pravopisu je `ljj`, `njj`  itd. zapisano kot `ľj` `ńj`, , da se prepreči geminacija `j`.
+V etimološkem pravopisu je `ljj`, `njj` itd. zapisano kot `ľj` `ńj`, , da se prepreči geminacija `j`.
 Prav tako pišemo tudi `ŕj` `t́j` `d́j` `śj` `źj` `šj` `žj` `čj` .
 V standardnem pravopisu v teh primerih preprosto napišemo `lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj` .
 Če se steblo konča na `-j`, se naslednji `j-` preprosto pogoltne: :isv[dvo**j**-iti] > :isv[dvo**j-j**ų] > :isv[dvo**j**ų].
@@ -144,16 +142,17 @@ To se zgodi v naslednjih situacijah:
 
 - s palatalizirajočo pripono `-’je` (ki na primer označuje mesto): :isv[morje]> :isv[pri+mor+’je] > :isv[primoŕje] (običajno zapisano :isv[primorje])
 - pri glagolskih samostalnikih, kjer je končnica `-y` dovršnega trpnega deležnika nadomeščena z (palatalizacijo) `-’je`: :isv[dělati] > :isv[dělańje] (običajno zapisano :isv[dělanje])
-- s palatalizirajočo posesivno pripono `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot]  + `’ji` > :isv[`kot́ji`] (običajno zapisano :isv[kotji])
+- s palatalizirajočo posesivno pripono `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot] + `’ji` > :isv[`kot́ji`] (običajno zapisano :isv[kotji])
 - v instrumentalu ednine samostalnikov vrste :isv[kost]: :isv[kost] + `’jų` > :isv[kost́jų] (običajno zapisano :isv[kostju])
 
-Čeprav se morda zdi zapleteno, vse to v pisni obliki pomeni, da pripone `-je`, `-ji`  in instrumentalna končnica `-jų` ne povzročajo jotiranja, temveč le palatalizacijo `k` `g` `h` `c`.
+Čeprav se morda zdi zapleteno, vse to v pisni obliki pomeni, da pripone `-je`, `-ji` in instrumentalna končnica `-jų` ne povzročajo jotiranja, temveč le palatalizacijo `k` `g` `h` `c`.
 
 #### Pregled \{#overview}
 
 Razlike med omehčanimi, pataliziranimi in jotovanimi soglasniki so prikazane v naslednji tabeli (zopet sivi fonemi niso obvezni):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -162,14 +161,14 @@ Ta razvoj je pustil sledi v vseh slovanskih jezikih, čeprav se ti danes razliku
 Na primer, v ruščini so zaporedja mehkih soglasnikov + `o` redkost, medtem ko ima poljščina le nekaj leksikaliziranih ostankov pravila (npr. :pl[królewski] „kraljevski”, ampak: :pl[królowa] „kraljica”).
 
 To pravilo velja tudi v medslovanščini.
-Tako končnice, kot sta `-o`, `-ov`, `-om`, `-ogo`  in `-oj`, za mehkim soglasnikom postanejo `-e`, `-ev`, `-em`, `-ego`  in `-ej`.
-Zaradi pravila `o`/`e`  imamo :isv[morje] v primerjavi z :isv[okno], :isv[krajev]  v primerjavi z :isv[gradov] in :isv[čego] v primerjavi z :isv[kogo].
-Isti mehanizem deluje tudi v kombinaciji s priponami, kot sta `-ost`, `-ovati`  in `-ovy`, na primer: :isv[svěžest́], :isv[nočevati].
+Tako končnice, kot sta `-o`, `-ov`, `-om`, `-ogo` in `-oj`, za mehkim soglasnikom postanejo `-e`, `-ev`, `-em`, `-ego` in `-ej`.
+Zaradi pravila `o`/`e` imamo :isv[morje] v primerjavi z :isv[okno], :isv[krajev] v primerjavi z :isv[gradov] in :isv[čego] v primerjavi z :isv[kogo].
+Isti mehanizem deluje tudi v kombinaciji s priponami, kot sta `-ost`, `-ovati` in `-ovy`, na primer: :isv[svěžest́], :isv[nočevati].
 
 #### `Y` > `I`/`E` \{#y--ie}
 
 V južnoslovanščini in ukrajinščini, pa tudi v govorjeni češčini in slovaščini sta se `i` in `y` združila v en samoglasnik.
-V medslovanščini je izgovorjava `y` torej lahko :ipa[i], :ipa[ɪ], :ipa[ɨ]  ali karkoli vmes.
+V medslovanščini je izgovorjava `y` torej lahko :ipa[i], :ipa[ɪ], :ipa[ɨ] ali karkoli vmes.
 Pomembno pa je, da se `y` lahko pojavi _samo_ za trdim soglasnikom in torej ne za mehkim soglasnikom (`š` `ž` `č` `dž` `c` `lj` `nj` `j`), za samoglasnikom ali besedo - na začetku.
 Ker ima `y` vidno vlogo pri medslovanskem sklanjanju, ima zaradi te omejitve večina sklanjatev trdo in mehko različico.
 
@@ -177,7 +176,7 @@ Pri sklanjanju pridevnikov in zaimkov se velike črke na `y` spremenijo v `i` za
 Iz tega razloga imamo pridevnike, kot je :isv[svěž-**i**], skupaj s pridevniki, kot je :isv[dobr-**y**], in zaimenske oblike, kot je :isv[moj-**ih**], skupaj z oblikami, kot je :isv[jegov-**yh**].
 
 Pri samostalniški sklanjatvi pa je mehka protipostavka `y` vedno `e`.
-Na primer: :abbr[m.pl.] :isv[dom-**y**]  proti :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**]  proti :isv[zemj-**e**].
+Na primer: :abbr[m.pl.] :isv[dom-**y**] proti :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**] proti :isv[zemj-**e**].
 
 Ker več slovanskih jezikov sploh ne razlikuje med `i` in `y`, je zamenjava vseh pojavitev `y` z `i` sprejemljiva poenostavitev v pisni medslovanski jezik.
 
@@ -195,16 +194,16 @@ V večini primerov se ta samoglasnik pojavi v besedah, ki bi se sicer končale n
 Bežna `o` in `e` (v etimološki abecedi označena s piko: `ȯ` in `ė`) se pojavljata predvsem v naslednjih primerih:
 
 - v imenovalniku (in pri neživih samostalnikih tožilniku) ednini samostalnikov moškega rodu, zlasti tistih, ki se končajo na `-ec` in `-ok`, pa tudi nekaterih drugih samostalnikov:
-  :abbr[nom.sg.] :isv[ot**ė**c]  „oče” > :abbr[gen.sg.] :isv[otca]
-  :abbr[nom.sg.] :isv[pěs**ȯ**k]  „pesek” > ​​:abbr[gen.sg.] :isv[pěska]
-  :abbr[nom.sg.] :isv[p**ė**s]  „pes” > :abbr[gen.sg.] :isv[psa]
-  :abbr[nom.sg.] :isv[s**ȯ**n]  „sanje” > :abbr[gen.sg.] :isv[sna]
-  :abbr[nom.sg.] :isv[kr**ȯ**v]  „kri” > :abbr[gen.sg.] :isv[krvi]
+  :abbr[nom.sg.] :isv[ot**ė**c] „oče” > :abbr[gen.sg.] :isv[otca]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „pesek” > ​​:abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[p**ė**s] „pes” > :abbr[gen.sg.] :isv[psa]
+  :abbr[nom.sg.] :isv[s**ȯ**n] „sanje” > :abbr[gen.sg.] :isv[sna]
+  :abbr[nom.sg.] :isv[kr**ȯ**v] „kri” > :abbr[gen.sg.] :isv[krvi]
 - v rodilniku množine samostalnikov ženskega in srednjega rodu, ki bi se sicer končali na soglasniški sklop:
-  :abbr[nom.sg.] :isv[okno]  „okno” > :abbr[gen.pl.] :isv[ok**ė**n]
-  :abbr[nom.sg.] :isv[miska]  „skleda” > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  :abbr[nom.sg.] :isv[okno] „okno” > :abbr[gen.pl.] :isv[ok**ė**n]
+  :abbr[nom.sg.] :isv[miska] „skleda” > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - v imenovalniških edninskih moških oblikah nekaterih zaimkov:
-  :abbr[m.nom.sg.] :isv[v**ė**ś]  „vse, celotno”, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „vse, celotno”, :abbr[f.nom.sg.] :isv[vśa]
 - pred določenimi priponami:
   :isv[piśmo] „pismo, skripta” > :isv[pis**ė**mny] „napisano, pisno”
 - predloga :isv[s] in :isv[v], kadar stojita pred določenimi zaimki ali soglasniškimi skupinami ali kadar se uporabljata kot predpona pred samoglasnikom ali soglasniškim sklopom:
@@ -214,5 +213,3 @@ Bežna `o` in `e` (v etimološki abecedi označena s piko: `ȯ` in `ė`) se poja
   _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „za vstop”.
 
 [1]: orthography.md#etymological_alphabet
-
-

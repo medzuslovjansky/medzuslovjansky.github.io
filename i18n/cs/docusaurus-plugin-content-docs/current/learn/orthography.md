@@ -6,16 +6,6 @@ original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.jsx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
-
 # Pravopis
 
 ## Standardní abeceda \{#standard-alphabet}
@@ -26,11 +16,13 @@ Protože hranice mezi latinkou a azbukou prochází přímo středem slovanskéh
 
 **Mezislovanská latinka** používá 27 písmen: 23 písmen ze základní latinské abecedy (všechny kromě `q`, `w` a `x`) plus čtyři souhlásky s karon (`š`, `ž`, `č` a `ě`) a také tři digrafy (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 **Mezislovanská azbuka** má 29 písmen: všechny znaky, které mají různé cyrilické pravopisy společné, s přidáním `є`, `ы`, `ј` , `љ`, `њ` a také jeden digraf (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Oba pravopisy jsou rovnocenné a v publikovaných textech si zaslouží doporučení uvádět verze v latince i azbuce, aby byly srozumitelné na obou stranách hranice.
 
@@ -75,7 +67,8 @@ Protějšky `lj` a `nj` v azbuce jsou `љ` a `њ`, převzaté také ze srbské a
 
 Kromě standardní latinské abecedy obsahuje interslovanština také řadu nepovinných písmen, která odkazují konkrétně na praslovanské/staroslovanské fonémy, které se ve většině moderních jazyků rozcházely nebo zmizely:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Samohlásky `ę` a `ų` se shodují s nosovými samohláskami `ѧ` a `ѫ` ve staroslověnštině (obvykle malé yus a velké yus přepsáno jako `ę` a `ǫ`).
 - Samohláska `å` se vyskytuje v kombinacích `rå` a `lå` následovaná souhláskou, kde polština má **`ro`/`ró`** a **`ło`/`łó`** a východní slovanština má **(`o`)`ro`** a **(`o`)`lo`**.
@@ -119,14 +112,8 @@ V latinské abecedě jsou další etymologické informace zprostředkovány pouz
 
 Následující tabulka ukazuje shody mezi písmeny uvedenými výše (doporučené alternativní pravopisy jsou zobrazeny šedě v závorkách). [transliterátor][5] umožňuje přepis mezi latinkou a azbukou.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+:::component{name=MDOrthography4}
+:::
 
 ## Pokyny \{#guidelines}
 
@@ -142,11 +129,7 @@ Abych to shrnul, existuje několik možností, jak napsat stejné slovo. Obecná
 - Když oslovujete příslušníky určitého slovanského národa (například když cestujete), můžete zvážit [ochucení své mezislovanštiny][4]. V multislovanském prostředí však aromatizaci nepoužívejte.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

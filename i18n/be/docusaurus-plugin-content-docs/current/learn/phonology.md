@@ -6,10 +6,6 @@ original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Фаналогія
 
 ## Пералік фанем \{#phoneme-inventory}
@@ -42,7 +38,8 @@ import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
 Дыякрытычныя знакі звычайна не пішуцца.
 Аднак у флаварызаваных версіях міжславянскай мовы `å` можна пісаць і вымаўляць як `o`, `ę`, як `ja`, `ȯ`, як `e`, і `y`, як `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 У міжславянскай мове ёсць таксама складовыя `r` і `ŕ` (апошні належыць да неабавязковага набору).
 Выкарыстоўваецца `ŕ` у тым выпадку, калі перад ім стаіць зычная, а пасля _не_ ідзе галосная.
@@ -52,7 +49,8 @@ import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
 
 Ёсць 23 асноўныя зычныя (у тым ліку 3 афрыкаты і 2 палаталізаваныя альвеалярныя) з больш-менш фіксаваным вымаўленнем, а таксама 7 факультатыўных зычных са зменным вымаўленнем:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Цвёрдыя і мяккія зычныя \{#hard-and-soft-consonants}
 
@@ -154,7 +152,8 @@ _Палаталізацыя_ азначае, што пры пэўных умов
 
 Адрозненні паміж змякчанымі, паталізаванымі і ётаванымі зычнымі дэманструюцца ў наступнай табліцы (зноў фанемы, пазначаныя шэрым колерам, — неабавязковыя):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -205,7 +204,7 @@ _Палаталізацыя_ азначае, што пры пэўных умов
    :abbr[nom.sg.] :isv[okno] „акно” > :abbr[gen.pl.] :isv[ok**ė**n]
    :abbr[nom.sg.] :isv[miska] „міска” > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - у формах назоўнага склону адзіночнага ліку асобных займеннікаў мужчынскага роду:
-   :abbr[m.nom.sg.] :isv[v**ė**ś] „усё, увесь”, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „усё, увесь”, :abbr[f.nom.sg.] :isv[vśa]
 - перад некаторымі суфіксамі:
    :isv[piśmo] „ліст, пісьмо” > :isv[pis**ė**mny] „пісьмовы”
 - прыназоўнікі :isv[s] і :isv[v], калі стаяць перад некаторымі займеннікамі або групамі зычных, або калі выкарыстоўваюцца ў якасці прэфікса перад галоснымі або групамі зычных:

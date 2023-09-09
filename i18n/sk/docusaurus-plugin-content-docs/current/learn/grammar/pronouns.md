@@ -6,22 +6,16 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-import VesIsInflected from '@site/src/markdown/ves-is-inflected.mdx';
-import KtoPronouns from '@site/src/markdown/kto-pronouns.mdx';
-import TojPronouns from '@site/src/markdown/toj-pronouns.mdx';
-import MojPronouns from '@site/src/markdown/moj-pronouns.mdx';
-import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
-
 # Zámená
 
 ## Osobné a zvratné zámená \{#personal-and-reflexive-pronouns}
 
-Osobné zámená majú šesť pádov — rovnaké ako podstatné mená, ale bez vokatívu. Zvratné zámeno `sebe` sa skloňuje ako **`ty`, `tebe`,  ...**, len s tým rozdielom, že nemá nominatív.
+Osobné zámená majú šesť pádov — rovnaké ako podstatné mená, ale bez vokatívu. Zvratné zámeno `sebe` sa skloňuje ako **`ty`, `tebe`, ...**, len s tým rozdielom, že nemá nominatív.
 
 Formy medzi zátvorkami sú klitické formy, t.j. sú slabšie a vždy neprízvučné. `Se` sa používa v zvratných slovesách: :isv[Ja myju se] „umývam sa“. Ak je to potrebné, používa sa dlhší tvar: :isv[Ja myju jedino sebe] „Neumývam nikoho okrem seba“. Po predložke je lepšie použiť dlhšie tvary: :isv[k mně], _`za tebe`_.
 
-<PersonalAndReflexivePronouns />
+:::component{name=MDPronouns1}
+:::
 
 Poznámky:
 
@@ -59,9 +53,10 @@ Vždy, keď je predmetom vety aj vlastník, použije sa zvratné `svoj`, bez oh�
 
 Existujú aj opytovacie, určité a neurčité privlastňovacie zámená: `čij` „čí“, `ničij` „niktoho“, `něčij` „niekoho“ atď. Skloňujú sa ako `moj`. Ďalšie formuláre nájdete v časti o [súvislosti][2].
 
-Rovnako ako prídavné mená, privlastňovacie zámená zodpovedajú podstatnému menu, ktoré modifikujú v rode, čísle a páde. Okrem nominatívu mužského rodu a akuzatívu jednotného čísla je ich skloňovanie rovnaké ako pri prídavných menách (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ ako :isv[svěži]; :isv[jegov], :isv[jejin]  a :isv[jihny] páči sa mi _`dobry`_):
+Rovnako ako prídavné mená, privlastňovacie zámená zodpovedajú podstatnému menu, ktoré modifikujú v rode, čísle a páde. Okrem nominatívu mužského rodu a akuzatívu jednotného čísla je ich skloňovanie rovnaké ako pri prídavných menách (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ ako :isv[svěži]; :isv[jegov], :isv[jejin] a :isv[jihny] páči sa mi _`dobry`_):
 
-<MojPronouns />
+:::component{name=MDPronouns2}
+:::
 
 ## Ukazovacie zámená \{#demonstrative-pronouns}
 
@@ -69,26 +64,28 @@ Primárne ukazovacie zámeno je `toj` „toto, tamto“ a malo by sa použiť v�
 
 Ak potrebujeme byť presnejší, najjednoduchším riešením je použiť `tutoj` pre „toto“ a `tamtoj` pre „tamto“. Odmietajú sa takto:
 
-<TojPronouns />
+:::component{name=MDPronouns3}
+:::
 
 Poznámky:
 
 1. Menej jednoduché, ale historicky presnejšie je nasledujúce trojstranné rozlíšenie: `sej` (predtým `sa`, č. `se`) pre „toto“, `toj` pre „to“ a `onoj` pre „tamto“. Malo by sa však pamätať na to, že `sej` prakticky vymizol z väčšiny moderných jazykov s výnimkou niekoľkých fosílnych zvyškov. Preto to nemusí byť vždy jasné.
 2. Ďalšie ukazovacie zámeno je `ov`, čo znamená to isté ako `sej`. Jeho význam je však v moderných jazykoch veľmi odlišný.
-3. `Tutoj`, `tamtoj`, `ov`  a `onoj` sú odmietnuté ako `toj`.
-4. Namiesto množných čísel `tyh`, `tym`  a `tymi` sa niekedy môžeme stretnúť s `těh`, `těm`  a `těmi`.
+3. `Tutoj`, `tamtoj`, `ov` a `onoj` sú odmietnuté ako `toj`.
+4. Namiesto množných čísel `tyh`, `tym` a `tymi` sa niekedy môžeme stretnúť s `těh`, `těm` a `těmi`.
 
 ## Vzťahové zámená \{#relative-pronouns}
 
 Relatívne zámeno, ktoré sa používa najčastejšie, je `ktory`. Skloňuje sa ako obyčajné prídavné meno. Alternatívne možno použiť aj juhoslovanské `koj` (skloňuje sa ako `moj`). Ich významy sú identické a možno ich používať zameniteľne.
 
-Treťou možnosťou je archaickejšie `iže` – používané v nominatíve pre všetky rody, jednotné aj množné; v ostatných prípadoch sa skloňuje ako tvar osobného zámena `on/ona/ono` s príponou `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže`  atď.
+Treťou možnosťou je archaickejšie `iže` – používané v nominatíve pre všetky rody, jednotné aj množné; v ostatných prípadoch sa skloňuje ako tvar osobného zámena `on/ona/ono` s príponou `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže` atď.
 
 ## Opytovacie zámená \{#interrogative-pronouns}
 
 Opytovacie zámená sú `kto` „kto“ a `čto` (alebo `što`) „čo“. Skloňujú sa takto:
 
-<KtoPronouns />
+:::component{name=MDPronouns4}
+:::
 
 Opytovacie determinanty sú `koj` (skloňuje sa ako `moj`) „ktorý“ (namiesto toho možno použiť aj `ktory`), privlastňovacie zámeno `čij` „čí“ (pozri vyššie) a prídavné meno `kaky` „ aký druh“.
 
@@ -98,7 +95,7 @@ Ide o veľkú skupinu zámen a determinantov, z ktorých väčšina je odvodená
 
 Vzťahujúce sa na všetky položky (univerzálne) (`vs-`): `vsi` alebo `vsekto` „všetci, všetci“, `vse` alebo `vsečto` „všetko“; `ves` (f. `vsa`, č. `vse` „celý, celý; všetko“); `cěly` „celý, celý“; `vsaky` „každý, každý“; `vsekaky` „každý druh, všetky druhy“; `vsečij` „všetkých“.
 
-S odkazom na žiadne položky (záporné) (`ni-`): `nikto` „nikto, nikto“, `ničto` „nič“, `nikoj`, `nijedin`  a `nikaky` „ani jeden, nikto“, `ničij` „nikto nie je “.
+S odkazom na žiadne položky (záporné) (`ni-`): `nikto` „nikto, nikto“, `ničto` „nič“, `nikoj`, `nijedin` a `nikaky` „ani jeden, nikto“, `ničij` „nikto nie je “.
 
 Odkazuje na jednu nešpecifikovanú položku (`ně-`): `někto` „niekto, niekto“, `něčto` „niečo“, `někoj` „nejaký“, `někaky` „nejaký druh“, `něčij` „niekoho, niekoho “.
 
@@ -106,19 +103,21 @@ S odkazom na niekoľko nešpecifikovaných položiek (`poně–`): `poněkoj` �
 
 S odkazom na veľkú skupinu položiek: `mnogy` „veľa, veľa, veľa“.
 
-Odkazujúc na ktoréhokoľvek člena skupiny (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud`  „ktokoľvek, ktokoľvek“, `čtokoli`, `libočto`, `čto-nebud`  „čokoľvek“; `kojkoli`, `libokoj`, `koj-nebud`  „akýkoľvek“, `kakykoli`, `libokaky`, `kaky-nebud`  „akýkoľvek druh“; `čijkoli`, `libočij`, `čij-nebud`  „kohokoľvek, kohokoľvek“. Na označenie ľahostajnosti možno použiť príslovku `bylo`: `bylo kto` „bez ohľadu na to, kto, len ktokoľvek“, `bylo čto` „bez ohľadu na to“, atď.
+Odkazujúc na ktoréhokoľvek člena skupiny (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud` „ktokoľvek, ktokoľvek“, `čtokoli`, `libočto`, `čto-nebud` „čokoľvek“; `kojkoli`, `libokoj`, `koj-nebud` „akýkoľvek“, `kakykoli`, `libokaky`, `kaky-nebud` „akýkoľvek druh“; `čijkoli`, `libočij`, `čij-nebud` „kohokoľvek, kohokoľvek“. Na označenie ľahostajnosti možno použiť príslovku `bylo`: `bylo kto` „bez ohľadu na to, kto, len ktokoľvek“, `bylo čto` „bez ohľadu na to“, atď.
 
 S odkazom na inú položku skupiny (`in-`): `inokto` „niekto iný“, `inočto` „niečo iné“, `iny` „iný“, `inočij` „niekoho iného“.
 
-:isv[Vsekto], `nikto`, `něčto`, `čtokoli`  atď. sa skloňujú ako `kto` a `čto`. Podobne `nikoj`, `něčij`  atď. sa skloňujú ako `koj` a `čij` (a teda ako `moj`). `Ves` sa skloňuje takto:
+:isv[Vsekto], `nikto`, `něčto`, `čtokoli` atď. sa skloňujú ako `kto` a `čto`. Podobne `nikoj`, `něčij` atď. sa skloňujú ako `koj` a `čij` (a teda ako `moj`). `Ves` sa skloňuje takto:
 
-<VesIsInflected />
+:::component{name=MDPronouns5}
+:::
 
 ## Zámenné príslovky \{#pronominal-adverbs}
 
 Jedným z najlepších Zamenhofových vynálezov bola jeho **tabuľka korelatív**, skupina vzájomne súvisiacich zámen, prídavných mien a prísloviek. Slová sa tam zachovali čo najpravidelnejšie, ale nie na úkor rozoznateľnosti pre ľudí, ktorí hovoria slovanskými jazykmi. Niekoľko prakticky nemožných slov bolo vynechaných a niekoľko ďalších pravidelných tvarov bolo nahradených tvarmi, ktoré sú bežné v prirodzených jazykoch. Nepravidelné tvary (t. j. nevyzerajú tak, ako by mali podľa tabuľky) sú zobrazené _**kurzívou**_.
 
-<PronominalAdverbs />
+:::component{name=MDPronouns6}
+:::
 
 Poznámky:
 
@@ -126,6 +125,4 @@ Poznámky:
 - Vo všetkých prípadoch, keď sa objaví `-gda`, `-gdy` možno použiť zameniteľne.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-
-[2]: \#pronominal_adverbs
-
+[2]: #pronominal_adverbs

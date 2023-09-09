@@ -6,22 +6,16 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-import VesIsInflected from '@site/src/markdown/ves-is-inflected.mdx';
-import KtoPronouns from '@site/src/markdown/kto-pronouns.mdx';
-import TojPronouns from '@site/src/markdown/toj-pronouns.mdx';
-import MojPronouns from '@site/src/markdown/moj-pronouns.mdx';
-import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
-
 # Zájmena
 
 ## Osobní a zvratná zájmena \{#personal-and-reflexive-pronouns}
 
-Osobní zájmena mají šest pádů — stejně jako podstatná jména, ale bez vokativu. Zvratné zájmeno `sebe` se skloňuje jako **`ty`, `tebe`,  ...**, jen s tím rozdílem, že nemá nominativ.
+Osobní zájmena mají šest pádů — stejně jako podstatná jména, ale bez vokativu. Zvratné zájmeno `sebe` se skloňuje jako **`ty`, `tebe`, ...**, jen s tím rozdílem, že nemá nominativ.
 
 Formy mezi závorkami jsou klitické formy, tj. jsou slabší a vždy nepřízvučné. `Se` se používá u zvratných sloves: :isv[Ja myju se] „peru se“. Pokud je třeba zdůraznit, používá se delší forma: :isv[Ja myju jedino sebe] „Nemyji nikoho kromě sebe“. Po předložce je lepší používat delší tvary: :isv[k mně], _`za tebe`_.
 
-<PersonalAndReflexivePronouns />
+:::component{name=MDPronouns1}
+:::
 
 Poznámky:
 
@@ -59,9 +53,10 @@ Kdykoli je podmětem věty i vlastník, použije se zvratné `svoj`, bez ohledu 
 
 Existují také přivlastňovací zájmena tázací, určitá a neurčitá: `čij` „čí“, `ničij` „nikdo není“, `něčij` „něčí“ atd. Skloňují se jako `moj`. Další formuláře naleznete v části o [souvztažné údaje][2].
 
-Stejně jako přídavná jména korespondují přivlastňovací zájmena s podstatným jménem, ​​které modifikují v rodu, čísle a pádu. S výjimkou nominativu mužského rodu a akuzativu jednotného čísla je jejich skloňování totožné se skloňováním adjektiv (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ jako :isv[svěži]; :isv[jegov], :isv[jejin]  a :isv[jihny] to se mi líbí _`dobry`_):
+Stejně jako přídavná jména korespondují přivlastňovací zájmena s podstatným jménem, ​​které modifikují v rodu, čísle a pádu. S výjimkou nominativu mužského rodu a akuzativu jednotného čísla je jejich skloňování totožné se skloňováním adjektiv (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ jako :isv[svěži]; :isv[jegov], :isv[jejin] a :isv[jihny] to se mi líbí _`dobry`_):
 
-<MojPronouns />
+:::component{name=MDPronouns2}
+:::
 
 ## Ukazovací zájmena \{#demonstrative-pronouns}
 
@@ -69,26 +64,28 @@ Primární ukazovací zájmeno je `toj` „toto, tamto“ a mělo by se použív
 
 Pokud potřebujeme být přesnější, nejjednodušším řešením je použití `tutoj` pro „toto“ a `tamtoj` pro „tamto“. Jsou odmítnuty takto:
 
-<TojPronouns />
+:::component{name=MDPronouns3}
+:::
 
 Poznámky:
 
 1. Méně jednoduché, ale historicky přesnější je následující třícestné rozlišení: `sej` (dř. `sa`, č. `se`) pro „toto“, `toj` pro „to“ a `onoj` pro „tamto“. Je však třeba mít na paměti, že `sej` prakticky zmizelo z většiny moderních jazyků až na několik zkamenělých zbytků. Proto to nemusí být vždy jasné.
 2. Dalším ukazovacím zájmenem je `ov`, což znamená totéž jako `sej`. Jeho význam je však v moderních jazycích velmi odlišný.
-3. `Tutoj`, `tamtoj`, `ov`  a `onoj` jsou odmítnuty jako `toj`.
-4. Místo množných čísel `tyh`, `tym`  a `tymi` se někdy můžete setkat s `těh`, `těm`  a `těmi`.
+3. `Tutoj`, `tamtoj`, `ov` a `onoj` jsou odmítnuty jako `toj`.
+4. Místo množných čísel `tyh`, `tym` a `tymi` se někdy můžete setkat s `těh`, `těm` a `těmi`.
 
 ## Vztažná zájmena \{#relative-pronouns}
 
 Vztažné zájmeno, které se používá nejčastěji, je `ktory`. Skloňuje se jako obyčejné přídavné jméno. Alternativně lze také použít jihoslovanské `koj` (skloňuje se jako `moj`). Jejich význam je stejný a lze je používat zaměnitelně.
 
-Třetí možností je archaičtější `iže` – používá se v nominativu pro všechny rody, jednotné i množné; v ostatních případech se skloňuje jako tvar osobního zájmena `on/ona/ono` s příponou `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže`  atd.
+Třetí možností je archaičtější `iže` – používá se v nominativu pro všechny rody, jednotné i množné; v ostatních případech se skloňuje jako tvar osobního zájmena `on/ona/ono` s příponou `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže` atd.
 
 ## Tázací zájmena \{#interrogative-pronouns}
 
 Tázací zájmena jsou `kto` „kdo“ a `čto` (nebo `što`) „co“. Skloňují se takto:
 
-<KtoPronouns />
+:::component{name=MDPronouns4}
+:::
 
 Tázacími determinanty jsou `koj` (skloňuje se jako `moj`) „který“ (místo toho lze použít i `ktory`), přivlastňovací zájmeno `čij` „jehož“ (viz výše) a přídavné jméno `kaky` „ jaký druh".
 
@@ -98,7 +95,7 @@ Jedná se o velkou skupinu zájmen a determinantů, z nichž většina je odvoze
 
 Vztahující se na všechny položky (univerzální) (`vs-`): `vsi` nebo `vsekto` „všichni, všichni“, `vse` nebo `vsečto` „vše“; `ves` (dř. `vsa`, č. `vse` „celý, celý; vše“); `cěly` „celý, celý“; `vsaky` „každý, každý“; `vsekaky` „každý druh, všechny druhy“; `vsečij` „všechny“.
 
-S odkazem na žádné položky (záporné) (`ni-`): `nikto` „nikdo, nikdo“, `ničto` „nic“, `nikoj`, `nijedin`  a `nikaky` „ani jeden, nikdo“, `ničij` „nikdo není “.
+S odkazem na žádné položky (záporné) (`ni-`): `nikto` „nikdo, nikdo“, `ničto` „nic“, `nikoj`, `nijedin` a `nikaky` „ani jeden, nikdo“, `ničij` „nikdo není “.
 
 Odkazující na jednu blíže nespecifikovanou položku (`ně-`): `někto` „někdo, někdo“, `něčto` „něco“, `někoj` „nějaký“, `někaky` „nějaký“, `něčij` „něčí, něčí “.
 
@@ -106,19 +103,21 @@ Odkazující na několik nespecifikovaných položek (`poně–`): `poněkoj` �
 
 S odkazem na velkou skupinu položek: `mnogy` „mnoho, mnoho, mnoho“.
 
-Odkazování na kteréhokoli člena skupiny (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud`  „kdokoli, kdokoli“, `čtokoli`, `libočto`, `čto-nebud`  „cokoli“; `kojkoli`, `libokoj`, `koj-nebud`  „jakýkoli“, `kakykoli`, `libokaky`, `kaky-nebud`  „jakýkoli druh“; `čijkoli`, `libočij`, `čij-nebud`  „kohokoli, kohokoli“. K vyjádření lhostejnosti lze použít příslovce `bylo`: `bylo kto` „bez ohledu na to, kdo, jen kdokoli“, `bylo čto` „bez ohledu na to“, atd.
+Odkazování na kteréhokoli člena skupiny (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud` „kdokoli, kdokoli“, `čtokoli`, `libočto`, `čto-nebud` „cokoli“; `kojkoli`, `libokoj`, `koj-nebud` „jakýkoli“, `kakykoli`, `libokaky`, `kaky-nebud` „jakýkoli druh“; `čijkoli`, `libočij`, `čij-nebud` „kohokoli, kohokoli“. K vyjádření lhostejnosti lze použít příslovce `bylo`: `bylo kto` „bez ohledu na to, kdo, jen kdokoli“, `bylo čto` „bez ohledu na to“, atd.
 
 Odkazování na jinou položku skupiny (`in-`): `inokto` „někdo jiný“, `inočto` „něco jiného“, `iny` „jiný“, `inočij` „někdo jiný“.
 
-:isv[Vsekto], `nikto`, `něčto`, `čtokoli`  atd. se skloňují jako `kto` a `čto`. Podobně `nikoj`, `něčij`  atd. se skloňují jako `koj` a `čij` (a tedy jako `moj`). `Ves` se skloňuje takto:
+:isv[Vsekto], `nikto`, `něčto`, `čtokoli` atd. se skloňují jako `kto` a `čto`. Podobně `nikoj`, `něčij` atd. se skloňují jako `koj` a `čij` (a tedy jako `moj`). `Ves` se skloňuje takto:
 
-<VesIsInflected />
+:::component{name=MDPronouns5}
+:::
 
 ## Zájmenná příslovce \{#pronominal-adverbs}
 
 Jedním z nejlepších Zamenhofových vynálezů byla jeho **tabulka souvztažností**, skupina vzájemně souvisejících zájmen, přídavných jmen a příslovcí. Slova tam byla zachována co nejpravidelnější, ale ne na úkor rozeznatelnosti pro mluvčí slovanských jazyků. Několik prakticky nemožných slov bylo vynecháno a několik dalších pravidelných tvarů bylo nahrazeno tvary, které jsou běžné v přirozených jazycích. Nepravidelné tvary (tj. nevypadají tak, jak by podle tabulky měly) jsou zobrazeny _**kurzívou**_.
 
-<PronominalAdverbs />
+:::component{name=MDPronouns6}
+:::
 
 Poznámky:
 
@@ -126,6 +125,4 @@ Poznámky:
 - Ve všech případech, kdy se objeví `-gda`, lze `-gdy` používat zaměnitelně.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-
-[2]: \#pronominal_adverbs
-
+[2]: #pronominal_adverbs

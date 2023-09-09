@@ -6,9 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/numerals.html
 ---
 
-import Numbers24 from '@site/src/markdown/numbers-2-4.mdx';
-import Numbers599 from '@site/src/markdown/numbers-5-99.mdx';
-
 # Cyfry
 
 ## Liczby główne \{#cardinal-numbers}
@@ -50,7 +47,8 @@ Poza mianownikiem rodzaju męskiego liczby pojedynczej, wyraz `jedin` „jeden�
 
 Liczby te są odrzucane w nieco nieznany sposób, ponieważ ich wzory pokazują pozostałości starożytnej liczby podwójnej. Tylko `dva` „dwa” ma rozróżnienie rodzaju, choć tylko w mianowniku/bierniku.
 
-<Numbers24 />
+:::component{name=MDNumerals1}
+:::
 
 Rodzaj nijaki od „2” to `dva` w języku rosyjskim, białoruskim, ukraińskim, polskim, kaszubskim i serbochorwackim, `dvě` w staro-cerkiewnosłowiańskim, czeskim, słowackim, górno- i dolnołużyckim, słoweńskim, macedońskim, bułgarskim i rusińskim. W języku międzysłowiańskim obie opcje są jednakowo ważne.
 
@@ -60,7 +58,8 @@ Odmienne jak `dva` są też słowa `oba` i `obydva` „oboje”, „dwa z”.
 
 Liczby `pet` i wyższe są odmieniane jak rzeczowniki we wzorze _`kost`_. Podmiot zawsze pozostaje w dopełniaczu liczby mnogiej. Przykłady:
 
-<Numbers599 />
+:::component{name=MDNumerals2}
+:::
 
 #### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
 
@@ -122,25 +121,24 @@ Innym typem liczebników multiplikatywnych są przysłówki, utworzone przez dod
 
 ## Liczby różniczkowe \{#differential-numbers}
 
-Jeszcze inną grupą przymiotników opartych na liczbach są liczby różniczkowe (jakościowe, rodzajowe). Odnoszą się one do jakościowego zróżnicowania omawianych pozycji i można je przetłumaczyć jako „różne rodzaje”. Stara forma (ponownie oparta na liczbach zbiorowych) to `dvoj`, `troj`  (odmieniana jak zaimek dzierżawczy `moj`).
+Jeszcze inną grupą przymiotników opartych na liczbach są liczby różniczkowe (jakościowe, rodzajowe). Odnoszą się one do jakościowego zróżnicowania omawianych pozycji i można je przetłumaczyć jako „różne rodzaje”. Stara forma (ponownie oparta na liczbach zbiorowych) to `dvoj`, `troj` (odmieniana jak zaimek dzierżawczy `moj`).
 
-Jednak bardziej powszechne i mniej mylące ma zakończenie `-aky`: `dvojaky`, `trojaky`, `četveraky`, `peteraky`,  itd.: :isv[dvojake knigy] „dwa rodzaje książek”. Działa to również dla liczb nieokreślonych: `kolikoraky` „ile rodzajów”.
+Jednak bardziej powszechne i mniej mylące ma zakończenie `-aky`: `dvojaky`, `trojaky`, `četveraky`, `peteraky`, itd.: :isv[dvojake knigy] „dwa rodzaje książek”. Działa to również dla liczb nieokreślonych: `kolikoraky` „ile rodzajów”.
 
 Po przysłówku znaczenie przybiera coś w rodzaju „na X sposobów”: `trojako` „na trzy sposoby”.
 
 ## Uzasadnione liczby \{#substantivised-numbers}
 
-Czasami liczby są używane jako rzeczowniki, na przykład gdy odnosimy się do rysunku lub rzeźby numeru, autobusu, kanału radiowego lub telewizyjnego, oceny w szkole, banknotu lub karty do gry. Można to po prostu przetłumaczyć jako „a trójka”, „piątka” itd. W przypadku liczb 2-4 dokonuje się tego przez dodanie końcówki `-ka` do tematu liczebnika zbiorowego, w pozostałych przypadkach do liczba główna: `jedinka`, `dvojka`, `trojka`, `četverka`, `petka`, `šestka`,  itd.
+Czasami liczby są używane jako rzeczowniki, na przykład gdy odnosimy się do rysunku lub rzeźby numeru, autobusu, kanału radiowego lub telewizyjnego, oceny w szkole, banknotu lub karty do gry. Można to po prostu przetłumaczyć jako „a trójka”, „piątka” itd. W przypadku liczb 2-4 dokonuje się tego przez dodanie końcówki `-ka` do tematu liczebnika zbiorowego, w pozostałych przypadkach do liczba główna: `jedinka`, `dvojka`, `trojka`, `četverka`, `petka`, `šestka`, itd.
 
-Alternatywnie można również użyć końcówki `-ica`, ale to nie działa we wszystkich przypadkach: `jedinica`, `petica`, `šestica`, `sedmica`  itd.
+Alternatywnie można również użyć końcówki `-ica`, ale to nie działa we wszystkich przypadkach: `jedinica`, `petica`, `šestica`, `sedmica` itd.
 
 ## Narodziny bliźniaków \{#twin-births}
 
 Nieco szczególnym przypadkiem jest liczba dzieci od urodzenia: bliźnięta, trojaczki, czworaczki, pięcioraczki itp. Języki słowiańskie wyrażają to na różne sposoby:
 
-- wschodniosłowiański: `-ne` (lm. `-neta`) – `dvojne`, `trojne`, `četverne`, `peterne`  (1 z 2, 3, 4, 5)
+- wschodniosłowiański: `-ne` (lm. `-neta`) – `dvojne`, `trojne`, `četverne`, `peterne` (1 z 2, 3, 4, 5)
 - Czecho-Slovak: `-če` (pl. `-četa`) - `dvojče`, `trojče`, `četverče`, `peterče`
 - polski: `-ak` - `dvojak`, `trojak`, `četverak`, `peterak`
 - słoweński: `-ček` – `dvojček`, `trojček`, `četverček`, `peterček`
 - południowosłowiański: `-ka` - `dvojka`, `trojka`, `četverka`, `peterka`
-

@@ -2,17 +2,12 @@
 sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
-origin: http://steen.free.fr/interslavic/slovianto.html
+origin: http://steen.free.fr/interslavic/slovianto2.html
 description: Gender, nouns, adjectives, verbs
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-
-import VerbsPresentTense from '@site/src/markdown/verbs-present-tense.mdx';
-import VerbsPastTense from '@site/src/markdown/verbs-past-tense.mdx';
-import VerbsImperative from '@site/src/markdown/verbs-imperative.mdx';
-import VerbsToBe from '@site/src/markdown/verbs-to-be.mdx';
 
 # Level 2
 
@@ -124,7 +119,8 @@ The same thing that goes for adjectives, goes also for possessive, demonstrative
 
 ### Present tense
 
-<VerbsPresentTense />
+:::component{name=MDSimpleGrammar1}
+:::
 
 In `Slovianto` level 1 you have learned that the present tense is formed by adding the ending `-(e)t` to the stem: _`ja děla-t`_ "I do", _`vy prosi-t`_ "you ask", _`oni nes-et`_ "they carry". To the Slavic ear, however, this sounds unnatural, because all Slavic languages inflect their verbs for person and number. To make a better impression, there is a lot to be gained by learning some of these personal endings as well.
 
@@ -134,7 +130,8 @@ The ending `-š` and the personal pronoun `ty` should be used only for family, f
 
 ### Past tense
 
-<VerbsPastTense />
+:::component{name=MDSimpleGrammar2}
+:::
 
 In the past tense, verbs are not conjugated for person. However, they are conjugated for gender. This may seem odd, but the explanation is pretty simple: the form _`dělal`_ is actually a participle, meaning something like „having done”, and that's why it agrees with the subject in gender and number, but not in person. The forms are those shown in the table to the right.
 
@@ -148,13 +145,15 @@ The conditional is formed by adding the particle `by` to the past tense, and the
 
 ### Imperative
 
-<VerbsImperative />
+:::component{name=MDSimpleGrammar3}
+:::
 
 Apart from the imperative form you have already learned (the 2nd person plural), there are also imperative forms for the 2nd person singular and the 1st person plural. The endings are `-j` (2 sg.), `-jmo` (1 pl.) and `-jte` (2 pl.) after a vowel, and `-i` (2 sg.), `-imo` (1 pl.) and `-ite` (2 pl.) after a consonant. Thus, :isv[dělajte] means „do!” and can be directed at more people at once, but also serve as a more polite singular form, while :isv[dělaj] should only be used for friends, family and children. _`Dělajmo`_ means: „Let's do”.
 
 ### The verb „to be”
 
-<VerbsToBe />
+:::component{name=MDSimpleGrammar4}
+:::
 
 Since all the above also affects the only irregular verb in `Slovianto`, `byti` „to be”, here is its complete conjugation.
 
@@ -177,6 +176,7 @@ Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaj
     Of all the possible places where people live, the one I love most is a small village far from the noise of the city, with its small community. It does not have overcrowded flats, just small wooden cottages. It is a simple and picturesque place to live, with inhabitants whose faces are as familiar as the flowers in our garden. It is a secluded world with few people, closely united like ants in an ant-hill, or bees in a hive, or sheep in a fold, or nuns in a convent, or sailors on a ship – where everyone knows everyone and everyone is known by everyone, where everyone is interested in everyone, and everyone may hope that others are interested in him.
 
     How pleasant it would be to immerse oneself into this warm-hearted feeling of love and unknown habits, to get together and be friends with all these unique people around us! Just like we will know all the corners and turns of the shady streets and sunny meadows that we pass every day. The small social group, which is rural society, is what poetry and prose owe most to. A long, stretched out street, windingon a nice, warm day, crossing a large, broad road, full of cars and trucks. Would you like to travel with me, dear reader? The journey will not be long. We begin at the end of the valley and from there we will proceed up the hill.
+
   </TabItem>
 </Tabs>
 

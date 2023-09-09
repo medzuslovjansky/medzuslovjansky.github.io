@@ -5,10 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Fonologija
 
 ## Inventar fonema \{#phoneme-inventory}
@@ -39,9 +35,10 @@ Osnovni interslavenski ima 7 samoglasničkih fonema, od kojih pet (`a` `e` `i` `
 
 Osim toga, postoji 5 opcionih samoglasnika (`å` `ė` `ę` `ȯ` `ų`) čiji izgovor može varirati.
 Dijakritički znaci se obično ne pišu.
-Međutim, u verzijama Interslavic sa ukusom, `å` se može napisati i izgovarati kao `o`, `ę`  kao `ja`, `ȯ`  kao `e` i `y` kao `i`.
+Međutim, u verzijama Interslavic sa ukusom, `å` se može napisati i izgovarati kao `o`, `ę` kao `ja`, `ȯ` kao `e` i `y` kao `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Međuslavenski takođe ima slogove `r` i `ŕ` (potonji spada u neobavezni skup).
 Ovo je slučaj kada mu prethodi suglasnik, a _ne_ iza njega samoglasnik.
@@ -51,29 +48,30 @@ Izgovara se sa schwa ispred njega: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjə
 
 Postoje 23 osnovna suglasnika (uključujući 3 afrikata i 2 palatalizirana alveolara) sa manje ili više fiksnim izgovorom, kao i 7 izbornih suglasnika s promjenjivim izgovorom:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Tvrdi i meki suglasnici \{#hard-and-soft-consonants}
 
 Kao i svi slovenski jezici, međuslavenski razlikuje _tvrde_ i _meke_ suglasnike:
 
-- Tvrdi suglasnici su: labijali `p` `b` `f` `v` `m`,  tvrdi dentals/alveolars `t` `d` `s` `z` `n` `r` `l`,  i velari `k` `g` `h`.
-- Meki suglasnici su: postaveolari `š` `ž` `č` `dž`, , meki zubi/alveolari `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`,  i palatalni aproksimant `j`.
-- Afrikata `c` :ipa[t͡s]  se izgovara tvrdo, ali se u gramatici ponaša kao meki suglasnik. Njegov zvučni pandan :ipa[d͡z] se ne pojavljuje u međuslavenskom.
+- Tvrdi suglasnici su: labijali `p` `b` `f` `v` `m`, tvrdi dentals/alveolars `t` `d` `s` `z` `n` `r` `l`, i velari `k` `g` `h`.
+- Meki suglasnici su: postaveolari `š` `ž` `č` `dž`, , meki zubi/alveolari `lj` `nj` `ŕ` `t́` `d́` `ś` `ź` `ć` `đ`, i palatalni aproksimant `j`.
+- Afrikata `c` :ipa[t͡s] se izgovara tvrdo, ali se u gramatici ponaša kao meki suglasnik. Njegov zvučni pandan :ipa[d͡z] se ne pojavljuje u međuslavenskom.
 
 Umekšavanje je proces dodavanja :ipa[ʲ] suglasniku, što rezultira palatalnim izgovorom.
 Broj mekih ekvivalenata tvrdih suglasnika u inventaru fonema uvelike varira od jednog jezika do drugog.
-U međuslavenskom su obavezni samo `lj` i `nj`, etimološko pismo ima i `t́` `d́` `ś` `ź` `ŕ`  (obično se piše `t` `d` `s` `z` `r`): akutni akcenat zamjenjuje ćirilicu `ь`, koja se danas koristi kao omekšivač, ali je nekada bila samoglasnik u stara vremena: ultrashort `ĭ`.
+U međuslavenskom su obavezni samo `lj` i `nj`, etimološko pismo ima i `t́` `d́` `ś` `ź` `ŕ` (obično se piše `t` `d` `s` `z` `r`): akutni akcenat zamjenjuje ćirilicu `ь`, koja se danas koristi kao omekšivač, ali je nekada bila samoglasnik u stara vremena: ultrashort `ĭ`.
 
 Kao što se može vidjeti iz gornje tabele, izgovor mekih suglasnika varira.
 Govornici istočnoslavenskog jezika vjerovatno će ih izgovarati kao omekšane dentalne ili alveolarne suglasnike, a govornici zapadnoslavenskih prije kao palatalni suglasnici.
 Oba izgovora su podjednako ispravna, iako je prvi vjerovatno lakše razumjeti za Južne Slovene.
 
-Meki suglasnici također uključuju postveolarni `š`, `ž`, `č`  i `dž`, kao i afrikate `ć` i `đ`.
+Meki suglasnici također uključuju postveolarni `š`, `ž`, `č` i `dž`, kao i afrikate `ć` i `đ`.
 Posljednja dva se obično pišu i izgovaraju `č` i `dž`; razlika je etimološke prirode: `ć` i `đ` su jotovane parnjake `t` i `d` (vidi dolje).
 
-Prije `i`, `ě`, `ę`, `ė`  i `ŕ`, tvrdi suglasnik se može ublažiti ili palatalizirati.
-Zato se riječ poput :isv[buditi] izgovara ili :ipa[buditi], :ipa[budʲitʲi]  ili :ipa[buɟici].
+Prije `i`, `ě`, `ę`, `ė` i `ŕ`, tvrdi suglasnik se može ublažiti ili palatalizirati.
+Zato se riječ poput :isv[buditi] izgovara ili :ipa[buditi], :ipa[budʲitʲi] ili :ipa[buɟici].
 
 ## Fonotaktika \{#phonotactics}
 
@@ -82,8 +80,8 @@ Jedina ograničenja se odnose na kombinovanje određenih samoglasnika sa određe
 
 Važno je znati sljedeće:
 
-- Svaki slog sadrži jedan od sljedećih samoglasnika: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y`  ili slogovne `r` `ŕ`
-- `å` `ę` `ė` `ě` `ȯ` `ų` `y`  i slogovno `r` `ŕ`: nikada se ne pojavljuju riječi na početku ili iza samoglasnika
+- Svaki slog sadrži jedan od sljedećih samoglasnika: `a` `å` `e` `ę` `ė` `ě` `i` `o` `ȯ` `u` `ų` `y` ili slogovne `r` `ŕ`
+- `å` `ę` `ė` `ě` `ȯ` `ų` `y` i slogovno `r` `ŕ`: nikada se ne pojavljuju riječi na početku ili iza samoglasnika
 - `y`: nikada ne može pratiti meki suglasnik
 - `ě` `ŕ`: uvijek slijedi tvrdi suglasnik ili `c` (suvišni su u slučajevima kao što su :isv[jěsti] i :isv[čŕny]), ali se mogu izgovoriti na način da ga ublaže
 - `o` `ȯ`: rijetko prati meki suglasnik, osim u posuđenicama poput :isv[majonez] i :isv[čokolada]
@@ -98,16 +96,16 @@ Oni igraju ključnu ulogu i u fleksiji i u procesu građenja riječi, pa se stog
 
 ### Palatalizacija \{#palatalisation}
 
-_Palatalizacija_ znači da se pod određenim uslovima velarni suglasnici `k` `g` `h`  (kao i zubna afrikata `c`) mijenjaju u postaveolarne suglasnike `č` `ž` `š`.
+_Palatalizacija_ znači da se pod određenim uslovima velarni suglasnici `k` `g` `h` (kao i zubna afrikata `c`) mijenjaju u postaveolarne suglasnike `č` `ž` `š`.
 To se dešava u sljedećim slučajevima:
 
-- ispred `-e` u vokativu jednine imenica muškog roda: :isv[Bo**g**] „Bog” > :isv[Bo**ž**e], :isv[hlåpė**c**]  „dečak” > :isv[hlåp**č**e]
-- ispred `-e`, `-eš`  itd. u prezentu glagola: :isv[pe**k**-ti] „peći” > :isv[pe**č**eš], :isv[mo**g**-ti]  „mogu” > :isv[mo**ž**eš]
+- ispred `-e` u vokativu jednine imenica muškog roda: :isv[Bo**g**] „Bog” > :isv[Bo**ž**e], :isv[hlåpė**c**] „dečak” > :isv[hlåp**č**e]
+- ispred `-e`, `-eš` itd. u prezentu glagola: :isv[pe**k**-ti] „peći” > :isv[pe**č**eš], :isv[mo**g**-ti] „mogu” > :isv[mo**ž**eš]
 - ispred `-i-` u izvedenim glagolima: :isv[muka] „mučiti” > :isv[mu**č**iti] „mučiti”, :isv[slu**g**a] „sluga” > :isv[slu**ž**iti] „služiti”
-- ispred sufiksa `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`,  itd.: :isv[rų**k**a] „ruka” > :isv[rų**č**ny] „ručno”, :isv[mu**h**a] „muha” > :isv[mu**š**ka] „mala mušica”
+- ispred sufiksa `-an(in)`, `-ba`, `-ec`, `-ica`, `-ina`, `-išče`, `-je`, `-ji`, `-nik`, `-ny`, `-ok`/`-ka`/`-ko`, `-sky`, `-stvo`, itd.: :isv[rų**k**a] „ruka” > :isv[rų**č**ny] „ručno”, :isv[mu**h**a] „muha” > :isv[mu**š**ka] „mala mušica”
 
 Osim navedenog vokativa, palatalizacija se nikada ne javlja u deklinaciji imenica, pridjeva i zamjenica.
-Dakle: :abbr[sg.] :isv[Čeh]  „Čehi” > :abbr[pl.] :isv[Čehi]  „Česi”; :abbr[sg.] :isv[dȯlgy]  „dugo” > :abbr[pl.] :isv[dȯlgi]  (živo) ili :isv[dȯlge] (neživo).
+Dakle: :abbr[sg.] :isv[Čeh] „Čehi” > :abbr[pl.] :isv[Čehi] „Česi”; :abbr[sg.] :isv[dȯlgy] „dugo” > :abbr[pl.] :isv[dȯlgi] (živo) ili :isv[dȯlge] (neživo).
 
 ### Jotacija \{#iotation}
 
@@ -116,12 +114,12 @@ Rezultat se zove _iotation_, što nije isto što i omekšavanje.
 Obrasci prema kojima suglasnici komuniciraju sa ovim `j` razlikuju se od jezika do jezika.
 Ponekad je rezultat isti kao u slučaju omekšanog suglasnika, ponekad je drugačiji:
 
-- Labijale `p` `b` `m` `f` `v`  su uvek tvrde. Ispred `j`, istočno- i južnoslovenski umeću `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), ali u interslavenskom jednostavno pišemo `pj`, `vj`  itd., i zbog jasnoće i zbog pravilnosti.
-- Velari `k` `g` `h`,  kada ih prati `j`, palatalizuju se u `č` `ž` `š`.
-- U slučaju `l` `n` `r`,  jotacija daje isti rezultat kao i omekšavanje: `lj` `nj` `rj`.
+- Labijale `p` `b` `m` `f` `v` su uvek tvrde. Ispred `j`, istočno- i južnoslovenski umeću `l` (:isv[kup**l**ju], :isv[sostav**l**jenie]), ali u interslavenskom jednostavno pišemo `pj`, `vj` itd., i zbog jasnoće i zbog pravilnosti.
+- Velari `k` `g` `h`, kada ih prati `j`, palatalizuju se u `č` `ž` `š`.
+- U slučaju `l` `n` `r`, jotacija daje isti rezultat kao i omekšavanje: `lj` `nj` `rj`.
 - Kombinacije `s`+`j` i `z`+`j` postaju `š` `ž`.
-- Kombinacije `t`+`j` i `d`+`j` postaju `ć` `đ`  (normalno napisane `č` `dž`).
-- U sekvencama `sk` `st` `zg` `zd`,  `s` i `z` se jotiraju zajedno sa sljedećim suglasnikom, dakle: `st`+`j` > `šć`, itd.
+- Kombinacije `t`+`j` i `d`+`j` postaju `ć` `đ` (normalno napisane `č` `dž`).
+- U sekvencama `sk` `st` `zg` `zd`, `s` i `z` se jotiraju zajedno sa sljedećim suglasnikom, dakle: `st`+`j` > `šć`, itd.
 
 Jotiranje se uglavnom javlja u glagolima klase `-i-`:
 
@@ -135,25 +133,26 @@ Jotiranje se ne dešava kada riječi sa početnim `j` prethodi prefiksom: `s`+:i
 
 Kada nakon _mekog suglasnika_ slijedi `j`, i suglasnik i klizač ostaju netaknuti.
 Sve promjene su blokirane omekšivačem, da tako kažem.
-U etimološkoj ortografiji `ljj`, `njj`  itd. pišu se kao `ľj` `ńj`,  da bi se izbjeglo geminacija `j`.
+U etimološkoj ortografiji `ljj`, `njj` itd. pišu se kao `ľj` `ńj`, da bi se izbjeglo geminacija `j`.
 Isto tako, pišemo i `ŕj` `t́j` `d́j` `śj` `źj` `šj` `žj` `čj` .
-U standardnoj ortografiji jednostavno pišemo `lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj`  u ovim slučajevima.
+U standardnoj ortografiji jednostavno pišemo `lj` `nj` `rj` `tj` `dj` `sj` `zj` `šj` `žj` `čj` u ovim slučajevima.
 Ako se stabljika završava na `-j`, sljedeći `j-` se jednostavno proguta: :isv[dvo**j**-iti] > :isv[dvo**j-j**ų] > :isv[dvo**j**ų].
 
 To se događa u sljedećim situacijama:
 
 - sa palatalizirajućim sufiksom `-’je` (koji označava mjesto, na primjer): :isv[morje]> :isv[pri+mor+’je] > :isv[primoŕje] (obično napisano :isv[primorje])
 - u glagolskim imenicama, gdje je završetak `-y` perfektnog pasivnog participa zamijenjen sa (palatalizirajući) `-’je`: :isv[dělati] > :isv[dělańje] (obično napisano :isv[dělanje])
-- sa palatalizirajućim posvojnim sufiksom `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot]  + `’ji` > :isv[`kot́ji`] (normalno napisano :isv[kotji])
+- sa palatalizirajućim posvojnim sufiksom `-ji`: :isv[Bog] + `’ji` > :isv[Bo**ž**ji_], :isv[kot] + `’ji` > :isv[`kot́ji`] (normalno napisano :isv[kotji])
 - u instrumentalu jednine imenica tipa :isv[kost]: :isv[kost] + `’jų` > :isv[kost́jų] (normalno napisano :isv[kostju])
 
-Koliko god ovo izgledalo komplikovano, sve ovo u pisanom obliku znači da sufiksi `-je`, `-ji`  i instrumentalni završetak `-jų` ne izazivaju jotaciju, već samo palatalizaciju `k` `g` `h` `c`.
+Koliko god ovo izgledalo komplikovano, sve ovo u pisanom obliku znači da sufiksi `-je`, `-ji` i instrumentalni završetak `-jų` ne izazivaju jotaciju, već samo palatalizaciju `k` `g` `h` `c`.
 
 #### Pregled \{#overview}
 
 Razlike između umekšanih, pataliziranih i jotiranih suglasnika prikazane su u sljedećoj tabeli (opet, foneme u sivoj boji su izborne):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -162,14 +161,14 @@ Ovaj razvoj je ostavio traga u svim slovenskim jezicima, iako se danas razlikuju
 Na primjer, u ruskom meki suglasnik + `o` nizovi su rijetkost, dok poljski ima samo neke leksikalizirane ostatke pravila (npr. :pl[królewski] „kraljevski”, ali: :pl[królowa] „kraljica”).
 
 Ovo pravilo važi i za međuslavenski jezik.
-Dakle, završeci poput `-o`, `-ov`, `-om`, `-ogo`  i `-oj` postaju `-e`, `-ev`, `-em`, `-ego`  i `-ej` nakon mekog suglasnika.
-Zbog pravila `o`/`e` , imamo :isv[morje] naspram :isv[okno], :isv[krajev]  naspram :isv[gradov] i :isv[čego] naspram :isv[kogo].
-Isti mehanizam takođe radi u kombinaciji sa sufiksima kao što su `-ost`, `-ovati`  i `-ovy`, na primer: :isv[svěžest́], :isv[nočevati].
+Dakle, završeci poput `-o`, `-ov`, `-om`, `-ogo` i `-oj` postaju `-e`, `-ev`, `-em`, `-ego` i `-ej` nakon mekog suglasnika.
+Zbog pravila `o`/`e` , imamo :isv[morje] naspram :isv[okno], :isv[krajev] naspram :isv[gradov] i :isv[čego] naspram :isv[kogo].
+Isti mehanizam takođe radi u kombinaciji sa sufiksima kao što su `-ost`, `-ovati` i `-ovy`, na primer: :isv[svěžest́], :isv[nočevati].
 
 #### `Y` > `I`/`E` \{#y--ie}
 
 U južnoslovenskom i ukrajinskom, kao iu govornom češkom i slovačkom, `i` i `y` su se spojili u jedan samoglasnik.
-U međuslavenskom, izgovor `y` stoga može biti :ipa[i], :ipa[ɪ], :ipa[ɨ]  ili bilo šta između.
+U međuslavenskom, izgovor `y` stoga može biti :ipa[i], :ipa[ɪ], :ipa[ɨ] ili bilo šta između.
 Ono što je, međutim, važno je da `y` može _samo_ da se pojavi posle tvrdog suglasnika, a samim tim ne i posle mekog suglasnika (`š` `ž` `č` `dž` `c` `lj` `nj` `j`), posle samoglasnika ili reči na početku.
 Pošto `y` igra istaknutu ulogu u međuslavenskoj fleksiji, većina deklinacija ima tvrdu i meku verziju zbog ovog ograničenja.
 
@@ -177,7 +176,7 @@ U deklinaciji prideva i zamenica, padežni završnici na `y` postaju `i` posle m
 Iz tog razloga imamo pridjeve poput :isv[svěž-**i**] uz pridjeve poput :isv[dobr-**y**] i zamjeničke oblike poput :isv[moj-**ih**] zajedno sa oblicima poput :isv[jegov-**yh**].
 
 U imeničkoj deklinaciji, međutim, meki pandan `y` je uvijek `e`.
-Na primjer: :abbr[m.pl.] :isv[dom-**y**]  naspram :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**]  naspram :isv[zemj-**e**].
+Na primjer: :abbr[m.pl.] :isv[dom-**y**] naspram :isv[kraj-**e**], :abbr[f.pl.] :isv[žen-**y**] naspram :isv[zemj-**e**].
 
 Pošto nekoliko slovenskih jezika uopšte ne pravi razliku između `i` i `y`, zamena svih pojavljivanja `y` sa `i` je prihvatljivo pojednostavljenje u pisanom međuslavenskom jeziku.
 
@@ -195,16 +194,16 @@ U većini slučajeva ovaj samoglasnik se pojavljuje u riječima koje bi inače z
 Prolazni `o` i `e` (u etimološkom alfabetu označenom tačkom: `ȯ` i `ė`) pojavljuju se posebno u sljedećim slučajevima:
 
 - u nominativu (i, u slučaju neživih imenica, akuzativu) jednine imenica muškog roda, posebno onih koje se završavaju na `-ec` i `-ok`, kao i nekoliko drugih imenica:
-  :abbr[nom.sg.] :isv[ot**ė**c]  „otac” > :abbr[gen.sg.] :isv[otca]
-  :abbr[nom.sg.] :isv[pěs**ȯ**k]  „pijesak” > :abbr[gen.sg.] :isv[pěska]
-  :abbr[nom.sg.] :isv[p**ė**s]  „pas” > :abbr[gen.sg.] :isv[psa]
-  :abbr[nom.sg.] :isv[s**ȯ**n]  „san” > :abbr[gen.sg.] :isv[sna]
-  :abbr[nom.sg.] :isv[kr**ȯ**v]  „krv” > :abbr[gen.sg.] :isv[krvi]
+  :abbr[nom.sg.] :isv[ot**ė**c] „otac” > :abbr[gen.sg.] :isv[otca]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „pijesak” > :abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[p**ė**s] „pas” > :abbr[gen.sg.] :isv[psa]
+  :abbr[nom.sg.] :isv[s**ȯ**n] „san” > :abbr[gen.sg.] :isv[sna]
+  :abbr[nom.sg.] :isv[kr**ȯ**v] „krv” > :abbr[gen.sg.] :isv[krvi]
 - u genitivu množine imenica ženskog i srednjeg roda koje bi inače završavale na suglasnički niz:
-  :abbr[nom.sg.] :isv[okno]  „prozor” > :abbr[gen.pl.] :isv[ok**ė**n]
-  :abbr[nom.sg.] :isv[miska]  „posuda” > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  :abbr[nom.sg.] :isv[okno] „prozor” > :abbr[gen.pl.] :isv[ok**ė**n]
+  :abbr[nom.sg.] :isv[miska] „posuda” > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - u nominativu jednine muškog roda pojedinih zamjenica:
-  :abbr[m.nom.sg.] :isv[v**ė**ś]  „sve, cijelo”, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „sve, cijelo”, :abbr[f.nom.sg.] :isv[vśa]
 - ispred određenih sufiksa:
   :isv[piśmo] „pismo, pismo” > :isv[pis**ė**mny] „pismeno, pismeno”
 - prijedlozi :isv[s] i :isv[v] kada prethode određenim zamjenicama ili grupama suglasnika, ili kada se koriste kao prefiks ispred samoglasnika ili grupe suglasnika:
@@ -214,5 +213,3 @@ Prolazni `o` i `e` (u etimološkom alfabetu označenom tačkom: `ȯ` i `ė`) poj
   _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „za ulazak”.
 
 [1]: orthography.md#etymological_alphabet
-
-

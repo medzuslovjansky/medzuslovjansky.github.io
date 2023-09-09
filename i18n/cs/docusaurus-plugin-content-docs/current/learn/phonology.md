@@ -6,10 +6,6 @@ original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
-import Consonants from '@site/src/markdown/consonants.mdx';
-import PhonologyIPA from '@site/src/markdown/phonology-ipa.jsx';
-import PhonologyOverview from '@site/src/markdown/phonology-overview.jsx';
-
 # Fonologie
 
 ## Inventář fonémů \{#phoneme-inventory}
@@ -42,7 +38,8 @@ Kromě toho existuje 5 volitelných samohlásek (`å` `ė` `ę` `ȯ` `ų`), jeji
 Diakritická znaménka se obvykle nepíší.
 V ochucených verzích mezislovanštiny však lze `å` psát a vyslovovat jako `o`, `ę` jako `ja`, `ȯ` jako `e` a `y` jako `i`.
 
-<PhonologyIPA />
+:::component{name=MDPhonology1}
+:::
 
 Mezislovanské má také slabičné `r` a `ŕ` (druhé patří do nepovinné množiny).
 To je případ, kdy před ním je souhláska a _ne_ následuje samohláska.
@@ -52,7 +49,8 @@ Vyslovuje se se schwa před tím: :isv[trg] :ipa[tərg], :isv[mŕtvy] :ipa[mjər
 
 Existuje 23 základních souhlásek (včetně 3 afrikátů a 2 palatalizovaných alveolárů) s víceméně pevnou výslovností a také 7 volitelných souhlásek s proměnnou výslovností:
 
-<Consonants />
+:::component{name=MDPhonology2}
+:::
 
 ## Tvrdé a měkké souhlásky \{#hard-and-soft-consonants}
 
@@ -154,7 +152,8 @@ Jakkoli se to může zdát komplikované, v písemném projevu to znamená, že 
 
 Rozdíly mezi změkčenými, patalalizovanými a iotovanými souhláskami jsou uvedeny v následující tabulce (opět jsou volitelné fonémy v šedé barvě):
 
-<PhonologyOverview />
+:::component{name=MDPhonology3}
+:::
 
 ### `O` > `E` \{#o--e}
 
@@ -196,22 +195,22 @@ Ve většině případů se tato samohláska objevuje ve slovech, která by jina
 Prchavé `o` a `e` (v etymologické abecedě označené tečkou: `ȯ` a `ė`) se objevují zejména v následujících případech:
 
 - v nominativu (a v případě neživotných podstatných jmen v akuzativu) jednotném čísle podstatných jmen mužského rodu, zejména těch končících na `-ec` a `-ok`, jakož i několika dalších podstatných jmen:
-   :abbr[nom.sg.] :isv[ot**ė**c] „otec“ > :abbr[gen.sg.] :isv[otca]
-   :abbr[nom.sg.] :isv[pěs**ȯ**k] „písek” > :abbr[gen.sg.] :isv[pěska]
-   :abbr[nom.sg.] :isv[p**ė**s] „pes“ > :abbr[gen.sg.] :isv[psa]
-   :abbr[nom.sg.] :isv[s**ȯ**n] „sen“ > :abbr[gen.sg.] :isv[sna]
-   :abbr[nom.sg.] :isv[kr**ȯ**v] „krev“ > :abbr[gen.sg.] :isv[krvi]
+  :abbr[nom.sg.] :isv[ot**ė**c] „otec“ > :abbr[gen.sg.] :isv[otca]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „písek” > :abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[p**ė**s] „pes“ > :abbr[gen.sg.] :isv[psa]
+  :abbr[nom.sg.] :isv[s**ȯ**n] „sen“ > :abbr[gen.sg.] :isv[sna]
+  :abbr[nom.sg.] :isv[kr**ȯ**v] „krev“ > :abbr[gen.sg.] :isv[krvi]
 - v genitivu množného čísla podstatných jmen ženského a středního rodu, která by jinak končila shlukem souhlásek:
-   :abbr[nom.sg.] :isv[okno] „okno“ > :abbr[gen.pl.] :isv[ok**ė**n]
-   :abbr[nom.sg.] :isv[miska] „bowl” > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  :abbr[nom.sg.] :isv[okno] „okno“ > :abbr[gen.pl.] :isv[ok**ė**n]
+  :abbr[nom.sg.] :isv[miska] „bowl” > :abbr[gen.pl.] :isv[mis**ȯ**k]
 - v nominativu jednotného čísla mužského rodu určitých zájmen:
-   :abbr[m.nom.sg.] :isv[v**ė**ś] „vše, celé“, :abbr[f.nom.sg.] :isv[vśa]
+  :abbr[m.nom.sg.] :isv[v**ė**ś] „vše, celé“, :abbr[f.nom.sg.] :isv[vśa]
 - před určitými příponami:
-   :isv[piśmo] „dopis, scénář“ > :isv[pis**ė**mny] „napsáno, písemně“
+  :isv[piśmo] „dopis, scénář“ > :isv[pis**ė**mny] „napsáno, písemně“
 - předložky :isv[s] a :isv[v] před určitými zájmeny nebo shluky souhlásek nebo při použití jako předpona před samohláskou nebo shlukem souhlásek:
-   _`s`_ „s“ + :isv[mnojų] „já“ (:abbr[instr.sg.]) > :isv[s**ȯ** mnojų],
-   _`v`_ „in“ + :isv[vsih] „vše“ (:abbr[loc.pl.]) > :isv[v**ȯ** vsih],
-   _`s-`_ + :isv[držati] > :isv[s**ȯ**držati] „obsahovat“,
-   _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „vstoupit“.
+  _`s`_ „s“ + :isv[mnojų] „já“ (:abbr[instr.sg.]) > :isv[s**ȯ** mnojų],
+  _`v`_ „in“ + :isv[vsih] „vše“ (:abbr[loc.pl.]) > :isv[v**ȯ** vsih],
+  _`s-`_ + :isv[držati] > :isv[s**ȯ**držati] „obsahovat“,
+  _`v-`_ + :isv[idti] > :isv[v**ȯ**jdti] „vstoupit“.
 
 [1]: orthography.md#etymological_alphabet

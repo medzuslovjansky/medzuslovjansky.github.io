@@ -19,19 +19,22 @@ Adjectives match with the noun they modify in gender, case and number. Declensio
 
 The basic endings (applying not only to adjectives, but also to possessive pronouns, demonstrative pronouns and the like) are:
 
-::component{name=MDAdjectives1}
+:::component{name=MDAdjectives1}
+:::
 
 ### Hard adjectives
 
 Example of the declension of hard adjectives: :isv[dobry] „good”:
 
-::component{name=MDAdjectives2}
+:::component{name=MDAdjectives2}
+:::
 
 ### Soft adjectives
 
 Example of the declension of soft adjectives: :isv[svěži] „fresh”:
 
-::component{name=MDAdjectives3}
+:::component{name=MDAdjectives3}
+:::
 
 ## Short form
 
@@ -51,7 +54,7 @@ Comparatives and superlatives can be built in two ways: a simple (analytic) form
 
 ### Analytic comparative
 
-This way of forming a comparative is easiest to use. Simply have the ground form (the positive) of an adjective or adverb preceded by :isv[vyše] or :isv[bolje] „more”: :isv[vyše prosty] „more simple = simpler”. This solution can be used for all adjectives and adverbs, but is most likely encountered in the case of very long words, foreign words, and participles: :isv[vyše/bolje sintetičny] „more synthetic”,  :isv[vyše/bolje smrdeči] „more stinking”.
+This way of forming a comparative is easiest to use. Simply have the ground form (the positive) of an adjective or adverb preceded by :isv[vyše] or :isv[bolje] „more”: :isv[vyše prosty] „more simple = simpler”. This solution can be used for all adjectives and adverbs, but is most likely encountered in the case of very long words, foreign words, and participles: :isv[vyše/bolje sintetičny] „more synthetic”, :isv[vyše/bolje smrdeči] „more stinking”.
 
 ### Synthetic comparative
 

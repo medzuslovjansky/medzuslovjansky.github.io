@@ -6,22 +6,16 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-import VesIsInflected from '@site/src/markdown/ves-is-inflected.mdx';
-import KtoPronouns from '@site/src/markdown/kto-pronouns.mdx';
-import TojPronouns from '@site/src/markdown/toj-pronouns.mdx';
-import MojPronouns from '@site/src/markdown/moj-pronouns.mdx';
-import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
-
 # Zamjenice
 
 ## Osobne i povratne zamjenice \{#personal-and-reflexive-pronouns}
 
-Osobne zamjenice imaju šest padeža — isto kao i imenice, ali bez vokativa. Povratna zamjenica `sebe` se sklanja kao **`ty`, `tebe`,  ...**, jedina razlika je u tome što nema nominativ.
+Osobne zamjenice imaju šest padeža — isto kao i imenice, ali bez vokativa. Povratna zamjenica `sebe` se sklanja kao **`ty`, `tebe`, ...**, jedina razlika je u tome što nema nominativ.
 
 Oblici u zagradama su klitički oblici, tj. slabiji su i uvijek nenaglašeni. `Se` se koristi u povratnim glagolima: :isv[Ja myju se] „Umivam se”. Ako treba naglasiti, koristi se duži oblik: :isv[Ja myju jedino sebe] „Ne perem nikoga osim sebe”. Nakon prijedloga bolje je koristiti duže oblike: :isv[k mně], _`za tebe`_.
 
-<PersonalAndReflexivePronouns />
+:::component{name=MDPronouns1}
+:::
 
 Bilješke:
 
@@ -59,9 +53,10 @@ Kad god je posjednik ujedno i rečenični subjekt, koristi se refleksiv `svoj`, 
 
 Postoje i upitne, određene i neodređene posvojne zamjenice: `čij` „čija”, `ničij` „ničija”, `něčij` „nečija” itd. Sklanjaju se kao `moj`. Za više obrazaca pogledajte odjeljak o [korelativima][2].
 
-Kao i pridjevi, posvojne zamjenice odgovaraju imenici koju mijenjaju u rodu, broju i padežu. Osim nominativa i akuzativa jednine muškog roda, njihova je deklinacija identična deklinaciji pridjeva (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] i _`čij`_ poput :isv[svěži]; :isv[jegov], :isv[jejin]  i :isv[jihny] poput _`dobry`_):
+Kao i pridjevi, posvojne zamjenice odgovaraju imenici koju mijenjaju u rodu, broju i padežu. Osim nominativa i akuzativa jednine muškog roda, njihova je deklinacija identična deklinaciji pridjeva (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] i _`čij`_ poput :isv[svěži]; :isv[jegov], :isv[jejin] i :isv[jihny] poput _`dobry`_):
 
-<MojPronouns />
+:::component{name=MDPronouns2}
+:::
 
 ## Pokazne zamjenice \{#demonstrative-pronouns}
 
@@ -69,26 +64,28 @@ Primarna pokazna zamjenica je `toj` „ovo, ono”, i treba je koristiti kad god
 
 Ako trebamo biti precizniji, najjednostavnije rješenje je korištenje `tutoj` za „ovo” i `tamtoj` za „ono, tamo”. Odbijaju se kako slijedi:
 
-<TojPronouns />
+:::component{name=MDPronouns3}
+:::
 
 Bilješke:
 
 1. Manje jednostavna, ali povijesno točnija je sljedeća trostruka razlika: `sej` (f. `sa`, n. `se`) za „ovo”, `toj` za „ono” i `onoj` za "tamo". Međutim, treba imati na umu da je `sej` praktički nestao iz većine modernih jezika osim nekoliko fosiliziranih ostataka. Stoga možda neće uvijek biti jasno.
 2. Još jedna pokazna zamjenica je `ov`, što znači isto što i `sej`. Međutim, njegovo je značenje vrlo različito u modernim jezicima.
-3. `Tutoj`, `tamtoj`, `ov`  i `onoj` se odbijaju kao `toj`.
-4. Umjesto množine `tyh`, `tym`  i `tymi` ponekad se mogu susresti `těh`, `těm`  i `těmi`.
+3. `Tutoj`, `tamtoj`, `ov` i `onoj` se odbijaju kao `toj`.
+4. Umjesto množine `tyh`, `tym` i `tymi` ponekad se mogu susresti `těh`, `těm` i `těmi`.
 
 ## Odnosne zamjenice \{#relative-pronouns}
 
 Odnosna zamjenica koja se najčešće koristi je `ktory`. Sklanja se kao obični pridjev. Alternativno se može koristiti i južnoslavenski `koj` (flektiran kao `moj`). Njihova značenja su identična i mogu se koristiti naizmjenično.
 
-Treća opcija je arhaičniji `iže` – koristi se u nominativu za sve rodove, i jedninu i množinu; u drugim se slučajevima sklanja kao oblik osobne zamjenice `on/ona/ono` s nastavkom `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže`  itd.
+Treća opcija je arhaičniji `iže` – koristi se u nominativu za sve rodove, i jedninu i množinu; u drugim se slučajevima sklanja kao oblik osobne zamjenice `on/ona/ono` s nastavkom `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže` itd.
 
 ## Upitne zamjenice \{#interrogative-pronouns}
 
 Upitne zamjenice su `kto` „tko” i `čto` (ili `što`) „što”. Oni se mijenjaju na sljedeći način:
 
-<KtoPronouns />
+:::component{name=MDPronouns4}
+:::
 
 Upitne determinante su `koj` (sklanja se kao `moj`) „koji” (umjesto toga se može koristiti i `ktory`), posvojna zamjenica `čij` „čiji” (vidi gore) i pridjev `kaky` „ koja vrsta".
 
@@ -98,7 +95,7 @@ Ovo je velika skupina zamjenica i odrednica, od kojih je većina redovito izvede
 
 Odnosno na sve stavke (univerzalno) (`vs-`): `vsi` ili `vsekto` „svi, svi”, `vse` ili `vsečto` „sve”; `ves` (f. `vsa`, n. `vse` „cijeli, cijeli; sav”); `cěly` „cijeli, cijeli”; `vsaky` „svaki, svaki”; `vsekaky` „svaka vrsta, svakakva”; `vsečij` „svačije”.
 
-Odnosi se na stavke bez (negativno) (`ni-`): `nikto` „nitko, ničiji”, `ničto` „ništa”, `nikoj`, `nijedin`  i `nikaky` „ni jedan, nitko”, `ničij` „ničiji ”.
+Odnosi se na stavke bez (negativno) (`ni-`): `nikto` „nitko, ničiji”, `ničto` „ništa”, `nikoj`, `nijedin` i `nikaky` „ni jedan, nitko”, `ničij` „ničiji ”.
 
 Upućivanje na jednu neodređenu stavku (`ně-`): `někto` „netko, nečiji”, `něčto` „nešto”, `někoj` „neki”, `někaky` „neka vrsta”, `něčij` „nečiji, nečiji ”.
 
@@ -106,19 +103,21 @@ Odnosi se na nekoliko neodređenih stavki (`poně–`): `poněkoj` „neki, neko
 
 Referirajući se na veliku grupu stavki: `mnogy` „mnogo, mnogo, puno”.
 
-Upućivanje na bilo kojeg člana grupe (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud`  „bilo tko, bilo tko”, `čtokoli`, `libočto`, `čto-nebud`  „bilo što”; `kojkoli`, `libokoj`, `koj-nebud`  „bilo koji”, `kakykoli`, `libokaky`, `kaky-nebud`  „bilo koji”; `čijkoli`, `libočij`, `čij-nebud`  „bilo čije, bilo čije”. Za označavanje ravnodušnosti može se koristiti prilog `bylo`: `bylo kto` „bez obzira tko, bilo tko”, `bylo čto` „bez obzira na sve”, itd.
+Upućivanje na bilo kojeg člana grupe (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud` „bilo tko, bilo tko”, `čtokoli`, `libočto`, `čto-nebud` „bilo što”; `kojkoli`, `libokoj`, `koj-nebud` „bilo koji”, `kakykoli`, `libokaky`, `kaky-nebud` „bilo koji”; `čijkoli`, `libočij`, `čij-nebud` „bilo čije, bilo čije”. Za označavanje ravnodušnosti može se koristiti prilog `bylo`: `bylo kto` „bez obzira tko, bilo tko”, `bylo čto` „bez obzira na sve”, itd.
 
 Upućivanje na drugu stavku grupe (`in-`): `inokto` „netko drugi”, `inočto` „nešto drugo”, `iny` „ostalo”, `inočij` „tuđe”.
 
-:isv[Vsekto], `nikto`, `něčto`, `čtokoli`  itd. mijenjaju se kao `kto` i `čto`. Isto tako, `nikoj`, `něčij`  itd. se mijenjaju kao `koj` i `čij` (a time i kao `moj`). `Ves` mijenja se na sljedeći način:
+:isv[Vsekto], `nikto`, `něčto`, `čtokoli` itd. mijenjaju se kao `kto` i `čto`. Isto tako, `nikoj`, `něčij` itd. se mijenjaju kao `koj` i `čij` (a time i kao `moj`). `Ves` mijenja se na sljedeći način:
 
-<VesIsInflected />
+:::component{name=MDPronouns5}
+:::
 
 ## Zamjenički prilozi \{#pronominal-adverbs}
 
 Jedan od najboljih Zamenhofovih izuma bila je njegova **tablica korelativa**, skupina međusobno povezanih zamjenica, pridjeva i priloga. Tu su riječi zadržane što pravilnije, ali ne na uštrb prepoznatljivosti za govornike slavenskih jezika. Nekoliko gotovo nemogućih riječi je izostavljeno, a nekoliko drugih pravilnih oblika zamijenjeno je oblicima koji su uobičajeni u prirodnim jezicima. Nepravilni oblici (tj. koji ne izgledaju onako kako bi trebali prema tablici) prikazani su _**kurzivom**_.
 
-<PronominalAdverbs />
+:::component{name=MDPronouns6}
+:::
 
 Bilješke:
 
@@ -126,6 +125,4 @@ Bilješke:
 - U svim slučajevima kada se pojavi `-gda`, `-gdy` se može koristiti naizmjenično.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-
-[2]: \#pronominal_adverbs
-
+[2]: #pronominal_adverbs

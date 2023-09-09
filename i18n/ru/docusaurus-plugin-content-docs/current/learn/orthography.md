@@ -6,16 +6,6 @@ original_author: Ян ван Стенберген
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.jsx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
-
 # Орфография
 
 ## Стандартный алфавит \{#standard-alphabet}
@@ -26,11 +16,13 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 
 В **межславянском латинском алфавите** используется 27 букв: 23 буквы базового латинского алфавита (все, кроме `q`, `w` и `x`) плюс четыре согласных с гачеком (`š`, `ž`, `č` и `ě`), а также три диграфа (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 **Межславянский кириллический алфавит** состоит из 29 букв: все символы, общие для различных кириллических орфографий, с добавлением `є`, `ы`, `ј` , `љ`, `њ`, а также один диграф (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Обе орфографии равнозначны, и в опубликованных текстах рекомендуется предоставлять версии как на латинице, так и на кириллице, чтобы их можно было понять по обе стороны «границы».
 
@@ -75,7 +67,8 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 
 В дополнение к стандартной латинице межславянский также содержит ряд необязательных букв, которые относятся конкретно к праславянским / старославянским фонемам, которые разошлись или исчезли в большинстве современных языков:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Гласные `ę` и `ų` соответствуют носовым гласным `ѧ` и `ѫ` в старославянском языке (маленький юс и большой юс соответственно, обычно транслитерируется как `ę` и `ǫ`).
 - Гласная `å` встречается в сочетаниях `rå` и `lå`, за которыми следует согласная, где в польском языке есть **`ro`/`ró`** и **`ło`/`łó`**, а в восточнославянских — **(`o`)`ro`** и **(`o`)`lo`**.
@@ -119,14 +112,8 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 
 В следующей таблице показаны соответствия между буквами, упомянутыми выше (предлагаемые альтернативные варианты написания показаны серым цветом в скобках). [Транслитератор][5] позволяет выполнять транслитерацию между латиницей и кириллицей.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+:::component{name=MDOrthography4}
+:::
 
 ## Рекомендации \{#guidelines}
 
@@ -142,11 +129,7 @@ import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
 - Обращаясь к представителям определенной славянской нации (например, когда вы путешествуете), вы можете подумать о [ароматизации своего межславянского языка][4]. Однако не используйте ароматизацию в мультиславянских средах.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

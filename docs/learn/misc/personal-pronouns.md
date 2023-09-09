@@ -5,21 +5,14 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slavic_pronouns.html
 ---
 
-import FirstPersonSingular from '@site/src/markdown/first-person-singular.mdx';
-import SecondPersonSingular from '@site/src/markdown/second-person-singular.mdx';
-import ThirdPersonSingularMasculine from '@site/src/markdown/third-person-singular-masculine.mdx';
-import ThirdPersonSingularFeminine from '@site/src/markdown/third-person-singular-feminine.mdx';
-import FirstPersonPlural from '@site/src/markdown/first-person-plural.mdx';
-import SecondPersonPlural from '@site/src/markdown/second-person-plural.mdx';
-import ThirdPersonPlural from '@site/src/markdown/third-person-plural.mdx';
-
 # Personal pronouns in the Slavic languages
 
 Interslavic is entirely based on the natural Slavic languages, and the forms have been picked on the basis of both comparison and logic. This page demonstrates how this has been done in the case of personal pronouns:
 
 ## First person singular
 
-<FirstPersonSingular />
+:::component{name=MDPersonalPronouns1}
+:::
 
 :::note
 
@@ -33,7 +26,8 @@ Interslavic is entirely based on the natural Slavic languages, and the forms hav
 
 ## Second person singular
 
-<SecondPersonSingular />
+:::component{name=MDPersonalPronouns2}
+:::
 
 :::note
 
@@ -43,7 +37,8 @@ The majority solution for the dative would be :isv[tebě], but we want to keep i
 
 ## Third person singular, masculine and neuter
 
-<ThirdPersonSingularMasculine />
+:::component{name=MDPersonalPronouns3}
+:::
 
 :::note
 
@@ -54,16 +49,20 @@ The majority solution for the dative would be :isv[tebě], but we want to keep i
 
 ## Third person singular, feminine
 
-<ThirdPersonSingularFeminine />
+:::component{name=MDPersonalPronouns4}
+:::
 
 ## First person plural
 
-<FirstPersonPlural />
+:::component{name=MDPersonalPronouns5}
+:::
 
 ## Second person plural
 
-<SecondPersonPlural />
+:::component{name=MDPersonalPronouns6}
+:::
 
 ## Third person plural
 
-<ThirdPersonPlural />
+:::component{name=MDPersonalPronouns7}
+:::

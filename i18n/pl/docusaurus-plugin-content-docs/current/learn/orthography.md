@@ -5,16 +5,6 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-import AlphabetOverview from '@site/src/components/alphabetOverview/AlphabetOverview.jsx';
-import {translate} from "@docusaurus/Translate";
-
-import Alphabet from '@site/src/markdown/alphabet.jsx';
-import LatinAlphabet from '@site/src/markdown/latin-alphabet.mdx';
-import CyrillicAlphabet from '@site/src/markdown/cyrillic-alphabet.mdx';
-import DisappearedPhonemes from '@site/src/markdown/disappeared-phonemes.mdx';
-
 # Ortografia
 
 ## Standardowy alfabet \{#standard-alphabet}
@@ -25,11 +15,13 @@ Ponieważ granica między łaciną a cyrylicą przebiega przez środek terytoriu
 
 **Międzysłowiański alfabet łaciński** składa się z 27 liter: 23 litery podstawowego alfabetu łacińskiego (wszystkie z wyjątkiem `q`, `w` i `x`) plus cztery spółgłoski z caron (`š`, `ž`, `č` i `ě`), a także trzy dwuznaki (`dž`, `lj`, `nj`):
 
-<LatinAlphabet />
+:::component{name=MDOrthography1}
+:::
 
 **Cyrylica międzysłowiańska** ma 29 liter: wszystkie znaki wspólne dla różnych ortografii cyrylicy, z dodatkiem `є`, `ы`, `ј` , `љ`, `њ`, a także jeden dwuznak (`дж`):
 
-<CyrillicAlphabet />
+:::component{name=MDOrthography2}
+:::
 
 Obie ortografie są sobie równe, aw publikowanych tekstach zaleca się podawanie zarówno wersji łacińskiej, jak i cyrylicy, aby były zrozumiałe po obu stronach granicy.
 
@@ -74,7 +66,8 @@ Odpowiedniki cyrylicy `lj` i `nj` to `љ` i `њ`, również zaczerpnięte z cyry
 
 Oprócz standardowego alfabetu łacińskiego, intersłowiański zawiera również szereg opcjonalnych liter, które odnoszą się konkretnie do fonemów prasłowiańskich / staro-cerkiewno-słowiańskich, które rozeszły się lub zniknęły w większości współczesnych języków:
 
-<DisappearedPhonemes />
+:::component{name=MDOrthography3}
+:::
 
 - Samogłoski `ę` i `ų` pasują do samogłosek nosowych `ѧ` i `ѫ` w języku staro-cerkiewno-słowiańskim (odpowiednio małe yus i duże yus, zwykle transliterowane jako `ę` i `ǫ`).
 - Samogłoska `å` występuje w kombinacjach `rå` i `lå`, po których następuje spółgłoska, gdzie polski ma **`ro`/`ró`** i **`ło`/`łó`** i wschodniosłowiański ma **(`o`)`ro`** i **(`o`)`lo`**.
@@ -118,15 +111,8 @@ W alfabecie łacińskim dodatkowe informacje etymologiczne są przekazywane wył
 
 Poniższa tabela przedstawia odpowiedniki między wyżej wymienionymi literami (sugerowane alternatywne pisownie zaznaczono na szaro w nawiasach). [Transliterator][5] umożliwia transliterację między łaciną a cyrylicą.
 
-<Tabs>
-  <TabItem value="latin" label={translate({ id: 'com.script.Latin', message: 'Latin' })} default>
-    <AlphabetOverview script="art-Latn-x-interslv" />
-  </TabItem>
-
-  <TabItem value="cyrillic" label={translate({ id: 'com.script.Cyrillic', message: 'Cyrillic' })}>
-    <AlphabetOverview script="art-Cyrl-x-interslv" />
-  </TabItem>
-</Tabs>
+:::component{name=MDOrthography4}
+:::
 
 ## Wytyczne \{#guidelines}
 
@@ -142,11 +128,7 @@ Podsumowując, istnieje kilka możliwości napisania tego samego słowa. Ogólna
 - Zwracając się do członków określonego narodu słowiańskiego (na przykład podczas podróży), możesz rozważyć [flaworyzowanie swojego języka międzysłowiańskiego][4]. Nie stosuj jednak flaworyzowania w środowiskach wielosłowiańskich.
 
 [1]: #representation-of-problematic-characters
-
 [2]: ../resources/keyboards.md
-
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
-
 [4]: vocabulary/flavourisation.md
-
 [5]: http://steen.free.fr/interslavic/transliterator.html

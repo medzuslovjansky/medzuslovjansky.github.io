@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-import Souns from '@site/src/markdown/common-slavic-sounds.mdx';
-
 # Izpeljava besed
 
 ## praslovansko \{#proto-slavic}
@@ -12,7 +10,8 @@ Besede temeljijo na živih slovanskih jezikih in kadar se slednji med seboj ne s
 
 Naslednja tabela prikazuje, kako se v medslovanščini obravnavajo različni skupnoslovanski glasovi in ​​zaporedja. Upoštevajte, da je v nekaterih primerih mogoče razlikovati med severno in južnoslovansko različico (glejte [aromatizacija][2]).
 
-<Souns />
+:::component{name=MDDerivation}
+:::
 
 ## Mednarodni besednjak \{#international-vocabulary}
 
@@ -49,9 +48,7 @@ Poleg tega so končnice na predvidljiv način prilagojene temu, kar je najpogost
 - Angleški pridevniki v _`-ive`_ (latinsko _`-ivus`_) imajo končnico `-ivny`: _`pozitivny`_.
 - Angleški pridevniki v _`-ous`_ (latinsko _`-osus`_) imajo končnico `-ozny`: _`seriozny`_.
 
-Bolj problematične so besede, prevzete iz angleščine. Pri pisanju v latinici lahko ohranimo prvotni zapis (_bypass_, _knockout_, _jazz_, _teenager_). Veliko besedil v medslovanščini pa je napisanih v cirilici ali v obeh pravopisih vzporedno, pogosto s pomočjo programa za prečrkovanje, zato se je seveda treba izogibati pisanju _быпасс_ ali _кноцкоут_ v cirilici! V večini primerov bi zato raje uporabili bolj fonetični pristop: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol],  _`koktejl`_ itd.
+Bolj problematične so besede, prevzete iz angleščine. Pri pisanju v latinici lahko ohranimo prvotni zapis (_bypass_, _knockout_, _jazz_, _teenager_). Veliko besedil v medslovanščini pa je napisanih v cirilici ali v obeh pravopisih vzporedno, pogosto s pomočjo programa za prečrkovanje, zato se je seveda treba izogibati pisanju _быпасс_ ali _кноцкоут_ v cirilici! V večini primerov bi zato raje uporabili bolj fonetični pristop: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
 [1]: ../introduction/design-criteria.md#vocabulary
-
 [2]: flavourisation.md
-

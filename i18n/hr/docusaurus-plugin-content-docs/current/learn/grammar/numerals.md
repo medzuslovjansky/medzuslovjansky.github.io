@@ -6,9 +6,6 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/numerals.html
 ---
 
-import Numbers24 from '@site/src/markdown/numbers-2-4.mdx';
-import Numbers599 from '@site/src/markdown/numbers-5-99.mdx';
-
 # Brojevi
 
 ## Kardinalni brojevi \{#cardinal-numbers}
@@ -50,7 +47,8 @@ Osim nominativa jednine muškog roda, riječ `jedin` „jedan” deklinira se ka
 
 Ovi brojevi su odbijeni na pomalo nepoznat način, jer njihovi uzorci pokazuju ostatke drevnog duala. Samo `dva` „dva” ima rodnu razliku, doduše samo u nominativu/akuzativu.
 
-<Numbers24 />
+:::component{name=MDNumerals1}
+:::
 
 Srednji rod "2" je `dva` u ruskom, bjeloruskom, ukrajinskom, poljskom, kašupskom i srpskohrvatskom, `dvě` u starocrkvenoslavenskom, češkom, slovačkom, gornjem i donjem lužičkosrpskom, slovenskom, makedonskom, bugarskom i rusinskom. U međuslavenskom su obje opcije jednako važeće.
 
@@ -60,7 +58,8 @@ Također se odbijaju kao `dva` riječi `oba` i `obydva` „oboje”, „dvojica�
 
 Brojevi `pet` i više sklanjaju se kao imenice uzorka _`kost`_. Subjekt uvijek ostaje u genitivu množine. Primjeri:
 
-<Numbers599 />
+:::component{name=MDNumerals2}
+:::
 
 #### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
 
@@ -122,25 +121,24 @@ Druga vrsta multiplikativnih brojeva su prilozi, nastali dodavanjem sufiksa `-kr
 
 ## Diferencijalni brojevi \{#differential-numbers}
 
-Još jedna skupina brojevnih pridjeva jesu diferencijalni (kvalitativni, generički) brojevi. Odnose se na kvalitativnu diferencijaciju dotičnih predmeta i mogu se prevesti kao „različite vrste”. Stari oblik (opet temeljen na zajedničkim brojevima) je `dvoj`, `troj`  (odbijen kao posvojna zamjenica `moj`).
+Još jedna skupina brojevnih pridjeva jesu diferencijalni (kvalitativni, generički) brojevi. Odnose se na kvalitativnu diferencijaciju dotičnih predmeta i mogu se prevesti kao „različite vrste”. Stari oblik (opet temeljen na zajedničkim brojevima) je `dvoj`, `troj` (odbijen kao posvojna zamjenica `moj`).
 
-Međutim, češći i manje zbunjujući je završetak `-aky`: `dvojaky`, `trojaky`, `četveraky`, `peteraky`,  itd.: :isv[dvojake knigy] „dvije vrste knjiga”. Ovo također funkcionira za neodređene brojeve: `kolikoraky` „koliko vrsta”.
+Međutim, češći i manje zbunjujući je završetak `-aky`: `dvojaky`, `trojaky`, `četveraky`, `peteraky`, itd.: :isv[dvojake knigy] „dvije vrste knjiga”. Ovo također funkcionira za neodređene brojeve: `kolikoraky` „koliko vrsta”.
 
 Kada se adverbijalizira, značenje postaje nešto poput „na X načina”: `trojako` „na tri načina”.
 
 ## Substantivirani brojevi \{#substantivised-numbers}
 
-Ponekad se brojevi koriste kao sadržaji, na primjer kada govorimo o crtežu ili skulpturi broja, autobusu, radijskom ili TV kanalu, ocjeni u školi, novčanici ili igraćoj karti. Može se jednostavno prevesti kao „trojka”, „pet” itd. U slučaju brojeva 2-4, to se radi dodavanjem završetka `-ka` zbirnom broju, u ostalim slučajevima na kardinalni broj: `jedinka`, `dvojka`, `trojka`, `četverka`, `petka`, `šestka`,  itd.
+Ponekad se brojevi koriste kao sadržaji, na primjer kada govorimo o crtežu ili skulpturi broja, autobusu, radijskom ili TV kanalu, ocjeni u školi, novčanici ili igraćoj karti. Može se jednostavno prevesti kao „trojka”, „pet” itd. U slučaju brojeva 2-4, to se radi dodavanjem završetka `-ka` zbirnom broju, u ostalim slučajevima na kardinalni broj: `jedinka`, `dvojka`, `trojka`, `četverka`, `petka`, `šestka`, itd.
 
-Alternativno, može se koristiti i završetak `-ica`, ali to ne radi u svim slučajevima: `jedinica`, `petica`, `šestica`, `sedmica`  itd.
+Alternativno, može se koristiti i završetak `-ica`, ali to ne radi u svim slučajevima: `jedinica`, `petica`, `šestica`, `sedmica` itd.
 
 ## Rođenja blizanaca \{#twin-births}
 
 Donekle poseban slučaj predstavlja broj djece od rođenja: blizanci, trojke, četvorke, petorke, itd. Slavenski jezici to različito izražavaju:
 
-- istočnoslavenski: `-ne` (mn. `-neta`) – `dvojne`, `trojne`, `četverne`, `peterne`  (1 od 2, 3, 4, 5)
+- istočnoslavenski: `-ne` (mn. `-neta`) – `dvojne`, `trojne`, `četverne`, `peterne` (1 od 2, 3, 4, 5)
 - češko-slovački: `-če` (mn. `-četa`) - `dvojče`, `trojče`, `četverče`, `peterče`
 - poljski: `-ak` - `dvojak`, `trojak`, `četverak`, `peterak`
 - slovenski: `-ček` – `dvojček`, `trojček`, `četverček`, `peterček`
 - južnoslavenski: `-ka` - `dvojka`, `trojka`, `četverka`, `peterka`
-

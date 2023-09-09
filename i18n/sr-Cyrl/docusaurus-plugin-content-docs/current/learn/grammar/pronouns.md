@@ -6,22 +6,16 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-import PronominalAdverbs from '@site/src/markdown/pronominal-adverbs.mdx';
-import VesIsInflected from '@site/src/markdown/ves-is-inflected.mdx';
-import KtoPronouns from '@site/src/markdown/kto-pronouns.mdx';
-import TojPronouns from '@site/src/markdown/toj-pronouns.mdx';
-import MojPronouns from '@site/src/markdown/moj-pronouns.mdx';
-import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflexive-pronouns.mdx';
-
 # Проноунс
 
 ## Личне и повратне заменице \{#personal-and-reflexive-pronouns}
 
-Личне заменице имају шест падежа — исто као и именице, али без вокатива. Повратна заменица `sebe` се флектира као **`ty`, `tebe`,  ...**, једина разлика је што нема номинатив.
+Личне заменице имају шест падежа — исто као и именице, али без вокатива. Повратна заменица `sebe` се флектира као **`ty`, `tebe`, ...**, једина разлика је што нема номинатив.
 
 Облици између заграда су клитични облици, односно слабији су и увек ненаглашени. `Se` се користи у повратним глаголима: :isv[Ja myju se] „Умивам се”. Ако треба нагласити, користи се дужи облик: :isv[Ja myju jedino sebe] „Не перем никог осим себе“. После предлога, боље је користити дуже облике: :isv[k mně], _`za tebe`_.
 
-<PersonalAndReflexivePronouns />
+:::component{name=MDPronouns1}
+:::
 
 напомене:
 
@@ -59,9 +53,10 @@ import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflex
 
 Постоје и упитне, одређене и неодређене присвојне заменице: `čij` „чији”, `ničij` „ничији”, `něčij` „нечији” итд. Оне се склањају као `moj`. За више образаца, погледајте одељак о [корелативима][2].
 
-Баш као и придеви, присвојне заменице одговарају именици коју модификују у роду, броју и падежу. Осим номинатива мушког рода и акузатива једнине, њихова деклинација је идентична деклинацији придева (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] и _`čij`_ попут :isv[svěži]; :isv[jegov], :isv[jejin]  и :isv[jihny] лике _`dobry`_):
+Баш као и придеви, присвојне заменице одговарају именици коју модификују у роду, броју и падежу. Осим номинатива мушког рода и акузатива једнине, њихова деклинација је идентична деклинацији придева (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] и _`čij`_ попут :isv[svěži]; :isv[jegov], :isv[jejin] и :isv[jihny] лике _`dobry`_):
 
-<MojPronouns />
+:::component{name=MDPronouns2}
+:::
 
 ## Показне заменице \{#demonstrative-pronouns}
 
@@ -69,26 +64,28 @@ import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflex
 
 Ако треба да будемо прецизнији, најједноставније решење је коришћење `tutoj` за „ово” и `tamtoj` за „оно, тамо”. Они се одбијају на следећи начин:
 
-<TojPronouns />
+:::component{name=MDPronouns3}
+:::
 
 напомене:
 
 1. Мање једноставна, али историјски тачнија, је следећа тросмерна разлика: `sej` (ф. `sa`, н. `se`) за „ово”, `toj` за „то” и `onoj` за „тамо“. Треба имати на уму, међутим, да је `sej` практично нестао из већине модерних језика осим неколико фосилизованих остатака. Стога можда није увек јасно.
 2. Још једна показна заменица је `ov`, што значи исто што и `sej`. Међутим, његово значење је веома различито у савременим језицима.
-3. `Tutoj`, `tamtoj`, `ov`  и `onoj` се одбијају као `toj`.
-4. Уместо множине `tyh`, `tym`  и `tymi` понекад се може срести `těh`, `těm`  и `těmi`.
+3. `Tutoj`, `tamtoj`, `ov` и `onoj` се одбијају као `toj`.
+4. Уместо множине `tyh`, `tym` и `tymi` понекад се може срести `těh`, `těm` и `těmi`.
 
 ## Односне заменице \{#relative-pronouns}
 
 Релативна заменица која се најчешће користи је `ktory`. Флексира се као обичан придев. Алтернативно, може се користити и јужнословенски `koj` (спрегнуто као `moj`). Њихова значења су идентична и могу се користити наизменично.
 
-Трећа опција је архаичнија `iže` – употребљена у номинативу за све родове, и једнине и множине; у другим случајевима се флектира као облик личне заменице `on/ona/ono` са суфиксом `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže`  итд.
+Трећа опција је архаичнија `iže` – употребљена у номинативу за све родове, и једнине и множине; у другим случајевима се флектира као облик личне заменице `on/ona/ono` са суфиксом `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže` итд.
 
 ## Упитне заменице \{#interrogative-pronouns}
 
 Упитне заменице су `kto` „ко” и `čto` (или `što`) „шта”. Они се пребацују на следећи начин:
 
-<KtoPronouns />
+:::component{name=MDPronouns4}
+:::
 
 Упитни одредници су `koj` (флексија као `moj`) „који” (уместо тога, `ktory` се такође може користити), присвојна заменица `čij` „чији” (види горе), и придев `kaky` „ какав".
 
@@ -98,7 +95,7 @@ import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflex
 
 Односи се на све ставке (универзалне) (`vs-`): `vsi` или `vsekto` „сви, сви”, `vse` или `vsečto` „све”; `ves` (ф. `vsa`, бр. `vse` „цело, цело; све”); `cěly` „цео, цео”; `vsaky` „сваки, сваки”; `vsekaky` „свака врста, све врсте”; `vsečij` „свако”.
 
-Позивајући се на ниједну ставку (негативно) (`ni-`): `nikto` „нико, нико”, `ničto` „ништа”, `nikoj`, `nijedin`  и `nikaky` „ни један, ниједан”, `ničij` „ничији ”.
+Позивајући се на ниједну ставку (негативно) (`ni-`): `nikto` „нико, нико”, `ničto` „ништа”, `nikoj`, `nijedin` и `nikaky` „ни један, ниједан”, `ničij` „ничији ”.
 
 Упућивање на једну неодређену ставку (`ně-`): `někto` „неко, неко”, `něčto` „нешто”, `někoj` „неко”, `někaky` „нека врста”, `něčij` „нечије, нечије ”.
 
@@ -106,19 +103,21 @@ import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflex
 
 Односи се на велику групу ставки: `mnogy` „много, много, много“.
 
-Односи се на било ког члана групе (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud`  „било ко, било ко”, `čtokoli`, `libočto`, `čto-nebud`  „било шта”; `kojkoli`, `libokoj`, `koj-nebud`  „било које“, `kakykoli`, `libokaky`, `kaky-nebud`  „било које врсте“; `čijkoli`, `libočij`, `čij-nebud`  „било чије, било чије“. За указивање на равнодушност може се употребити прилог `bylo`: `bylo kto` „без обзира ко, баш било ко”, `bylo čto` „без обзира на све” итд.
+Односи се на било ког члана групе (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud` „било ко, било ко”, `čtokoli`, `libočto`, `čto-nebud` „било шта”; `kojkoli`, `libokoj`, `koj-nebud` „било које“, `kakykoli`, `libokaky`, `kaky-nebud` „било које врсте“; `čijkoli`, `libočij`, `čij-nebud` „било чије, било чије“. За указивање на равнодушност може се употребити прилог `bylo`: `bylo kto` „без обзира ко, баш било ко”, `bylo čto` „без обзира на све” итд.
 
 Позивање на другу ставку групе (`in-`): `inokto` „неко други”, `inočto` „нешто друго”, `iny` „друго”, `inočij` „туђе”.
 
-:isv[Vsekto], `nikto`, `něčto`, `čtokoli`  итд. се склањају као `kto` и `čto`. Слично томе, `nikoj`, `něčij`  итд. се склањају као `koj` и `čij` (и стога као `moj`). `Ves` се избацује на следећи начин:
+:isv[Vsekto], `nikto`, `něčto`, `čtokoli` итд. се склањају као `kto` и `čto`. Слично томе, `nikoj`, `něčij` итд. се склањају као `koj` и `čij` (и стога као `moj`). `Ves` се избацује на следећи начин:
 
-<VesIsInflected />
+:::component{name=MDPronouns5}
+:::
 
 ## Прономинални прилози \{#pronominal-adverbs}
 
 Један од најбољих Заменхофових изума била је његова **табела корелатива**, група међусобно повезаних заменица, придева и прилога. Тамо су речи одржаване што редовније, али не на рачун препознатљивости за говорнике словенских језика. Неколико практично немогућих речи је изостављено, а неколико других регуларних облика замењено је облицима који су уобичајени у природним језицима. Неправилни облици (тј. не изгледају онако како би требало према табели) приказани су _**курзивом**_.
 
-<PronominalAdverbs />
+:::component{name=MDPronouns6}
+:::
 
 напомене:
 
@@ -126,6 +125,4 @@ import PersonalAndReflexivePronouns from '@site/src/markdown/personal-and-reflex
 - У свим случајевима када се појави `-gda`, `-gdy` се може користити наизменично.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-
-[2]: \#pronominal_adverbs
-
+[2]: #pronominal_adverbs
