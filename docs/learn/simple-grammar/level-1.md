@@ -54,12 +54,12 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 ### Nouns
 
 - Nouns can end in a consonant or `-a`, `-o`, `-e`.
-- `Slovianto` does not have articles. Therefore, _žena_ can mean „a woman” or „the woman”.
+- :notr[Slovianto] does not have articles. Therefore, :isv[žena] can mean „a woman” or „the woman”.
 - The plural is formed by adding `-i` if the word ends in a consonant, or by replacing the final vowel by **-i**:
 
-  _`muž`_ „man” → _`muži`_ „men”
-  :isv[žena] „woman” → _`ženi`_ „women”
-  :isv[slovo] „word” → _`slovi`_ „words”
+  :isv[muž] „man” → :isv[muži] „men”
+  :isv[žena] „woman” → :isv[ženi] „women”
+  :isv[slovo] „word” → :isv[slovi] „words”
 
 ### Adjectives
 
@@ -67,169 +67,169 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 
 - An adjective can be made into an adverb by substituting `-y` with the ending `-o`:
 
-  :isv[dobry] „good” → _`dobro`_ „well”
+  :isv[dobry] „good” → :isv[dobro] „well”
 
-- Adjectives are compared by means of the words `vyše` („more”), `menje` („less”), `naj-` („most”) and `najmenje` („least”):
+- Adjectives are compared by means of the words :isv[vyše] („more”), :isv[menje] („less”), :isv[naj-] („most”) and :isv[najmenje] („least”):
 
-  _`dobry`_ „good”
-  _`vyše dobry`_ „better”
-  _`naj-dobry`_ „best”
-  _`menje dobry`_ „less good”
-  _`najmenje dobry`_ „least good”
+  :isv[dobry] „good”
+  :isv[vyše dobry] „better”
+  :isv[naj-dobry] „best”
+  :isv[menje dobry] „less good”
+  :isv[najmenje dobry] „least good”
 
 ### Personal pronouns
 
-- Unlike nouns, personal pronouns in `Slovianto` distinguish between the _nominative_ (the subject of the sentence, the agent) and the _accusative_ (the object, patient).
+- Unlike nouns, personal pronouns in :notr[Slovianto] distinguish between the _nominative_ (the subject of the sentence, the agent) and the _accusative_ (the object, patient).
 
-- The subject forms are: `ja` „I”, `ty` „you (sg.), thou”, `on` „he”, `ona` „she”, `my` „we”, `vy` „you (pl.)”, `oni` „they”.
+- The subject forms are: :isv[ja] „I”, :isv[ty] „you (:abbr[sg.]), thou”, :isv[on] „he”, :isv[ona] „she”, :isv[my] „we”, :isv[vy] „you (:abbr[pl.])”, :isv[oni] „they”.
 
-- The object forms are: `mene` „me”, `tebe` „you (sg.), thee”, `jego` „him”, `ju` „her”, `nas` „us”, `vas` „you (pl.)”, `jih` „them”.
+- The object forms are: :isv[mene] „me”, :isv[tebe] „you (:abbr[sg.]), thee”, :isv[jego] „him”, :isv[ju] „her”, :isv[nas] „us”, :isv[vas] „you (:abbr[pl.])”, :isv[jih] „them”.
 
-- Like most natural Slavic languages, Interslavic has T-V distinction, i.e. `vy` and `vas` are used not only for the second person plural, but also as a polite form in the singular. `Ty/tebe` are used to address friends, relatives and children.
+- Like most natural Slavic languages, Interslavic has T-V distinction, i.e. :isv[vy] and :isv[vas] are used not only for the second person plural, but also as a polite form in the singular. :isv[Ty]/:isv[tebe] are used to address friends, relatives and children.
 
-- `Slovianto` also has a reflexive pronoun, `se`, meaning „oneself, myself, yourself, ...”. It has no subject form, only an object form.
+- :notr[Slovianto] also has a reflexive pronoun, :isv[se], meaning „oneself, myself, yourself, ...”. It has no subject form, only an object form.
 
-- This reflexive pronoun can also be used as a reciprocal pronoun. _`Oni myt se`_ means: „they are washing themselves”, but can also mean: „they are washing each other”.
+- This reflexive pronoun can also be used as a reciprocal pronoun. :isv[Oni myt se] means: „they are washing themselves”, but can also mean: „they are washing each other”.
 
 - A preposition is always followed by the accusative:
 
-  _`s mene`_ „with me”
-  _`bez jego`_ „without him”
-  _`za tebe`_ „behind you”
+  :isv[s mene] „with me”
+  :isv[bez jego] „without him”
+  :isv[za tebe] „behind you”
 
 - For the _indirect object_, the preposition `k` „to, towards” can be added:
 
-  _`Dajte k mene ...`_ „Give me ...”
+  :isv[Dajte k mene ...] „Give me ...”
 
 ### Possessive pronouns
 
-- The possessive pronouns are: `moj` „my”, `tvoj` „your, thy”, `jego` „his, its”, `jej` „her”, `naš` „our”, `vaš` „your (pl.)”, `jih` „their”. Like adjectives, possessive pronouns are not inflected.
-- If the possessor is also the subject of the sentence, the reflexive `svoj` „one's own” is used for all persons.
-- There are also interrogative and indefinite possessive pronouns, like `čij` „whose”, `ničij` „nobody's”, `něčij` „somebody's”, `čij-koli` „anybody's”.
+- The possessive pronouns are: :isv[moj] „my”, :isv[tvoj] „your, thy”, :isv[jego] „his, its”, :isv[jej] „her”, :isv[naš] „our”, :isv[vaš] „your (:abbr[pl.])”, :isv[jih] „their”. Like adjectives, possessive pronouns are not inflected.
+- If the possessor is also the subject of the sentence, the reflexive :isv[svoj] „one's own” is used for all persons.
+- There are also interrogative and indefinite possessive pronouns, like :isv[čij] „whose”, :isv[ničij] „nobody's”, :isv[něčij] „somebody's”, :isv[čij-koli] „anybody's”.
 
 ### Demonstrative pronouns
 
-- The demonstrative pronoun is `toj` „this, that, these, those”.
-- Whenever it is necessary to make a distinction between _here_ and _there_, we have it preceded by `tu-` „here” or `tam-` „there”: `tutoj` „this, these”, `tamtoj` „that, those”.
-- When used independently, use `to`:
+- The demonstrative pronoun is :isv[toj] „this, that, these, those”.
+- Whenever it is necessary to make a distinction between _here_ and _there_, we have it preceded by `tu-` „here” or `tam-` „there”: :isv[tutoj] „this, these”, :isv[tamtoj] „that, those”.
+- When used independently, use :isv[to]:
 
-  _`Čto jest to?`_ „What is this?”
-  _`To jest kniga.`_ „This is a book.”
+  :isv[Čto jest to?] „What is this?”
+  :isv[To jest kniga.] „This is a book.”
 
 ### Relative pronouns
 
-- In a simplified language like `Slovianto`, it is better to avoid subordinate clauses. But if you need a relative pronoun anyway, use `ktory` „which”.
+- In a simplified language like :notr[Slovianto], it is better to avoid subordinate clauses. But if you need a relative pronoun anyway, use :isv[ktory] „which”.
 
 ### Interrogative and indefinite pronouns
 
-- There are two basic pronouns: `kto` „who” and `čto` „what”. Just like personal pronouns, `kto` has an accusative `kogo` for the direct object.
-- Derived from these are also several indefinite pronouns, e.g. `někto` „somebody”, `kto-koli` „anybody”, `ničto` „nothing”, `vsečto` „everything” (see the following section).
+- There are two basic pronouns: :isv[kto] „who” and :isv[čto] „what”. Just like personal pronouns, :isv[kto] has an accusative :isv[kogo] for the direct object.
+- Derived from these are also several indefinite pronouns, e.g. :isv[někto] „somebody”, :isv[kto-koli] „anybody”, :isv[ničto] „nothing”, :isv[vsečto] „everything” (see the following section).
 
 ### Pronominal adverbs
 
-- Every language has a special category of interrelated pronouns, adverbs and adjectives, the so-called `correlatives`. In short, these are question words and the words that are used to give a general answer to these questions. In English, as well as many other languages, these words are related with each other in a fairly predictable way (for example: _where/here/there/somewhere/anywhere/nowhere/everywhere, whence/hence/thence, etc.)_. This is the case in `Slovianto`, too.
-- Question words usually start with a `k-`: _`kto`_ „who”, :isv[kogda] „when”, _`kde`_ „where”, :isv[ktory] „which”, _`koliko`_ „how many”
-- If the answer is a specific thing, place etc., the word starts with `t-`: _`to`_ „this, that”, :isv[togda] „then”, _`toliko`_ „this many”
-- If the answer is something unknown or unspecified, the word starts with `ně-` (followed by the question word): :isv[někto] „someone”, :isv[někogda] „sometime, one day”, _`někde`_ „somewhere, someplace”
-- If the answer is negative, the word begins with `ni-` (followed by the question word): :isv[nikto] „nobody”, :isv[nikogda] „never”, _`nigde`_ „nowhere”
-- If the answer is something unimportant, the word ends with `-koli`, added to the question word: _`kto-koli`_ „anyone”, _`kogda-koli`_ „anytime, whenever”, _`kde-koli`_ „anywhere, whereever”
-- If the answer is all-encompassing, the word begins with `vse-` or `ves-`: :isv[vsegda] „always”, _`vesde`_ „everywhere”
+- Every language has a special category of interrelated pronouns, adverbs and adjectives, the so-called `correlatives`. In short, these are question words and the words that are used to give a general answer to these questions. In English, as well as many other languages, these words are related with each other in a fairly predictable way (for example: _where/here/there/somewhere/anywhere/nowhere/everywhere, whence/hence/thence, etc.)_. This is the case in :notr[Slovianto], too.
+- Question words usually start with a `k-`: :isv[kto] „who”, :isv[kogda] „when”, :isv[kde] „where”, :isv[ktory] „which”, :isv[koliko] „how many”
+- If the answer is a specific thing, place etc., the word starts with `t-`: :isv[to] „this, that”, :isv[togda] „then”, :isv[toliko] „this many”
+- If the answer is something unknown or unspecified, the word starts with `ně-` (followed by the question word): :isv[někto] „someone”, :isv[někogda] „sometime, one day”, :isv[někde] „somewhere, someplace”
+- If the answer is negative, the word begins with `ni-` (followed by the question word): :isv[nikto] „nobody”, :isv[nikogda] „never”, :isv[nikde] „nowhere”
+- If the answer is something unimportant, the word ends with `-koli`, added to the question word: :isv[kto-koli] „anyone”, :isv[kogda-koli] „anytime, whenever”, :isv[kde-koli] „anywhere, whereever”
+- If the answer is all-encompassing, the word begins with `vse-` or `ves-`: :isv[vsegda] „always”, :isv[vesde] „everywhere”
 
 ### Numerals
 
 - The _cardinal numbers_ from 1-10 are:
 
-  1 – :isv[jedin], 2 – _`dva`_, 3 – _`tri`_, 4 – :isv[četyri], 5 – _`pet`_, 6 – :isv[šest], 7 – :isv[sedm], 8 – _`osm`_, 9 – :isv[devet], 10 – _`deset`_
+  1 – :isv[jedin], 2 – :isv[dva], 3 – :isv[tri], 4 – :isv[četyri], 5 – :isv[pet], 6 – :isv[šest], 7 – :isv[sedm], 8 – :isv[osm], 9 – :isv[devet], 10 – :isv[deset]
 
 - The „-teens” (11-19) are formed by adding `-nadset`:
 
-  11 – :isv[jedinnadset], 12 – _`dvanadset`_, ...
+  11 – :isv[jedinnadset], 12 – :isv[dvanadset], ...
 
 - The „-ties” (20, 30 ... 90) are formed by adding `-deset`:
 
-  20 – :isv[dvadeset], 30 – _`trideset`_, ...
+  20 – :isv[dvadeset], 30 – :isv[trideset], ...
 
 - The „-hundreds” (200, 300 ... 900) are formed by adding `-sto`:
 
-  200 – :isv[dvasto], 300 – _`tristo`_, ...
+  200 – :isv[dvasto], 300 – :isv[tristo], ...
 
 - Higher numbers:
 
-  1,000 – :isv[tyseč], 1,000,000 – :isv[milion], 1,000,000,000 – _`miliard`_
+  1,000 – :isv[tyseč], 1,000,000 – :isv[milion], 1,000,000,000 – :isv[miliard]
 
 - Combinations of these are always made from high to low:
 
-  5,678 – _`pet-tyseč šeststo sedmdeset osm`_
+  5,678 – :isv[pet-tyseč šeststo sedmdeset osm]
 
 - _Ordinal numbers_ are formed by adding `-y` to the corresponding cardinal number, except for the following:
 
-  1st – :isv[prvy], 2nd – :isv[drugy], 3rd – :isv[tretji], 4th – :isv[četvrty], 100th – :isv[sotny] or :isv[stoty], 1000th – _`tysečny`_
+  1st – :isv[prvy], 2nd – :isv[drugy], 3rd – :isv[tretji], 4th – :isv[četvrty], 100th – :isv[sotny] or :isv[stoty], 1000th – :isv[tysečny]
 
 ### Verbs
 
 - All verbs have the _infinitive_ ending `-ti`:
 
-  _`dělati`_ „to do”
-  _`prositi`_ „to ask”
-  _`nesti`_ „to carry”
+  :isv[dělati] „to do”
+  :isv[prositi] „to ask”
+  :isv[nesti] „to carry”
 
 - The _stem_ is obtained by removing the ending `-ti` from the infinitive:
 
-  _`děla-`_
-  _`prosi-`_
-  _`nes-`_
+  :isv[děla-]
+  :isv[prosi-]
+  :isv[nes-]
 
 - At this early stage, one ending for the _present tense_ will do. It is formed by adding `-t` to the stem. If the present tense stem ends in a consonant, `-e-` is inserted between the stem and the ending:
 
-  _`ja děla-t`_ „I do”
-  _`vy prosi-t`_ „you ask”
-  _`oni nes-et`_ „they carry”
+  :isv[ja děla-t] „I do”
+  :isv[vy prosi-t] „you ask”
+  :isv[oni nes-et] „they carry”
 
 - And here's a bit of irregularity that happens so often in Slavic that you might as well learn it now: if the stem ends in `k` or `g`, these consonants become `č` and `ž` before the inserted `e`:
 
-  :isv[pekti] „to bake” → _`pečet`_
-  :isv[mogti] „can” → _`možet`_
+  :isv[pekti] „to bake” → :isv[pečet]
+  :isv[mogti] „can” → :isv[možet]
 
 - For the _past tense_, add `-l` (singular) or `-li` (plural) to the stem:
 
-  _`ja děla-l`_ „I did, I have done”
-  _`on prosi-l`_ „he asked”
-  _`my nes-li`_ „we carried”
+  :isv[ja děla-l] „I did, I have done”
+  :isv[on prosi-l] „he asked”
+  :isv[my nes-li] „we carried”
 
 - For the _future tense_, use `bude` with the infinitive:
 
-  _`ja bude dělati`_ „I will do”
-  _`my bude prositi`_ „we will ask”
-  _`oni bude nesti`_ „they will carry”
+  :isv[ja bude dělati] „I will do”
+  :isv[my bude prositi] „we will ask”
+  :isv[oni bude nesti] „they will carry”
 
 - The _conditional_ is formed by using the particle `by` with the past tense:
 
-  _`ja by dělal`_ „I would do/I would have done”
+  :isv[ja by dělal] „I would do/I would have done”
 
 - The _imperative_ has the ending `-jte` after a vowel or `-ite` after a consonant:
 
-  _`děla-jte`_ „do!”
-  _`prosi-jte`_ „ask!”
-  _`nes-ite`_ „carry!”
+  :isv[děla-jte] „do!”
+  :isv[prosi-jte] „ask!”
+  :isv[nes-ite] „carry!”
 
 - The _past passive participle_ is created by adding `-ny` to the stem. If the stem ends in a consonant, insert `-e-` between the stem and the ending. If the stem ends in `-i-`, then insert `-e-` and change resulting `-ieny` to `-jeny`:
 
-  _`děla-ny`_ „done”
-  _`nes-eny`_ „carried”
-  _`prosi-eny`_ → _`prosjeny`_ „asked”
+  :isv[děla-ny] „done”
+  :isv[nes-eny] „carried”
+  :isv[prosi-eny] → :isv[prosjeny] „asked”
 
-- The verb `byti` „to be” is irregular:
+- The verb :isv[byti] „to be” is irregular:
 
-  present tense: _`jest`_
-  past tense: _`byl`_, _`byli`_
-  future tense: _`bude`_
-  conditional: _`byl by, byli by`_
-  imperative: _`budite`_
+  present tense: :isv[jest]
+  past tense: :isv[byl], :isv[byli]
+  future tense: :isv[bude]
+  conditional: :isv[byl by, byli by]
+  imperative: :isv[budite]
 
-- The _passive voice_ is created as in English, by combining a form of the verb `byti` „to be” with the past passive participle:
+- The _passive voice_ is created as in English, by combining a form of the verb :isv[byti] „to be” with the past passive participle:
 
-  _`ja jest neseny`_ „I am being carried”
-  _`ja byl neseny`_ „I was being carried, I have been carried”, etc.
+  :isv[ja jest neseny] „I am being carried”
+  :isv[ja byl neseny] „I was being carried, I have been carried”, etc.
 
 ### Syntax
 
@@ -237,31 +237,31 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 
 - Adjectives, possessive pronouns and the like are preferably placed before the noun they modify:
 
-  _`toj dobry kniga`_ „this good book”
+  :isv[toj dobry kniga] „this good book”
 
 - Yes-no questions differ from normal indicative sentences only by intonation:
 
-  _`Otec kupil kniga`_ „Father has bought a book.”
-  _`Otec kupil kniga?`_ „Has father bought a book?”
+  :isv[Otec kupil kniga] „Father has bought a book.”
+  :isv[Otec kupil kniga?] „Has father bought a book?”
 
 - In other questions, the interrogative pronoun or adverb comes first:
 
-  _`Kaky kniga kupil otec?`_ „What kind of book has father bought?”
-  _`Kde otec kupil toj kniga?`_ „Where did father buy that book?”
+  :isv[Kaky kniga kupil otec?] „What kind of book has father bought?”
+  :isv[Kde otec kupil toj kniga?] „Where did father buy that book?”
 
 - The easiest way for expressing possession is simply placing the possessor before the possessed. When this is not clear enough, use the preposition `od` „from, of”:
 
-  _`moj otec kniga`_ „my father's book” (lit. „my father book”)
-  _`kniga od moj otec`_ „my father's book” (lit. „the book of my father”)
+  :isv[moj otec kniga] „my father's book” (lit. „my father book”)
+  :isv[kniga od moj otec] „my father's book” (lit. „the book of my father”)
 
 - Likewise, you don't need to use any special accessories for the indirect object. Whenever this is not clear enough, use the preposition `k` „to”:
 
-  _`Dajte moj otec toj kniga.`_ „Give that book to my father.”
-  _`Dajte toj kniga k moj otec.`_ „Give that book to my father.”
+  :isv[Dajte moj otec toj kniga.] „Give that book to my father.”
+  :isv[Dajte toj kniga k moj otec.] „Give that book to my father.”
 
 - To express the instrument used for something, use the preposition `s` „with”:
 
-  _`Ja udaril svoj otec s toj kniga.`_ „I hit my father with that book.”
+  :isv[Ja udaril svoj otec s toj kniga.] „I hit my father with that book.”
 
 ---
 
@@ -270,19 +270,19 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 <div className="dialogue">
 
 :::isv
-* Dobry denj! Restoran jest otvorjeny?
-* Dobry denj. Da, my jest otvorjeny.
-* Možno tu piti něčto?
-* Očevidno, čto prinesti k vas?
-* Čto vy imat?
-* Čaj, kava, pivo, vino, vodka...
-* A vy takože imat něčto hladne?
-* Da, my imat sok, voda, mlěko...
-* Togda dajte nam dva soki, prosim.
-* Dva soki, dobro. Vy takože hočet jesti něčto?
-* Može... Vy imat hlěb?
-* Da, očevidno. Hlěb, meso, ryba, vsečto jest.
-* Hvala, samo hlěb s maslo, prosim.
+* :isv[Dobry denj! Restoran jest otvorjeny?]
+* :isv[Dobry denj. Da, my jest otvorjeny.]
+* :isv[Možno tu piti něčto?]
+* :isv[Očevidno, čto prinesti k vas?]
+* :isv[Čto vy imat?]
+* :isv[Čaj, kava, pivo, vino, vodka...]
+* :isv[A vy takože imat něčto hladne?]
+* :isv[Da, my imat sok, voda, mlěko...]
+* :isv[Togda dajte nam dva soki, prosim.]
+* :isv[Dva soki, dobro. Vy takože hočet jesti něčto?]
+* :isv[Može... Vy imat hlěb?]
+* :isv[Da, očevidno. Hlěb, meso, ryba, vsečto jest.]
+* :isv[Hvala, samo hlěb s maslo, prosim.]
 :::
 
 * Good day! Is the restaurant open?
@@ -481,8 +481,8 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 * :isv[trěba] – it is needed, it is necesary
 * :isv[tri] – three
 * :isv[tu] – here
-* :isv[tvoj] – your (sg.)
-* :isv[ty] – you (sg.)
+* :isv[tvoj] – your (:abbr[sg.])
+* :isv[ty] – you (:abbr[sg.])
 * :isv[uho] – ear
 * :isv[uže] – already
 * :isv[v] – in; into
@@ -498,7 +498,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 * :isv[vsaky] – every
 * :isv[vse] – everything
 * :isv[vsegda] – always
-* :isv[vy] – you (pl.)
+* :isv[vy] – you (:abbr[pl.])
 * :isv[vyjdti] – exit, quit
 * :isv[vysoky] – high
 * :isv[za] – behind
