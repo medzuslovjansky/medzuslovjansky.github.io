@@ -2,516 +2,268 @@
 sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
-custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/slovianto1.html
 ---
 
-# 1-й уровень
+# Poziom 1
 
-## Алфавит и произношение
+## Alfabet i wymowa
 
-:notr[Slovianto] можно писать как латиницей, так и кириллицей, но здесь мы сконцентрируемся на латинице:
+:notr[Slovianto] można zapisać alfabetem łacińskim i cyrylicą, ale tutaj skoncentrujemy się na alfabecie łacińskim:
 
-<p className="text-3-col">
-  - `A` — as _a_ in English :en[f**a**ther]
-  - `B` — as in English
-  - `C` — as _ts_ in English „bi**ts**”
-  - `Č` — as _ch_ in English „**ch**ur**ch**”
-  - `D` — as in English
-  - `DŽ` — as _j_ in English „**J**ohn”
-  - `E` — as _e_ in English „b**e**st”
-  - `Ě` — as _ye_ in English „**ye**t”
-  - `F` — as in English
-  - `G` — as _g_ in English „**g**ood”
-  - `H` — as _ch_ in Scottish „lo**ch**”
-  - `I` — as _ea_ in English „b**ea**t”
-  - `J` — as _y_ in English „**y**ard”
-  - `K` — as in English, but without aspiration
-  - `L` — as in English
-  - `LJ` — as _li_ in English „mil**li**on”
-  - `M` — as in English
-  - `N` — as in English
-  - `NJ` — as _ny_ in English „ca**ny**on”
-  - `O` — as _o_ in English „**o**r”
-  - `P` — as in English, but without aspiration
-  - `R` — rolled _r_
-  - `RJ` — rolled r, followed by _ye_ in English „**ye**t”
-  - `S` — as _s_ in English „**s**pin”
-  - `Š` — as _sh_ in English „**sh**op”
-  - `T` — as in English, but without aspiration
-  - `U` — as _oo_ in English „b**oo**k”
-  - `V` — as _v_ in English „a**v**oid”
-  - `Y` — as _i_ in English „b**i**t”
-  - `Z` — as in English
-  - `Ž` — as _si_ in English „vi**si**on”
-</p>
+:::komponent{name="MDSlovianto1"}
+- jako _a_ po angielsku :en[f**a**ther]
+- jak w języku angielskim
+- jak _ts_ po angielsku „bi**ts**”
+- jak _ch_ po angielsku „**ch**ur**ch**”
+- jak w języku angielskim
+- jak _j_ po angielsku „**J**ohn”
+- jak _e_ po angielsku „b**e**st”
+- jak _ye_ po angielsku „**ye**t”
+- jak w języku angielskim
+- jak _g_ po angielsku „**g**ood”
+- jak _ch_ w szkockim „lo**ch**”
+- jak _ea_ po angielsku „b**ea**t”
+- jak _y_ po angielsku „**podwórko”
+- jak w języku angielskim, ale bez aspiracji
+- jak w języku angielskim
+- jak _li_ po angielsku „mil**li**on”
+- jak w języku angielskim
+- jak w języku angielskim
+- jak _ny_ po angielsku „ca**ny**on”
+- jak _o_ po angielsku „**o**r”
+- jak w języku angielskim, ale bez aspiracji
+- walcowane _r_
+- wyrzucone r, po którym następuje _ye_ jak w języku angielskim „**ye**t”
+- jak _s_ po angielsku „**s**pin”
+- jak _sh_ po angielsku „**sh**op”
+- jak w języku angielskim, ale bez aspiracji
+- jak _oo_ po angielsku „b**oo**k”
+- jak _v_ po angielsku „a**v**oid”
+- jak _i_ po angielsku „b**i**t”
+- jak w języku angielskim
+- jak _si_ po angielsku „vi**si**on”
+:::
 
-В [Межславянском словаре][1] вы найдете и другие символы, например `ò`, `ų`, `å`  или `ť`. Вы можете просто игнорировать диакритические знаки и читать их как `o`, `u`, `a`, `t`  и т. д. Это касается и `ě`. Единственными символами, которые сохраняют свои диакритические знаки в латинской орфографии, являются `č`, `š`  и `ž`. Если вам неудобно их писать, вы всегда можете использовать `cz`, `sz`  и `zs` (или `cx`, `sx`  и `zx`) в качестве альтернативы.
+W [Słowniku międzysłowiańskim][1] znajdziesz także inne znaki, np. `ò`, `ų`, `å`  czy `ť`. Możesz po prostu zignorować znaki diakrytyczne i przeczytać je jako `o`, `u`, `a`, `t`  itd. To dotyczy również `ě`. Jedynymi znakami, które w ortografii łacińskiej zachowują znaki diakrytyczne, są `č`, `š`  i `ž`. Jeśli uznasz, że pisanie ich jest niewygodne, zawsze możesz użyć `cz`, `sz`  i `zs` (lub `cx`, `sx`  i `zx`) jako alternatywy.
 
-Акцентуация достаточно свободна. Гораздо важнее то, что вы говорите медленно и четко. В качестве общего правила рекомендуется ставить ударение на предпоследний слог.
+Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wyraźnie. Jako ogólną wskazówkę zasługuje na zalecenie położenie akcentu na przedostatnią sylabę.
 
-## Грамматика
+## Gramatyka
 
-### Существительные
+### Rzeczowniki
 
-- Существительные могут оканчиваться на согласную или `-a`, `-o`, `-e`.
-- `Slovianto` не имеет статей. Следовательно, _жена_ может означать «женщина» или «женщина».
-- Множественное число образуется добавлением `-i`, если слово оканчивается на согласную, или заменой последней гласной на **-i**:
+- Rzeczowniki mogą kończyć się spółgłoską lub `-a`, `-o`, `-e`.
+- :notr[Slovianto] nie zawiera artykułów. Dlatego :isv[žena] może oznaczać „kobietę” lub „kobietę”.
+- Liczba mnoga jest tworzona przez dodanie `-i`, jeśli słowo kończy się na spółgłoskę, lub przez zastąpienie ostatniej samogłoski przez **-i**:
+  - :isv[muž] „człowiek” → :isv[muži] „ale”
+  - :isv[žena] „kobieta” → :isv[ženi] „kobieta”
+  - :isv[slovo] „słowo” → :isv[slovi] „słowa”
 
-  _`muž`_ «мужчина» → _`muži`_ «но»
-  :isv[žena] «женщина» → _`ženi`_ «женщина»
-  :isv[slovo] «слово» → _`slovi`_ «слово»
+### Przymiotniki
 
-### Прилагательные
+- Przymiotniki zwykle mają końcówkę `-y` lub `-i`. Nie są odmienione i należy je umieścić przed rzeczownikiem.
 
-- Прилагательные обычно имеют окончание `-y` или `-i`. Они не склоняются и должны стоять перед существительным.
+- Przymiotnik można przekształcić w przysłówek, zastępując `-y` końcówką `-o`:
 
-- Прилагательное можно превратить в наречие, заменив `-y` окончанием `-o`:
+  :isv[dobry] „dobrze” → :isv[dobro] „dobrze”
 
-  :isv[dobry] «хорошо» → _`dobro`_ «хорошо»
+- Przymiotniki porównuje się za pomocą słów :isv[vyše] („więcej”), :isv[menje] („mniej”), :isv[naj-] („najwięcej”) i :isv[najmenje] („najmniej”):
+  - :isv[dobry] „dobrze”
+  - :isv[vyše dobry] „lepiej”
+  - :isv[naj-dobry] „najlepszy”
+  - :isv[menje dobry] „mniej dobre”
+  - :isv[najmenje dobry] „najmniej dobry”
 
-- Прилагательные сравниваются с помощью слов `vyše` («больше»), `menje` («меньше»), `naj-` («наиболее») и `najmenje` («наименее»):
+### Zaimki osobowe
 
-  _`dobry`_ «хорошо»
-  _`vyše dobry`_ «лучше»
-  _`naj-dobry`_ «лучший»
-  _`menje dobry`_ «менее хорошо»
-  _`najmenje dobry`_ «наименее хороший»
+- W przeciwieństwie do rzeczowników, zaimki osobowe w :notr[Slovianto] rozróżniają _mianownik_ (podmiot zdania, podmiot) i biernik_ (dopełnienie, pacjent).
 
-### Личные местоимения
+- Formy tematyczne to: :isv[ja] „ja”, :isv[ty] „ty”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „my”, :isv[vy] „wy”, :isv[oni] „oni”.
 
-- В отличие от существительных, личные местоимения в `Slovianto` различают именительный падеж (субъект предложения, агент) и винительный падеж (объект, пациент).
+- Formy dopełnienia to: :isv[mene] „ja”, :isv[tebe] „cię”, :isv[jego] „go”, :isv[ju] „ją”, :isv[nas] „nas”, :isv[vas] „was”, :isv[jih] „ich”.
 
-- Подлежащие формы: `ja` «я», `ty` «ты (серж.), ты», `on` «он», `ona` «она», `my` «мы», `vy` «ты (мн.)», `oni` «они».
+- Podobnie jak większość naturalnych języków słowiańskich, język międzysłowiański ma rozróżnienie T-V, tj. :isv[vy] i :isv[vas] są używane nie tylko w odniesieniu do drugiej osoby liczby mnogiej, ale także jako forma grzecznościowa w liczbie pojedynczej. :isv[Ty]/:isv[tebe]  służy do zwracania się do przyjaciół, krewnych i dzieci.
 
-- Формы объекта: `mene` «я», `tebe` «ты (сер.), ты», `jego` «он», `ju` «она», `nas` «нас», `vas` «ты (мн.)», `jih` «они».
+- :notr[Slovianto] ma także zaimek zwrotny :isv[se], oznaczający „siebie, siebie, siebie,…”. Nie ma formy podmiotu, ma jedynie formę dopełnienia.
 
-- Как и большинство естественных славянских языков, межславянский имеет различие Т-В, т.е. `vy` и `vas` используются не только для второго лица множественного числа, но и как вежливая форма в единственном числе. `Ty/tebe` используются для обращения к друзьям, родственникам и детям.
+- Ten zaimek zwrotny może być również użyty jako zaimek odwrotny. :isv[Oni myt se] oznacza: „myją się”, ale może też oznaczać: „myją się nawzajem”.
 
-- `Slovianto` также имеет возвратное местоимение `se`, означающее «себя, сам, себя, ...». У него нет субъектной формы, есть только объектная форма.
+- Po przyimku zawsze następuje biernik:
+  - :isv[s mene] „ze mną”
+  - :isv[bez jego] „bez niego”
+  - :isv[za tebe] „za tobą”
 
-- Это возвратное местоимение также может использоваться как возвратное местоимение. _`Oni myt se`_ означает: «они моются», но также может означать: «они моют друг друга».
+- Dla _dopełnienia pośredniego_ można dodać przyimek `k` „do, ku”:
 
-- За предлогом всегда следует винительный падеж:
+  :isv[Dajte k mene ...] „Daj mi…”
 
-  _`s mene`_ «со мной»
-  _`bez jego`_ «без него»
-  _`za tebe`_ «за тобой»
+### Zaimki
 
-- Для _косвенного объекта_ можно добавить предлог `k` «к, к»:
+- Zaimki dzierżawcze to: :isv[moj] „mój”, :isv[tvoj] „twój, twój”, :isv[jego] „jego, jego”, :isv[jej] „her”, :isv[naš] „nasz”, :isv[vaš] „twój (:abbr[pl.])”, :isv[jih] „ich”. Podobnie jak przymiotniki, zaimki dzierżawcze nie są odmieniane.
+- Jeżeli posiadacz jest także podmiotem wyroku, zwrot :isv[svoj] „własny” stosuje się w odniesieniu do wszystkich osób.
+- Istnieją także zaimki pytające i nieokreślone dzierżawcze, jak :isv[čij] „czyj”, :isv[ničij] „nobody's”, :isv[něčij] „somebody's”, :isv[čij-koli] „anybody's”.
 
-  _`Dajte k mene ...`_ «Дай мне...»
+### Zaimek wskazujący
 
-### Притяжательные местоимения
+- Zaimek wskazujący to :isv[toj] „to, tamto, te, tamte”.
+- Ilekroć zachodzi potrzeba rozróżnienia pomiędzy _tutaj_ i _tam_, poprzedzamy je `tu-` „tutaj” lub `tam-` „tam”: :isv[tutoj] „to, te”, :isv[tamtoj] „tamto, tamte” .
+- W przypadku niezależnego użycia użyj :isv[to]:
+  - :isv[Čto jest to?] „Co to jest?”
+  - :isv[To jest kniga.] „To jest książka.”
 
-- Притяжательные местоимения: `moj` «мой», `tvoj` «твой, твой», `jego` «его, его», `jej` «ее», `naš` «наш», `vaš` «твой». (мн.)», `jih` «их». Как и прилагательные, притяжательные местоимения не склоняются.
-- Если обладатель также является субъектом предложения, то возвратный `svoj` «собственный» используется для всех лиц.
-- Существуют также вопросительные и неопределенные притяжательные местоимения, такие как `čij` «чей», `ničij` «ничейный», `něčij` «чей-то», `čij-koli` «чей-либо».
+### Zaimki względne
 
-### Указательные местоимения
+- W uproszczonym języku, takim jak :notr[Slovianto], lepiej unikać zdań podrzędnych. Ale jeśli i tak potrzebujesz zaimka względnego, użyj :isv[ktory] „który”.
 
-- Указательное местоимение `toj` «этот, тот, эти, те».
-- Всякий раз, когда необходимо провести различие между _здесь_ и _там_, перед ним ставится `tu-` «здесь» или `tam-` «там»: `tutoj` «это, эти», `tamtoj` «то, те» .
-- При независимом использовании используйте `to`:
+### Zaimki pytające i nieokreślone
 
-  _`Čto jest to?`_ «Что это?»
-  _`To jest kniga.`_ «Это книга».
+- Istnieją dwa podstawowe zaimki: :isv[kto] „kto” i :isv[čto] „co”. Podobnie jak zaimki osobowe, :isv[kto] ma biernik :isv[kogo] dla dopełnienia bliższego.
+- Od nich pochodzi także kilka zaimków nieokreślonych, np. :isv[někto] „ktoś”, :isv[kto-koli] „ktoś”, :isv[ničto] „nic”, :isv[vsečto] „wszystko” (patrz kolejny rozdział).
 
-### Относительные местоимения
+### Przysłówki zaimkowe
 
-- В упрощенном языке, таком как `Slovianto`, лучше избегать придаточных предложений. Но если вам все равно нужно относительное местоимение, используйте `ktory` «который».
+- W każdym języku istnieje specjalna kategoria powiązanych ze sobą zaimków, przysłówków i przymiotników, tzw. `correlatives`. Krótko mówiąc, są to słowa pytające i słowa używane do udzielenia ogólnej odpowiedzi na te pytania. W języku angielskim, a także w wielu innych językach, słowa te są ze sobą powiązane w dość przewidywalny sposób (na przykład: _where/here/there/somewhere/anywhere/nowhere/wszędzie, skąd/stąd/stąd itp.)_ . Podobnie jest w przypadku :notr[Slovianto].
+- Słowa pytające zwykle zaczynają się od `k-`: :isv[kto] „kto”, :isv[kogda] „kiedy”, :isv[kde] „gdzie”, :isv[ktory] „który”, :isv[koliko] „ile”
+- Jeśli odpowiedź dotyczy konkretnej rzeczy, miejsca itp., słowo zaczyna się od `t-`: :isv[to] „to, tamto”, :isv[togda] „wtedy”, :isv[toliko] „tyle”
+- Jeśli odpowiedź brzmi coś nieznanego lub nieokreślonego, słowo zaczyna się od `ně-` (po którym następuje słowo pytające): :isv[někto] „ktoś”, :isv[někogda] „kiedyś, kiedyś”, :isv[někde] „gdzieś, gdzieś”
+- Jeżeli odpowiedź jest negatywna, słowo zaczyna się od `ni-` (po którym następuje słowo pytające): :isv[nikto] „nikt”, :isv[nikogda] „nigdy”, :isv[nikde] „nigdzie”
+- Jeżeli odpowiedź jest nieistotna, słowo kończy się na `-koli`, do słowa pytającego dodawane jest: :isv[kto-koli] „każdy”, :isv[kogda-koli] „zawsze i kiedykolwiek”, :isv[kde-koli] „gdziekolwiek i gdziekolwiek”
+- Jeśli odpowiedź obejmuje wszystko, słowo zaczyna się od `vse-` lub `ves-`: :isv[vsegda] „zawsze”, :isv[vesde] „wszędzie”
 
-### Вопросительные и неопределенные местоимения
+### Cyfry
 
-- Есть два основных местоимения: `kto` «кто» и `čto` «что». Как и личные местоимения, `kto` имеет винительный падеж `kogo` для прямого объекта.
-- От них также произошли некоторые неопределенные местоимения, напр. `někto` «кто-то», `kto-koli` «кто-то», `ničto` «ничего», `vsečto` «все» (см. следующий раздел).
+- _Liczby główne_ od 1 do 10 to:
 
-### Местоименные наречия
+  1 – :isv[jedin], 2 – :isv[dva], 3 – :isv[tri], 4 – :isv[četyri], 5 – :isv[pet], 6 – :isv[šest], 7 – :isv[sedm], 8 – :isv[osm], 9 – :isv[devet], 10 – :isv[deset]
 
-- В каждом языке есть особая категория взаимосвязанных местоимений, наречий и прилагательных, так называемая `correlatives`. Короче говоря, это вопросительные слова и слова, которые используются, чтобы дать общий ответ на эти вопросы. В английском, как и во многих других языках, эти слова связаны друг с другом довольно предсказуемым образом (например: _где/здесь/там/где-то/где-нибудь/нигде/везде, откуда/отсюда/отсюда и т. д.)_ . То же самое и с `Slovianto`.
-- Вопросительные слова обычно начинаются с `k-`: _`kto`_ «кто», :isv[kogda] «когда», _`kde`_ «где», :isv[ktory] «какой», _`koliko`_ «сколько»
-- Если ответ конкретная вещь, место и т. д., то слово начинается с `t-`: _`to`_ «это, то», :isv[togda] «тогда», _`toliko`_ «это много»
-- Если ответ что-то неизвестное или неопределенное, слово начинается с `ně-` (за которым следует вопросительное слово): :isv[někto] «кто-то», :isv[někogda] «когда-то, однажды», _`někde`_ «где-то, где-то». ”
-- При отрицательном ответе слово начинается с `ni-` (за которым следует вопросительное слово): :isv[nikto] «никто», :isv[nikogda] «никогда», _`nigde`_ «нигде»
-- Если ответ неважный, то слово заканчивается на `-koli`, прибавляемое к вопросительному слову: _`kto-koli`_ «любой», _`kogda-koli`_ «в любое время, когда угодно», _`kde-koli`_ «где угодно, где угодно»
-- Если ответ всеобъемлющий, то слово начинается с `vse-` или `ves-`: :isv[vsegda] «всегда», _`vesde`_ «везде»
+- „-teens” (11-19) tworzy się poprzez dodanie `-nadset`:
 
-### Цифры
+  11 – :isv[jedinnadset], 12 – :isv[dvanadset], ...
 
-- Кардинальные числа_ от 1 до 10:
+- „-więzy” (20, 30...90) tworzymy dodając `-deset`:
 
-  1 – :isv[jedin], 2 – _`dva`_, 3 – _`tri`_, 4 – :isv[četyri], 5 – _`pet`_, 6 – :isv[šest], 7 – :isv[sedm], 8 – _@@ 139_, 9 – :isv[devet], 10 – _`deset`_
+  20 – :isv[dvadeset], 30 – :isv[trideset], ...
 
-- «-teens» (11-19) образуются прибавлением `-nadset`:
+- „-setki” (200, 300...900) tworzy się poprzez dodanie `-sto`:
 
-  11 – :isv[jedinnadset], 12 – _`dvanadset`_, ...
+  200 – :isv[dvasto], 300 – :isv[tristo], ...
 
-- «-галстуки» (20, 30 ... 90) образуются прибавлением `-deset`:
+- Wyższe liczby:
 
-  20 – :isv[dvadeset], 30 – _`trideset`_, ...
+  1 000 – :isv[tyseč], 1 000 000 – :isv[milion], 1 000 000 000 – :isv[miliard]
 
-- «-сотни» (200, 300 ... 900) образуются добавлением `-sto`:
+- Kombinacje tych elementów są zawsze tworzone od najwyższej do najniższej:
 
-  200 – :isv[dvasto], 300 – _`tristo`_, ...
+  5678 – :isv[pet-tyseč šeststo sedmdeset osm]
 
-- Высшие числа:
+- _Liczby porządkowe_ tworzy się przez dodanie `-y` do odpowiedniej liczby głównej, za wyjątkiem:
 
-  1000 – :isv[tyseč], 1 000 000 – :isv[milion], 1 000 000 000 – _`miliard`_
+  Pierwszy (1.) – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] lub :isv[stoty], 1000. – :isv[tysečny]
 
-- Комбинации из них всегда составляются от большего к меньшему:
+### Czasowniki
 
-  5 678 – _`pet-tyseč šeststo sedmdeset osm`_
+- Wszystkie czasowniki mają końcówkę _bezokolicznik_ `-ti`:
+  - :isv[dělati] „do zrobienia”
+  - :isv[prositi] „zapytać”
+  - :isv[nesti] „nieść”
 
-- _Порядковые числительные_ образуются путем прибавления `-y` к соответствующему количественному числительному, за исключением следующего:
+- _Rdzeń_ uzyskuje się poprzez usunięcie końcówki `-ti` z bezokolicznika:
+  - :isv[děla-]
+  - :isv[prosi-]
+  - :isv[nes-]
 
-  1-й — :isv[prvy], 2-й — :isv[drugy], 3-й — :isv[tretji], 4-й — :isv[četvrty], 100-й — :isv[sotny] или :isv[stoty], 1000-й — _`tysečny`_
+- Na tym wczesnym etapie wystarczy jedno zakończenie _czasu teraźniejszego_. Tworzy się go przez dodanie `-t` do łodygi. Jeśli temat czasu teraźniejszego kończy się na spółgłoskę, pomiędzy tematem a końcówką wstawia się `-e-`:
+  - :isv[ja děla-t] „Tak”
+  - :isv[vy prosi-t] „pytasz”
+  - :isv[oni nes-et] „niosą”
 
-### Глаголы
+- I tutaj jest mała nieregularność, która zdarza się tak często w języku słowiańskim, że równie dobrze możesz się jej teraz nauczyć: jeśli rdzeń kończy się na `k` lub `g`, to spółgłoski te stają się `č` i `ž` przed wstawionym @@ 187:
+  - :isv[pekti] „pieczyć” → :isv[pečet]
+  - :isv[mogti] „puszka” → :isv[možet]
 
-- Все глаголы имеют окончание _инфинитива_ `-ti`:
+- W przypadku _czasu przeszłego_ dodaj `-l` (liczba pojedyncza) lub `-li` (liczba mnoga) do tematu:
+  - :isv[ja děla-l] „Zrobiłem, zrobiłem”
+  - :isv[on prosi-l] „zapytał”
+  - :isv[my nes-li] „nieśliśmy”
 
-  _`dělati`_ «делать»
-  _`prositi`_ «спросить»
-  _`nesti`_ «нести»
+- W przypadku _czasu przyszłego_ użyj `bude` z bezokolicznikiem:
+  - :isv[ja bude dělati] „Zrobię”
+  - :isv[my bude prositi] „zapytamy”
+  - :isv[oni bude nesti] „poniosą”
 
-- Основа_ получается удалением окончания `-ti` из инфинитива:
+- _Warunek_ jest tworzony poprzez użycie cząstki `by` w czasie przeszłym:
+  - :isv[ja by dělal] „Zrobiłbym/zrobiłbym”
 
-  _`děla-`_
-  _`prosi-`_
-  _`nes-`_
+- _Imperatyw_ ma końcówkę `-jte` po samogłosce lub `-ite` po spółgłosce:
+  - :isv[děla-jte] „zrób!”
+  - :isv[prosi-jte] „zapytaj!”
+  - :isv[nes-ite] „noś!”
 
-- На этом раннем этапе подойдет одно окончание для _настоящего времени_. Он образуется путем добавления `-t` к основе. Если основа настоящего времени оканчивается на согласную, `-e-` вставляется между основой и окончанием:
+- _Imiesłów bierny przeszły_ tworzy się przez dodanie `-ny` do tematu. Jeżeli rdzeń kończy się na spółgłoskę, wstaw `-e-` pomiędzy rdzeń a końcówkę. Jeśli rdzeń kończy się na `-i-`, wstaw `-e-` i zmień wynikowy `-ieny` na `-jeny`:
+  - :isv[děla-ny] „gotowe”
+  - :isv[nes-eny] „przeniesiony”
+  - :isv[prosi-eny] → :isv[prosjeny] „zapytał”
 
-  _`ja děla-t`_ «Да»
-  _`vy prosi-t`_ «ты спрашиваешь»
-  _`oni nes-et`_ «они несут»
+- Czasownik :isv[byti] „być” jest nieregularny:
+  - czas teraźniejszy: :isv[jest]
+  - czas przeszły: :isv[byl], :isv[byli]
+  - czas przyszły: :isv[bude]
+  - warunkowo: :isv[byl by, byli by]
+  - koniecznie: :isv[budite]
 
-- А вот небольшая неточность, которая так часто встречается в славянском языке, что вы могли бы выучить ее сейчас: если основа оканчивается на `k` или `g`, эти согласные становятся `č` и `ž` перед вставкой @@. 180:
+- _Głos bierny_ tworzy się podobnie jak w języku angielskim, łącząc formę czasownika :isv[byti] „być” z imiesłowem biernym czasu przeszłego:
+  - :isv[ja jest neseny] „Noszą mnie”
+  - :isv[ja byl neseny] „Noszono mnie, niesiono mnie” itp.
 
-  :isv[pekti] «выпекать» → _`pečet`_
-  :isv[mogti] «может» → _`možet`_
+### Składnia
 
-- Для _прошедшего времени_ добавьте `-l` (единственное число) или `-li` (множественное число) к основе:
+- Preferowana kolejność słów to podmiot – czasownik – dopełnienie, tak jak w języku angielskim. Nie jest to obowiązkowe, ale każda inna kolejność słów może łatwo sprawić, że zdanie będzie niejasne lub niejednoznaczne.
 
-  _`ja děla-l`_ «Я сделал, я сделал»
-  _`on prosi-l`_ «он спросил»
-  _`my nes-li`_ «мы несли»
+- Przymiotniki, zaimki dzierżawcze i tym podobne najlepiej umieszczać przed rzeczownikiem, który modyfikują:
 
-- Для _будущего времени_ используйте `bude` с инфинитивом:
+  :isv[toj dobry kniga] „ta dobra książka”
 
-  _`ja bude dělati`_ «Я сделаю»
-  _`my bude prositi`_ «мы спросим»
-  _`oni bude nesti`_ «понесут»
+- Pytania tak-nie różnią się od zwykłych zdań orientacyjnych jedynie intonacją:
+  - :isv[Otec kupil kniga] „Ojciec kupił książkę.”
+  - :isv[Otec kupil kniga?] „Czy ojciec kupił książkę?”
 
-- _условное_ формируется с помощью частицы `by` с прошедшим временем:
+- W innych pytaniach zaimek pytający lub przysłówek pojawia się jako pierwszy:
+  - :isv[Kaky kniga kupil otec?] „Jaką książkę kupił ojciec?”
+  - :isv[Kde otec kupil toj kniga?] „Gdzie ojciec kupił tę książkę?”
 
-  _`ja by dělal`_ «Я бы сделал/я бы сделал»
+- Najprostszym sposobem wyrażenia posiadania jest po prostu postawienie posiadacza przed opętanym. Jeżeli nie jest to wystarczająco jasne, użyj przyimka `od` „od, z”:
+  - :isv[moj otec kniga] „książka mojego ojca” (dosł. „książka mojego ojca”)
+  - :isv[kniga od moj otec] „księga mojego ojca” (dosł. „księga mojego ojca”)
 
-- Императив_ имеет окончание `-jte` после гласной или `-ite` после согласной:
+- Podobnie nie musisz używać żadnych specjalnych akcesoriów do obiektu pośredniego. Jeśli nie jest to wystarczająco jasne, użyj przyimka `k` „do”:
+  - :isv[Dajte moj otec toj kniga.] „Daj tę książkę mojemu ojcu.”
+  - :isv[Dajte toj kniga k moj otec.] „Daj tę książkę mojemu ojcu.”
 
-  _`děla-jte`_ «делай!»
-  _`prosi-jte`_ «спроси!»
-  _`nes-ite`_ «неси!»
+- Aby wyrazić instrument, którego się do czegoś używa, użyj przyimka `s` „with”:
+  - :isv[Ja udaril svoj otec s toj kniga.] „Uderzyłem ojca tą książką.”
 
-- _Пассативное причастие прошедшего времени_ создается добавлением `-ny` к основе. Если основа оканчивается на согласную, вставьте `-e-` между основой и окончанием. Если основа заканчивается на `-i-`, вставьте `-e-` и замените получившийся `-ieny` на `-jeny`:
+## Przykładowy tekst: W restauracji
 
-  _`děla-ny`_ «готово»
-  _`nes-eny`_ «нес»
-  _`prosi-eny`_ → _`prosjeny`_ «спросил»
+:::komponent{name="MDSlovianto2"}
+- Dobry dzień! Czy restauracja jest otwarta?
+- Dobry dzień. Tak, jesteśmy otwarci.
+- Czy można tu napić się czegoś?
+- Oczywiście, co mam ci przynieść?
+- Co masz?
+- Herbata, kawa, piwo, wino, wódka...
+- Czy masz też coś zimnego?
+- Tak, mamy sok, wodę, mleko...
+- W takim razie proszę, daj nam dwa soki.
+- Dwa soki, OK. Czy ty też chcesz coś zjeść?
+- Może... Masz chleb?
+- Oczywiście, że tak. Chleb, mięso, ryby, wszystko tam jest.
+- Dziękuję, po prostu posmaruj się masłem, proszę.
+:::
 
-- Глагол `byti` «быть» неправильный:
+## Podstawowe słownictwo
 
-  настоящее время: _`jest`_
-  прошедшее время: _`byl`_, _`byli`_
-  будущее время: _`bude`_
-  условно: _`byl by, byli by`_
-  императив: _`budite`_
-
-- Пассивный залог создается, как и в английском языке, путем сочетания формы глагола `byti` «to be» с пассивным причастием прошедшего времени:
-
-  _`ja jest neseny`_ «Меня несут»
-  _`ja byl neseny`_ «Меня несли, меня несли» и т. д.
-
-### Синтаксис
-
-- Предпочтительный порядок слов подлежащее – глагол – дополнение, как в английском языке. Это не обязательно, но любой другой порядок слов может легко сделать предложение неясным или двусмысленным.
-
-- Прилагательные, притяжательные местоимения и т.п. желательно ставить перед изменяемым существительным:
-
-  _`toj dobry kniga`_ «эта хорошая книга»
-
-- Да-нет вопросы отличаются от нормальных изъявительных предложений только интонацией:
-
-  _`Otec kupil kniga`_ «Отец купил книгу».
-  _`Otec kupil kniga?`_ «Отец купил книгу?»
-
-- В других вопросах на первое место ставится вопросительное местоимение или наречие:
-
-  _`Kaky kniga kupil otec?`_ «Какую книгу купил отец?»
-  _`Kde otec kupil toj kniga?`_ «Где отец купил эту книгу?»
-
-- Самый простой способ выразить обладание - просто поставить обладателя перед одержимым. Если это недостаточно ясно, используйте предлог `od` «от, из»:
-
-  _`moj otec kniga`_ «книга моего отца» (букв. «книга моего отца»)
-  _`kniga od moj otec`_ «книга моего отца» (букв. «книга моего отца»)
-
-- Точно так же вам не нужно использовать какие-либо специальные аксессуары для косвенного объекта. Всякий раз, когда это недостаточно ясно, используйте предлог `k` «to»:
-
-  _`Dajte moj otec toj kniga.`_ «Отдай эту книгу моему отцу».
-  _`Dajte toj kniga k moj otec.`_ «Отдай эту книгу моему отцу».
-
-- Чтобы выразить инструмент, используемый для чего-то, используйте предлог `s` «с»:
-
-  _`Ja udaril svoj otec s toj kniga.`_ «Я ударил отца этой книгой».
-
----
-
-## Пример текста: В ресторане
-
-<div className="dialogue">
-  :::isv
-  - Dobry denj! Restoran jest otvorjeny?
-  - Dobry denj. Da, my jest otvorjeny.
-  - Možno tu piti něčto?
-  - Očevidno, čto prinesti k vas?
-  - Čto vy imat?
-  - Čaj, kava, pivo, vino, vodka...
-  - A vy takože imat něčto hladne?
-  - Da, my imat sok, voda, mlěko...
-  - Togda dajte nam dva soki, prosim.
-  - Dva soki, dobro. Vy takože hočet jesti něčto?
-  - Može... Vy imat hlěb?
-  - Da, očevidno. Hlěb, meso, ryba, vsečto jest.
-  - Hvala, samo hlěb s maslo, prosim.
-  :::
-
-  - Good day! Is the restaurant open?
-  - Good day. Yes, we are open.
-  - Is it possible to have something to drink here?
-  - Of course, what shall I bring you?
-  - What do you have?
-  - Tea, coffee, beer, wine, vodka...
-  - Do you also have something cold?
-  - Yes, we have juice, water, milk...
-  - Then please give us two juice.
-  - Two juice, okay. Would you like to eat something as well?
-  - Maybe... Do you have bread?
-  - Yes, of course. Bread, meat, fish, everything is there.
-  - Thank you, just breat with butter, please.
-</div>
-
-## Базовый словарный запас
-
-<p className="text-3-col">
-  - :isv[a] – and, but
-  - :isv[ako] – if
-  - :isv[ale] – but
-  - :isv[avto] – car
-  - :isv[bez] – without
-  - :isv[běly] – white
-  - :isv[bliz] – almost
-  - :isv[bolje] – more
-  - :isv[brati] – to take
-  - :isv[byti] – to be
-  - :isv[čaj] – tea
-  - :isv[čas] – time
-  - :isv[časina] – hour
-  - :isv[čest] – part
-  - :isv[člověk] – person, human being
-  - :isv[črěz] – through
-  - :isv[črny] – black
-  - :isv[čto] – what
-  - :isv[da] – yes
-  - :isv[dati] – to give
-  - :isv[daže] – even
-  - :isv[denj] – day
-  - :isv[dělati] – to do, to make
-  - :isv[dělo] – act, deed
-  - :isv[děte] – child
-  - :isv[dlja] – for
-  - :isv[do] – to, towards, till
-  - :isv[dobro] – well
-  - :isv[dobry] – good
-  - :isv[dom] – house
-  - :isv[dostati] – to get, to receive
-  - :isv[drugy] – second
-  - :isv[država] – state
-  - :isv[dva] – two
-  - :isv[dveri] – door
-  - :isv[glas] – voice
-  - :isv[glava] – head
-  - :isv[gleděti] – to watch
-  - :isv[god] – year
-  - :isv[govoriti] – to say, to speak
-  - :isv[grad] – city, town
-  - :isv[groši] – money
-  - :isv[hladny] – cold
-  - :isv[hlěb] – bread
-  - :isv[htěti] – to want
-  - :isv[hvala] – thanks
-  - :isv[i] – and
-  - :isv[idti] – to go, to walk
-  - :isv[ih] – them; their
-  - :isv[ili] – or
-  - :isv[imati] – to have
-  - :isv[iz] – from, out of
-  - :isv[ja] – I
-  - :isv[jedin] – one
-  - :isv[jedino] – only
-  - :isv[jego] – him; his
-  - :isv[jej] – her
-  - :isv[jesti] – to eat
-  - :isv[ješče] – still
-  - :isv[k] – to, towards
-  - :isv[kaky] – what kind of
-  - :isv[kako] – how; like
-  - :isv[kava] – coffee
-  - :isv[kde] – where
-  - :isv[kniga] – book
-  - :isv[kogda] – when
-  - :isv[konec] – end
-  - :isv[kto] – who
-  - :isv[ktory] – which
-  - :isv[lice] – face
-  - :isv[ljubiti] – to love, to like
-  - :isv[maly] – little, small
-  - :isv[maslo] – butter
-  - :isv[medžu] – between
-  - :isv[menje] – less
-  - :isv[meso] – meat
-  - :isv[město] – place
-  - :isv[minuta] – minute
-  - :isv[mlěko] – milk
-  - :isv[mnogo] – much; very
-  - :isv[mogti] – can, to be able
-  - :isv[moj] – my
-  - :isv[može] – maybe, perhaps
-  - :isv[možno] – it is possible; possibly
-  - :isv[muž] – man, husband
-  - :isv[my] – we
-  - :isv[mysliti] – to think
-  - :isv[na] – on, upon, at
-  - :isv[nad] – above, beyond
-  - :isv[najbolje] – most
-  - :isv[naš] – our
-  - :isv[ne] – no; not
-  - :isv[nesti] – to carry
-  - :isv[neželi] – than
-  - :isv[něčto] – something
-  - :isv[někaky] – some kind of
-  - :isv[několiko] – a few, several
-  - :isv[ni … ni …] – neither ... nor ...
-  - :isv[ničto] – nothing
-  - :isv[nikto] – nobody
-  - :isv[noč] – night
-  - :isv[noga] – leg
-  - :isv[novy] – new
-  - :isv[o, ob] – about
-  - :isv[obči] – common, general
-  - :isv[očevidno] – of course
-  - :isv[od] – of, from
-  - :isv[odgovoriti] – to answer
-  - :isv[oko] – eye
-  - :isv[on] – he
-  - :isv[ona] – she
-  - :isv[oni] – they
-  - :isv[ostati] – to stay, to remain
-  - :isv[otec] – father
-  - :isv[otvoriti] – open
-  - :isv[piti] – to drink
-  - :isv[pivo] – beer
-  - :isv[po] – after; in the manner of
-  - :isv[početi] – to begin, to start
-  - :isv[pod] – under
-  - :isv[pogled] – look, sight, view
-  - :isv[pokoj] – peace, quiet
-  - :isv[poslědny] – last
-  - :isv[potom] – after that, then
-  - :isv[potrěbny] – needed, necessary
-  - :isv[prěd] – before
-  - :isv[pri] – by, near
-  - :isv[prijatelj] – friend
-  - :isv[prijdti] – to come
-  - :isv[prinesti] – to bring
-  - :isv[problem] – problem
-  - :isv[prosim] – please
-  - :isv[prositi] – to ask (for sth.), to require
-  - :isv[prosty] – simple, easy
-  - :isv[prvy] – first
-  - :isv[pytanje] – question
-  - :isv[pytati] – to ask (a question)
-  - :isv[rabota] – work, labour
-  - :isv[rabotati] – to work, to labour
-  - :isv[raz] – time (in the sense of: ... times)
-  - :isv[razuměti] – to understand
-  - :isv[restoran] – restaurant
-  - :isv[ruka] – arm
-  - :isv[ryba] – fish
-  - :isv[s] – with
-  - :isv[směsta] – immediately
-  - :isv[snova] – again
-  - :isv[sam] – alone
-  - :isv[samo] – only, merely
-  - :isv[se, sebe] – oneself
-  - :isv[seděti] – to sit
-  - :isv[sejčas] – now
-  - :isv[sila] – power, force
-  - :isv[slovo] – word
-  - :isv[slučaj] – case, instance, event
-  - :isv[sok] – juice
-  - :isv[sovsěm] – entirely, completely
-  - :isv[spati] – to sleep
-  - :isv[stary] – old
-  - :isv[stati] – to become
-  - :isv[stati se] – to happen
-  - :isv[stojati] – to stand
-  - :isv[stol] – table
-  - :isv[strana] – side
-  - :isv[svět] – world
-  - :isv[svoj] – one's own
-  - :isv[taky] – such
-  - :isv[tako] – so, in such way
-  - :isv[takože] – also, too
-  - :isv[tamo] – there
-  - :isv[teply] – warm
-  - :isv[to] – this, that
-  - :isv[togda] – then
-  - :isv[toj] – this, that
-  - :isv[toliko] – this much, that much, only
-  - :isv[trěba] – it is needed, it is necesary
-  - :isv[tri] – three
-  - :isv[tu] – here
-  - :isv[tvoj] – your (sg.)
-  - :isv[ty] – you (sg.)
-  - :isv[uho] – ear
-  - :isv[uže] – already
-  - :isv[v] – in; into
-  - :isv[vaš] – your (pl.)
-  - :isv[veliky] – great, big
-  - :isv[ves] – all, entire
-  - :isv[vid] – aspect, look, vision
-  - :isv[viděti] – to see
-  - :isv[vino] – wine
-  - :isv[voda] – water
-  - :isv[vojna] – war
-  - :isv[vrěme] – time
-  - :isv[vsaky] – every
-  - :isv[vse] – everything
-  - :isv[vsegda] – always
-  - :isv[vy] – you (pl.)
-  - :isv[vyjdti] – exit, quit
-  - :isv[vysoky] – high
-  - :isv[za] – behind
-  - :isv[začto] – why, what for
-  - :isv[zato] – that's why, therefore
-  - :isv[zemja] – earth, ground
-  - :isv[zly] – bad
-  - :isv[značiti] – to mean
-  - :isv[znati] – to know
-  - :isv[že] – that (conjunction)
-  - :isv[žena] – woman, wife
-  - :isv[žiti] – to live
-</p>
+:::komponent{name="MDSlovianto3"}
+:::
 
 [1]: https://interslavic-dictionary.com
-

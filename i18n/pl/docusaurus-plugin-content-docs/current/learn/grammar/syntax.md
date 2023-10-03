@@ -2,40 +2,38 @@
 sidebar_position: 8
 license: republish
 author: Jan van Steenbergen
-custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/syntax.html
 ---
 
 # Składnia
 
-Kolejność słów jest w zasadzie dowolna, ale preferowaną (i stylistycznie najbardziej neutralną) kolejnością słów jest podmiot – czasownik – dopełnienie (SVO). Nie jest to obowiązkowe, ale należy pamiętać, że umieszczenie przedmiotu przed podmiotem nie pomoże w wyjaśnieniu znaczenia. Nie dotyczy to zdań, w których zaimek osobowy lub zaimek `kto` jest podmiotem lub dopełnieniem, ponieważ zaimki osobowe i `kto` mają swoje własne formy biernika, więc znaczenie jest zawsze jasne.
+Kolejność słów jest w zasadzie dowolna, ale preferowana (i najbardziej neutralna stylistycznie) kolejność słów to podmiot – czasownik – dopełnienie (SVO). Nie jest to obowiązkowe, ale należy pamiętać, że umieszczenie dopełnienia przed podmiotem nie pomoże w wyjaśnieniu znaczenia. Nie dotyczy to zdań, w których zaimek osobowy lub zaimek :isv[kto] jest podmiotem lub dopełnieniem, ponieważ zaimki osobowe i :isv[kto] mają swoje własne formy biernika, więc znaczenie jest zawsze jasne.
 
-Modyfikatory zwykle poprzedzają rzeczownik. To też nie jest obowiązkowe, ale jest to najbardziej neutralny i najjaśniejszy sposób budowania zdania.
+Modyfikatory zwykle poprzedzają rzeczownik. To również nie jest obowiązkowe, ale jest to najbardziej neutralny i przejrzysty sposób budowania zdania.
 
 Istnieją dwa rodzaje pytań:
 
-- Pytania tak-nie można zadawać na trzy różne sposoby:
-  - albo różni się od zwykłego zdania oznajmującego tylko intonacją:\
-    _– `Otec kupil knigu`?_ „Czy ojciec kupił książkę?”
-  - lub to zdanie jest poprzedzone partykułą `či`:\
-    _– `Či otec kupil knigu`?_
-  - lub jest oznaczony partykułą pytania `li` umieszczoną zaraz po punkcie skupienia pytania, zwykle czasowniku:\
-    _– `Kupil li otec knigu`?_
-- Inne pytania zaczynają się od zaimka pytającego lub przysłówka umieszczonego na początku zdania:\
-  _– `Koju knigu kupil otec`?_ „Jaką książkę kupił tata?”\
-  _– `Gde otec kupil tu knigu`?_ „Gdzie ojciec kupił tę książkę?”\
-  W tego typu zdaniach znaczenie jest zwykle wyjaśnione przez przypadek, który został użyty:\
-  – _`Koja žena ljubi togo muža`?_ „Która kobieta kocha tego mężczyznę?” (kobieta = podmiot, mężczyzna = przedmiot)\
-  – _`Koju ženu ljubi toj muž`?_ „Którą kobietę kocha ten mężczyzna?” (mężczyzna = podmiot, kobieta = przedmiot)
-- W razie potrzeby można użyć zdań w stronie biernej, które są zawsze jasne:\
-  _– `Koja žena jest ljubjena od togo muža`?_ „Którą kobietę kocha ten mężczyzna?”
+- Pytania typu „tak-nie” można zadawać na trzy różne sposoby:
+  - albo różni się od zwykłego zdania oznajmującego jedynie intonacją:
+    – :isv[Otec kupil knigu?] „Czy ojciec kupił książkę?”
+  - lub to zdanie jest poprzedzone partykułą :isv[či]:
+    – :isv[Či otec kupil knigu?]
+  - lub jest oznaczony cząstką pytania :isv[li] umieszczoną zaraz po punkcie skupienia pytania, zwykle czasownikiem:
+    – :isv[Kupil li otec knigu?]
+- Pozostałe pytania zaczynają się od zaimka pytającego lub przysłówka, umieszczonego na początku zdania:
+  – :isv[Koju knigu kupil otec?] „Jaką książkę kupił ojciec?”
+  – :isv[Gde otec kupil tu knigu?] „Gdzie ojciec kupił tę książkę?”
+  W tego typu zdaniach znaczenie jest zwykle wyjaśniane przez wielkość użytego przypadku:
+  – :isv[Koja žena ljubi togo muža?] „Która kobieta kocha tego mężczyznę?” (kobieta = podmiot, mężczyzna = przedmiot)
+  – :isv[Koju ženu ljubi toj muž?] „Którą kobietę kocha ten mężczyzna?” (mężczyzna = podmiot, kobieta = przedmiot)
+- W razie potrzeby można zastosować zdania w stronie biernej, które są zawsze jasne:
+  – :isv[Koja žena jest ljubjena od togo muža?] „Którą kobietę kocha ten mężczyzna?”
 
-Zdania końcowe są tłumaczone za pomocą `že` lub `da`, po których następuje tryb warunkowy:
+Zdania końcowe są tłumaczone za pomocą :isv[že] lub :isv[da], po których następuje warunek:
 
-- _`Turisti posětet Niderlandiju, že by fotografovali tulipany`._ „Turyści odwiedzają Holandię, aby fotografować tulipany.”
-- __`Turisty posětili Niderlandiju, že by fotografovali tulipany`._ „Turyści odwiedzili Holandię, aby sfotografować tulipany.”
-- _`Ona prinosi jabloka, da by děti byli zdrave`._ „Przynosi jabłka, żeby dzieci były zdrowe.”
-- __`Ona prinosila jabloka, da by děti byli zdrave`._ „Przyniosła jabłka, żeby dzieci były zdrowe.”
+- :isv[Turisti posětet Niderlandiju, že by fotografovali tulipany.] „Turyści odwiedzają Holandię, aby robić zdjęcia tulipanów.”
+- :isv[Turisti posětili Niderlandiju, že by fotografovali tulipany.] „Turyści odwiedzili Holandię, żeby zrobić zdjęcia tulipanów.”
+- :isv[Ona prinosi jabloka, da by děti byli zdrave.] „Przynosi jabłka, żeby dzieci były zdrowe.”
+- :isv[Ona prinosila jabloka, da by děti byli zdrave.] „Przyniosła jabłka, żeby dzieci były zdrowe.”
 
-Strona bierna może być użyta, ale jeśli tak, to należy to robić ostrożnie. Zdanie typu: _„`Pica je dělana`”_ lub _„`Pica je dělajema`”_ „Pizza się robi” jest całkowicie poprawne gramatycznie. Lepiej jednak tego uniknąć, bo taka konstrukcja brzmi niezgrabnie dla tych Słowian, którzy nie są przyzwyczajeni do częstego używania czasownika „być”, zwłaszcza w czasie teraźniejszym. Poza tym, podczas gdy dla części słowiańskich mówców jest to całkowicie naturalne, dla innych imiesłów bierny przeszły w ogóle nie może być użyty do konstrukcji czasu teraźniejszego. Dlatego jeśli temat jest znany, lepiej jest użyć normalnego zdania czynnego. A jeśli temat nie jest znany, jak w przypadku naszej pizzy, można użyć trzeciej osoby liczby mnogiej bez podmiotu: _„`Dělajut picu`”_ „Robią pizzę, jeden robi pizzę, pizza się robi ”. Jeszcze bardziej powszechna jest konstrukcja zwrotna: _`Pica dělaje se`_, co dosłownie oznacza „Pizza robi się sama” i powinno być tłumaczone jako „Pizzę się robi, pizza się robi”.
-
+Można użyć strony biernej, ale w takim przypadku należy zachować ostrożność. Zdanie takie jak: :isv[Pica je dělana] lub :isv[Pica je dělajema] „Pizza się robi” jest gramatycznie całkowicie poprawne. Jednak lepiej jest tego unikać, bo taka konstrukcja brzmi nieporadnie dla tych Słowian, którzy nie są przyzwyczajeni do zbyt częstego używania czasownika „być”, zwłaszcza w czasie teraźniejszym. Poza tym, o ile dla części słowiańskich użytkowników jest to całkowicie naturalne, o tyle dla innych imiesłów bierny czasu przeszłego w ogóle nie daje się zastosować do konstrukcji czasu teraźniejszego. Dlatego też, jeśli podmiot jest znany, lepiej zastosować normalne zdanie czynne. A jeśli podmiot nie jest znany, jak w przypadku naszej pizzy, można użyć trzeciej osoby liczby mnogiej bez podmiotu: :isv[Dělajut picu] „Robią pizzę, jeden robi pizzę, pizza się robi”. Jeszcze bardziej powszechna jest konstrukcja zwrotna: :isv[Pica dělaje se], co dosłownie oznacza „Pizza sama się robi” i należy przetłumaczyć jako „Jeden robi pizzę, pizza się robi”.
