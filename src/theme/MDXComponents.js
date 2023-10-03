@@ -42,6 +42,9 @@ import MDDerivation from "@site/src/markdown/derivation/commonSlavicSounds";
 import MDFlavourisation1 from "@site/src/markdown/flavourisation/northAndSouth";
 import MDFlavourisation2 from "@site/src/markdown/flavourisation/spelling1";
 import MDFlavourisation3 from "@site/src/markdown/flavourisation/spelling2";
+import MDSlovianto1 from "@site/src/markdown/simpleGrammar/phonology";
+import MDSlovianto2 from "@site/src/markdown/simpleGrammar/dialogue";
+import MDSlovianto3 from "@site/src/markdown/simpleGrammar/basicVocabulary.md";
 import MDSimpleGrammar1 from "@site/src/markdown/simpleGrammar/presentTense";
 import MDSimpleGrammar2 from "@site/src/markdown/simpleGrammar/pastTense";
 import MDSimpleGrammar3 from "@site/src/markdown/simpleGrammar/imperative";
@@ -105,6 +108,9 @@ export default {
   MDSimpleGrammar2,
   MDSimpleGrammar3,
   MDSimpleGrammar4,
+  MDSlovianto1,
+  MDSlovianto2,
+  MDSlovianto3,
   MDPersonalPronouns1,
   MDPersonalPronouns2,
   MDPersonalPronouns3,

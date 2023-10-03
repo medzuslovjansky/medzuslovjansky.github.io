@@ -11,39 +11,39 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] can be written in the Latin alphabet and the Cyrillic alphabet, but we will concentrate on the Latin alphabet here:
 
-<p className="text-3-col">
-- `A` — as _a_ in English :en[f**a**ther]
-- `B` — as in English
-- `C` — as _ts_ in English „bi**ts**”
-- `Č` — as _ch_ in English „**ch**ur**ch**”
-- `D` — as in English
-- `DŽ` — as _j_ in English „**J**ohn”
-- `E` — as _e_ in English „b**e**st”
-- `Ě` — as _ye_ in English „**ye**t”
-- `F` — as in English
-- `G` — as _g_ in English „**g**ood”
-- `H` — as _ch_ in Scottish „lo**ch**”
-- `I` — as _ea_ in English „b**ea**t”
-- `J` — as _y_ in English „**y**ard”
-- `K` — as in English, but without aspiration
-- `L` — as in English
-- `LJ` — as _li_ in English „mil**li**on”
-- `M` — as in English
-- `N` — as in English
-- `NJ` — as _ny_ in English „ca**ny**on”
-- `O` — as _o_ in English „**o**r”
-- `P` — as in English, but without aspiration
-- `R` — rolled _r_
-- `RJ` — rolled r, followed by _ye_ in English „**ye**t”
-- `S` — as _s_ in English „**s**pin”
-- `Š` — as _sh_ in English „**sh**op”
-- `T` — as in English, but without aspiration
-- `U` — as _oo_ in English „b**oo**k”
-- `V` — as _v_ in English „a**v**oid”
-- `Y` — as _i_ in English „b**i**t”
-- `Z` — as in English
-- `Ž` — as _si_ in English „vi**si**on”
-</p>
+:::component{name=MDSlovianto1}
+- as _a_ in English :en[f**a**ther]
+- as in English
+- as _ts_ in English „bi**ts**”
+- as _ch_ in English „**ch**ur**ch**”
+- as in English
+- as _j_ in English „**J**ohn”
+- as _e_ in English „b**e**st”
+- as _ye_ in English „**ye**t”
+- as in English
+- as _g_ in English „**g**ood”
+- as _ch_ in Scottish „lo**ch**”
+- as _ea_ in English „b**ea**t”
+- as _y_ in English „**y**ard”
+- as in English, but without aspiration
+- as in English
+- as _li_ in English „mil**li**on”
+- as in English
+- as in English
+- as _ny_ in English „ca**ny**on”
+- as _o_ in English „**o**r”
+- as in English, but without aspiration
+- rolled _r_
+- rolled r, followed by _ye_ as in English „**ye**t”
+- as _s_ in English „**s**pin”
+- as _sh_ in English „**sh**op”
+- as in English, but without aspiration
+- as _oo_ in English „b**oo**k”
+- as _v_ in English „a**v**oid”
+- as _i_ in English „b**i**t”
+- as in English
+- as _si_ in English „vi**si**on”
+:::
 
 In the [Interslavic dictionary][1] you will find other characters as well, like `ò`, `ų`, `å` or `ť`. You can simply ignore the diacritics and read them as `o`, `u`, `a`, `t` etc. That goes for `ě`, too. The only characters that keep their diacritics in Latin orthography are `č`, `š` and `ž`. If you find writing them inconvenient, you can always use `cz`, `sz` and `zs` (or `cx`, `sx` and `zx`) as an alternative.
 
@@ -56,10 +56,9 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 - Nouns can end in a consonant or `-a`, `-o`, `-e`.
 - :notr[Slovianto] does not have articles. Therefore, :isv[žena] can mean „a woman” or „the woman”.
 - The plural is formed by adding `-i` if the word ends in a consonant, or by replacing the final vowel by **-i**:
-
-  :isv[muž] „man” → :isv[muži] „men”
-  :isv[žena] „woman” → :isv[ženi] „women”
-  :isv[slovo] „word” → :isv[slovi] „words”
+  - :isv[muž] „man” → :isv[muži] „men”
+  - :isv[žena] „woman” → :isv[ženi] „women”
+  - :isv[slovo] „word” → :isv[slovi] „words”
 
 ### Adjectives
 
@@ -70,12 +69,11 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   :isv[dobry] „good” → :isv[dobro] „well”
 
 - Adjectives are compared by means of the words :isv[vyše] („more”), :isv[menje] („less”), :isv[naj-] („most”) and :isv[najmenje] („least”):
-
-  :isv[dobry] „good”
-  :isv[vyše dobry] „better”
-  :isv[naj-dobry] „best”
-  :isv[menje dobry] „less good”
-  :isv[najmenje dobry] „least good”
+  - :isv[dobry] „good”
+  - :isv[vyše dobry] „better”
+  - :isv[naj-dobry] „best”
+  - :isv[menje dobry] „less good”
+  - :isv[najmenje dobry] „least good”
 
 ### Personal pronouns
 
@@ -92,10 +90,9 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 - This reflexive pronoun can also be used as a reciprocal pronoun. :isv[Oni myt se] means: „they are washing themselves”, but can also mean: „they are washing each other”.
 
 - A preposition is always followed by the accusative:
-
-  :isv[s mene] „with me”
-  :isv[bez jego] „without him”
-  :isv[za tebe] „behind you”
+  - :isv[s mene] „with me”
+  - :isv[bez jego] „without him”
+  - :isv[za tebe] „behind you”
 
 - For the _indirect object_, the preposition `k` „to, towards” can be added:
 
@@ -112,9 +109,8 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 - The demonstrative pronoun is :isv[toj] „this, that, these, those”.
 - Whenever it is necessary to make a distinction between _here_ and _there_, we have it preceded by `tu-` „here” or `tam-` „there”: :isv[tutoj] „this, these”, :isv[tamtoj] „that, those”.
 - When used independently, use :isv[to]:
-
-  :isv[Čto jest to?] „What is this?”
-  :isv[To jest kniga.] „This is a book.”
+  - :isv[Čto jest to?] „What is this?”
+  - :isv[To jest kniga.] „This is a book.”
 
 ### Relative pronouns
 
@@ -168,68 +164,57 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 ### Verbs
 
 - All verbs have the _infinitive_ ending `-ti`:
-
-  :isv[dělati] „to do”
-  :isv[prositi] „to ask”
-  :isv[nesti] „to carry”
+  - :isv[dělati] „to do”
+  - :isv[prositi] „to ask”
+  - :isv[nesti] „to carry”
 
 - The _stem_ is obtained by removing the ending `-ti` from the infinitive:
-
-  :isv[děla-]
-  :isv[prosi-]
-  :isv[nes-]
+  - :isv[děla-]
+  - :isv[prosi-]
+  - :isv[nes-]
 
 - At this early stage, one ending for the _present tense_ will do. It is formed by adding `-t` to the stem. If the present tense stem ends in a consonant, `-e-` is inserted between the stem and the ending:
-
-  :isv[ja děla-t] „I do”
-  :isv[vy prosi-t] „you ask”
-  :isv[oni nes-et] „they carry”
+  - :isv[ja děla-t] „I do”
+  - :isv[vy prosi-t] „you ask”
+  - :isv[oni nes-et] „they carry”
 
 - And here's a bit of irregularity that happens so often in Slavic that you might as well learn it now: if the stem ends in `k` or `g`, these consonants become `č` and `ž` before the inserted `e`:
-
-  :isv[pekti] „to bake” → :isv[pečet]
-  :isv[mogti] „can” → :isv[možet]
+  - :isv[pekti] „to bake” → :isv[pečet]
+  - :isv[mogti] „can” → :isv[možet]
 
 - For the _past tense_, add `-l` (singular) or `-li` (plural) to the stem:
-
-  :isv[ja děla-l] „I did, I have done”
-  :isv[on prosi-l] „he asked”
-  :isv[my nes-li] „we carried”
+  - :isv[ja děla-l] „I did, I have done”
+  - :isv[on prosi-l] „he asked”
+  - :isv[my nes-li] „we carried”
 
 - For the _future tense_, use `bude` with the infinitive:
-
-  :isv[ja bude dělati] „I will do”
-  :isv[my bude prositi] „we will ask”
-  :isv[oni bude nesti] „they will carry”
+  - :isv[ja bude dělati] „I will do”
+  - :isv[my bude prositi] „we will ask”
+  - :isv[oni bude nesti] „they will carry”
 
 - The _conditional_ is formed by using the particle `by` with the past tense:
-
-  :isv[ja by dělal] „I would do/I would have done”
+  - :isv[ja by dělal] „I would do/I would have done”
 
 - The _imperative_ has the ending `-jte` after a vowel or `-ite` after a consonant:
-
-  :isv[děla-jte] „do!”
-  :isv[prosi-jte] „ask!”
-  :isv[nes-ite] „carry!”
+  - :isv[děla-jte] „do!”
+  - :isv[prosi-jte] „ask!”
+  - :isv[nes-ite] „carry!”
 
 - The _past passive participle_ is created by adding `-ny` to the stem. If the stem ends in a consonant, insert `-e-` between the stem and the ending. If the stem ends in `-i-`, then insert `-e-` and change resulting `-ieny` to `-jeny`:
-
-  :isv[děla-ny] „done”
-  :isv[nes-eny] „carried”
-  :isv[prosi-eny] → :isv[prosjeny] „asked”
+  - :isv[děla-ny] „done”
+  - :isv[nes-eny] „carried”
+  - :isv[prosi-eny] → :isv[prosjeny] „asked”
 
 - The verb :isv[byti] „to be” is irregular:
-
-  present tense: :isv[jest]
-  past tense: :isv[byl], :isv[byli]
-  future tense: :isv[bude]
-  conditional: :isv[byl by, byli by]
-  imperative: :isv[budite]
+  - present tense: :isv[jest]
+  - past tense: :isv[byl], :isv[byli]
+  - future tense: :isv[bude]
+  - conditional: :isv[byl by, byli by]
+  - imperative: :isv[budite]
 
 - The _passive voice_ is created as in English, by combining a form of the verb :isv[byti] „to be” with the past passive participle:
-
-  :isv[ja jest neseny] „I am being carried”
-  :isv[ja byl neseny] „I was being carried, I have been carried”, etc.
+  - :isv[ja jest neseny] „I am being carried”
+  - :isv[ja byl neseny] „I was being carried, I have been carried”, etc.
 
 ### Syntax
 
@@ -240,51 +225,27 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   :isv[toj dobry kniga] „this good book”
 
 - Yes-no questions differ from normal indicative sentences only by intonation:
-
-  :isv[Otec kupil kniga] „Father has bought a book.”
-  :isv[Otec kupil kniga?] „Has father bought a book?”
+  - :isv[Otec kupil kniga] „Father has bought a book.”
+  - :isv[Otec kupil kniga?] „Has father bought a book?”
 
 - In other questions, the interrogative pronoun or adverb comes first:
-
-  :isv[Kaky kniga kupil otec?] „What kind of book has father bought?”
-  :isv[Kde otec kupil toj kniga?] „Where did father buy that book?”
+  - :isv[Kaky kniga kupil otec?] „What kind of book has father bought?”
+  - :isv[Kde otec kupil toj kniga?] „Where did father buy that book?”
 
 - The easiest way for expressing possession is simply placing the possessor before the possessed. When this is not clear enough, use the preposition `od` „from, of”:
-
-  :isv[moj otec kniga] „my father's book” (lit. „my father book”)
-  :isv[kniga od moj otec] „my father's book” (lit. „the book of my father”)
+  - :isv[moj otec kniga] „my father's book” (lit. „my father book”)
+  - :isv[kniga od moj otec] „my father's book” (lit. „the book of my father”)
 
 - Likewise, you don't need to use any special accessories for the indirect object. Whenever this is not clear enough, use the preposition `k` „to”:
-
-  :isv[Dajte moj otec toj kniga.] „Give that book to my father.”
-  :isv[Dajte toj kniga k moj otec.] „Give that book to my father.”
+  - :isv[Dajte moj otec toj kniga.] „Give that book to my father.”
+  - :isv[Dajte toj kniga k moj otec.] „Give that book to my father.”
 
 - To express the instrument used for something, use the preposition `s` „with”:
-
-  :isv[Ja udaril svoj otec s toj kniga.] „I hit my father with that book.”
-
----
+  - :isv[Ja udaril svoj otec s toj kniga.] „I hit my father with that book.”
 
 ## Sample text: In the restaurant
 
-<div className="dialogue">
-
-:::isv
-* :isv[Dobry denj! Restoran jest otvorjeny?]
-* :isv[Dobry denj. Da, my jest otvorjeny.]
-* :isv[Možno tu piti něčto?]
-* :isv[Očevidno, čto prinesti k vas?]
-* :isv[Čto vy imat?]
-* :isv[Čaj, kava, pivo, vino, vodka...]
-* :isv[A vy takože imat něčto hladne?]
-* :isv[Da, my imat sok, voda, mlěko...]
-* :isv[Togda dajte nam dva soki, prosim.]
-* :isv[Dva soki, dobro. Vy takože hočet jesti něčto?]
-* :isv[Može... Vy imat hlěb?]
-* :isv[Da, očevidno. Hlěb, meso, ryba, vsečto jest.]
-* :isv[Hvala, samo hlěb s maslo, prosim.]
-:::
-
+:::component{name=MDSlovianto2}
 * Good day! Is the restaurant open?
 * Good day. Yes, we are open.
 * Is it possible to have something to drink here?
@@ -298,219 +259,11 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 * Maybe... Do you have bread?
 * Yes, of course. Bread, meat, fish, everything is there.
 * Thank you, just breat with butter, please.
-</div>
+:::
 
 ## Basic vocabulary
 
-<p className="text-3-col">
-* :isv[a] – and, but
-* :isv[ako] – if
-* :isv[ale] – but
-* :isv[avto] – car
-* :isv[bez] – without
-* :isv[běly] – white
-* :isv[bliz] – almost
-* :isv[bolje] – more
-* :isv[brati] – to take
-* :isv[byti] – to be
-* :isv[čaj] – tea
-* :isv[čas] – time
-* :isv[časina] – hour
-* :isv[čest] – part
-* :isv[člověk] – person, human being
-* :isv[črěz] – through
-* :isv[črny] – black
-* :isv[čto] – what
-* :isv[da] – yes
-* :isv[dati] – to give
-* :isv[daže] – even
-* :isv[denj] – day
-* :isv[dělati] – to do, to make
-* :isv[dělo] – act, deed
-* :isv[děte] – child
-* :isv[dlja] – for
-* :isv[do] – to, towards, till
-* :isv[dobro] – well
-* :isv[dobry] – good
-* :isv[dom] – house
-* :isv[dostati] – to get, to receive
-* :isv[drugy] – second
-* :isv[država] – state
-* :isv[dva] – two
-* :isv[dveri] – door
-* :isv[glas] – voice
-* :isv[glava] – head
-* :isv[gleděti] – to watch
-* :isv[god] – year
-* :isv[govoriti] – to say, to speak
-* :isv[grad] – city, town
-* :isv[groši] – money
-* :isv[hladny] – cold
-* :isv[hlěb] – bread
-* :isv[htěti] – to want
-* :isv[hvala] – thanks
-* :isv[i] – and
-* :isv[idti] – to go, to walk
-* :isv[ih] – them; their
-* :isv[ili] – or
-* :isv[imati] – to have
-* :isv[iz] – from, out of
-* :isv[ja] – I
-* :isv[jedin] – one
-* :isv[jedino] – only
-* :isv[jego] – him; his
-* :isv[jej] – her
-* :isv[jesti] – to eat
-* :isv[ješče] – still
-* :isv[k] – to, towards
-* :isv[kaky] – what kind of
-* :isv[kako] – how; like
-* :isv[kava] – coffee
-* :isv[kde] – where
-* :isv[kniga] – book
-* :isv[kogda] – when
-* :isv[konec] – end
-* :isv[kto] – who
-* :isv[ktory] – which
-* :isv[lice] – face
-* :isv[ljubiti] – to love, to like
-* :isv[maly] – little, small
-* :isv[maslo] – butter
-* :isv[medžu] – between
-* :isv[menje] – less
-* :isv[meso] – meat
-* :isv[město] – place
-* :isv[minuta] – minute
-* :isv[mlěko] – milk
-* :isv[mnogo] – much; very
-* :isv[mogti] – can, to be able
-* :isv[moj] – my
-* :isv[može] – maybe, perhaps
-* :isv[možno] – it is possible; possibly
-* :isv[muž] – man, husband
-* :isv[my] – we
-* :isv[mysliti] – to think
-* :isv[na] – on, upon, at
-* :isv[nad] – above, beyond
-* :isv[najbolje] – most
-* :isv[naš] – our
-* :isv[ne] – no; not
-* :isv[nesti] – to carry
-* :isv[neželi] – than
-* :isv[něčto] – something
-* :isv[někaky] – some kind of
-* :isv[několiko] – a few, several
-* :isv[ni … ni …] – neither ... nor ...
-* :isv[ničto] – nothing
-* :isv[nikto] – nobody
-* :isv[noč] – night
-* :isv[noga] – leg
-* :isv[novy] – new
-* :isv[o, ob] – about
-* :isv[obči] – common, general
-* :isv[očevidno] – of course
-* :isv[od] – of, from
-* :isv[odgovoriti] – to answer
-* :isv[oko] – eye
-* :isv[on] – he
-* :isv[ona] – she
-* :isv[oni] – they
-* :isv[ostati] – to stay, to remain
-* :isv[otec] – father
-* :isv[otvoriti] – open
-* :isv[piti] – to drink
-* :isv[pivo] – beer
-* :isv[po] – after; in the manner of
-* :isv[početi] – to begin, to start
-* :isv[pod] – under
-* :isv[pogled] – look, sight, view
-* :isv[pokoj] – peace, quiet
-* :isv[poslědny] – last
-* :isv[potom] – after that, then
-* :isv[potrěbny] – needed, necessary
-* :isv[prěd] – before
-* :isv[pri] – by, near
-* :isv[prijatelj] – friend
-* :isv[prijdti] – to come
-* :isv[prinesti] – to bring
-* :isv[problem] – problem
-* :isv[prosim] – please
-* :isv[prositi] – to ask (for sth.), to require
-* :isv[prosty] – simple, easy
-* :isv[prvy] – first
-* :isv[pytanje] – question
-* :isv[pytati] – to ask (a question)
-* :isv[rabota] – work, labour
-* :isv[rabotati] – to work, to labour
-* :isv[raz] – time (in the sense of: ... times)
-* :isv[razuměti] – to understand
-* :isv[restoran] – restaurant
-* :isv[ruka] – arm
-* :isv[ryba] – fish
-* :isv[s] – with
-* :isv[směsta] – immediately
-* :isv[snova] – again
-* :isv[sam] – alone
-* :isv[samo] – only, merely
-* :isv[se, sebe] – oneself
-* :isv[seděti] – to sit
-* :isv[sejčas] – now
-* :isv[sila] – power, force
-* :isv[slovo] – word
-* :isv[slučaj] – case, instance, event
-* :isv[sok] – juice
-* :isv[sovsěm] – entirely, completely
-* :isv[spati] – to sleep
-* :isv[stary] – old
-* :isv[stati] – to become
-* :isv[stati se] – to happen
-* :isv[stojati] – to stand
-* :isv[stol] – table
-* :isv[strana] – side
-* :isv[svět] – world
-* :isv[svoj] – one's own
-* :isv[taky] – such
-* :isv[tako] – so, in such way
-* :isv[takože] – also, too
-* :isv[tamo] – there
-* :isv[teply] – warm
-* :isv[to] – this, that
-* :isv[togda] – then
-* :isv[toj] – this, that
-* :isv[toliko] – this much, that much, only
-* :isv[trěba] – it is needed, it is necesary
-* :isv[tri] – three
-* :isv[tu] – here
-* :isv[tvoj] – your (:abbr[sg.])
-* :isv[ty] – you (:abbr[sg.])
-* :isv[uho] – ear
-* :isv[uže] – already
-* :isv[v] – in; into
-* :isv[vaš] – your (pl.)
-* :isv[veliky] – great, big
-* :isv[ves] – all, entire
-* :isv[vid] – aspect, look, vision
-* :isv[viděti] – to see
-* :isv[vino] – wine
-* :isv[voda] – water
-* :isv[vojna] – war
-* :isv[vrěme] – time
-* :isv[vsaky] – every
-* :isv[vse] – everything
-* :isv[vsegda] – always
-* :isv[vy] – you (:abbr[pl.])
-* :isv[vyjdti] – exit, quit
-* :isv[vysoky] – high
-* :isv[za] – behind
-* :isv[začto] – why, what for
-* :isv[zato] – that's why, therefore
-* :isv[zemja] – earth, ground
-* :isv[zly] – bad
-* :isv[značiti] – to mean
-* :isv[znati] – to know
-* :isv[že] – that (conjunction)
-* :isv[žena] – woman, wife
-* :isv[žiti] – to live
-</p>
+:::component{name=MDSlovianto3}
+:::
 
 [1]: https://interslavic-dictionary.com

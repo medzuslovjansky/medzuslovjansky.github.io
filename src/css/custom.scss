@@ -174,7 +174,7 @@ abbr {
   }
 }
 
-span[lang] {
+.italic-text, span[lang] {
   font-family: var(--fun-safe-serif);
   font-style: italic;
 
@@ -266,6 +266,10 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
   li::before {
     content: '– ';
   }
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 kbd {
