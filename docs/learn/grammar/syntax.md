@@ -7,7 +7,7 @@ origin: http://steen.free.fr/interslavic/syntax.html
 
 # Syntax
 
-Word order is basically free, but the preferred (and stylistically most neutral) word order is subject – verb – object (SVO). It is not mandatory, but note that placing the object before the subject will not help in making clear the meaning. This is not the case of sentences where either a personal pronoun or the pronoun :isv[kto] is either subject or object, because personal pronouns and :isv[kto] have their own accussative forms, so the meaning is always clear.
+Word order is basically free, but the preferred (and stylistically most neutral) word order is subject – verb – object (SVO). It is not mandatory, but note that placing the object before the subject will not help in making clear the meaning. This is not the case of sentences where either a personal pronoun or the pronoun :isv[kto] is either subject or object, because personal pronouns and :isv[kto] have their own accusative forms, so the meaning is always clear.
 
 Modifiers usually precede the noun. This is not mandatory either, but it is the most neutral and the clearest way of building a sentence.
 
@@ -24,7 +24,7 @@ There are two types of questions:
   – :isv[Koju knigu kupil otec?] „Which book has father bought?”
   – :isv[Gde otec kupil tu knigu?] „Where did father buy that book?”
   In this type of sentences, the meaning is usually made clear by the case that's been used:
-  – :isv[Koja žena ljubi togo muža?] „Which woman loves that man?” (woman = subject, man = object)\
+  – :isv[Koja žena ljubi togo muža?] „Which woman loves that man?” (woman = subject, man = object)
   – :isv[Koju ženu ljubi toj muž?] „Which woman does that man love?” (man = subject, woman = object)
 - If necessary, it is possible to use passive sentences that are always clear:
   – :isv[Koja žena jest ljubjena od togo muža?] „Which woman is loved by that man?”
