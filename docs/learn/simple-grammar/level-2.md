@@ -144,7 +144,7 @@ Apart from the imperative form you have already learned (the 2nd person plural),
 
 Since all the above also affects the only irregular verb in :notr[Slovianto], :isv[byti] „to be”, here is its complete conjugation.
 
-## Example
+## Sample text
 
 :::component{name=MDSimpleGrammar5}
 
