@@ -25,7 +25,7 @@ In [**Level 1**][1] you have learned a number of forms that can you can use to m
 
 ## Gender
 
-Most European languages have grammatical gender – English is one of the very few exceptions. It is no more than logical that words denoting male persons are always masculine and words denoting female persons are always feminine. The idea of grammatical gender, however, is that _every_ noun has a gender, even if there is no logical connection whatsoever between this gender and the meaning of the word. In French, for example, :notr[_l**e** vin_] „the wine” is masculine and :notr[_l**a** bière_] „the beer” is feminine. In German, :de[der Wein] „the wine” is masculine as well, but :de[das Bier] „the beer” is neuter. The gender of a noun affects not only the article, but also adjectives, possessive pronouns and other words that modify this noun. French has _:notr[un bon vin froid]_ „one good cold wine”, but :notr[_un**e** bon**ne** bière froid**e**_] „one good cold beer”.
+Most European languages have grammatical gender – English is one of the very few exceptions. It is no more than logical that words denoting male persons are always masculine and words denoting female persons are always feminine. The idea of grammatical gender, however, is that _every_ noun has a gender, even if there is no logical connection whatsoever between this gender and the meaning of the word. In French, for example, :fr[l**e** vin] „the wine” is masculine and :fr[l**a** bière] „the beer” is feminine. In German, :de[der Wein] „the wine” is masculine as well, but :de[das Bier] „the beer” is neuter. The gender of a noun affects not only the article, but also adjectives, possessive pronouns and other words that modify this noun. French has :fr[un bon vin froid] „one good cold wine”, but :fr[un**e** bon**ne** bière froid**e**] „one good cold beer”.
 
 All Slavic languages have three genders: masculine, feminine and neuter. At the first level of :notr[Slovianto], gender does not play a role, because it is not essential for communication on the most basic level. Small children often make mistakes with gender, but can still be understood. Which does not change the fact that :isv[dobry žena] „a good woman” sounds clumsy, because :isv[žena] is feminine and the ending `-y` is masculine. You can make your :notr[Slovianto] look and sound a lot more natural if you also take into account gender. Establishing the gender of a noun is not difficult at all, because in almost all cases, looking at the word is enough to know its gender, which means that there is no need to learn the gender separately.
 
@@ -107,12 +107,12 @@ The same thing that goes for adjectives, goes also for possessive, demonstrative
   :isv[to děte] „this child”
   :isv[te prijatelji] „these friends”
 
-- The relative pronoun:isv[ktory] behaves like an adjective:
+- The relative pronoun :isv[ktory] behaves like an adjective:
 
   :isv[žena, ktora čita] „a woman who reads”
   :isv[děte, ktore ja viděl] „the child that I've seen”
 
-- The number:isv[jedin] „one” has the forms:isv[jedna] (:abbr[f.]) and:isv[jedno] (:abbr[n.]):
+- The number :isv[jedin] „one” has the forms :isv[jedna] (:abbr[f.]) and :isv[jedno] (:abbr[n.]):
 
   :isv[jedin muž] „one man”
   :isv[jedna žena] „one woman”
@@ -140,7 +140,7 @@ In the past tense, verbs are not conjugated for person. However, they are conjug
 
 ### Future tense
 
-The future tense is formed by combining the future tense of the verb :isv[byti] „to be” with the infinitive. The forms are the same as if a verb **\*`bud-ti`** were conjugated in the present tense: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati], etc.
+The future tense is formed by combining the future tense of the verb :isv[byti] „to be” with the infinitive. The forms are the same as if a verb :isv[\*bud-ti]** were conjugated in the present tense: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati], etc.
 
 ### Conditional
 
@@ -180,4 +180,4 @@ Kak milo bylo by zanuriti se v to srdečne čutje od ljubjenje i neznane običaj
   </TabItem>
 </Tabs>
 
-[1]: level-1.mdx
+[1]: level-1.md
