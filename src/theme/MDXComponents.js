@@ -49,6 +49,7 @@ import MDSimpleGrammar1 from "@site/src/markdown/simpleGrammar/presentTense";
 import MDSimpleGrammar2 from "@site/src/markdown/simpleGrammar/pastTense";
 import MDSimpleGrammar3 from "@site/src/markdown/simpleGrammar/imperative";
 import MDSimpleGrammar4 from "@site/src/markdown/simpleGrammar/toBe";
+import MDSimpleGrammar5 from "@site/src/markdown/simpleGrammar/nase-selo";
 import MDPersonalPronouns1 from "@site/src/markdown/personalPronouns/firstPersSing";
 import MDPersonalPronouns2 from "@site/src/markdown/personalPronouns/secondPersSing";
 import MDPersonalPronouns3 from "@site/src/markdown/personalPronouns/thirdPersSingMascNeuter";
@@ -108,6 +109,7 @@ export default {
   MDSimpleGrammar2,
   MDSimpleGrammar3,
   MDSimpleGrammar4,
+  MDSimpleGrammar5,
   MDSlovianto1,
   MDSlovianto2,
   MDSlovianto3,

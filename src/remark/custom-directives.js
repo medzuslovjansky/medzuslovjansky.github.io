@@ -37,8 +37,10 @@ const plugin = (_options) => {
         case 'cnr':
         case 'cs':
         case 'csb':
+        case 'de':
         case 'dsb':
         case 'en':
+        case 'fr':
         case 'hr':
         case 'hsb':
         case 'isv':
