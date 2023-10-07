@@ -79,9 +79,9 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
 - W przeciwieństwie do rzeczowników, zaimki osobowe w :notr[Slovianto] rozróżniają _mianownik_ (podmiot zdania, podmiot) i biernik_ (dopełnienie, pacjent).
 
-- Formy tematyczne to: :isv[ja] „ja”, :isv[ty] „ty”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „my”, :isv[vy] „wy”, :isv[oni] „oni”.
+- Formy tematyczne to: :isv[ja] „ja”, :isv[ty] „ty (:abbr[sg.]), ty”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „my”, @@ 56 „ty (:abbr[pl.])”, :isv[oni] „oni”.
 
-- Formy dopełnienia to: :isv[mene] „ja”, :isv[tebe] „cię”, :isv[jego] „go”, :isv[ju] „ją”, :isv[nas] „nas”, :isv[vas] „was”, :isv[jih] „ich”.
+- Formy dopełnienia to: :isv[mene] „ja”, :isv[tebe] „ty (:abbr[sg.]), ty”, :isv[jego] „on”, :isv[ju] „ona”, :isv[nas] „nas”, @@ 65 „ty (:abbr[pl.])”, :isv[jih] „oni”.
 
 - Podobnie jak większość naturalnych języków słowiańskich, język międzysłowiański ma rozróżnienie T-V, tj. :isv[vy] i :isv[vas] są używane nie tylko w odniesieniu do drugiej osoby liczby mnogiej, ale także jako forma grzecznościowa w liczbie pojedynczej. :isv[Ty]/:isv[tebe]  służy do zwracania się do przyjaciół, krewnych i dzieci.
 
@@ -119,7 +119,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 ### Zaimki pytające i nieokreślone
 
 - Istnieją dwa podstawowe zaimki: :isv[kto] „kto” i :isv[čto] „co”. Podobnie jak zaimki osobowe, :isv[kto] ma biernik :isv[kogo] dla dopełnienia bliższego.
-- Od nich pochodzi także kilka zaimków nieokreślonych, np. :isv[někto] „ktoś”, :isv[kto-koli] „ktoś”, :isv[ničto] „nic”, :isv[vsečto] „wszystko” (patrz kolejny rozdział).
+- Od nich pochodzi także kilka zaimków nieokreślonych, np. :isv[někto] „ktoś”, :isv[kto-koli] „ktokolwiek”, :isv[ničto] „nic”, :isv[vsečto] „wszystko” (patrz kolejny rozdział).
 
 ### Przysłówki zaimkowe
 
@@ -159,7 +159,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
 - _Liczby porządkowe_ tworzy się przez dodanie `-y` do odpowiedniej liczby głównej, za wyjątkiem:
 
-  Pierwszy (1.) – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] lub :isv[stoty], 1000. – :isv[tysečny]
+  1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] lub :isv[stoty], 1000. – :isv[tysečny]
 
 ### Czasowniki
 
@@ -178,7 +178,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[vy prosi-t] „pytasz”
   - :isv[oni nes-et] „niosą”
 
-- I tutaj jest mała nieregularność, która zdarza się tak często w języku słowiańskim, że równie dobrze możesz się jej teraz nauczyć: jeśli rdzeń kończy się na `k` lub `g`, to spółgłoski te stają się `č` i `ž` przed wstawionym @@ 187:
+- I tutaj jest mała nieregularność, która zdarza się tak często w języku słowiańskim, że równie dobrze możesz się jej teraz nauczyć: jeśli rdzeń kończy się na `k` lub `g`, to spółgłoski te stają się `č` i `ž` przed wstawionym `e`:
   - :isv[pekti] „pieczyć” → :isv[pečet]
   - :isv[mogti] „puszka” → :isv[možet]
 
@@ -192,7 +192,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[my bude prositi] „zapytamy”
   - :isv[oni bude nesti] „poniosą”
 
-- _Warunek_ jest tworzony poprzez użycie cząstki `by` w czasie przeszłym:
+- _Warunek_ jest tworzony poprzez użycie cząstki :isv[by] w czasie przeszłym:
   - :isv[ja by dělal] „Zrobiłbym/zrobiłbym”
 
 - _Imperatyw_ ma końcówkę `-jte` po samogłosce lub `-ite` po spółgłosce:

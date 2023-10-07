@@ -48,8 +48,8 @@ V tretej osobe sa najčastejšie používa genitív príslušného osobného zá
 
 Vždy, keď je predmetom vety aj vlastník, použije sa zvratné `svoj`, bez ohľadu na to, či je tento predmet v tretej osobe alebo nie: _`Ja myju svoje avto`_ „Umývam si auto“. Všimnite si rozdiel vo význame, keď zvratné zámeno odkazuje na predmet v tretej osobe:
 
-:isv[Pjotr dal Ivanu svoju knigu] „Pjotr ​​​​dal Ivanovi svoju \[= Pjotrovu] knihu“
-:isv[Pjotr dal Ivanu jegovu knigu] „Pjotr ​​dal Ivanovi svoju \[= Ivanovu] knihu“.
+:isv[Pjotr dal Ivanu svoju knigu] „Pjotr dal Ivanovi svoju \[= Pjotrovu] knihu“
+:isv[Pjotr dal Ivanu jegovu knigu] „Pjotr dal Ivanovi svoju \[= Ivanovu] knihu“.
 
 Existujú aj opytovacie, určité a neurčité privlastňovacie zámená: `čij` „čí“, `ničij` „niktoho“, `něčij` „niekoho“ atď. Skloňujú sa ako `moj`. Ďalšie formuláre nájdete v časti o [súvislosti][2].
 

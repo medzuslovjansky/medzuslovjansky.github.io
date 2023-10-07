@@ -22,7 +22,7 @@ Kada je riječ o govoru, uvijek se treba sjetiti da komunikacija nije samo stvar
 
 Kratak odgovor je: ne. Postoji mnogo panslavenskog rječnika, ali kada bi svi slavenski jezici koristili iste riječi, ne bi bilo potrebe za zasebnim međuslavenskim jezikom. Sve što smo učinili jest odabir riječi koje su razumljive najvećem broju slavenskih naroda. Neizbježno je da su neke riječi više usmjerene prema istoku ili zapadu, sjeveru ili jugu. Ako pisac dosljedno koristi riječi koje najbolje razumije jedna određena polovica slavenskog stanovništva, to će automatski dovesti do boljih rezultata kod ove određene polovine i lošijih rezultata kod druge.
 
-Razumijevanje međuslavenskog uglavnom je stvar razumijevanja općeg značenja rečenice čak i bez razumijevanja nekih pojedinačnih riječi. Za to je potrebna određena razina inteligencije i iskustva. Od ljudi koji imaju problema s razumijevanjem vlastitog jezika kada je malo drugačije napisan ili izgovoren, ne može se razumno očekivati ​​da razumiju isti tekst na jeziku poput međuslavenskog. Svaki će međuslavenski tekst neizbježno sadržavati riječi koje slavenski govornik ne može povezati sa svojim jezikom, a sposobnost popunjavanja ovih leksičkih praznina razlikuje se od osobe do osobe. Na internetu se s vremena na vrijeme povedu rasprave o nekom međuslavenskom fragmentu teksta, a odgovori su često proturječni: netko tvrdi da razumije svaku pojedinu riječ, drugi pripadnik iste nacionalnosti razumije samo 40%.
+Razumijevanje međuslavenskog uglavnom je stvar razumijevanja općeg značenja rečenice čak i bez razumijevanja nekih pojedinačnih riječi. Za to je potrebna određena razina inteligencije i iskustva. Od ljudi koji imaju problema s razumijevanjem vlastitog jezika kada je malo drugačije napisan ili izgovoren, ne može se razumno očekivati da razumiju isti tekst na jeziku poput međuslavenskog. Svaki će međuslavenski tekst neizbježno sadržavati riječi koje slavenski govornik ne može povezati sa svojim jezikom, a sposobnost popunjavanja ovih leksičkih praznina razlikuje se od osobe do osobe. Na internetu se s vremena na vrijeme povedu rasprave o nekom međuslavenskom fragmentu teksta, a odgovori su često proturječni: netko tvrdi da razumije svaku pojedinu riječ, drugi pripadnik iste nacionalnosti razumije samo 40%.
 
 Također, slušanje jezika koji se aktivno ne poznaje zahtijeva razinu koncentracije koja se može postići samo ako je slušatelj spreman na suradnju. Osoba koja ima što dobiti razgovorom će se više truditi od osobe koja je umorna, iznervirana i nezainteresirana. Govornik uvijek treba što više pomoći slušatelju govoreći polagano i razgovijetno, stalno imajući na umu da je slušatelju potrebno neko vrijeme za obradu.
 
@@ -30,7 +30,7 @@ Sve što sa sigurnošću možemo reći jest da velika većina onih koji su komen
 
 ## Kakvi su to čudni dijakritički znakovi i slova koje neki ljudi koriste u međuslavenskom? \{#what-are-those-weird-diacritics-and-letters-some-people-use-in-interslavic}
 
-Međuslavenska latinica ima četiri slova s ​​dijakritikom: `Č`, `Š`  i `Ž` (koristi se u svim slavenskim pravopisima osim poljskog), kao i `Ě` (koristi se u češkom i lužičkosrpskom, predstavlja glas "ye"). No, u nekim tekstovima, ali iu rječniku, možete naići na slova poput `Å`, `Đ`, `Ȯ`, `Ŕ`  i `Ų`. Ta su slova izborna proširenja standardne abecede koja pripada [međuslavenskoj etimološkoj abecedi][2].
+Međuslavenska latinica ima četiri slova s dijakritikom: `Č`, `Š`  i `Ž` (koristi se u svim slavenskim pravopisima osim poljskog), kao i `Ě` (koristi se u češkom i lužičkosrpskom, predstavlja glas "ye"). No, u nekim tekstovima, ali iu rječniku, možete naići na slova poput `Å`, `Đ`, `Ȯ`, `Ŕ`  i `Ų`. Ta su slova izborna proširenja standardne abecede koja pripada [međuslavenskoj etimološkoj abecedi][2].
 Oni prenose dodatne informacije o etimologiji i izgovoru. Za one čiji jezici imaju bogatiju fonologiju (poput ruskog i poljskog), oni olakšavaju povezivanje međuslavenskih riječi s riječima u vlastitom jeziku. Drugi mogu jednostavno ignorirati dijakritičke znakove (iznimke: `Ć` i `Đ` treba čitati kao `Č` i `DŽ`).
 
 Nema apsolutno ništa loše u tome ako ne znate kako i kada koristiti ta slova. Oni nisu obvezni i međuslavenski napisan standardnim pravopisom nipošto nije inferioran međuslavenskom s ovim dodacima. Osim toga, primijetili smo da razlika između pravopisa može biti vrlo zbunjujuća za nove članove naše zajednice. Međuslavenski je vrlo fleksibilan po svojoj prirodi, dopušta mnogo slobode svojim korisnicima, ali većina ljudi očekuje jezik s fiksnim pravilima: previše slobode otežava novopridošlicama učenje i prakticiranje međuslavenskog. Iz tog razloga, korisnici se mole da ne koriste ovu proširenu abecedu u svakodnevnom razgovoru, a ako to ipak odluče učiniti, da jasno stave do znanja da čitatelj može zanemariti ove dodatne dijakritičke znakove.
@@ -41,7 +41,7 @@ Iako gore spomenuta etimološka abeceda funkcionira samo za latinicu, neki ljudi
 
 Za to postoji nekoliko rješenja. Standardni međuslavenski se može pisati na češkoj tipkovnici, pojednostavljeni međuslavenski (tj. bez `Ě` i `Y`) također na hrvatskoj, srpskoj ili slovenskoj tipkovnici. U sustavu Windows slovo `Ě` dostupno je i na posljednja tri: samo pritisnite :kbd[Alt+2], a zatim `E/e`.
 
-Pojednostavljena ćirilica može se pisati na srpskoj ćiriličnoj tipkovnici. Za standardnu ​​ćirilicu trebat će vam slova `Ы` iz ruskog i `Є` iz ukrajinskog.
+Pojednostavljena ćirilica može se pisati na srpskoj ćiriličnoj tipkovnici. Za standardnu ćirilicu trebat će vam slova `Ы` iz ruskog i `Є` iz ukrajinskog.
 
 Ostale mogućnosti:
 
@@ -54,7 +54,7 @@ Ostale mogućnosti:
   - [`ѢЬЕРТЫ`][`Ѣʹ̱ERTY`] (za one koji koriste tipkovnicu sličnu QWERTY)
 - Linux ima mnogo dijakritičkih znakova za latinične tipkovnice s tipkom Compose.
 - Mac sustav ima nekoliko međunarodnih definicija tipkovnice gdje ih također možete pronaći (npr. `ABC Extended`). Slova iz međuslavenske ćirilice također se mogu pronaći u ruskim i drugim definicijama tipkovnice sa slovima iz drugih ćiriličnih pravopisa (na primjer, Mac ima standardni i fonetski ruski, bjeloruski i ukrajinski).
-- Na iOS-u možete koristiti definiciju češke tipkovnice. Da biste napisali etimološki međuslavenski, morat ćete se prebacivati ​​između češkog, hrvatskog (za `Đ`) i litvanskog (za `Ų`); vjerojatno nećete pronaći slovo `Ȯ`, ali umjesto njega možete koristiti `Ò` ili ga u potpunosti izostaviti. Ako ne želite mijenjati definicije tipkovnice za pisanje ćirilice, možete koristiti ukrajinsku tipkovnicu, kako slijedi: `І` umjesto `Ј`, `ЛЬ`  i `НЬ` umjesto `Љ` i `Њ`, i @@ 50 će se pojaviti ako nastavite pritiskati `І`.
+- Na iOS-u možete koristiti definiciju češke tipkovnice. Da biste napisali etimološki međuslavenski, morat ćete se prebacivati između češkog, hrvatskog (za `Đ`) i litvanskog (za `Ų`); vjerojatno nećete pronaći slovo `Ȯ`, ali umjesto njega možete koristiti `Ò` ili ga u potpunosti izostaviti. Ako ne želite mijenjati definicije tipkovnice za pisanje ćirilice, možete koristiti ukrajinsku tipkovnicu, kako slijedi: `І` umjesto `Ј`, `ЛЬ`  i `НЬ` umjesto `Љ` i `Њ`, i @@ 50 će se pojaviti ako nastavite pritiskati `І`.
 
 Ako vam se sve ovo čini prekompliciranim, moguće je, naravno, problematična slova zamijeniti i slovima dostupnim na vlastitoj tipkovnici. Na primjer, Poljaci mogu pisati `CZ` umjesto `Č`, Istočni Slaveni i Bugari mogu pisati `Й` umjesto `J`, itd. Za detalje pogledajte prikaz problematičnih znakova. Ne zaboravite da takve varijante mogu imati negativan utjecaj na razumljivost.
 
@@ -86,7 +86,7 @@ Neki su tvrdili da je šteta ako Slaveni koriste engleski za komunikaciju s drug
 
 Ruski se isplati učiti, ali nije ga baš lako savladati. Kao i svi drugi slavenski jezici, ruski je imao svoj odvojen razvoj od zajedničkog pretka slavenskih jezika. Njegova se sintaktička struktura znatno razlikuje od ostalih slavenskih jezika (na primjer, glagola „imati“ praktički nema, glagola „biti“ jako reduciran i oblikom i upotrebom), a prepun je riječi i idioma koji ne mogu naći u bilo kojem drugom slavenskom jeziku. Bez prethodnog znanja zapadni ili južni Slaven teško da će razumjeti ruski.
 
-Osim toga, ruski se zemljama Srednje i Istočne Europe dugo nametao kao lingua franca, a posljedica je da su mnogi ljudi, i Slaveni i neslaveni, razvili snažan otpor prema ruskom, koji su počeli povezivati ​​s „jezikom tlačitelja“.
+Osim toga, ruski se zemljama Srednje i Istočne Europe dugo nametao kao lingua franca, a posljedica je da su mnogi ljudi, i Slaveni i neslaveni, razvili snažan otpor prema ruskom, koji su počeli povezivati s „jezikom tlačitelja“.
 
 Bi li napokon ruski jezik bio najbolje rješenje za poljsko-hrvatske odnose?
 

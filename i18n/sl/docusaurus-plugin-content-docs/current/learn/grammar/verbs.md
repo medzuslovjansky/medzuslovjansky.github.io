@@ -74,7 +74,7 @@ Običajno lahko _sedanjikovo deblo_ (uporablja se za sedanjik, velelnik in sedan
 - Druga konjugacija:
   - glagoli na `-iti` in večina glagolov na `-ěti` imajo sedanjikovo deblo `-i-`: _`hvaliti > hval-i-`_ „hvaliti”, _`viděti > vid-i-`_ „videti”
 
-Številni glagoli uporabljajo ločen koren v sedanjiku. V večini primerov so to glagoli mešanih razredov `a/j`, `a/i` in `ě/i` v slovanščini. Aktiven uporabnik medslovanščine se bo moral naučiti obeh oblik. Opazil pa bo, da se v večini primerov nastanek te druge korenine zgodi na predvidljiv način. Če sedanjikovega debla ni mogoče izpeljati iz nedoločnika z uporabo zgornjih pravil, bo to navedeno v slovarju. Nekaj ​​primerov: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „želeti”, _`spati (sp-i)`_ „spati”, _`zvati (zov-e)`_ „klicati”, _`brati (ber-e)`_ „vzeti (impf. )”, _`vzeti (vozm-e)`_ „vzeti (pf.)”.
+Številni glagoli uporabljajo ločen koren v sedanjiku. V večini primerov so to glagoli mešanih razredov `a/j`, `a/i` in `ě/i` v slovanščini. Aktiven uporabnik medslovanščine se bo moral naučiti obeh oblik. Opazil pa bo, da se v večini primerov nastanek te druge korenine zgodi na predvidljiv način. Če sedanjikovega debla ni mogoče izpeljati iz nedoločnika z uporabo zgornjih pravil, bo to navedeno v slovarju. Nekaj primerov: _`pisati (piš-e)`_ „pisati”, _`htěti (hoč-e)`_ „želeti”, _`spati (sp-i)`_ „spati”, _`zvati (zov-e)`_ „klicati”, _`brati (ber-e)`_ „vzeti (impf. )”, _`vzeti (vozm-e)`_ „vzeti (pf.)”.
 
 ### Sedanjik \{#present-tense}
 
@@ -168,12 +168,12 @@ Za razlikovanje imperativa od indikativa je vredno priporočiti, da naglas prema
 
 Razen prej omenjenega deležnika L so v medslovanščini štirje deležniki: sedanjik aktiv, sedanjik trpni, pretekli aktiv, pretekli pasiv.
 
-**Sedanjiški aktivni deležnik** je izpeljan iz sedanjiškega debla nedovršnega glagola z dodajanjem `-uči` v prvi spregatvi in ​​`-eči` v drugi. Z drugimi besedami, sestavljen je tako, da se končnica `-t` 3. osebe množine zamenja z `-či`. Na primer: :isv[dělati > dělajuči] „delati”, :isv[hvaliti > hvaleči] „hvaliti”. Sklanja se kot pridevnik mehkega tipa: :isv[běgajuči muž] „tečeči človek”, _`ljubeča mati`_ „ljubeča mati”.
+**Sedanjiški aktivni deležnik** je izpeljan iz sedanjiškega debla nedovršnega glagola z dodajanjem `-uči` v prvi spregatvi in `-eči` v drugi. Z drugimi besedami, sestavljen je tako, da se končnica `-t` 3. osebe množine zamenja z `-či`. Na primer: :isv[dělati > dělajuči] „delati”, :isv[hvaliti > hvaleči] „hvaliti”. Sklanja se kot pridevnik mehkega tipa: :isv[běgajuči muž] „tečeči človek”, _`ljubeča mati`_ „ljubeča mati”.
 Prislovni sedanjik (znan tudi kot »prestopniški«) ima enako končnico, vendar se ne sklanja glede na spol: _`Iduči do raboty, ona vsegda dymi cigaretoju`_ »Ko gre v službo, vedno pokadi cigareto«.
 
 **Pretekli aktivni deležnik** temelji na nedoločniškem deblu dovršnega glagola, ki mu sledi `-vši`, če se konča na samoglasnik, ali `-ši`, če se konča na soglasnik. Na primer: :isv[sdělati > sdělavši] „naredil”, _`ukrasti (< ukrad-ti) > ukradši`_ „ukradel”. Tako kot sedanjik je lahko pridevnik in prislov, vendar je njegova uporaba kot pridevnik zelo redka. Upoštevajte, da je aktivni delček preteklosti zelo knjižna oblika, ki obstaja v večini slovanskih jezikov, vendar se v govorjeni slovanščini skoraj nikoli ne uporablja.
 
-**Sedanjikov pasivni deležnik** je prav tako izpeljan iz sedanjikovega debla, pri čemer je dodal `-omy` (`-emy` za mehkim soglasnikom) v prvi spregatvi in ​​`-imy` v drugi: :isv[dělajemy] "se dela" . Treba je razumeti, da se v večini slovanskih jezikov ta deležnik sploh ne uporablja, medtem ko imajo lahko njegovi ostanki nekoliko drugačne pomene, na primer _`vidimy`_ pomeni »viden« in ne »biti viden«.
+**Sedanjikov pasivni deležnik** je prav tako izpeljan iz sedanjikovega debla, pri čemer je dodal `-omy` (`-emy` za mehkim soglasnikom) v prvi spregatvi in `-imy` v drugi: :isv[dělajemy] "se dela" . Treba je razumeti, da se v večini slovanskih jezikov ta deležnik sploh ne uporablja, medtem ko imajo lahko njegovi ostanki nekoliko drugačne pomene, na primer _`vidimy`_ pomeni »viden« in ne »biti viden«.
 
 **Pretekli trpni deležnik** nastane tako, da nedoločniku dodamo `-ny`, ko se slednji konča na samoglasnik, in `-eny`, ko se konča na soglasnik: :isv[dělany] „končano”, _`neseny`_ „ nosil«. Vendar:
 

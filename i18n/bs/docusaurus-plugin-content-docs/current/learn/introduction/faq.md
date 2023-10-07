@@ -22,7 +22,7 @@ Kada je riječ o govoru, uvijek treba imati na umu da komunikacija nije samo stv
 
 Kratak odgovor je: ne. Panslovenskog rečnika ima dosta, ali kada bi svi slovenski jezici koristili iste reči, ne bi bilo potrebe za posebnim međuslovenskim jezikom. Sve što smo uradili je odabir riječi koje su razumljive najvećem broju slovenskih naroda. Neizbežno, neke reči su više usmerene ka istoku ili zapadu, severu ili jugu. Ako pisac dosljedno koristi riječi koje najbolje razumije jedna polovina slavenskog stanovništva, to će automatski dovesti do boljih rezultata u ovoj određenoj polovini i lošijih rezultata u drugoj polovini.
 
-Razumijevanje međuslavenskog je u velikoj mjeri stvar razumijevanja opšteg značenja rečenice čak i bez razumijevanja pojedinih riječi. Za to je potreban određeni nivo inteligencije i iskustva. Od ljudi koji imaju problema s razumijevanjem vlastitog jezika kada se napiše ili izgovara malo drugačije, ne može se razumno očekivati ​​da razumiju isti tekst na jeziku kao što je međuslavenski. Svaki međuslavenski tekst će neizbježno sadržavati riječi koje slavenski govornik ne može povezati sa svojim jezikom, a sposobnost popunjavanja ovih leksičkih praznina varira od osobe do osobe. Na internetu se s vremena na vrijeme raspravlja o nekom međuslavenskom fragmentu teksta, a odgovori su često oprečni: jedna osoba tvrdi da razumije svaku riječ, druga osoba iste nacionalnosti razumije samo 40%.
+Razumijevanje međuslavenskog je u velikoj mjeri stvar razumijevanja opšteg značenja rečenice čak i bez razumijevanja pojedinih riječi. Za to je potreban određeni nivo inteligencije i iskustva. Od ljudi koji imaju problema s razumijevanjem vlastitog jezika kada se napiše ili izgovara malo drugačije, ne može se razumno očekivati da razumiju isti tekst na jeziku kao što je međuslavenski. Svaki međuslavenski tekst će neizbježno sadržavati riječi koje slavenski govornik ne može povezati sa svojim jezikom, a sposobnost popunjavanja ovih leksičkih praznina varira od osobe do osobe. Na internetu se s vremena na vrijeme raspravlja o nekom međuslavenskom fragmentu teksta, a odgovori su često oprečni: jedna osoba tvrdi da razumije svaku riječ, druga osoba iste nacionalnosti razumije samo 40%.
 
 Takođe, slušanje jezika koji neko aktivno ne poznaje zahteva nivo koncentracije koji se može postići samo ako je slušalac voljan da sarađuje. Osoba koja ima nešto da dobije od razgovora više će se truditi od osobe koja je umorna, iznervirana i nezainteresovana. Govornik uvijek treba da pomogne slušaocu što je više moguće govoreći polako i razgovijetno, stalno svjestan činjenice da je slušaocu potrebno neko vrijeme za obradu.
 
@@ -41,7 +41,7 @@ Iako spomenuta etimološka abeceda funkcionira samo za latinicu, neki ljudi kori
 
 Za to postoji nekoliko rješenja. Standardni interslavenski se može pisati na češkoj tastaturi, pojednostavljeni interslavenski (tj. bez `Ě` i `Y`) i na hrvatskoj, srpskoj ili slovenačkoj tastaturi. Na Windows-u slovo `Ě` je dostupno i na poslednja tri: samo pritisnite :kbd[Alt+2], a zatim `E/e`.
 
-Pojednostavljena ćirilica se može pisati na srpskoj ćiriličnoj tastaturi. Za standardnu ​​ćirilicu trebaće vam slova `Ы` iz ruskog i `Є` iz ukrajinskog.
+Pojednostavljena ćirilica se može pisati na srpskoj ćiriličnoj tastaturi. Za standardnu ćirilicu trebaće vam slova `Ы` iz ruskog i `Є` iz ukrajinskog.
 
 Ostale mogućnosti:
 
@@ -54,7 +54,7 @@ Ostale mogućnosti:
   - [`ѢЬЕРТЫ`][`Ѣʹ̱ERTY`] (za one koji koriste tastaturu sličnu QWERTY)
 - Linux ima mnogo dijakritičkih znakova za latinične tastature sa tipkom Compose.
 - Mac sistem ima nekoliko međunarodnih definicija tastature gdje ih također možete pronaći (npr. `ABC Extended`). Slova iz međuslavenske ćirilice mogu se naći i u ruskom i drugim definicijama tastature sa slovima iz drugih ćiriličkih pravopisa (na primjer, Mac ima standardni i fonetski ruski, bjeloruski i ukrajinski).
-- Na iOS-u možete koristiti definiciju češke tastature. Da biste pisali etimološki međuslavenski, morat ćete se prebacivati ​​između češkog, hrvatskog (za `Đ`) i litvanskog (za `Ų`); vjerovatno nećete pronaći slovo `Ȯ`, ali umjesto toga možete koristiti `Ò` ili ga potpuno izostaviti. Ako ne želite da prelazite između definicija tastature za pisanje ćirilice, možete koristiti ukrajinsku tastaturu, na sledeći način: `І` umesto `Ј`, `ЛЬ`  i `НЬ` umesto `Љ` i `Њ` i @@ 50 će se pojaviti ako nastavite da pritiskate `І`.
+- Na iOS-u možete koristiti definiciju češke tastature. Da biste pisali etimološki međuslavenski, morat ćete se prebacivati između češkog, hrvatskog (za `Đ`) i litvanskog (za `Ų`); vjerovatno nećete pronaći slovo `Ȯ`, ali umjesto toga možete koristiti `Ò` ili ga potpuno izostaviti. Ako ne želite da prelazite između definicija tastature za pisanje ćirilice, možete koristiti ukrajinsku tastaturu, na sledeći način: `І` umesto `Ј`, `ЛЬ`  i `НЬ` umesto `Љ` i `Њ` i @@ 50 će se pojaviti ako nastavite da pritiskate `І`.
 
 Ako vam je sve ovo previše komplikovano, naravno moguće je zamijeniti problematična slova slovima dostupnim i na vašoj tipkovnici. Na primjer, Poljaci mogu pisati `CZ` umjesto `Č`, Istočni Sloveni i Bugari mogu pisati `Й` umjesto `J`, itd. Za detalje pogledajte prikaz problematičnih znakova. Zapamtite da takve varijante mogu imati negativan utjecaj na razumljivost.
 

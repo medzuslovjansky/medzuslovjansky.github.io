@@ -15,7 +15,7 @@ Inými slovami, interslovančina je jazyk s tromi rôznymi aspektmi:
 
 - je to improvizovaný ad hoc jazyk, ktorý sa spontánne vyvíja v medzislovanských kontaktoch
 - je to vedecká extrapolácia hypotetického jazyka v samom centre slovanských jazykov
-- ide o modernizované pokračovanie spoločného predka slovanských jazykov (praslovančiny) alebo jeho blízkeho príbuzného, ​​staroslovienčiny
+- ide o modernizované pokračovanie spoločného predka slovanských jazykov (praslovančiny) alebo jeho blízkeho príbuzného, staroslovienčiny
 
 Hoci slovanské jazyky zdieľajú dostatok vlastností v gramatike, slovnej zásobe a syntaxi, aby umožnili určité základné vzájomné porozumenie, každý jazyk má svoje zvláštnosti, ktoré stoja v ceste úplnému porozumeniu. Aby sa zlepšila komunikácia medzi osobami hovoriacimi rôznymi slovanskými jazykmi, medzislovančina odstraňuje tieto idiosynkrázie a zameriava sa na početné slová a formy, ktoré majú slovanské jazyky spoločné. Možno sa ho naučiť a používať ako slovanské esperanto, ale možno ho považovať aj za súbor odporúčaní na zmenu akéhokoľvek slovanského jazyka, aby sa uľahčila komunikácia s inými slovanskými jazykmi. Výsledkom je, že každý novonadobudnutý poznatok sa dá okamžite prakticky využiť; vedomosti, ktoré sú užitočné nielen na to, aby ste boli zrozumiteľní, ale aj na lepšie pochopenie textov napísaných v akomkoľvek inom slovanskom jazyku.
 

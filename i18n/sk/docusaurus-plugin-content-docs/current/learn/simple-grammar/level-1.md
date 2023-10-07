@@ -2,7 +2,6 @@
 sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
-custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/slovianto1.html
 ---
 
@@ -12,39 +11,39 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] je možné písať latinkou a azbukou, ale tu sa zameriame na latinku:
 
-<p className="text-3-col">
-  - `A` — as _a_ in English :en[f**a**ther]
-  - `B` — as in English
-  - `C` — as _ts_ in English „bi**ts**”
-  - `Č` — as _ch_ in English „**ch**ur**ch**”
-  - `D` — as in English
-  - `DŽ` — as _j_ in English „**J**ohn”
-  - `E` — as _e_ in English „b**e**st”
-  - `Ě` — as _ye_ in English „**ye**t”
-  - `F` — as in English
-  - `G` — as _g_ in English „**g**ood”
-  - `H` — as _ch_ in Scottish „lo**ch**”
-  - `I` — as _ea_ in English „b**ea**t”
-  - `J` — as _y_ in English „**y**ard”
-  - `K` — as in English, but without aspiration
-  - `L` — as in English
-  - `LJ` — as _li_ in English „mil**li**on”
-  - `M` — as in English
-  - `N` — as in English
-  - `NJ` — as _ny_ in English „ca**ny**on”
-  - `O` — as _o_ in English „**o**r”
-  - `P` — as in English, but without aspiration
-  - `R` — rolled _r_
-  - `RJ` — rolled r, followed by _ye_ in English „**ye**t”
-  - `S` — as _s_ in English „**s**pin”
-  - `Š` — as _sh_ in English „**sh**op”
-  - `T` — as in English, but without aspiration
-  - `U` — as _oo_ in English „b**oo**k”
-  - `V` — as _v_ in English „a**v**oid”
-  - `Y` — as _i_ in English „b**i**t”
-  - `Z` — as in English
-  - `Ž` — as _si_ in English „vi**si**on”
-</p>
+:::component{name="MDSlovianto1"}
+- ako _a_ v angličtine :en[f**a**ther]
+- ako v angličtine
+- ako _ts_ v angličtine „bi**ts**“
+- ako _ch_ v angličtine „**ch**ur**ch**”
+- ako v angličtine
+- ako _j_ v angličtine „**J**ohn“
+- ako _e_ v angličtine „b**e**st“
+- ako _ye_ v angličtine „**ye**t“
+- ako v angličtine
+- ako _g_ v angličtine „**g**ood“
+- ako _ch_ po škótsky „lo**ch**“
+- ako _ea_ v angličtine „b**ea**t“
+- ako _y_ v angličtine „**y**ard“
+- ako v angličtine, ale bez ašpirácie
+- ako v angličtine
+- ako _li_ v angličtine „mil**li**on“
+- ako v angličtine
+- ako v angličtine
+- ako _ny_ v angličtine „ca**ny**on“
+- ako _o_ v angličtine „**o**r“
+- ako v angličtine, ale bez ašpirácie
+- valcované _r_
+- valené r, za ktorým nasleduje _ye_ ako v angličtine „**ye**t“
+- ako _s_ v angličtine „**s**pin“
+- ako _sh_ v angličtine „**sh**op“
+- ako v angličtine, ale bez ašpirácie
+- ako _oo_ v angličtine „b**oo**k“
+- ako _v_ v angličtine „a**v**oid“
+- ako _i_ v angličtine „b**i**t“
+- ako v angličtine
+- ako _si_ v angličtine „vi**si**on“
+:::
 
 V [Interslovanskom slovníku][1] nájdete aj iné znaky, napríklad `ò`, `ų`, `å`  alebo `ť`. Môžete jednoducho ignorovať diakritiku a čítať ich ako `o`, `u`, `a`, `t`  atď. To platí aj pre `ě`. Jediné znaky, ktoré si zachovávajú svoju diakritiku v latinskom pravopise, sú `č`, `š`  a `ž`. Ak sa vám ich písanie zdá nepohodlné, vždy môžete ako alternatívu použiť `cz`, `sz`  a `zs` (alebo `cx`, `sx`  a `zx`).
 
@@ -55,12 +54,11 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 ### Podstatné mená
 
 - Podstatné mená môžu končiť na spoluhlásku alebo `-a`, `-o`, `-e`.
-- `Slovianto` nemá články. Preto _žena_ môže znamenať „žena“ alebo „žena“.
+- :notr[Slovianto] nemá články. Preto :isv[žena] môže znamenať „žena“ alebo „žena“.
 - Množné číslo sa vytvorí pridaním `-i`, ak sa slovo končí na spoluhlásku, alebo nahradením koncovej samohlásky za **-i**:
-
-  _`muž`_ „muž“ → _`muži`_ „ale“
-  :isv[žena] „žena“ → _`ženi`_ „ženy“
-  :isv[slovo] „slovo“ → _`slovi`_ „slová“
+  - :isv[muž] „muž“ → :isv[muži] „ale“
+  - :isv[žena] „žena“ → :isv[ženi] „ženy“
+  - :isv[slovo] „slovo“ → :isv[slovi] „slov“
 
 ### Prídavné mená
 
@@ -68,169 +66,155 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 
 - Prídavné meno možno zmeniť na príslovku nahradením `-y` koncovkou `-o`:
 
-  :isv[dobry] „dobre“ → _`dobro`_ „dobre“
+  :isv[dobry] „dobre“ → :isv[dobro] „dobre“
 
-- Prídavné mená sa porovnávajú pomocou slov `vyše` („viac“), `menje` („menej“), `naj-` („najviac“) a `najmenje` („najmenej“):
-
-  _`dobry`_ „dobré“
-  _`vyše dobry`_ „lepšie“
-  _`naj-dobry`_ „najlepší“
-  _`menje dobry`_ „menej dobré“
-  _`najmenje dobry`_ „najmenej dobré“
+- Prídavné mená sa porovnávajú pomocou slov :isv[vyše] („viac“), :isv[menje] („menej“), :isv[naj-] („najviac“) a :isv[najmenje] („najmenej“):
+  - :isv[dobry] „dobré“
+  - :isv[vyše dobry] „lepšie“
+  - :isv[naj-dobry] „najlepších“
+  - :isv[menje dobry] „menej dobré“
+  - :isv[najmenje dobry] „najmenej dobré“
 
 ### Osobné zámená
 
-- Na rozdiel od podstatných mien osobné zámená v `Slovianto` rozlišujú medzi _nominatívom_ (podmet vety, agens) a _akuzatívom_ (predmet, pacient).
+- Na rozdiel od podstatných mien osobné zámená v :notr[Slovianto] rozlišujú medzi _nominatívom_ (podmet vety, agens) a _akuzatívom_ (predmet, pacient).
 
-- Formy predmetu sú: `ja` „ja“, `ty` „ty (sg.), ty“, `on` „on“, `ona` „ona“, `my` „my“, `vy` „vy (pl.)“, `oni` „oni“.
+- Formy predmetu sú: :isv[ja] „ja“, :isv[ty] „ty (:abbr[sg.]), ty“, :isv[on] „on“, :isv[ona] „ona“, :isv[my] „my“, @@ 56 „vy (:abbr[pl.])“, :isv[oni] „oni“.
 
-- Formy objektu sú: `mene` „ja“, `tebe` „ty (sg.), ty“, `jego` „on“, `ju` „ona“, `nas` „nás“, `vas` „vy (pl.)“, `jih` „ich“.
+- Formy objektu sú: :isv[mene] „ja“, :isv[tebe] „ty (:abbr[sg.]), ty“, :isv[jego] „on“, :isv[ju] „ona“, :isv[nas] „nás“, @@ 65 „vy (:abbr[pl.])“, :isv[jih] „oni“.
 
-- Rovnako ako väčšina prirodzených slovanských jazykov má interslovančina rozlíšenie T-V, t.j. `vy` a `vas` sa používajú nielen pre druhú osobu množného čísla, ale aj ako zdvorilostnú formu v jednotnom čísle. `Ty/tebe` sa používajú na oslovovanie priateľov, príbuzných a detí.
+- Ako väčšina prirodzených slovanských jazykov, aj medzislovančina má rozlíšenie T-V, t.j. :isv[vy] a :isv[vas] sa používajú nielen pre druhú osobu množného čísla, ale aj ako zdvorilostnú formu v jednotnom čísle. :isv[Ty]/:isv[tebe]  sa používajú na oslovovanie priateľov, príbuzných a detí.
 
-- `Slovianto` má aj zvratné zámeno, `se`, čo znamená „seba, seba, seba, ...“. Nemá subjektovú formu, len objektovú formu.
+- :notr[Slovianto] má aj zvratné zámeno, :isv[se], čo znamená „seba, seba, seba, ...“. Nemá subjektovú formu, len objektovú formu.
 
-- Toto zvratné zámeno možno použiť aj ako zvratné zámeno. _`Oni myt se`_ znamená: „umývajú sa“, ale môže znamenať aj: „umývajú sa navzájom“.
+- Toto zvratné zámeno možno použiť aj ako zvratné zámeno. :isv[Oni myt se] znamená: „umývajú sa“, ale môže znamenať aj: „umývajú sa navzájom“.
 
 - Za predložkou vždy nasleduje akuzatív:
-
-  _`s mene`_ „so mnou“
-  _`bez jego`_ „bez neho“
-  _`za tebe`_ „za tebou“
+  - :isv[s mene] „so mnou“
+  - :isv[bez jego] „bez neho“
+  - :isv[za tebe] „za tebou“
 
 - Pre _nepriamy objekt_ možno pridať predložku `k` „do, smerom“:
 
-  _`Dajte k mene ...`_ „Daj mi...“
+  :isv[Dajte k mene ...] „Daj mi...“
 
 ### Privlastňovacie zámená
 
-- Privlastňovacie zámená sú: `moj` „môj“, `tvoj` „váš, tvoj“, `jego` „jeho, jej“, `jej` „jej“, `naš` „náš“, `vaš` „váš“. (pl.)“, `jih` „ich“. Podobne ako prídavné mená, ani privlastňovacie zámená sa neskloňujú.
-- Ak je podmetom vety aj vlastník, pre všetky osoby sa používa zvratné `svoj` „vlastný“.
-- Existujú aj opytovacie a neurčité privlastňovacie zámená, ako napríklad `čij` „čí“, `ničij` „niktoho“, `něčij` „niekoho“, `čij-koli` „kohokoľvek“.
+- Privlastňovacie zámená sú: :isv[moj] „môj“, :isv[tvoj] „váš, tvoj“, :isv[jego] „jeho, jej“, :isv[jej] „jej“, :isv[naš] „náš“, :isv[vaš] „váš“. (:abbr[pl.])“, :isv[jih] „ich“. Podobne ako prídavné mená, ani privlastňovacie zámená sa neskloňujú.
+- Ak je podmetom vety aj vlastník, pre všetky osoby sa používa zvratné :isv[svoj] „vlastný“.
+- Existujú aj opytovacie a neurčité privlastňovacie zámená, ako napríklad :isv[čij] „čí“, :isv[ničij] „niktoho“, :isv[něčij] „niekoho“, :isv[čij-koli] „kohokoľvek“.
 
 ### Ukazovacie zámená
 
-- Ukazovacie zámeno je `toj` „toto, tamto, tieto, tamto“.
-- Vždy, keď je potrebné rozlišovať medzi _tu_ a _tam_, uvádzame pred ním `tu-` „tu“ alebo `tam-` „tam“: `tutoj` „toto, tieto“, `tamtoj` „tamto, tamto“ .
-- Pri samostatnom použití použite `to`:
-
-  _`Čto jest to?`_ "Čo je toto?"
-  _`To jest kniga.`_ "Toto je kniha."
+- Ukazovacie zámeno je :isv[toj] „toto, tamto, tieto, tamto“.
+- Vždy, keď je potrebné rozlišovať medzi _tu_ a _tam_, uvádzame pred ním `tu-` „tu“ alebo `tam-` „tam“: :isv[tutoj] „toto, tieto“, :isv[tamtoj] „tamto, tamto“ .
+- Pri samostatnom použití použite :isv[to]:
+  - :isv[Čto jest to?] "Čo je toto?"
+  - :isv[To jest kniga.] „Toto je kniha.“
 
 ### Vzťahové zámená
 
-- V zjednodušenom jazyku ako `Slovianto` je lepšie vyhnúť sa vedľajším vetám. Ale ak aj tak potrebujete relatívne zámeno, použite `ktory` „ktorý“.
+- V zjednodušenom jazyku ako :notr[Slovianto] je lepšie vyhnúť sa vedľajším vetám. Ale ak aj tak potrebujete relatívne zámeno, použite :isv[ktory] „ktorý“.
 
 ### Opytovacie a neurčité zámená
 
-- Existujú dve základné zámená: `kto` „kto“ a `čto` „čo“. Rovnako ako osobné zámená, `kto` má akuzatív `kogo` pre priamy predmet.
-- Od nich je odvodených aj niekoľko neurčitých zámen, napr. `někto` „niekto“, `kto-koli` „ktokoľvek“, `ničto` „nič“, `vsečto` „všetko“ (pozri nasledujúcu časť).
+- Existujú dve základné zámená: :isv[kto] „kto“ a :isv[čto] „čo“. Rovnako ako osobné zámená, :isv[kto] má akuzatív :isv[kogo] pre priamy predmet.
+- Od nich je odvodených aj niekoľko neurčitých zámen, napr. :isv[někto] „niekto“, :isv[kto-koli] „ktokoľvek“, :isv[ničto] „nič“, :isv[vsečto] „všetko“ (pozri nasledujúcu časť).
 
 ### Zámenné príslovky
 
-- Každý jazyk má osobitnú kategóriu vzájomne súvisiacich zámen, prísloviek a prídavných mien, takzvané `correlatives`. Stručne povedané, toto sú otázne slová a slová, ktoré sa používajú na poskytnutie všeobecnej odpovede na tieto otázky. V angličtine, ako aj v mnohých iných jazykoch, tieto slová spolu súvisia pomerne predvídateľným spôsobom (napríklad: _where/tu/tam/somewhere/kde/nikde/všade, odkiaľ/odtiaľ/odtiaľ atď.)_ . To je aj prípad `Slovianto`.
-- Otázky zvyčajne začínajú znakom `k-`: _`kto`_ „kto“, :isv[kogda] „kedy“, _`kde`_ „kde“, :isv[ktory] „ktorý“, _`koliko`_ „koľko“
-- Ak je odpoveďou konkrétna vec, miesto atď., slovo začína `t-`: _`to`_ „toto, tamto“, :isv[togda] „potom“, _`toliko`_ „toľko“
-- Ak je odpoveďou niečo neznáme alebo nešpecifikované, slovo začína `ně-` (nasleduje otáznikové slovo): :isv[někto] „niekto“, :isv[někogda] „niekedy, jedného dňa“, _`někde`_ „niekde, niekde“ “
-- Ak je odpoveď záporná, slovo sa začína `ni-` (nasleduje otáznikom): :isv[nikto] „nikto“, :isv[nikogda] „nikdy“, _`nigde`_ „nikde“
-- Ak je odpoveď na niečo nedôležité, slovo končí na `-koli`, pridané k slovu otázky: _`kto-koli`_ „ktokoľvek“, _`kogda-koli`_ „kedykoľvek, kedykoľvek“, _`kde-koli`_ „kdekoľvek, kdekoľvek“
-- Ak je odpoveď všeobjímajúca, slovo začína `vse-` alebo `ves-`: :isv[vsegda] „vždy“, _`vesde`_ „všade“
+- Každý jazyk má osobitnú kategóriu vzájomne súvisiacich zámen, prísloviek a prídavných mien, takzvané `correlatives`. Stručne povedané, toto sú otázne slová a slová, ktoré sa používajú na poskytnutie všeobecnej odpovede na tieto otázky. V angličtine, ako aj v mnohých iných jazykoch, tieto slová spolu súvisia pomerne predvídateľným spôsobom (napríklad: _where/tu/tam/somewhere/kde/nikde/všade, odkiaľ/odtiaľ/odtiaľ atď.)_ . To je aj prípad :notr[Slovianto].
+- Otázky zvyčajne začínajú znakom `k-`: :isv[kto] „kto“, :isv[kogda] „kedy“, :isv[kde] „kde“, :isv[ktory] „ktorý“, :isv[koliko] „koľko“
+- Ak je odpoveďou konkrétna vec, miesto atď., slovo začína `t-`: :isv[to] „toto, tamto“, :isv[togda] „potom“, :isv[toliko] „toľko“
+- Ak je odpoveď niečo neznáme alebo nešpecifikované, slovo začína `ně-` (nasleduje otáznikové slovo): :isv[někto] „niekto“, :isv[někogda] „niekedy, jedného dňa“, :isv[někde] „niekde, niekde“
+- Ak je odpoveď záporná, slovo začína `ni-` (nasleduje otáznikové slovo): :isv[nikto] „nikto“, :isv[nikogda] „nikdy“, :isv[nikde] „nikde“
+- Ak je odpoveď na niečo nedôležité, slovo končí na `-koli`, pridané k slovu otázky: :isv[kto-koli] „ktokoľvek“, :isv[kogda-koli] „kedykoľvek, kedykoľvek“, :isv[kde-koli] „kdekoľvek, kdekoľvek“
+- Ak je odpoveď všezahŕňajúca, slovo začína `vse-` alebo `ves-`: :isv[vsegda] „vždy“, :isv[vesde] „všade“
 
 ### Číslice
 
 - _hlavné čísla_ od 1 do 10 sú:
 
-  1 – :isv[jedin], 2 – _`dva`_, 3 – _`tri`_, 4 – :isv[četyri], 5 – _`pet`_, 6 – :isv[šest], 7 – :isv[sedm], 8 – _@@ 139_, 9 – :isv[devet], 10 – _`deset`_
+  1 – :isv[jedin], 2 – :isv[dva], 3 – :isv[tri], 4 – :isv[četyri], 5 – :isv[pet], 6 – :isv[šest], 7 – :isv[sedm], 8 – :isv[osm], 9 – :isv[devet], 10 – :isv[deset]
 
 - „-tínedžeri“ (11-19) sa tvoria pridaním `-nadset`:
 
-  11 – :isv[jedinnadset], 12 – _`dvanadset`_, ...
+  11 – :isv[jedinnadset], 12 – :isv[dvanadset], ...
 
-- „-väzby“ (20, 30 ... 90) sa tvoria pridaním `-deset`:
+- „-Tie“ (20, 30 ... 90) sa tvoria pridaním `-deset`:
 
-  20 – :isv[dvadeset], 30 – _`trideset`_, ...
+  20 – :isv[dvadeset], 30 – :isv[trideset], ...
 
 - „-stovky“ (200, 300 ... 900) sa tvoria pridaním `-sto`:
 
-  200 – :isv[dvasto], 300 – _`tristo`_, ...
+  200 – :isv[dvasto], 300 – :isv[tristo], ...
 
 - Vyššie čísla:
 
-  1 000 – :isv[tyseč], 1 000 000 – @@ 152, 1 000 000 000 – _`miliard`_
+  1 000 – :isv[tyseč], 1 000 000 – :isv[milion], 1 000 000 000 – :isv[miliard]
 
 - Ich kombinácie sa vždy robia od vysokej po nízku:
 
-  5 678 – _`pet-tyseč šeststo sedmdeset osm`_
+  5 678 – :isv[pet-tyseč šeststo sedmdeset osm]
 
 - _Poradové čísla_ sa tvoria pridaním `-y` k príslušnému kardinálnemu číslu, okrem nasledujúcich:
 
-  1. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] alebo :isv[stoty], 1000. – _`tysečny`_
+  1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] alebo :isv[stoty], 1000. – :isv[tysečny]
 
 ### Slovesá
 
 - Všetky slovesá majú koncovku _infinitív_ `-ti`:
-
-  _`dělati`_ „urobiť“
-  _`prositi`_ „spýtať sa“
-  _`nesti`_ „nosiť“
+  - :isv[dělati] „urobiť“
+  - :isv[prositi] „opýtať sa“
+  - :isv[nesti] „prenášať“
 
 - _Stem_ sa získa odstránením koncovky `-ti` z infinitívu:
-
-  _`děla-`_
-  _`prosi-`_
-  _`nes-`_
+  - :isv[děla-]
+  - :isv[prosi-]
+  - :isv[nes-]
 
 - V tejto ranej fáze stačí jedna koncovka _prítomného času_. Vzniká pridaním `-t` do stonky. Ak kmeň prítomného času končí na spoluhlásku, medzi kmeň a koncovku sa vloží `-e-`:
+  - :isv[ja děla-t] „Ja áno“
+  - :isv[vy prosi-t] „vy sa pýtate“
+  - :isv[oni nes-et] „nesú“
 
-  _`ja děla-t`_ „Ja áno“
-  _`vy prosi-t`_ „vy sa pýtate“
-  _`oni nes-et`_ „nesú“
-
-- A tu je malá nezrovnalosť, ktorá sa v slovanskom jazyku vyskytuje tak často, že by ste sa ju teraz mohli naučiť: ak kmeň končí na `k` alebo `g`, tieto spoluhlásky sa stanú `č` a `ž` pred vloženým @@ 180:
-
-  :isv[pekti] „na pečenie“ → _`pečet`_
-  :isv[mogti] „can“ → _`možet`_
+- A tu je trochu nepravidelnosti, ktorá sa v slovančine stáva tak často, že by ste sa ju teraz mohli naučiť: ak kmeň končí na `k` alebo `g`, tieto spoluhlásky sa stanú `č` a `ž` pred vloženým `e`:
+  - :isv[pekti] „na pečenie“ → :isv[pečet]
+  - :isv[mogti] „plechovka“ → :isv[možet]
 
 - Pre _minulý čas_ pridajte `-l` (jednotné číslo) alebo `-li` (množné číslo) ku kmeňu:
-
-  _`ja děla-l`_ „Urobil som, urobil som“
-  _`on prosi-l`_ „spýtal sa“
-  _`my nes-li`_ „prenášali sme“
+  - :isv[ja děla-l] „Urobil som, urobil som“
+  - :isv[on prosi-l] „spýtal sa“
+  - :isv[my nes-li] „prenášali sme“
 
 - Pre _budúci čas_ použite `bude` s infinitívom:
+  - :isv[ja bude dělati] „Urobím“
+  - :isv[my bude prositi] „opýtame sa“
+  - :isv[oni bude nesti] „unesú“
 
-  _`ja bude dělati`_ „Urobím“
-  _`my bude prositi`_ „opýtame sa“
-  _`oni bude nesti`_ „budú nosiť“
-
-- _podmienku_ tvoríme použitím častice `by` s minulým časom:
-
-  _`ja by dělal`_ „Urobil by som/urobil by som“
+- _podmienku_ tvoríme použitím častice :isv[by] s minulým časom:
+  - :isv[ja by dělal] „Urobil by som/urobil by som“
 
 - _imperatív_ má koniec `-jte` po samohláske alebo `-ite` po spoluhláske:
+  - :isv[děla-jte] „urobte!“
+  - :isv[prosi-jte] „opýtajte sa!“
+  - :isv[nes-ite] „prenášať!“
 
-  _`děla-jte`_ „robte!“
-  _`prosi-jte`_ „opýtajte sa!“
-  _`nes-ite`_ „prenášať!“
+- _minulé trpné príčastie_ sa vytvorí pridaním `-ny` ku kmeňu. Ak kmeň končí na spoluhlásku, vložte medzi kmeň a koncovku `-e-`. Ak kmeň končí na `-i-`, vložte `-e-` a zmeňte výsledné `-ieny` na `-jeny`:
+  - :isv[děla-ny] „hotovo“
+  - :isv[nes-eny] „prenášané“
+  - :isv[prosi-eny] → :isv[prosjeny] „opýtal sa“
 
-- _minulé trpné príčastie_ sa vytvorí pridaním `-ny` ku kmeňu. Ak sa kmeň končí na spoluhlásku, vložte medzi kmeň a koncovku `-e-`. Ak kmeň končí na `-i-`, vložte `-e-` a zmeňte výsledné `-ieny` na `-jeny`:
+- Sloveso :isv[byti] „byť“ je nepravidelné:
+  - prítomný čas: :isv[jest]
+  - minulý čas: :isv[byl], :isv[byli]
+  - budúci čas: :isv[bude]
+  - podmienené: :isv[byl by, byli by]
+  - imperatív: :isv[budite]
 
-  _`děla-ny`_ „hotovo“
-  _`nes-eny`_ „prenášané“
-  _`prosi-eny`_ → _`prosjeny`_ „spýtal sa“
-
-- Sloveso `byti` „byť“ je nepravidelné:
-
-  prítomný čas: _`jest`_
-  minulý čas: _`byl`_, _`byli`_
-  budúci čas: _`bude`_
-  podmienené: _`byl by, byli by`_
-  imperatív: _`budite`_
-
-- _pasívny hlas_ vzniká ako v angličtine spojením tvaru slovesa `byti` „byť“ s minulým trpným príčastím:
-
-  _`ja jest neseny`_ „Nesú ma“
-  _`ja byl neseny`_ „Bol som nesený, bol som nesený“ atď.
+- _pasívny hlas_ vzniká ako v angličtine spojením tvaru slovesa :isv[byti] „byť“ s minulým trpným príčastím:
+  - :isv[ja jest neseny] „Som nesený“
+  - :isv[ja byl neseny] „Bol som nesený, bol som nesený“ atď.
 
 ### Syntax
 
@@ -238,280 +222,48 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 
 - Prídavné mená, privlastňovacie zámená a podobne sa prednostne umiestňujú pred podstatné meno, ktoré modifikujú:
 
-  _`toj dobry kniga`_ „táto dobrá kniha“
+  :isv[toj dobry kniga] „táto dobrá kniha“
 
 - Otázky áno-nie sa líšia od bežných ukazovacích viet iba intonáciou:
-
-  _`Otec kupil kniga`_ "Otec kúpil knihu."
-  _`Otec kupil kniga?`_ "Kúpil si otec knihu?"
+  - :isv[Otec kupil kniga] „Otec kúpil knihu.“
+  - :isv[Otec kupil kniga?] "Kúpil si otec knihu?"
 
 - V iných otázkach je opytovacie zámeno alebo príslovka na prvom mieste:
+  - :isv[Kaky kniga kupil otec?] "Akú knihu kúpil otec?"
+  - :isv[Kde otec kupil toj kniga?] "Kde otec kúpil tú knihu?"
 
-  _`Kaky kniga kupil otec?`_ "Akú knihu kúpil otec?"
-  _`Kde otec kupil toj kniga?`_ "Kde otec kúpil tú knihu?"
-
-- Najjednoduchší spôsob vyjadrenia vlastníctva je jednoducho umiestniť vlastníka pred posadnutého. Ak to nie je dostatočne jasné, použite predložku `od` „od, z“:
-
-  _`moj otec kniga`_ „kniha môjho otca“ (dosl. „kniha môjho otca“)
-  _`kniga od moj otec`_ „kniha môjho otca“ (dosl. „kniha môjho otca“)
+- Najjednoduchší spôsob vyjadrenia vlastníctva je jednoducho umiestniť vlastníka pred posadnutého. Ak to nie je dostatočne jasné, použite predložku `od` „from, of“:
+  - :isv[moj otec kniga] „kniha môjho otca“ (dosl. „kniha môjho otca“)
+  - :isv[kniga od moj otec] „kniha môjho otca“ (dosl. „kniha môjho otca“)
 
 - Rovnako tak pre nepriamy predmet nemusíte používať žiadne špeciálne príslušenstvo. Kedykoľvek to nie je dostatočne jasné, použite predložku `k` „to“:
-
-  _`Dajte moj otec toj kniga.`_ "Daj tú knihu môjmu otcovi."
-  _`Dajte toj kniga k moj otec.`_ "Daj tú knihu môjmu otcovi."
+  - :isv[Dajte moj otec toj kniga.] "Dajte tú knihu môjmu otcovi."
+  - :isv[Dajte toj kniga k moj otec.] "Dajte tú knihu môjmu otcovi."
 
 - Na vyjadrenie nástroja, ktorý sa na niečo používa, použite predložku `s` „s“:
-
-  _`Ja udaril svoj otec s toj kniga.`_ "Tou knihou som udrel svojho otca."
-
----
+  - :isv[Ja udaril svoj otec s toj kniga.] "Tou knihou som udrel svojho otca."
 
 ## Ukážkový text: V reštaurácii
 
-<div className="dialogue">
-  :::isv
-  - Dobry denj! Restoran jest otvorjeny?
-  - Dobry denj. Da, my jest otvorjeny.
-  - Možno tu piti něčto?
-  - Očevidno, čto prinesti k vas?
-  - Čto vy imat?
-  - Čaj, kava, pivo, vino, vodka...
-  - A vy takože imat něčto hladne?
-  - Da, my imat sok, voda, mlěko...
-  - Togda dajte nam dva soki, prosim.
-  - Dva soki, dobro. Vy takože hočet jesti něčto?
-  - Može... Vy imat hlěb?
-  - Da, očevidno. Hlěb, meso, ryba, vsečto jest.
-  - Hvala, samo hlěb s maslo, prosim.
-  :::
-
-  - Good day! Is the restaurant open?
-  - Good day. Yes, we are open.
-  - Is it possible to have something to drink here?
-  - Of course, what shall I bring you?
-  - What do you have?
-  - Tea, coffee, beer, wine, vodka...
-  - Do you also have something cold?
-  - Yes, we have juice, water, milk...
-  - Then please give us two juice.
-  - Two juice, okay. Would you like to eat something as well?
-  - Maybe... Do you have bread?
-  - Yes, of course. Bread, meat, fish, everything is there.
-  - Thank you, just breat with butter, please.
-</div>
+:::component{name="MDSlovianto2"}
+- Dobrý deň! Je reštaurácia otvorená?
+- Dobrý deň. Áno, máme otvorené.
+- Dá sa tu niečo piť?
+- Samozrejme, čo ti prinesiem?
+- Čo máš?
+- Čaj, káva, pivo, víno, vodka...
+- Máte aj niečo studené?
+- Áno, máme džús, vodu, mlieko...
+- Potom nám prosím dajte dva džúsy.
+- Dva džúsy, dobre. Chceli by ste tiež niečo zjesť?
+- Možno... Máte chlieb?
+- Áno, samozrejme. Chlieb, mäso, ryby, všetko je tam.
+- Ďakujem, prosím, len s maslom.
+:::
 
 ## Základná slovná zásoba
 
-<p className="text-3-col">
-  - :isv[a] – and, but
-  - :isv[ako] – if
-  - :isv[ale] – but
-  - :isv[avto] – car
-  - :isv[bez] – without
-  - :isv[běly] – white
-  - :isv[bliz] – almost
-  - :isv[bolje] – more
-  - :isv[brati] – to take
-  - :isv[byti] – to be
-  - :isv[čaj] – tea
-  - :isv[čas] – time
-  - :isv[časina] – hour
-  - :isv[čest] – part
-  - :isv[člověk] – person, human being
-  - :isv[črěz] – through
-  - :isv[črny] – black
-  - :isv[čto] – what
-  - :isv[da] – yes
-  - :isv[dati] – to give
-  - :isv[daže] – even
-  - :isv[denj] – day
-  - :isv[dělati] – to do, to make
-  - :isv[dělo] – act, deed
-  - :isv[děte] – child
-  - :isv[dlja] – for
-  - :isv[do] – to, towards, till
-  - :isv[dobro] – well
-  - :isv[dobry] – good
-  - :isv[dom] – house
-  - :isv[dostati] – to get, to receive
-  - :isv[drugy] – second
-  - :isv[država] – state
-  - :isv[dva] – two
-  - :isv[dveri] – door
-  - :isv[glas] – voice
-  - :isv[glava] – head
-  - :isv[gleděti] – to watch
-  - :isv[god] – year
-  - :isv[govoriti] – to say, to speak
-  - :isv[grad] – city, town
-  - :isv[groši] – money
-  - :isv[hladny] – cold
-  - :isv[hlěb] – bread
-  - :isv[htěti] – to want
-  - :isv[hvala] – thanks
-  - :isv[i] – and
-  - :isv[idti] – to go, to walk
-  - :isv[ih] – them; their
-  - :isv[ili] – or
-  - :isv[imati] – to have
-  - :isv[iz] – from, out of
-  - :isv[ja] – I
-  - :isv[jedin] – one
-  - :isv[jedino] – only
-  - :isv[jego] – him; his
-  - :isv[jej] – her
-  - :isv[jesti] – to eat
-  - :isv[ješče] – still
-  - :isv[k] – to, towards
-  - :isv[kaky] – what kind of
-  - :isv[kako] – how; like
-  - :isv[kava] – coffee
-  - :isv[kde] – where
-  - :isv[kniga] – book
-  - :isv[kogda] – when
-  - :isv[konec] – end
-  - :isv[kto] – who
-  - :isv[ktory] – which
-  - :isv[lice] – face
-  - :isv[ljubiti] – to love, to like
-  - :isv[maly] – little, small
-  - :isv[maslo] – butter
-  - :isv[medžu] – between
-  - :isv[menje] – less
-  - :isv[meso] – meat
-  - :isv[město] – place
-  - :isv[minuta] – minute
-  - :isv[mlěko] – milk
-  - :isv[mnogo] – much; very
-  - :isv[mogti] – can, to be able
-  - :isv[moj] – my
-  - :isv[može] – maybe, perhaps
-  - :isv[možno] – it is possible; possibly
-  - :isv[muž] – man, husband
-  - :isv[my] – we
-  - :isv[mysliti] – to think
-  - :isv[na] – on, upon, at
-  - :isv[nad] – above, beyond
-  - :isv[najbolje] – most
-  - :isv[naš] – our
-  - :isv[ne] – no; not
-  - :isv[nesti] – to carry
-  - :isv[neželi] – than
-  - :isv[něčto] – something
-  - :isv[někaky] – some kind of
-  - :isv[několiko] – a few, several
-  - :isv[ni … ni …] – neither ... nor ...
-  - :isv[ničto] – nothing
-  - :isv[nikto] – nobody
-  - :isv[noč] – night
-  - :isv[noga] – leg
-  - :isv[novy] – new
-  - :isv[o, ob] – about
-  - :isv[obči] – common, general
-  - :isv[očevidno] – of course
-  - :isv[od] – of, from
-  - :isv[odgovoriti] – to answer
-  - :isv[oko] – eye
-  - :isv[on] – he
-  - :isv[ona] – she
-  - :isv[oni] – they
-  - :isv[ostati] – to stay, to remain
-  - :isv[otec] – father
-  - :isv[otvoriti] – open
-  - :isv[piti] – to drink
-  - :isv[pivo] – beer
-  - :isv[po] – after; in the manner of
-  - :isv[početi] – to begin, to start
-  - :isv[pod] – under
-  - :isv[pogled] – look, sight, view
-  - :isv[pokoj] – peace, quiet
-  - :isv[poslědny] – last
-  - :isv[potom] – after that, then
-  - :isv[potrěbny] – needed, necessary
-  - :isv[prěd] – before
-  - :isv[pri] – by, near
-  - :isv[prijatelj] – friend
-  - :isv[prijdti] – to come
-  - :isv[prinesti] – to bring
-  - :isv[problem] – problem
-  - :isv[prosim] – please
-  - :isv[prositi] – to ask (for sth.), to require
-  - :isv[prosty] – simple, easy
-  - :isv[prvy] – first
-  - :isv[pytanje] – question
-  - :isv[pytati] – to ask (a question)
-  - :isv[rabota] – work, labour
-  - :isv[rabotati] – to work, to labour
-  - :isv[raz] – time (in the sense of: ... times)
-  - :isv[razuměti] – to understand
-  - :isv[restoran] – restaurant
-  - :isv[ruka] – arm
-  - :isv[ryba] – fish
-  - :isv[s] – with
-  - :isv[směsta] – immediately
-  - :isv[snova] – again
-  - :isv[sam] – alone
-  - :isv[samo] – only, merely
-  - :isv[se, sebe] – oneself
-  - :isv[seděti] – to sit
-  - :isv[sejčas] – now
-  - :isv[sila] – power, force
-  - :isv[slovo] – word
-  - :isv[slučaj] – case, instance, event
-  - :isv[sok] – juice
-  - :isv[sovsěm] – entirely, completely
-  - :isv[spati] – to sleep
-  - :isv[stary] – old
-  - :isv[stati] – to become
-  - :isv[stati se] – to happen
-  - :isv[stojati] – to stand
-  - :isv[stol] – table
-  - :isv[strana] – side
-  - :isv[svět] – world
-  - :isv[svoj] – one's own
-  - :isv[taky] – such
-  - :isv[tako] – so, in such way
-  - :isv[takože] – also, too
-  - :isv[tamo] – there
-  - :isv[teply] – warm
-  - :isv[to] – this, that
-  - :isv[togda] – then
-  - :isv[toj] – this, that
-  - :isv[toliko] – this much, that much, only
-  - :isv[trěba] – it is needed, it is necesary
-  - :isv[tri] – three
-  - :isv[tu] – here
-  - :isv[tvoj] – your (sg.)
-  - :isv[ty] – you (sg.)
-  - :isv[uho] – ear
-  - :isv[uže] – already
-  - :isv[v] – in; into
-  - :isv[vaš] – your (pl.)
-  - :isv[veliky] – great, big
-  - :isv[ves] – all, entire
-  - :isv[vid] – aspect, look, vision
-  - :isv[viděti] – to see
-  - :isv[vino] – wine
-  - :isv[voda] – water
-  - :isv[vojna] – war
-  - :isv[vrěme] – time
-  - :isv[vsaky] – every
-  - :isv[vse] – everything
-  - :isv[vsegda] – always
-  - :isv[vy] – you (pl.)
-  - :isv[vyjdti] – exit, quit
-  - :isv[vysoky] – high
-  - :isv[za] – behind
-  - :isv[začto] – why, what for
-  - :isv[zato] – that's why, therefore
-  - :isv[zemja] – earth, ground
-  - :isv[zly] – bad
-  - :isv[značiti] – to mean
-  - :isv[znati] – to know
-  - :isv[že] – that (conjunction)
-  - :isv[žena] – woman, wife
-  - :isv[žiti] – to live
-</p>
+:::component{name="MDSlovianto3"}
+:::
 
 [1]: https://interslavic-dictionary.com
-

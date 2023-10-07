@@ -54,7 +54,7 @@ Přípony začínající na `-o-` se změní na `-e-`, když následují měkké
 
 - K odvození abstraktní kvality z přídavného jména se používá přípona `-ost`:\
   `dobry` „dobré“ > `dobrost` „dobré“
-- Osoba, která reprezentuje kvalitu vyjádřenou přídavným jménem, ​​má často koncovku `-ec` (fem. `-ica`):\
+- Osoba, která reprezentuje kvalitu vyjádřenou přídavným jménem, má často koncovku `-ec` (fem. `-ica`):\
   `glupy` „hloupý“ > `glupec` „hloupý člověk, blázen“, `izgnany` „vyhnán, vyhoštěn“ > `izgnanec` „vyhnaný člověk, vyhnanství“
 - Indikátor místa `-išče` lze použít také s přídavnými jmény:\
   `mokry` „mokro“ > `mokrišče` „mokřad, bažina“, `tajny` „tajné“ > `tajnišče` „tajné místo“
@@ -125,7 +125,7 @@ Přípony začínající na `-o-` se změní na `-e-`, když následují měkké
 
 - Proces stávání se je vyjádřen koncovkou `-ěti`:\
   `běly` „bílý“ > `bělěti` „zbělat“, `bogaty` „bohatý“ > `bogatěti` „zbohatnout“, `hvory` „nemocný, nemocný“ > `hvorěti` „být nebo onemocnět /nemocný"
-- Aby měl někdo/něco vlastnosti vyjádřené přídavným jménem, ​​použijí se společně předpona `o-` a koncovka `-iti`:\
+- Aby měl někdo/něco vlastnosti vyjádřené přídavným jménem, použijí se společně předpona `o-` a koncovka `-iti`:\
   `črny` „černá“ > `očrniti` „zčernit, udělat černou“
 - Aby měl někdo/něco více vlastností vyjádřených přídavným jménem (často komparativní), spojuje se předpona `u-` s koncovkou `-iti`:\
   `lěpši` „lepší“ > `ulěpšiti` „zlepšit, zlepšit“, `menši` „méně“ > `umenšiti` „snížit, zmenšit“

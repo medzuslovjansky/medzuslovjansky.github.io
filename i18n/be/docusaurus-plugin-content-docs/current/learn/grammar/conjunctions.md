@@ -112,7 +112,7 @@ origin: http://steen.free.fr/interslavic/prepositions.html
 :isv[bez obzira na] (_+ `acc`._) – незалежна\
 :isv[čto se tyče] (_+ `gen`._) – адносна, адносна\
 :isv[na prěkor] (_+ `gen`._) – насуперак\
-:isv[ne gledajuči na] (_+ `acc`._) – ігнараванне, нягледзячы на, нягледзячы на, нягледзячы на ​​\
+:isv[ne gledajuči na] (_+ `acc`._) – ігнараванне, нягледзячы на, нягледзячы на, нягледзячы на \
 :isv[od strany] (_+ `gen`._) – ад, з боку\
 :isv[po odnošenju k] (_+ `dat`._) – адносна, адносна\
 :isv[pod vodstvom] (_+ `gen`._) – пад кіраўніцтвам\

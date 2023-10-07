@@ -10,7 +10,7 @@ origin: http://steen.free.fr/interslavic/nouns.html
 
 Tako kot večina slovanskih jezikov imajo tudi v medslovanščini samostalniki tri slovnične rode (moški, ženski, srednji rod), dve števili (ednina, množina) in sedem padev (nominativ, tožilnik, rodilnik, dajalnik, instrumental, lokativ, vokativ). Vokativ, ki se uporablja za neposredno naslavljanje osebe ali predmeta, pravzaprav ni pravi padež, saj se obnaša bistveno drugače kot drugi padeži: obstaja le v ednini samostalnikov moškega in ženskega spola, nikoli ne vpliva na pridevnike ali zaimke in ima nič opraviti s skladenjsko strukturo stavka.
 
-Izogibati se je treba dolgim ​​in zapletenim paradigmam, vendar se ne moremo izogniti razlikovanju med nekaj različnimi besednimi razredi. V osnovi ima medslovanska beseda tri sklanjatve:
+Izogibati se je treba dolgim in zapletenim paradigmam, vendar se ne moremo izogniti razlikovanju med nekaj različnimi besednimi razredi. V osnovi ima medslovanska beseda tri sklanjatve:
 
 - V prvo sklanjatev spadajo vsi samostalniki moškega spola, ki se končajo na soglasnik, pa tudi samostalniki srednjega rodu, ki se končajo na `-o` ali `-e`.
 - Druga sklanjatev vključuje vse samostalnike ženskega rodu na `-a`.

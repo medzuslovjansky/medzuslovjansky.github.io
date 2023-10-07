@@ -58,7 +58,7 @@ custom_edit_url: /501
 
 - Маленький принц (латиниця): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
 - Маленький принц (кирилиця): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
-– Medžuslovjansky Reader: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
+- Medžuslovjansky Reader: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
 - Журнал "Слов'яни": [https://slovjani.info][16] - в ньому є деякі статті міжслов'янською мовою, але це не мовний журнал.
 
 ## Довідники

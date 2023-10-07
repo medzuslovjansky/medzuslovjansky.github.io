@@ -212,7 +212,7 @@ Jedynym prawdziwie nieregularnym czasownikiem jest `byti` „być”. Jest sprz�
 
 ### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
 
-Czasowniki `dati` „dawać”, `jesti` „jeść” i `věděti` „wiedzieć” mają nieregularny czas teraźniejszy. Podobnie jak `byti` należą do tzw. _`athematic conjugation`_, co oznacza, że ​​ich rdzeń kończy się na samogłoskę. W czasie teraźniejszym są one odmieniane w następujący sposób:
+Czasowniki `dati` „dawać”, `jesti` „jeść” i `věděti` „wiedzieć” mają nieregularny czas teraźniejszy. Podobnie jak `byti` należą do tzw. _`athematic conjugation`_, co oznacza, że ich rdzeń kończy się na samogłoskę. W czasie teraźniejszym są one odmieniane w następujący sposób:
 
 :::component{name=MDVerbs11}
 :::

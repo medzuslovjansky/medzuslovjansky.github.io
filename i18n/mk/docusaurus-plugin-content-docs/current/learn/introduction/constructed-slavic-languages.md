@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, подоцна `Sloviansk` – нема податоци.
 45. [Сојаз][18] (2005), ран обид за словенски меѓујазик од Хелерик.
     Примерок: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​[Панславенск][19] (2005), од „Вечен пламен“.
+46. [Панславенск][19] (2005), од „Вечен пламен“.
     Примерок: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), претставен во 2005 година од Сергеј Лазарев (познато како „Верталер“).
 48. [Словачки јазик][21], претставен во 2005 година од извесна Марина.

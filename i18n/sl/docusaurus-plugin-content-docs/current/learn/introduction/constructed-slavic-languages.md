@@ -38,7 +38,7 @@ sidebar_position: 4
 
 19. `Neuslawisch` (1907), Čeh Ignác Hošek (1852-1919), objavljeno v njegovi »Grammatik der Neuslavischen Sprache«. Namen tega jezika je bil ustvariti enoten slovanski jezik za habsburško monarhijo in narediti red v jezikovnem kaosu v tej državi.
     Vzorec: _":notr[Praga, glavné mesto královstva českého, leži skoro posred české zeme na oboch bregoch dolňé Veltvai, ve krajine krásno pagorkatej, částečno niše nežli dve sta metrov nad gladinou morskou.]"_
-20. `Všeslovanský jazyk` (1909), drugi projekt Ignáca Hoška, ​​objavljen v knjižici z naslovom "`Slovanský tlumočník`". Za razliko od njegovega Neuslawischa, ki je namenjen samo Slovanom v habsburški monarhiji, ta malo znani projekt predstavlja jezik za _vse_ Slovane.
+20. `Všeslovanský jazyk` (1909), drugi projekt Ignáca Hoška, objavljen v knjižici z naslovom "`Slovanský tlumočník`". Za razliko od njegovega Neuslawischa, ki je namenjen samo Slovanom v habsburški monarhiji, ta malo znani projekt predstavlja jezik za _vse_ Slovane.
 21. `Slavina` (Slava-Esperanto, Slovina), ki jo je leta 1912 objavil Josef Konečný v svoji brošuri "`Mluvnička slovanského esperanta »Slavina«`". Za razliko od imena ta projekt nima nič skupnega z esperantom, temveč večinoma temelji na zahodnoslovanski, zlasti češki.
     Vzorec: _"`Hej, Slované, naši lepo slovanó rěč máme, dokud naše věrne serce pro náš národ dame.`"_
 22. `Slovanština` (1912), Čeh Edmund Kolkop.
@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, pozneje `Sloviansk` – ni podatka.
 45. [Sojaz][18] (2005), Hellerickov zgodnji poskus slovanskega medjezika.
     Vzorec: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​​​[Panslavensk][19] (2005), avtor "Eternal Flame".
+46. [Panslavensk][19] (2005), avtor "Eternal Flame".
     Vzorec: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), ki ga je leta 2005 predstavil Sergej Lazarev (alias "Vertaler").
 48. [Slovaški jezik][21], leta 2005 predstavila neka Marina.
@@ -90,7 +90,7 @@ sidebar_position: 4
 52. [Noven Slovio][31] (očitno pozneje preimenovan v `Slavenen`), leta 2006 predlagal "Hochlander".
     Vzorec: _":notr[Otce ni, coi es na nebo! Da bude sventen imeno ti, da priide crolestvo (tsarstvo) ti, da bude volia ti, ta na zeme, ca na nebo.]"_
 53. [Medzıslavǎnskij ǎzyk][32] (2008) avtor Daniel Gromada (Jack O'Neill). Vsebuje le informacije o abecedi in nekaj stavkov: _":notr[Ǎ sě zanimam o slavǎnskiě ǎzyky a měl jsem ıdeǔ vyrobiť medzıslavǎnskij ǎzyk. Vyrobeniem ty strony chcię uznať ěśli to bude funkcionovať.]"_
-54. [Rozumio][33] (2008) Hellerick. Po besedah ​​njegovega avtorja "Rozumio ni jezik, temveč poskus združevanja dveh slovanskih pomožnih konlangov Slovio in Slovianski. Jezik temelji na Slovio, vendar ga lahko štejemo za neke vrste Slovianski v svoji primitivni obliki. "
+54. [Rozumio][33] (2008) Hellerick. Po besedah njegovega avtorja "Rozumio ni jezik, temveč poskus združevanja dveh slovanskih pomožnih konlangov Slovio in Slovianski. Jezik temelji na Slovio, vendar ga lahko štejemo za neke vrste Slovianski v svoji primitivni obliki. "
     Vzorec: _"`Na bort korabu je dva milioni bočki neftu, v plen ostajut 25 človeki ekipažu.`"_
 55. [Slovioski][34] (2009), ki so ga ustvarili Steeven Radzikowski, Andrej Moraczewski in Michal Borovička, je še en poskus sprave Slovio in Slovianski. Slovnico zamenjuje z bolj naravoslovno, v osnovi pa se drži slovarja Slovio. V letih 2010–2011 se je slovionski dokončno združil s slovanskim v **medžuslovjanski/medslovanski**.
     Vzorec: _":notr[Skype mozxbut potrebil bi zakritit za sporu o osnovnju tehnologiu upotrebitcja na operuvaniu svojih internetovih telefonih sistemum...]"_

@@ -24,7 +24,7 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 :isv[jednako] "аднак"
 :isv[než, neželi] "чым"
 :isv[pa] "так"
-:isv[poněže] "у ​​той час як"
+:isv[poněže] "у той час як"
 :isv[ubo] "таму"
 
 ### Суадносныя злучнікі \{#correlative-conjunctions}

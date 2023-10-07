@@ -10,7 +10,7 @@ custom_edit_url: /501
 
 Panslavenska štafeta održana je u rujnu-listopadu 2009. godine.
 
-"Štafetna igra" je u biti varijacija telefonske igre: netko piše pjesmu ili kratki odlomak na svom izgrađenom jeziku i prosljeđuje ga sljedećem sudioniku. Ta osoba dešifrira tekst i naknadno šalje prijevod na svom jeziku sljedećem u nizu, i dalje i dalje sve dok se ne vrati punim krugom, izmijenjen, transformiran, tako reći, od strane bogova, i sadržavajući novu mudrost. Ovu su igru ​​conlangeri igrali već gotovo dvadeset puta. Ovaj relej je nešto drugačiji od ostalih releja, jer se sastoji samo od slavenskih pomoćnih jezika. Svaki je sudionik imao 48 sati da ispuni zadatak. Ako njegov jezik koristi više pravopisa (tj. latinicu naspram ćirilice), mogao je naravno poslati oba.
+"Štafetna igra" je u biti varijacija telefonske igre: netko piše pjesmu ili kratki odlomak na svom izgrađenom jeziku i prosljeđuje ga sljedećem sudioniku. Ta osoba dešifrira tekst i naknadno šalje prijevod na svom jeziku sljedećem u nizu, i dalje i dalje sve dok se ne vrati punim krugom, izmijenjen, transformiran, tako reći, od strane bogova, i sadržavajući novu mudrost. Ovu su igru conlangeri igrali već gotovo dvadeset puta. Ovaj relej je nešto drugačiji od ostalih releja, jer se sastoji samo od slavenskih pomoćnih jezika. Svaki je sudionik imao 48 sati da ispuni zadatak. Ako njegov jezik koristi više pravopisa (tj. latinicu naspram ćirilice), mogao je naravno poslati oba.
 
 ## Izvorni engleski tekst
 

@@ -10,7 +10,7 @@ origin: http://steen.free.fr/interslavic/conjunctions.html
 
 ## Vezniki \{#conjunctions}
 
-Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli. Vezniki so nespremenljivi in ​​stojijo med predmeti, ki jih povezujejo. Obstajajo tri vrste veznikov: _usklajevalni vezniki_ združujejo dva ali več elementov enakega skladenjskega pomena, _korelativni vezniki_ so vezniki, ki delujejo v paru, in _podrejeni vezniki_ povezujejo odvisni stavek z neodvisnim stavkom. Tukaj je (nepopoln) seznam:
+Veznik je del govora, ki povezuje dve besedi, stavku, besedni zvezi ali klavzuli. Vezniki so nespremenljivi in stojijo med predmeti, ki jih povezujejo. Obstajajo tri vrste veznikov: _usklajevalni vezniki_ združujejo dva ali več elementov enakega skladenjskega pomena, _korelativni vezniki_ so vezniki, ki delujejo v paru, in _podrejeni vezniki_ povezujejo odvisni stavek z neodvisnim stavkom. Tukaj je (nepopoln) seznam:
 
 ### Usklajevalni vezniki \{#coordinating-conjunctions}
 

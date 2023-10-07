@@ -73,7 +73,7 @@ Fleksja jest utrzymana tak regularnie, jak to możliwe. Jednak zmnienne, takie j
 
 ### Palatalizacja \{#palatalisation}
 
-_Palatalizacja_ oznacza, że ​​w pewnych warunkach spółgłoski miękkopodniebienne (welarne) `k` `g` `h` (jak również spółgłoska zwarto-szczelinowa dziąsłowa bezdźwięczna `c`) są zamieniane na spółgłoski zadziąsłowe `č` `ž` `š`. Dzieje się tak w następujących przypadkach:
+_Palatalizacja_ oznacza, że w pewnych warunkach spółgłoski miękkopodniebienne (welarne) `k` `g` `h` (jak również spółgłoska zwarto-szczelinowa dziąsłowa bezdźwięczna `c`) są zamieniane na spółgłoski zadziąsłowe `č` `ž` `š`. Dzieje się tak w następujących przypadkach:
 
 - przed `-e` w wołaczu liczby pojedynczej rzeczowników rodzaju męskiego: :isv[Bo**g**] „Bóg” > :isv[Bo**ž**e], :isv[hlåpė**c**] „chłopiec” > :isv[hlåp**č**e]
 - przed `-e`, `-eš` itd. w czasie teraźniejszym czasowników: :isv[pe**k**-ti] „piec” > :isv[pe**č**eš], :isv[mo**g**-ti] „może” > :isv[mo**ž**eš]

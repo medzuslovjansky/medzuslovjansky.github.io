@@ -46,7 +46,7 @@ Ker nobeden od obstoječih slovanskih pravopisov ne more izpolniti vseh teh zaht
 
 ### Mednarodno proti slovanskemu besedišču \{#international-versus-ѕlavic-vocabulary}
 
-V idealnem primeru mora biti vsaka beseda znana vsakemu govorcu slovanskega jezika. Tudi če se določena oblika besede ne pojavlja v lastnem jeziku nekoga, bi morala vzbuditi vsaj konotacijo, ki jim daje namig v pravo smer. Očitno to ni vedno mogoče, zato je potrebnih več mehanizmov za odločanje o izbiri besedišča. Prvi in ​​najpomembnejši korak je zbiranje nabora besednih korenov, ki so prepoznavni vsem ali večini Slovanov. Kasneje ti koreni lahko služijo kot osnova za širjenje besedišča z gradnjo zloženk.
+V idealnem primeru mora biti vsaka beseda znana vsakemu govorcu slovanskega jezika. Tudi če se določena oblika besede ne pojavlja v lastnem jeziku nekoga, bi morala vzbuditi vsaj konotacijo, ki jim daje namig v pravo smer. Očitno to ni vedno mogoče, zato je potrebnih več mehanizmov za odločanje o izbiri besedišča. Prvi in najpomembnejši korak je zbiranje nabora besednih korenov, ki so prepoznavni vsem ali večini Slovanov. Kasneje ti koreni lahko služijo kot osnova za širjenje besedišča z gradnjo zloženk.
 
 Obstajata dve vrsti besedišča, ki imata ključno vlogo pri izboljšanju medsebojnega razumevanja med dvema različnima jezikoma:
 
@@ -124,7 +124,7 @@ Kar velja za besedišče, velja tudi za slovnico. Izhodišče so vedno slovničn
 
 Najenostavnejša oblika medslovanščine, `Slovianto`, v resnici ni jezik, temveč metoda, ki jo lahko uporabljajo Neslovani kot metodo za učenje in/ali uporabo medslovanščine. Sestavljen je iz treh različnih stopenj, od katerih vsaka približa učenca »pravi« medslovanščini.
 
-Prva raven je minimalistična, primitivna slovnica, za katero je značilna odsotnost vsega, kar v resnici ni potrebno za preprosto komunikacijo. Slovnični spol na tej ravni ne igra vloge, samostalniški primeri so odsotni, besedna konjugacija pa ostaja omejena na minimum. Nekaj ​​preostalih oblik (na primer množine) bi moralo biti za Slovane prepoznavno brez kakršnega koli predhodnega študija, njihovo pomnjenje pa bi moralo biti stvar minut in ne ur. Ta stopnja je še posebej uporabna za Neslovane, ki jih ne zanima učenje celotnega jezika, vendar se vseeno želijo izražati na osnovni ravni v stikih s Slovani.
+Prva raven je minimalistična, primitivna slovnica, za katero je značilna odsotnost vsega, kar v resnici ni potrebno za preprosto komunikacijo. Slovnični spol na tej ravni ne igra vloge, samostalniški primeri so odsotni, besedna konjugacija pa ostaja omejena na minimum. Nekaj preostalih oblik (na primer množine) bi moralo biti za Slovane prepoznavno brez kakršnega koli predhodnega študija, njihovo pomnjenje pa bi moralo biti stvar minut in ne ur. Ta stopnja je še posebej uporabna za Neslovane, ki jih ne zanima učenje celotnega jezika, vendar se vseeno želijo izražati na osnovni ravni v stikih s Slovani.
 
 Druga stopnja uvaja slovnični spol in ponuja preprost model za spreganje glagolov. Tretja stopnja uvaja primere samostalnikov.
 

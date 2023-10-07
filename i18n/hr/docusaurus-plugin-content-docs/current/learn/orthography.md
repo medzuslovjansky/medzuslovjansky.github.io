@@ -64,7 +64,7 @@ Interslavic koristi slovo `ј` iz srpske i makedonske ćirilice kao ekvivalent l
 
 ## Etimološki alfabet \{#etymological-alphabet}
 
-Uz standardnu ​​latinicu, međuslavenski također sadrži niz neobveznih slova koja se posebno odnose na praslavenske/starocrkvenoslavenske foneme koji su se odvojili ili nestali u većini modernih jezika:
+Uz standardnu latinicu, međuslavenski također sadrži niz neobveznih slova koja se posebno odnose na praslavenske/starocrkvenoslavenske foneme koji su se odvojili ili nestali u većini modernih jezika:
 
 :::component{name=MDOrthography3}
 :::

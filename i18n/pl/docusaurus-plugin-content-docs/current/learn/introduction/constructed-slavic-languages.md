@@ -38,7 +38,7 @@ sidebar_position: 4
 
 19. `Neuslawisch` (1907), autorstwa Czecha Ignáca Hoška (1852-1919), opublikowany w jego „Grammatik der Neuslavischen Sprache”. Celem tego języka było stworzenie jednolitego języka słowiańskiego dla monarchii habsburskiej i uporządkowanie językowego chaosu panującego w tym państwie.
     Próbka: _":notr[Praga, glavné mesto královstva českého, leži skoro posred české zeme na oboch bregoch dolňé Veltvai, ve krajine krásno pagorkatej, částečno niše nežli dve sta metrov nad gladinou morskou.]"_
-20. `Všeslovanský jazyk` (1909), kolejny projekt Ignáca Hoška, ​​opublikowany w książeczce pt. "`Slovanský tlumočník`". W przeciwieństwie do jego Neuslawisch, który jest skierowany wyłącznie do Słowian w monarchii habsburskiej, ten mało znany projekt przedstawia język dla wszystkich Słowian.
+20. `Všeslovanský jazyk` (1909), kolejny projekt Ignáca Hoška, opublikowany w książeczce pt. "`Slovanský tlumočník`". W przeciwieństwie do jego Neuslawisch, który jest skierowany wyłącznie do Słowian w monarchii habsburskiej, ten mało znany projekt przedstawia język dla wszystkich Słowian.
 21. `Slavina` (Slava-Esperanto, Slovina), opublikowane w 1912 roku przez Josefa Konečnégo w jego broszurze „`Mluvnička slovanského esperanta »Slavina«`”. W przeciwieństwie do nazwy, projekt ten nie ma nic wspólnego z esperanto, ale opiera się głównie na języku zachodniosłowiańskim, zwłaszcza czeskim.
     Próbka: _"`Hej, Slované, naši lepo slovanó rěč máme, dokud naše věrne serce pro náš národ dame.`"_
 22. `Slovanština` (1912), autorstwa Czecha Edmunda Kolkopa.
@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, później `Sloviansk` – brak danych.
 45. [Sojaz] [18] (2005), wczesna próba słowiańskiego interjęzyku autorstwa Hellericka.
     Próbka: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​​​[Panslavensk][19] (2005), autorstwa „Eternal Flame”.
+46. [Panslavensk][19] (2005), autorstwa „Eternal Flame”.
     Próbka: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), przedstawiony w 2005 roku przez Siergieja Łazariewa (alias "Vertaler").
 48. [język słowacki][21], przedstawiony w 2005 roku przez niejaką Marinę.

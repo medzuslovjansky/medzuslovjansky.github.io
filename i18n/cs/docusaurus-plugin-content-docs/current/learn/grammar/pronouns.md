@@ -48,12 +48,12 @@ Ve třetí osobě se nejčastěji používá genitiv odpovídajícího osobního
 
 Kdykoli je podmětem věty i vlastník, použije se zvratné `svoj`, bez ohledu na to, zda je tento podmět ve třetí osobě nebo ne: _`Ja myju svoje avto`_ „Myju si auto“. Všimněte si rozdílu ve významu, když zvratné zájmeno odkazuje na předmět ve třetí osobě:
 
-:isv[Pjotr dal Ivanu svoju knigu] „Pjotr ​​​​dal Ivanovi svou \[= Pjotrovu] knihu“
-:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr ​​dal Ivanovi svou \[= Ivanovu] knihu".
+:isv[Pjotr dal Ivanu svoju knigu] „Pjotr dal Ivanovi svou \[= Pjotrovu] knihu“
+:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr dal Ivanovi svou \[= Ivanovu] knihu".
 
 Existují také přivlastňovací zájmena tázací, určitá a neurčitá: `čij` „čí“, `ničij` „nikdo není“, `něčij` „něčí“ atd. Skloňují se jako `moj`. Další formuláře naleznete v části o [souvztažné údaje][2].
 
-Stejně jako přídavná jména korespondují přivlastňovací zájmena s podstatným jménem, ​​které modifikují v rodu, čísle a pádu. S výjimkou nominativu mužského rodu a akuzativu jednotného čísla je jejich skloňování totožné se skloňováním adjektiv (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ jako :isv[svěži]; :isv[jegov], :isv[jejin] a :isv[jihny] to se mi líbí _`dobry`_):
+Stejně jako přídavná jména korespondují přivlastňovací zájmena s podstatným jménem, které modifikují v rodu, čísle a pádu. S výjimkou nominativu mužského rodu a akuzativu jednotného čísla je jejich skloňování totožné se skloňováním adjektiv (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] a _`čij`_ jako :isv[svěži]; :isv[jegov], :isv[jejin] a :isv[jihny] to se mi líbí _`dobry`_):
 
 :::component{name=MDPronouns2}
 :::

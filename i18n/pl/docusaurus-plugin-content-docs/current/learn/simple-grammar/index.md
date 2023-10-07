@@ -11,6 +11,6 @@ Gramatyka uproszczona, czyli :notr[Slovianto], to wysoce uproszczona forma języ
 - **Poziom 1** – najprostszy poziom: bez rodzaju, bez przypadków, tylko liczba pojedyncza/mnoga, jedna końcówka czasownika na czas
 - **Poziom 2** – wprowadzenie do rodzaju, prosty model koniugacji czasowników (rzeczy, które można znaleźć we wszystkich językach słowiańskich)
 
-Roboczy tytuł :notr[Slovianto] to kontaminacja oznaczająca „słowiańskie esperanto”. Nazwa ta, choć nieco żartobliwa, nawiązuje do prostoty :notr[Slovianto]: nie ma płci, przypadków, żadnego aspektu, ma niewielką koniugację i nie ma nieregularności. Jednak na tym kończy się podobieństwo do esperanto, ponieważ sposoby upraszczania stosowane przez :notr[Slovianto] są w rzeczywistości znacznie bardziej podobne do tych stosowanych przez :notr[Interlingua].
+Roboczy tytuł :notr[Slovianto] to kontaminacja oznaczająca „słowiańskie esperanto”. Nazwa ta, choć nieco żartobliwa, nawiązuje do prostoty :notr[Slovianto]: nie ma płci, przypadków, żadnego aspektu, ma niewielką koniugację i nie ma nieregularności. Jednak na tym kończy się podobieństwo do esperanto, ponieważ sposoby upraszczania :notr[Slovianto] są w rzeczywistości znacznie bardziej podobne do tych stosowanych przez :notr[Interlingua].
 
-::component{name="DocCardList"}
+::component{name=DocCardList}

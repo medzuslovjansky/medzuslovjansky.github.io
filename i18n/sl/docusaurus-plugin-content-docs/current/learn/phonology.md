@@ -86,7 +86,7 @@ Pomembno je vedeti naslednje:
 - `ě` `ŕ`: vedno sledi trdemu soglasniku ali `c` (so odveč v primerih, kot sta :isv[jěsti] in :isv[čŕny]), lahko pa se izgovorijo tako, da ga omehčajo
 - `o` `ȯ`: redko sledi mehkemu soglasniku, razen v izposojenih besedah, kot sta :isv[majonez] in :isv[čokolada]
 - Pred `å` je vedno tekočina (`r` ali `l`), sledi pa mu soglasnik
-- geminatni soglasniki se pojavljajo le kot posledica predpone (:isv[od-dati], :isv[v-voz]) ali pripone (:isv[kon-ny], :isv[rus-sky]), v redkih primerih v izposojenih besedah ​​(:isv[motto]).
+- geminatni soglasniki se pojavljajo le kot posledica predpone (:isv[od-dati], :isv[v-voz]) ali pripone (:isv[kon-ny], :isv[rus-sky]), v redkih primerih v izposojenih besedah (:isv[motto]).
 
 ## Morfofonemske spremembe \{#morphophonemic-alternations}
 
@@ -156,7 +156,7 @@ Razlike med omehčanimi, pataliziranimi in jotovanimi soglasniki so prikazane v 
 
 ### `O` > `E` \{#o--e}
 
-Stara slovanščina je včasih imela posebno nestrpnost do `o` za ​​mehkim soglasnikom, in kadar koli se je takšno zaporedje pojavilo zaradi končnice ali pripone, se je `o` spremenilo v `e`.
+Stara slovanščina je včasih imela posebno nestrpnost do `o` za mehkim soglasnikom, in kadar koli se je takšno zaporedje pojavilo zaradi končnice ali pripone, se je `o` spremenilo v `e`.
 Ta razvoj je pustil sledi v vseh slovanskih jezikih, čeprav se ti danes razlikujejo glede na stopnjo, v kateri se še uporablja.
 Na primer, v ruščini so zaporedja mehkih soglasnikov + `o` redkost, medtem ko ima poljščina le nekaj leksikaliziranih ostankov pravila (npr. :pl[królewski] „kraljevski”, ampak: :pl[królowa] „kraljica”).
 
@@ -195,7 +195,7 @@ Bežna `o` in `e` (v etimološki abecedi označena s piko: `ȯ` in `ė`) se poja
 
 - v imenovalniku (in pri neživih samostalnikih tožilniku) ednini samostalnikov moškega rodu, zlasti tistih, ki se končajo na `-ec` in `-ok`, pa tudi nekaterih drugih samostalnikov:
   :abbr[nom.sg.] :isv[ot**ė**c] „oče” > :abbr[gen.sg.] :isv[otca]
-  :abbr[nom.sg.] :isv[pěs**ȯ**k] „pesek” > ​​:abbr[gen.sg.] :isv[pěska]
+  :abbr[nom.sg.] :isv[pěs**ȯ**k] „pesek” > :abbr[gen.sg.] :isv[pěska]
   :abbr[nom.sg.] :isv[p**ė**s] „pes” > :abbr[gen.sg.] :isv[psa]
   :abbr[nom.sg.] :isv[s**ȯ**n] „sanje” > :abbr[gen.sg.] :isv[sna]
   :abbr[nom.sg.] :isv[kr**ȯ**v] „kri” > :abbr[gen.sg.] :isv[krvi]

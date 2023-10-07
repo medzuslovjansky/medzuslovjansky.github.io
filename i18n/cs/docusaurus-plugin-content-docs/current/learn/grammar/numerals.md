@@ -71,7 +71,7 @@ Kromě výše uvedených kvantitativních čísel existuje také kategorie takzv
 
 ## Pořadová čísla \{#ordinal-numbers}
 
-Řadové číslice, zhruba řečeno, odkazují na místo položky v řadě. Z hlediska gramatiky jsou tato slova přídavná jména a stejně jako běžná přídavná jména se shodují s podstatným jménem, ​​které modifikují v rodu, pádu a čísle. Všechny řadové číslovky se skloňují jako přídavná jména s tvrdým kmenem (jako :isv[dobry]), kromě `trětji`, které následuje po měkkém skloňování (jako _`svěži`_).
+Řadové číslice, zhruba řečeno, odkazují na místo položky v řadě. Z hlediska gramatiky jsou tato slova přídavná jména a stejně jako běžná přídavná jména se shodují s podstatným jménem, které modifikují v rodu, pádu a čísle. Všechny řadové číslovky se skloňují jako přídavná jména s tvrdým kmenem (jako :isv[dobry]), kromě `trětji`, které následuje po měkkém skloňování (jako _`svěži`_).
 
 Pořadové číslovky 1-4 jsou: `prvy` „první“, `drugy` nebo `vtory` „druhý“, `trětji` „třetí“ a `četvrty` „čtvrtý“.
 

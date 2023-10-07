@@ -15,19 +15,19 @@ There are two types of questions:
 
 - Yes-no questions can be made in three different ways:
   - either it differs from a normal declarative sentence only by intonation:
-    – :isv[Otec kupil knigu?] „Has father bought a book?”
+    - :isv[Otec kupil knigu?] „Has father bought a book?”
   - or this sentence is preceded by the particle :isv[či]:
-    – :isv[Či otec kupil knigu?]
+    - :isv[Či otec kupil knigu?]
   - or it is marked by the question particle :isv[li] placed right after the focus point of the question, usually the verb:
-    – :isv[Kupil li otec knigu?]
+    - :isv[Kupil li otec knigu?]
 - Other questions start with an interrogative pronoun or adverb, placed at the beginning of the sentence:
-  – :isv[Koju knigu kupil otec?] „Which book has father bought?”
-  – :isv[Gde otec kupil tu knigu?] „Where did father buy that book?”
+  - :isv[Koju knigu kupil otec?] „Which book has father bought?”
+  - :isv[Gde otec kupil tu knigu?] „Where did father buy that book?”
   In this type of sentences, the meaning is usually made clear by the case that's been used:
-  – :isv[Koja žena ljubi togo muža?] „Which woman loves that man?” (woman = subject, man = object)
-  – :isv[Koju ženu ljubi toj muž?] „Which woman does that man love?” (man = subject, woman = object)
+  - :isv[Koja žena ljubi togo muža?] „Which woman loves that man?” (woman = subject, man = object)
+  - :isv[Koju ženu ljubi toj muž?] „Which woman does that man love?” (man = subject, woman = object)
 - If necessary, it is possible to use passive sentences that are always clear:
-  – :isv[Koja žena jest ljubjena od togo muža?] „Which woman is loved by that man?”
+  - :isv[Koja žena jest ljubjena od togo muža?] „Which woman is loved by that man?”
 
 Final clauses are translated by means of :isv[že] or :isv[da] followed by the conditional:
 

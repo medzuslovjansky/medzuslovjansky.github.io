@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, kasnije `Sloviansk` – nema podataka.
 45. [Sojaz][18] (2005), Hellerickov rani pokušaj slovenskog međujezika.
     Uzorak: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​[Panslavensk][19] (2005), "Vječna vatra".
+46. [Panslavensk][19] (2005), "Vječna vatra".
     Uzorak: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), predstavljen 2005. od strane Sergeja Lazareva (poznatog kao "Vertaler").
 48. [slovački jezik][21], koju je 2005. predstavila izvjesna Marina.

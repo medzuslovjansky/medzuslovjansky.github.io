@@ -22,7 +22,7 @@ Opombe:
 1. Za predlogom je pred vsemi zaimki tretje osebe `n-`: **`jego` > `do njego`**; **`jim` > `pri njim`** itd. (zaradi tega se lokativske oblike _`jim`_, _`jej`_ in _`jih`_ nikoli ne pojavijo, saj je pred lokativom vedno predlog)
 2. Če vas zanima, kako so te oblike povezane s slovanskimi jeziki, si lahko ogledate njihovo primerjavo [tukaj][1].
 
-Nekaj ​​opomb glede uporabe:
+Nekaj opomb glede uporabe:
 
 - Ker niso vse glagolske končnice enako očitne vsem govorcem slovanskih jezikov, pro-drop (tj. izpuščanje osebnih zaimkov, ko so predmet stavka) ni priporočljivo. Bolje je reči _„`ja čitaju`”_ namesto samo _„`čitaju`”_, čeprav slednje vsekakor ni napačno.
 - Predlogi lahko urejajo kateri koli primer, razen nominativa, odvisno od njihove rabe v slovanskih jezikih.
@@ -48,8 +48,8 @@ V tretji osebi je najpogostejša uporaba rodilnika ustreznega osebnega zaimka: `
 
 Kadarkoli je imetnik tudi osebek v stavku, se uporabi povratnik `svoj`, ne glede na to, ali je subjekt v tretji osebi ali ne: _`Ja myju svoje avto`_ „perem avto”. Upoštevajte razliko v pomenu, ko se povratni zaimek nanaša na predmet v tretji osebi:
 
-:isv[Pjotr dal Ivanu svoju knigu] "Pjotr ​​​​je dal Ivanu svojo \[= Pjotrovo] knjigo"
-:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr ​​​​je dal Ivanu svojo \[= Ivanovo] knjigo".
+:isv[Pjotr dal Ivanu svoju knigu] "Pjotr je dal Ivanu svojo \[= Pjotrovo] knjigo"
+:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr je dal Ivanu svojo \[= Ivanovo] knjigo".
 
 Obstajajo tudi vprašalni, določni in nedoločni svojilni zaimki: `čij` „čigav”, `ničij` „nikogar”, `něčij` „nečiji”, itd. Sklanjajo se kot `moj`. Za več obrazcev glejte razdelek o [korelativih][2].
 
@@ -114,7 +114,7 @@ Sklicevanje na drug element skupine (`in-`): `inokto` „nekdo drug”, `inočto
 
 ## Zaimenski prislovi \{#pronominal-adverbs}
 
-Eden najboljših Zamenhofovih izumov je bila njegova **tabela korelativov**, skupina medsebojno povezanih zaimkov, pridevnikov in prislovov. Tam so besede ohranjene čim bolj redne, a ne na račun prepoznavnosti za govorce slovanskih jezikov. Nekaj ​​praktično nemogočih besed je bilo izpuščenih, nekaj drugih običajnih oblik pa je bilo nadomeščenih z oblikami, ki so običajne v naravnih jezikih. Nepravilne oblike (tj. ne izgledajo tako, kot bi morale glede na tabelo) so prikazane v _**ležečem tisku**_.
+Eden najboljših Zamenhofovih izumov je bila njegova **tabela korelativov**, skupina medsebojno povezanih zaimkov, pridevnikov in prislovov. Tam so besede ohranjene čim bolj redne, a ne na račun prepoznavnosti za govorce slovanskih jezikov. Nekaj praktično nemogočih besed je bilo izpuščenih, nekaj drugih običajnih oblik pa je bilo nadomeščenih z oblikami, ki so običajne v naravnih jezikih. Nepravilne oblike (tj. ne izgledajo tako, kot bi morale glede na tabelo) so prikazane v _**ležečem tisku**_.
 
 :::component{name=MDPronouns6}
 :::

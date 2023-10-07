@@ -26,7 +26,7 @@ Pripone, ki se začnejo z `-o-`, se spremenijo v `-e-`, ko sledijo mehkemu sogla
   - besede v moškem rodu na trdi soglasnik imajo pripono `-ok`:\
     `pes` „pes” > `pesok` (gen. `peska`) „kužek”
   - moške besede na mehak soglasnik imajo pripono `-ik` ali `-ek`:\
-    `muž` „človek” > ​​`mužik` „mali človek”
+    `muž` „človek” > `mužik` „mali človek”
   - besede v ženskem rodu dodajo pripono `-ka` k deblu besede:\
     `kniga` „knjiga” > `knižka` „knjižica”
   - besede srednjega rodu dodajo pripono `-ko` deblu besede:\

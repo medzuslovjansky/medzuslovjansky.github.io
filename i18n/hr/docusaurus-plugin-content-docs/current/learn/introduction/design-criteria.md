@@ -34,7 +34,7 @@ U idealnom slučaju, oba prototipa bi trebala imati sljedeće karakteristike:
 - moraju biti intuitivno razumljivi svakome tko zna čitati dotičnu abecedu
 - moraju biti logični, dosljedni, nedvosmisleni i etimološki ispravni
 - moraju dati pristojnu aproksimaciju pravog izgovora
-- ako je moguće, jedan fonem (glas) = ​​jedan znak
+- ako je moguće, jedan fonem (glas) = jedan znak
 - trebaju biti kompatibilni (jednostavna transliteracija, po mogućnosti jedna na bazi 1:1)
 - ne smiju sadržavati neprirodne elemente
 - ne smiju biti ružni ili na bilo koji drugi način uvredljivi (kao na primjer `йа` ili `łi`), ali ne smiju biti ograničeni na specifičnosti bilo kojeg nacionalnog jezika

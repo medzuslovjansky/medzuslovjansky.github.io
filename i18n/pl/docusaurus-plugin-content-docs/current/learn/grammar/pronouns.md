@@ -48,10 +48,10 @@ W trzeciej osobie najczęściej stosuje się dopełniacz odpowiedniego zaimka os
 
 Ilekroć podmiotem zdania jest także posiadacz, stosuje się zwrot `svoj`, niezależnie od tego, czy podmiot ten jest w trzeciej osobie, czy nie: _`Ja myju svoje avto`_ „Myję samochód”. Zwróć uwagę na różnicę w znaczeniu, gdy zaimek zwrotny odnosi się do podmiotu w trzeciej osobie:
 
-:isv[Pjotr dal Ivanu svoju knigu] „Pjotr ​​dał Ivanowi swoją \[= książkę Pjotra]”
-:isv[Pjotr dal Ivanu jegovu knigu] „Pjotr ​​dał Ivanowi swoją \[=Ivan's] książkę”.
+:isv[Pjotr dal Ivanu svoju knigu] „Pjotr dał Ivanowi swoją \[= książkę Pjotra]”
+:isv[Pjotr dal Ivanu jegovu knigu] „Pjotr dał Ivanowi swoją \[=Ivan's] książkę”.
 
-Istnieją również zaimki dzierżawcze pytające, określone i nieokreślone: ​​`čij` „czyj”, `ničij` „nikt”, `něčij` „ktoś” itp. Odmieniają się jak `moj`. Aby uzyskać więcej formularzy, zobacz sekcję o [korelacjach][2].
+Istnieją również zaimki dzierżawcze pytające, określone i nieokreślone: `čij` „czyj”, `ničij` „nikt”, `něčij` „ktoś” itp. Odmieniają się jak `moj`. Aby uzyskać więcej formularzy, zobacz sekcję o [korelacjach][2].
 
 Podobnie jak przymiotniki, zaimki dzierżawcze odpowiadają rzeczownikowi, który modyfikują pod względem rodzaju, liczby i przypadku. Z wyjątkiem mianownika rodzaju męskiego i biernika liczby pojedynczej, ich deklinacja jest identyczna jak przymiotników (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] i _`čij`_ jak :isv[svěži]; :isv[jegov], :isv[jejin] i :isv[jihny] jak _`dobry`_):
 

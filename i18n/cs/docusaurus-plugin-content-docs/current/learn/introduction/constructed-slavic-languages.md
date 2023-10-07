@@ -38,7 +38,7 @@ sidebar_position: 4
 
 19. `Neuslawisch` (1907), od Čecha Ignáce Hoška (1852-1919), uveřejněné v jeho "Grammatik der Neuslavischen Sprache". Účelem tohoto jazyka bylo vytvořit jednotný slovanský jazyk pro habsburskou monarchii a vnést pořádek do jazykového chaosu v tomto státě.
     Ukázka: _":notr[Praga, glavné mesto královstva českého, leži skoro posred české zeme na oboch bregoch dolňé Veltvai, ve krajine krásno pagorkatej, částečno niše nežli dve sta metrov nad gladinou morskou.]"_
-20. `Všeslovanský jazyk` (1909), další projekt Ignáce Hoška, ​​vydaný v sešitu "`Slovanský tlumočník`". Na rozdíl od jeho Neuslawisch, který je zaměřen pouze na Slovany v rámci habsburské monarchie, tento málo známý projekt představuje jazyk pro _všechny_ Slovany.
+20. `Všeslovanský jazyk` (1909), další projekt Ignáce Hoška, vydaný v sešitu "`Slovanský tlumočník`". Na rozdíl od jeho Neuslawisch, který je zaměřen pouze na Slovany v rámci habsburské monarchie, tento málo známý projekt představuje jazyk pro _všechny_ Slovany.
 21. `Slavina` (Slava-Esperanto, Slovina), vydal v roce 1912 Josef Konečný ve své brožuře "`Mluvnička slovanského esperanta »Slavina«`". Na rozdíl od názvu napovídá, že tento projekt nemá nic společného s esperantem, ale vychází převážně ze západoslovanštiny, zejména češtiny.
     Ukázka: _"`Hej, Slované, naši lepo slovanó rěč máme, dokud naše věrne serce pro náš národ dame.`"_
 22. `Slovanština` (1912), český Edmund Kolkop.
@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, později `Sloviansk` – žádná data.
 45. [Sojaz][18] (2005), Hellerickův raný pokus o slovanský mezijazyk.
     Ukázka: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​​​[Panslavensk][19] (2005), od "Eternal Flame".
+46. [Panslavensk][19] (2005), od "Eternal Flame".
     Ukázka: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), představený v roce 2005 Sergejem Lazarevem (také znám jako "Vertaler").
 48. [Český jezík][21], presented in 2005 by a certain Marina.

@@ -116,7 +116,7 @@ origin: http://steen.free.fr/interslavic/prepositions.html
 :isv[od strany] (_+ `gen`._) – од стране\
 :isv[po odnošenju k] (_+ `dat`._) – у вези, с обзиром на\
 :isv[pod vodstvom] (_+ `gen`._) – под руководством\
-:isv[s izključenjem] (_+ `gen`._) – осим, ​​са изузетком\
+:isv[s izključenjem] (_+ `gen`._) – осим, са изузетком\
 :isv[s obzirom na] (_+ `acc`._) – с обзиром на\
 :isv[s pomočju] (_+ `gen`._) – уз помоћ\
 :isv[sgodno s] (_+ `inst`._) – одговара\

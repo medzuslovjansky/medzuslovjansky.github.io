@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, по-късно `Sloviansk` – няма данни.
 45. [Sojaz][18] (2005), ранен опит за славянски междуезик от Hellerick.
     Пример: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​​​[Панславенск][19] (2005), от "Вечен огън".
+46. [Панславенск][19] (2005), от "Вечен огън".
     Пример: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), представен през 2005 г. от Сергей Лазарев (a.k.a. "Vertaler").
 48. [Словашки език][21], представен през 2005 г. от известна Марина.

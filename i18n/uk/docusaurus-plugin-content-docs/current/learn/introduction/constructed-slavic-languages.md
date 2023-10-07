@@ -78,10 +78,10 @@ sidebar_position: 4
 44. `Rusoslovio`, пізніше `Sloviansk` – немає даних.
 45. [Sojaz][18] (2005), рання спроба слов'янської міжмови Геллеріком.
     Зразок: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​​​[Панславенськ][19] (2005), автор «Вічний вогонь».
+46. [Панславенськ][19] (2005), автор «Вічний вогонь».
     Зразок: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), представлений у 2005 році Сергієм Лазарєвим (він же «Верталер»).
-48. [Словацька мова][21], представлена ​​в 2005 році якоюсь Мариною.
+48. [Словацька мова][21], представлена в 2005 році якоюсь Мариною.
 49. [Sloviensk][22], вперше представлений у 2005 році під назвою [Slavido][23] і пізніше перейменований на `Sloveno`, [S-lingva][24] (2007), `Vse slovien rec'` і зрештою на `Sloviensk` ( 2008), є спробою словацького автора, який працює під псевдонімами `"I.S."`, `"Mr. Slavido"`, `"Ioan"`  і `"Ioannes"`, створити дуже спрощену та схематичну слов’янську мову.
     Зразок: _":notr[Nas' otec, kor es vo nebo, svat bij tvoe nome. Pridij kralenie tvoe, bij vola tvoe, kao vo nebo, tak i na Zem. H'leb nas' kienodensk daj nam denes a odpustij nam nas' vini.]"_
 50. [Slovianski][25], започаткований у 2006 році Ондржеєм Речником і Габріелем Свободою. До 2009 року `Slovianski` існував у двох формах: піджинська варіація ([`Slovianski-P`][26]), ініційована Ондржеєм Речником і пізніше розроблена Габріелем Свободою, і натуралістична версія ([`Slovianski-N`][27]) , започаткований Яном ван Стінбергеном і пізніше розвинений Ігорем Поляковим. Старіші варіанти цієї мови включають: **Slovjanski-S**, [GS-Slovianski][28] і [Slovjanskaj][29]. У 2010-2011 роках Слов'янський і **Словіоскі** (див. нижче) об'єдналися в `Medžuslovjanski/Interslavic`.

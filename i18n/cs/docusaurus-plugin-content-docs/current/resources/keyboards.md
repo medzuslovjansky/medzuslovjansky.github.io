@@ -30,11 +30,11 @@ Pro **mezislovanskou latinku** abecedu:
 - čeština (standardní, částečně etymologická)
 - chorvatština (vyňata)
 - Srbsko (osvobozeno)
-– slovinština (vyňata)
+- slovinština (vyňata)
 
 Pro **mezislovanskou azbuku**:
 
-– srbština (vyňata, bez „Ы“)
+- srbština (vyňata, bez „Ы“)
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 

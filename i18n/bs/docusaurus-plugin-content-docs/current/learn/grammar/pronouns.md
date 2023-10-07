@@ -48,8 +48,8 @@ U trećem licu najčešće se koristi genitiv odgovarajuće lične zamjenice: `j
 
 Kad god je i posjednik subjekt rečenice, koristi se refleksiv `svoj`, bez obzira da li je ovaj subjekt u trećem licu ili ne: _`Ja myju svoje avto`_ „Perem auto”. Obratite pažnju na razliku u značenju kada se povratna zamjenica odnosi na subjekt u trećem licu:
 
-:isv[Pjotr dal Ivanu svoju knigu] "Pjotr ​​je dao Ivanu svoju \[= Pjotrovu] knjigu"
-:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr ​​je dao Ivanu svoju \[= Ivanovu] knjigu".
+:isv[Pjotr dal Ivanu svoju knigu] "Pjotr je dao Ivanu svoju \[= Pjotrovu] knjigu"
+:isv[Pjotr dal Ivanu jegovu knigu] "Pjotr je dao Ivanu svoju \[= Ivanovu] knjigu".
 
 Postoje i upitne, odre ene i neodređene prisvojne zamjenice: `čij` „čiji”, `ničij` „ničiji”, `něčij` „nečiji” itd. One se sklanjaju kao `moj`. Za više obrazaca, pogledajte odjeljak o [korelativima][2].
 

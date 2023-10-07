@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Besede temeljijo na živih slovanskih jezikih in kadar se slednji med seboj ne skladajo, v bistvu sledimo večini z uporabo [glasovalnega sistema][1]. Da bi se izognili nedoslednostim, moramo zagotoviti, da besede, ki uporabljajo isti koren, vedno uporabljajo v isti obliki. Ker vsi slovanski jeziki svoje oblike črpajo iz skupne slovanščine na dokaj predvidljiv način, si od njih nikoli ne izposojamo neposredno. Namesto tega sledimo modelu preproste izpeljave iz skupne slovanščine. Zaradi tega je jezik lažje prepoznaven in lažji za uporabo za vse. Samo z branjem nekaj besedil se človek samodejno hitro nauči, kako je določen glas v njegovem jeziku predstavljen v medslovanščini.
 
-Naslednja tabela prikazuje, kako se v medslovanščini obravnavajo različni skupnoslovanski glasovi in ​​zaporedja. Upoštevajte, da je v nekaterih primerih mogoče razlikovati med severno in južnoslovansko različico (glejte [aromatizacija][2]).
+Naslednja tabela prikazuje, kako se v medslovanščini obravnavajo različni skupnoslovanski glasovi in zaporedja. Upoštevajte, da je v nekaterih primerih mogoče razlikovati med severno in južnoslovansko različico (glejte [aromatizacija][2]).
 
 :::component{name=MDDerivation}
 :::

@@ -78,7 +78,7 @@ sidebar_position: 4
 44. `Rusoslovio`, касније `Sloviansk` – нема података.
 45. [Сојаз][18] (2005), Хелериков рани покушај словенског међујезика.
     Пример: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
-46. ​​[Панславенск][19] (2005), „Вечни пламен“.
+46. [Панславенск][19] (2005), „Вечни пламен“.
     Пример: _`Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве`_.
 47. [Občoslavenski jezik][20] (Обчославенски језик), presented in 2005 by Sergei Lazarev (a.k.a. "Vertaler").
 48. [словачки језик][21], коју је 2005. представила извесна Марина.

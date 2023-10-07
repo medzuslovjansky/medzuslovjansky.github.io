@@ -4,7 +4,7 @@ custom_edit_url: /501
 
 # Zdroje
 
-Vitajte v našom starostlivo zostavenom sprievodcovi venovanom svetu medzislovanského jazyka. Máme množstvo zdrojov, ktoré vám uľahčia cestu za učením, od online komunít a vzdelávacieho obsahu až po softvérové ​​nástroje a literatúru. Pustime sa spolu do tohto strhujúceho lingvistického dobrodružstva.
+Vitajte v našom starostlivo zostavenom sprievodcovi venovanom svetu medzislovanského jazyka. Máme množstvo zdrojov, ktoré vám uľahčia cestu za učením, od online komunít a vzdelávacieho obsahu až po softvérové nástroje a literatúru. Pustime sa spolu do tohto strhujúceho lingvistického dobrodružstva.
 
 ## Komunitné a sociálne siete
 
@@ -67,7 +67,7 @@ Príručku Vojtecha Merunku nájdete [tu][17] a [tu][15].
 
 ## Softvér
 
-Rôzne softvérové ​​nástroje, ktoré vám pomôžu v procese učenia:
+Rôzne softvérové nástroje, ktoré vám pomôžu v procese učenia:
 
 ### Klávesnice
 

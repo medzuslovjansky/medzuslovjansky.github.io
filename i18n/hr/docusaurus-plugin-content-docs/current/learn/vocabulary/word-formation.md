@@ -26,7 +26,7 @@ Sufiksi koji počinju s `-o-` mijenjaju se u `-e-` kada slijede meki suglasnik:
   - riječi muškog roda na tvrdi suglasnik imaju nastavak `-ok`:\
     `pes` „pas” > `pesok` (gen. `peska`) „pas”
   - riječi muškog roda na meki suglasnik imaju nastavak `-ik` ili `-ek`:\
-    `muž` „čovjek” > ​​`mužik` „mali čovjek”
+    `muž` „čovjek” > `mužik` „mali čovjek”
   - riječi ženskog roda dodaju sufiks `-ka` na korijen riječi:\
     `kniga` „knjiga” > `knižka` „knjižica”
   - riječi srednjeg roda dodaju sufiks `-ko` na korijen riječi:\

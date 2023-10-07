@@ -192,7 +192,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   - :isv[my bude prositi] „we will ask”
   - :isv[oni bude nesti] „they will carry”
 
-- The _conditional_ is formed by using the particle `by` with the past tense:
+- The _conditional_ is formed by using the particle :isv[by] with the past tense:
   - :isv[ja by dělal] „I would do/I would have done”
 
 - The _imperative_ has the ending `-jte` after a vowel or `-ite` after a consonant:
