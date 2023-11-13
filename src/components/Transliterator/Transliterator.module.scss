@@ -1,0 +1,43 @@
+.transliterator {
+  display: flex;
+  flex-direction: column;
+
+  &__select {
+    background-color: var(--ifm-background-color);
+    border-radius: var(--ifm-code-border-radius);
+    font: var(--fun-safe-sans);
+    padding: 0.5rem;
+    margin: 0 0 1rem 0;
+  }
+
+  &__label {
+    margin-bottom: var(--ifm-leading);
+    &::after {
+      content: ':';
+    }
+  }
+
+  &__input {
+    padding: var(--ifm-pre-padding);
+  }
+
+  &__input, &__output pre {
+    background-color: var(--ifm-background-color);
+    font: 0.8rem/1.4 var(--fun-safe-sans);
+    border-radius: inherit;
+  }
+
+  &__input {
+    margin-bottom: var(--ifm-leading);
+    border-radius: var(--ifm-code-border-radius);
+    box-shadow: var(--ifm-global-shadow-lw);
+    border: none;
+  }
+
+  &__output {
+    font: 0.8rem/1.4 var(--fun-safe-sans);
+    code {
+      white-space: initial;
+    }
+  }
+}

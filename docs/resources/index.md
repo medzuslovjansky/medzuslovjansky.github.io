@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Resources
 
 Welcome to our carefully curated guide, dedicated to the world of the Interslavic language. We have an array of resources to facilitate your learning journey, from online communities and educational content to software tools and literature. Let's embark on this captivating linguistic adventure together.

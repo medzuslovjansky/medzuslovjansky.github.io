@@ -5,6 +5,7 @@ import {
   CustomBeforeSection,
   CustomAfterSection,
   IPA,
+  Transliterator,
 } from "@site/src/components";
 import MDPronunciation1 from "@site/src/markdown/pronunciation-of-the-alphabet";
 import MDPronunciation2 from "@site/src/markdown/etymological-alphabet-extensions";
@@ -125,4 +126,5 @@ export default {
   MDOrthography2,
   MDOrthography3,
   MDOrthography4,
+  Transliterator,
 };
