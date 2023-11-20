@@ -13,7 +13,7 @@ Sposób wymawiania języków etnicznych zależy od ich rodzimych użytkowników.
 
 Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie słowiańskim. W poniższej tabeli wyjątki podano w trzeciej kolumnie:
 
-:::komponent{name="MDPronunciation1"}
+:::component{name="MDPronunciation1"}
 - jak `a` w :en[f**a**ther]
 - jak `b` w :en[**b**ook]
 - jak `ts` w :en[bi**ts**]
@@ -66,7 +66,7 @@ Oprócz standardowego alfabetu podanego powyżej, międzysłowiański alfabet ł
 
 Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykłym pisanym języku intersłowiańskim, tj. są pisane, ale bez znaków diakrytycznych (z wyjątkiem `ć` i `đ`, które są pisane odpowiednio `č` i `dž`) i oczywiście można je również wymawiać jako taki. Jednak można również spróbować „przeciętnej” wymowy, która bardziej odpowiada słowiańskiej większości. Na przykład w przypadku wspomnianego :isv[kråva] oznaczałoby to dźwięk gdzieś pomiędzy `a` a `o` (w IPA: :ipa[ɒ]).
 
-:::komponent{name="MDPronunciation2"}
+:::component{name="MDPronunciation2"}
 - jak `o` w :en[m**o**ther]
 - jak `ch` w :en[**ch**eap]
 - jak `d` w :en[**d**uke]

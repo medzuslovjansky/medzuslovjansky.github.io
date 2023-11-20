@@ -27,7 +27,7 @@ Postoji još jedna razlika između obrazaca tvrde i meke deklinacije. Meke stabl
 
 Osnovni završeci prikazani su u tablicama ispod. Oblici u zagradama koriste se nakon mekih korijena. Nulti završeci su označeni sa `-Ø`:
 
-:::komponenta{name="MDNouns1"}
+:::component{name="MDNouns1"}
 :::
 
 U rječniku je naveden samo rod riječi. Zbog toga su primjeri u nastavku grupirani po rodu, a ne po deklinaciji.
@@ -42,7 +42,7 @@ Gotovo sve imenice muškog roda završavaju na suglasnik. U osnovi, postoji samo
 
 Četiri primjera: :isv[brat] „brat”, :isv[dom] „kuća”, :isv[muž] „čovjek”, :isv[kraj] „zemlja”.
 
-:::komponenta{name="MDNouns2"}
+:::component{name="MDNouns2"}
 :::
 
 Bilješke:
@@ -74,7 +74,7 @@ Budući da obično ne razlikujemo `ę` i `e`, korisno je zapamtiti da je imenica
 
 U ostalom, deklinacija je uvijek pravilna. Tri primjera: :isv[slovo] „riječ”, :isv[morje] „more”, :isv[ime] „ime”.
 
-:::komponenta{name="MDNouns3"}
+:::component{name="MDNouns3"}
 :::
 
 ## Deklinacija imenica ženskog roda \{#feminine-declension}
@@ -91,7 +91,7 @@ Druga skupina imenica ženskog roda su one koje završavaju na suglasnik. Oni tv
 
 Primjeri: :isv[žena] „žena”, :isv[zemja] „zemlja”, :isv[kost] „kost”.
 
-:::komponenta{name="MDNouns4"}
+:::component{name="MDNouns4"}
 :::
 
 ## Atematska deklinacija \{#athematic-declension}
@@ -107,7 +107,7 @@ Ova vrsta deklinacije uključuje imenice sva tri roda, ali su među njima najbro
 - imenice ženskog roda na `-ov`, npr. :isv[crkov] „crkva”, :isv[mrkov] „mrkva”
 - imenice ženskog roda na `-i`/`-er`-, koje sadrže samo dvije imenice: :isv[mati] „majka” i :isv[doči] „kći”
 
-:::komponenta{name="MDNouns5"}
+:::component{name="MDNouns5"}
 :::
 
 Cjelokupna atematska deklinacija može se izbjeći tako da se te riječi skloni prema pravilnim deklinacijama, kao što to čini većina drugih slavenskih jezika. U tom slučaju:
