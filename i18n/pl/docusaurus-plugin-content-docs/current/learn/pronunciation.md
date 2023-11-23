@@ -24,7 +24,7 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 - jak `je` w :pl[**je**ść]
 - jak `f` w :pl[**f**ortepian]
 - jak `g` w :pl[**g**ra]
-- jak `ch lub h` w :pl[**ch**usta]
+- jak `ch` lub `h` w :pl[**ch**usta]
 - jak `i` w :pl[W**i**ktoria]
 - jak `y` w :pl[m**y**sz]
 - jak `k` w :pl[krąg]
