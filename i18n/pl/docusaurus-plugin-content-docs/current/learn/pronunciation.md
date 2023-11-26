@@ -27,7 +27,7 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 - jak `ch` lub `h` w :pl[**ch**usta]
 - jak `i` w :pl[W**i**ktoria]
 - jak `y` w :pl[m**y**sz]
-- jak `k` w :pl[krąg]
+- jak `k` w :pl[**k**rąg]
 - jako `l` w :pl[luksus]
 - jak `li` w :pl[mi**li**oner]
 - jak `m` w : pl[**m**aks]
