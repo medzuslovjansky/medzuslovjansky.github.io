@@ -33,13 +33,13 @@ Jak wspomniano powyżej, zarówno alfabet łaciński, jak i cyrylica zawierają 
 
 ### łacina `Č` `Š` `Ž` \{#latin-č-š-ž}
 
-Te litery są bardzo ważne w języku słowiańskim. Pominięcie haczyka (jak to często robią native speakerzy w języku SMS) ma negatywny wpływ na zrozumiałość języka intersłowiańskiego, ponieważ **`c` `s` `z`** to zupełnie inne fonemy.
+Te litery są bardzo ważne w języku Międzysłowiańskim. Pominięcie haczyka (jak to często robią native speakerzy w języku SMS) ma negatywny wpływ na zrozumiałość języka intersłowiańskiego, ponieważ **`c` `s` `z`** to zupełnie inne fonemy.
 
-Ponieważ Polacy nie mają liter na klawiaturze, sugerowaną dla nich alternatywą jest `cz sz ż`. Ci, którzy nie mają `ż` na klawiaturze, mogą zamiast tego użyć **`cz` `sz` `zs`**. Alternatywnym rozwiązaniem jest **`cx` `sx` `zx`**, którego zaletą jest spójność i jednoznaczność, ale wadą jest nienaturalność (i w oczach wielu osób brzydka). Lepiej unikać innych opcji. Na przykład angielskie **`ch` `sh` `zh`** ma tę wadę, że Zachodni Słowianie odczytaliby `ch` jako `h` :ipa[x], podczas gdy rozwiązania obejmujące nie Znaki -literowe (takie jak `c^`, `c*`, `c'`) sprawiają, że wygląda to jak kod komputerowy. Wreszcie, nie używaj znaków takich jak `q` lub `w` (tak zwane _kodowanie Volapük_) jako zamienników, ponieważ spowodowałoby to tylko zamieszanie.
+Ponieważ Polacy nie mają tych liter na klawiaturze, sugerowaną dla nich alternatywą jest `cz sz ż`. Ci, którzy nie mają `ż` na klawiaturze, mogą zamiast tego użyć **`cz` `sz` `zs`**. Alternatywnym rozwiązaniem jest **`cx` `sx` `zx`**, którego zaletą jest spójność i jednoznaczność, ale wadą jest nienaturalność (i w oczach wielu osób brzydota). Lepiej unikać innych opcji. Na przykład angielskie **`ch` `sh` `zh`** ma tę wadę, że Zachodni Słowianie odczytaliby `ch` jako `h` :ipa[x], podczas gdy rozwiązania obejmujące znaki nie-literowe (takie jak `c^`, `c*`, `c'`) sprawiają, że wygląda to jak kod komputerowy. Wreszcie, nie używaj znaków takich jak `q` lub `w` (tak zwane _kodowanie Volapük_) jako zamienników, ponieważ spowodowałoby to tylko zamieszanie.
 
 ### łacina `Ě` i cyrylica `Є` \{#latin-ě-and-cyrillic-є}
 
-Znaczenie `ě` (tzw. _yat_) polega na jego wymowie. Podczas gdy w większości języków `e` nie zmiękcza poprzedzającej go spółgłoski, `ě` zmiękcza ją we wszystkich językach z wyjątkiem słoweńskiego, serbskiego i macedońskiego, co dotyczy 96% użytkowników. Dlatego logiczne jest, że to dość znaczne rozróżnienie występuje również w języku międzysłowiańskim. W alfabecie łacińskim tradycyjną reprezentacją tego fonemu jest `ě`, co również stanowi dobry kompromis między na przykład serbskim `e` a chorwackim **`ije`/`je`**. Wadą `ě` jest to, że tylko czeski i łużycki mają go w swoich alfabetach.
+Znaczenie `ě` (tzw. _yat_) polega na jego wymowie. Podczas gdy w większości języków `e` nie zmiękcza poprzedzającej go spółgłoski, `ě` zmiękcza ją we wszystkich językach z wyjątkiem słoweńskiego, serbskiego i macedońskiego, czyli 96% użytkowników. Dlatego logiczne jest, że to dość znaczne rozróżnienie występuje również w języku międzysłowiańskim. W alfabecie łacińskim tradycyjną reprezentacją tego fonemu jest `ě`, co również stanowi dobry kompromis między na przykład serbskim `e` a chorwackim **`ije`/`je`**. Wadą `ě` jest to, że tylko czeski i łużycki mają go w swoich alfabetach.
 
 W cyrylicy odpowiednikiem `ě` jest litera `є`, zapożyczona z języka ukraińskiego, gdzie jej wymowa jest podobna. Wybrano go ze względu na wizualne podobieństwo do `е`, a także brak jakiejkolwiek innej dobrej alternatywy w cyrylicy. Teoretycznie archaiczna litera `ѣ` (tradycyjne _yat_) jest historycznie bardziej poprawna, ale ponieważ nie jest ona obecnie używana w żadnym żywym języku słowiańskim (w 1945 r. zniknęła z ostatnich języków w których jeszcze była - z bułgarskiego i rusińskiego) więc niektórzy ludzie mogą rozpoznać `ѣ` ale, użycie tej litery w tekstach międzysłowiańskich poważnie utrudniłoby zrozumiałość.
 
@@ -47,7 +47,7 @@ Dla tych, którzy nie potrafią pisać **`ě` / `є`** i tych, którzy nie wiedz
 
 ### łacina `Y` i cyrylica `Ы` \{#latin-y-and-cyrillic-ы}
 
-List **`y` / `ы`** jest pomocny głównie Rosjanom, Białorusinom i Polakom. W południowosłowiańskim, ukraińskim oraz mówionym czeskim i słowackim połączył się z `i`. Tym, którzy nie wiedzą, kiedy dokonać rozróżnienia, a także tym, którzy komunikują się głównie z odbiorcami południowosłowiańskimi, zaleca się używanie we wszystkich przypadkach **`i` / `и`**.
+Litera **`y` / `ы`** jest pomocny głównie Rosjanom, Białorusinom i Polakom. W południowosłowiańskim, ukraińskim oraz mówionym czeskim i słowackim połączył się z `i`. Tym, którzy nie wiedzą, kiedy dokonać rozróżnienia, a także tym, którzy komunikują się głównie z odbiorcami południowosłowiańskimi, zaleca się używanie we wszystkich przypadkach **`i` / `и`**.
 
 ### Cyrylica `Ј` \{#cyrillic-ј}
 
@@ -79,7 +79,7 @@ Wspomniane litery są jedynie opcjonalnymi rozszerzeniami standardowego alfabetu
 
 Litery `ĺ` i `ń` występują tylko przed spółgłoską. Fonetycznie są one identyczne z `lj` i `nj`, z tą różnicą, że zwykle nie są zapisywane w języku intersłowiańskim.
 
-Należy zauważyć, że międzysłowiański alfabet etymologiczny nie zawiera znaczników długości ani tonów, ani specjalnych liter zapożyczonych z języków niesłowiańskich (takich jak OCS `ѳ` i `ѵ`, używane tylko do słowa greckie lub `ü` dla słów niemieckich lub francuskich).
+Należy zauważyć, że międzysłowiański alfabet etymologiczny nie zawiera znaczników długości ani tonów, ani specjalnych liter zapożyczonych z języków niesłowiańskich (takich jak OCS `ѳ` i `ѵ`, używanych tylko w greckich słowach lub `ü` w słowach niemieckich oraz francuskich).
 
 ### Uzasadnienie \{#rationale}
 
@@ -91,13 +91,13 @@ Ten oparty na etymologii alfabet (wcześniej znany jako :notr[_Naučny medžuslo
 
 - przekazywanie informacji etymologicznych,
 - wspomaganie procesu uczenia się poprzez ułatwianie łączenia wyrazów międzysłowiańskich z ich odpowiednikami w innych językach słowiańskich,
-- podanie bardziej precyzyjnych informacji o idealnej (najbardziej centralnej) wymowie,
+- podanie bardziej precyzyjnych informacji o najlepszej (najbardziej centralnej) wymowie,
 - umożliwienie użytkownikom adaptacji („flaworyzacji”) pisanego i mówionego języka międzysłowiańskiego dla użytkowników poszczególnych języków (zobacz [flaworyzacja][4]),
 - umożliwienie transkrypcji tekstu z dowolnego języka słowiańskiego na ortografię międzysłowiańską.
 
 ### Użycie \{#usage}
 
-Tekst z dużą ilością znaków diakrytycznych może wydawać się odstraszający dla nowicjuszy, których pierwszy kontakt z międzysłowiańskim prawdopodobnie nie jest tak jasny. Dla osób uczących się języka mylącym jest, gdy różni uczestnicy rozmowy używają różnych ortografii. Mogą błędnie sądzić, że te znaki diakrytyczne są obowiązkowe lub że pisany międzysłowiański z tymi rozszerzeniami jest lepszy od międzysłowiańskiego pisanego bez nich. W końcu litery takie jak `ę` i `ų` mogą być pomocne dla Polaków i być może dla Słowian wschodnich, ale zwłaszcza dla Słowian południowych używanie tej ortografii w ogóle nie pomaga: dla nich to jest tylko niepotrzebna komplikacja. Dlatego prosimy o powstrzymanie się od używania tej ortografii w codziennych rozmowach, chyba że używasz jej w określonym celu. W takim przypadku wyjaśnij, dlaczego ich używasz i że te znaki diakrytyczne są jedynie opcjonalnymi dodatkami.
+Tekst z dużą ilością znaków diakrytycznych może wydawać się odstraszający dla nowicjuszy, których pierwszy kontakt z międzysłowiańskim prawdopodobnie nie jest od razu prosty. Dla osób uczących się języka mylącym jest, gdy różni uczestnicy rozmowy używają różnych ortografii. Mogą błędnie sądzić, że te znaki diakrytyczne są obowiązkowe lub że pisany międzysłowiański z tymi rozszerzeniami jest lepszy od międzysłowiańskiego pisanego bez nich. W końcu litery takie jak `ę` i `ų` mogą być pomocne dla Polaków i być może dla Słowian wschodnich, ale zwłaszcza dla Słowian południowych używanie tej ortografii w ogóle nie pomaga: dla nich to jest tylko niepotrzebna komplikacja. Dlatego prosimy o powstrzymanie się od używania tej ortografii w codziennych rozmowach, chyba że używasz jej w określonym celu. W takim przypadku wyjaśnij, dlaczego ich używasz i że te znaki diakrytyczne są jedynie opcjonalnymi dodatkami.
 
 Ci, którzy i tak używają tych rozszerzonych znaków, nie są w żaden sposób zobowiązani do korzystania z całego zestawu: użytkownicy mogą wybrać z niego, co im się podoba, i pominąć to, czego nie chcą. Są tylko dwa ograniczenia. Po pierwsze, jeśli zdecydujesz się na użycie jakiejś postaci z zestawu rozszerzonego, używaj jej konsekwentnie. Po drugie, niektóre litery występują w parach (**`ę`/`ų`**, **`ė`/`ȯ`**, **`t́`/`d́`**, **`ś`/`ź`**) i nie ma sensu używać jednego przedmiotu z pary, pomijając drugi.
 
@@ -123,7 +123,7 @@ Podsumowując, istnieje kilka możliwości napisania tego samego słowa. Ogólna
 - Unikaj używania znaków z cyrylicy, które nie są już używane (takie jak `ѣ`, `ѩ`, `ѫ`, `ѱ`) i nie korzystaj z alfabetu etymologicznego cyrylicy w jakikolwiek inny sposób, ponieważ oba działania poważnie utrudniłyby zrozumienie.
 - Jeśli masz problemy z pisaniem niektórych znaków, skorzystaj z jednej z sugerowanych alternatyw.
 - Bądź konsekwentny w swoich wyborach. Jeśli na przykład zdecydujesz się użyć `sz` do reprezentowania `š`, zachowaj to w całym tekście lub rozmowie, w przeciwnym razie stworzysz tylko zamieszanie. Z tego samego powodu, jeśli używasz `sz`, nie używaj jednocześnie `č` ani `cx`.
-- Nie używaj znaków innych niż litery (:kbd[^], :kbd['] itp.) jako sposobu na zastąpienie znaków diakrytycznych. Nie sprawią, że Twój tekst będzie bardziej czytelny, a większość ludzi uzna je za brzydkie.
+- Nie używaj znaków innych niż litery (:kbd[^], :kbd['] itp.) jako sposobu na zastąpienie znaków diakrytycznych. Nie sprawi to, że Twój tekst będzie bardziej czytelny, a większość ludzi uzna je za brzydkie.
 - Nigdy nie mieszaj łaciny z cyrylicą.
 - Zwracając się do członków określonego narodu słowiańskiego (na przykład podczas podróży), możesz rozważyć [flaworyzowanie swojego języka międzysłowiańskiego][4]. Nie stosuj jednak flaworyzowania w środowiskach wielosłowiańskich.
 
