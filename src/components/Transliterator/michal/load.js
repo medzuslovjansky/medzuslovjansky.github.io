@@ -1,13 +1,17 @@
 export function load(map) {
-  const maxLength = Object.keys(map).reduce((max, key) => Math.max(max, key.length), 0);
+  let maxLength = 1;
+  for (const key of Object.keys(map)) {
+    map[key] = mirrorTerminators(key, map[key]);
+    maxLength = Math.max(maxLength, key.length);
+  }
 
-  return function remap(str) {
+  function remapWord(str) {
     let result = "";
     for (let i = 0; i < str.length; i++) {
       for (let l = maxLength; l >= 0; l--) {
         if (l > 0) {
           const chunk = str.substr(i, l);
-          const transliteratedChunk = findChunk(chunk, map);
+          const transliteratedChunk = map[chunk];
           if (transliteratedChunk !== void 0) {
             result += transliteratedChunk;
             i += l - 1;
@@ -21,40 +25,57 @@ export function load(map) {
 
     return result;
   }
-}
 
-function findChunk(chunk, table) {
-  let res = table[chunk];
-  if (res !== void 0) {
-    return res;
+  function remapAll(str) {
+    return str
+      .normalize('NFC')
+      .replace(/[\p{Letter}\p{Mark}]+/gu, (w) => {
+        const applyCasePattern = getCasePattern(w);
+        const rawResult = removeTerminators(remapWord(addTerminators(w.toLowerCase())));
+        return applyCasePattern(rawResult);
+      });
   }
 
-  const fallbackChunk = isLowerCase(chunk, 0)
-    ? chunk.toLocaleLowerCase()
-    : chunk.toLocaleUpperCase();
-
-  res = table[fallbackChunk];
-  if (res) {
-    return mimicCase(res, chunk);
-  }
-
-  return void 0;
+  return remapAll;
 }
 
-function mimicCase(str, pattern) {
-  let res = '';
-
-  const upper = str.toLocaleUpperCase();
-  const lower = str.toLocaleLowerCase();
-
-  for (let i = 0; i < str.length; i++) {
-    res += (isLowerCase(pattern, i) ? lower : upper)[i];
-  }
-
-  return res;
+function getCasePattern(str) {
+  return isUpperCase(str, 0)
+    ? isUpperCase(str, 1)
+      ? toUpperCase
+      : toUpperFirst
+    : identity;
 }
 
-function isLowerCase(str, index = 0) {
+function isUpperCase(str, index = 0) {
   const chr = str[index];
-  return chr.toLocaleLowerCase() === chr;
+  return chr !== void 0 && chr.toUpperCase() === chr;
+}
+
+function toUpperCase(str) {
+  return str.toUpperCase();
+}
+
+function toUpperFirst(str) {
+  return str[0].toUpperCase() + str.slice(1);
+}
+
+function identity(str) {
+  return str;
+}
+
+function addTerminators(str) {
+  return `^${str}$`;
+}
+
+function mirrorTerminators(pattern, replace) {
+  const start = pattern[0] === '^' ? '^' : '';
+  const end = pattern[pattern.length - 1] === '' ? '$' : '';
+  return `${start}${replace}${end}`;
+}
+
+function removeTerminators(str) {
+  const start = str[0] === '^' ? 1 : 0;
+  const end = str[str.length - 1] === '$' ? -1 : str.length;
+  return str.slice(start, end);
 }
