@@ -1,8 +1,8 @@
-# FAQ (Frequently asked questions)
+# FAQ (Frequently Asked Questions)
 
 ### What is Interslavic (Medžuslovjansky)?
 
-Interslavic is a constructed auxiliary language. It is designed to be mutually intelligible for speakers of various Slavic languages without prior learning. It draws from a common base of Slavic vocabulary and grammar. 
+Interslavic is a constructed language designed to be mutually intelligible for speakers of various Slavic languages. It draws from a common base of Slavic vocabulary and grammar.
 
 > **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjanasko-jezyčnym ljudam bez učenja.
 > 
@@ -15,46 +15,48 @@ Being an auxiliary language means that Interslavic does not intend to replace an
 ### How to learn and use Interslavic? \{#how-to-learn-and-use-interslavic}
 
 If you're already familiar with a Slavic language:
-
-* Skim through [Interslavic Grammar] or simply observe any Interslavic text for guidance, for instance, [The Little Prince].
+* Skim through [Interslavic Grammar] and observe any Interslavic text for guidance, for instance, [The Little Prince].
 * Refer to [Interslavic Dictionary] for translating words and understanding their declensions.
 * Begin composing sentences using the dictionary. Don't be afraid – most Slavic languages have similar enough grammar and vocabulary.
-* However, to proficiently write and converse in Interslavic, anticipate several months of dedicated learning and practice.
+* Expect several months of dedicated learning and practice to become proficient in writing and speaking Interslavic.
 
-If you don't have knowledge of a Slavic language:
-
+If you don't know a Slavic language:
 * Review the [Slovianto] tutorial for an introductory overview of the language.
-* Join Interslavic community on [Discord] and [Facebook] for the latest advice on approaches that suit your needs.
+* Join the Interslavic community on [Discord] and [Facebook] for the latest advice on approaches that suit your needs.
 
 ### How long does it take to learn Interslavic?
 
-Interslavic has a standard and an extended level of proficiency. For Slavic native speakers, learning the standard level of Interslavic should not take a long time.
+Interslavic has a standard and an extended level of proficiency.
 
-We have heard from many people that it took them 2-3 weeks of study to be able to write confidently, it took them  1.5 - 3 months to engage in basic conversations, and they were able to speak confidently on a wide range of topics after 8-10 months. In this case it was non-intensive learning during free time.
+For Slavic native speakers, learning the standard level of Interslavic should not take a long time – many people reported their learning experience as non-intensive, usually pursued during their free time, and it took them:
 
-However, the time spent is individual and can vary significantly from person to person. If you do not speak any Slavic languages, it will take a considerably longer time to learn Interslavic.
+* 2-3 weeks of study to write confidently;
+* 1.5-3 months to engage in basic conversations;
+* 8-10 months to speak confidently on a wide range of topics.
+
+However, the required time is individual and may vary significantly from person to person. If you do not speak Slavic languages, it will take considerably longer to learn Interslavic.
 
 ### Is it true that all Slavs can understand Interslavic? \{#is-it-true-that-all-slavs-can-understand-interslavic}
 
-No. A true statement: **many** Slavs understand Interslavic at a good level without prior study, if they are helped by their good vocabulary of their native Slavic language, concentration of attention and a desire to understand.
+No. A true statement: **many** Slavs can understand Interslavic well enough without any prior study if they have a strong command of their native Slavic language, focus, and a desire to understand.
 
 ### If I learn Interslavic, will I understand other Slavic languages?
 
-Rather not. Knowing Interslavic will increase your understanding of other Slavic languages, but you won't get near the level of understanding that you would get from learning a specific Slavic language.
+Rather not. Learning Interslavic improves your comprehension of other Slavic languages, but it is not a shortcut - to get a good grasp of any particular language, you'll have to learn it specifically.
 
 ### If I speak my native Slavic language to an Interslavic speaker, will they understand me?
 
-While it is impossible to guarantee understanding in every individual case, many Interslavic speakers have reported being able to understand native Slavic language speakers.
+It varies from person to person. Many Interslavic speakers have reported being able to understand speakers of other Slavic languages, but they also noted that their comprehension skills vary depending on the specific language.
 
 ### Why does Interslavic include non-Slavic words, such as "kalendar"?
 
-The goal of Interslavic is to be immediately accessible and understandable without prior learning. Words like "kalendar" or "kompjuter" are known to all Slavs, and therefore such words are included in the Interslavic lexicon.
+The goal of Interslavic is to be immediately accessible and understandable without prior learning. Words like "kalendar" or "kompjuter" are known to all Slavs; therefore, such words are included in the Interslavic lexicon.
 
 ### What are those weird diacritics and letters some people use in Interslavic? \{#what-are-those-weird-diacritics-and-letters-some-people-use-in-interslavic}
 
-The Interslavic Latin alphabet has four letters with a diacritic: `Č` :ipa[t͡ʃ], `Š` :ipa[ʂ], `Ž` :ipa[ʒ], `Ě` :ipa[jɛ].
+The Interslavic Latin alphabet has only four letters with diacritics: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. However, some people use additional diacritics and letters to memorize Slavic etymology, so occasionally, you might encounter weird words like :isv[ćuđi], :isv[otėc], :isv[dȯžd́], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
 
-But sometimes in chats you can see weird words like :isv[ćuđi], :isv[otėc], :isv[dȯžd́], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт]. In this way people studying Slavic etymology practice their writing. This is a sort of educational alphabet that helps them learn advanced levels of Slavic linguistics, but it is not necessary.
+While etymological scripts may potentially help to improve pronunciation on advanced stages, they often degrade written text comprehension and they are considered non-standard. Therefore, if you are just starting to learn Interslavic, it is recommended to stick to the standard Latin or Cyrillic alphabet and focus on mastering the basics.
 
 ### How can I write Interslavic on my own keyboard? \{#how-can-i-write-interslavic-on-my-own-keyboard}
 
