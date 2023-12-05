@@ -47,7 +47,7 @@ Cztery przykłady: :isv[brat] „brat”, :isv[dom] „dom”, :isv[muž] „mę
 
 Uwagi:
 
-- Miejscownik(na kim?,na czym?) liczby pojedynczej jest tym, gdzie języki słowiańskie różnią się najbardziej. Zalecane zakończenie to `-u` (tj. takie samo jak celownik), które w większości języków występuje przynajmniej w niektórych przypadkach. Alternatywnie możliwe jest również użycie `-ě` po twardych spółgłoskach i `-i` po miękkich spółgłoskach (np. :isv[bratě], :isv[muži]).
+- Miejscownik (na kim?,na czym?) liczby pojedynczej jest tym, gdzie języki słowiańskie różnią się najbardziej. Zalecane zakończenie to `-u` (tj. takie samo jak celownik), które w większości języków występuje przynajmniej w niektórych przypadkach. Alternatywnie możliwe jest również użycie `-ě` po twardych spółgłoskach i `-i` po miękkich spółgłoskach (np. :isv[bratě], :isv[muži]).
 - W wołaczu `k`, `g`  i `h` stają się `č`, `ž`  i `š` przed `e`: :isv[člověk] → :isv[člověče], :isv[Bog]  → :isv[Bože].
 - Słowa na `-ec` mają końcówkę wołacza `-če` zamiast oczekiwanego `-cu`: :isv[otec] → :isv[otče].
 - Niektóre rzeczowniki zakończone na twardą spółgłoskę mają w ortografii naukowej miękką spółgłoskę, np. :isv[gosť] „gość”, :isv[lěkaŕ] „lekarz, lekarz”. Dopuszczalny jest zarówno twardy, jak i miękki wzór deklinacji: :abbr[gen.pl.] :isv[gostov]  lub :isv[gostev].
