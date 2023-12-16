@@ -34,5 +34,9 @@
   "sidebar.learnSidebar.category.Једноставна граматика": {
     "message": "Једноставна граматика",
     "description": "The label for category Једноставна граматика in sidebar learnSidebar"
+  },
+  "sidebar.resourcesSidebar.category.Applets": {
+    "message": "Applets",
+    "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

@@ -30,5 +30,9 @@
   "sidebar.learnSidebar.category.Jednoduchá gramatika": {
     "message": "Jednoduchá gramatika",
     "description": "The label for category Jednoduchá gramatika in sidebar learnSidebar"
+  },
+  "sidebar.resourcesSidebar.category.Applets": {
+    "message": "Applets",
+    "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

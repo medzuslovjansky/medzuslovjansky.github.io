@@ -27,7 +27,7 @@ Inne rozróżnienie dotyczy twardych i miękkich wzorów deklinacji. Miękkie ł
 
 Podstawowe zakończenia przedstawiono w poniższych tabelach. Formy między nawiasami są używane po miękkich łodygach. Zakończenia zerowe są oznaczone `-Ø`:
 
-:::komponent{name="MDNouns1"}
+:::component{name="MDNouns1"}
 :::
 
 W słowniku podawana jest tylko płeć wyrazów. Z tego powodu poniższe przykłady są pogrupowane według płci, a nie według deklinacji.
@@ -42,7 +42,7 @@ Praktycznie wszystkie rzeczowniki rodzaju męskiego kończą się na spółgłos
 
 Cztery przykłady: :isv[brat] „brat”, :isv[dom] „dom”, :isv[muž] „mężczyzna”, :isv[kraj] „kraj”.
 
-:::komponent{name="MDNouns2"}
+:::component{name="MDNouns2"}
 :::
 
 Uwagi:
@@ -74,7 +74,7 @@ Ponieważ zwykle nie rozróżniamy `ę` i `e`, warto pamiętać, że rzeczownik 
 
 Co do reszty, deklinacja jest zawsze regularna. Trzy przykłady: :isv[slovo] „słowo”, :isv[morje] „morze”, :isv[ime] „nazwa”.
 
-:::komponent{name="MDNouns3"}
+:::component{name="MDNouns3"}
 :::
 
 ## Deklinacja rzeczowników rodzaju żeńskiego \{#feminine-declension}
@@ -91,7 +91,7 @@ Kolejną grupą rzeczowników rodzaju żeńskiego są rzeczowniki zakończone na
 
 Przykłady: :isv[žena] „kobieta”, :isv[zemja] „ziemia”, :isv[kost] „kość”.
 
-:::komponent{name="MDNouns4"}
+:::component{name="MDNouns4"}
 :::
 
 ## Atematyczna deklinacja \{#athematic-declension}
@@ -107,7 +107,7 @@ Ten typ deklinacji obejmuje rzeczowniki wszystkich trzech rodzajów, ale najlicz
 - rzeczowniki rodzaju żeńskiego na `-ov`, np. :isv[crkov] „kościół”, :isv[mrkov] „marchewka”
 - rzeczowniki rodzaju żeńskiego na `-i`/`-er`-, zawierające tylko dwa rzeczowniki: :isv[mati] „matka” i :isv[doči] „córka”
 
-:::komponent{name="MDNouns5"}
+:::component{name="MDNouns5"}
 :::
 
 Całej deklinacji atematycznej można uniknąć, odmieniając te słowa zgodnie z regularnymi deklinacjami, tak jak robi to większość innych języków słowiańskich. W tym wypadku:

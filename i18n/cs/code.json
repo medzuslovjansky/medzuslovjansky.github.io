@@ -387,5 +387,14 @@
   },
   "com.script.Cyrillic": {
     "message": "Cyrillic"
+  },
+  "com.grammar.singular": {
+    "message": "Singular"
+  },
+  "com.grammar.plural": {
+    "message": "Plural"
+  },
+  "com.interslavic.declinator.case": {
+    "message": "case"
   }
 }

@@ -11,7 +11,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] se može pisati latinicom i ćirilicom, ali mi ćemo se ovdje koncentrirati na latinicu:
 
-:::komponenta{name="MDSlovianto1"}
+:::component{name="MDSlovianto1"}
 - kao _a_ na engleskom :en[f**a**ther]
 - kao na engleskom
 - kao _ts_ na engleskom „bi**ts**”
@@ -245,7 +245,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 
 ## Primjer teksta: U restoranu
 
-:::komponenta{name="MDSlovianto2"}
+:::component{name="MDSlovianto2"}
 - Dobar dan! Je li restoran otvoren?
 - Dobar dan. Da, otvoreni smo.
 - Može li se ovdje nešto popiti?
@@ -263,7 +263,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 
 ## Osnovni vokabular
 
-:::komponenta{name="MDSlovianto3"}
+:::component{name="MDSlovianto3"}
 :::
 
 [1]: https://interslavic-dictionary.com
