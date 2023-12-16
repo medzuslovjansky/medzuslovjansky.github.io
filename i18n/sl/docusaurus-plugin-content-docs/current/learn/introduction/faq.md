@@ -1,156 +1,167 @@
 ---
 sidebar_position: 5
-license: republish
-author: Jan van Steenbergen
-custom_edit_url: /501
-origin: http://steen.free.fr/interslavic/faq.html
 ---
 
-# Pogosto zastavljena vprašanja
+# Pogosto zastavljena vprašanja (FAQ)
 
-## Kako se naučiti in uporabljati medslovansko? \{#how-to-learn-and-use-interslavic}
+### Kaj je medslovansko (medžuslovjansko)? \{#what-is-interslavic}
 
-To je zelo odvisno od vaših potreb in tudi od tega, ali ste sami Slovan. Če želite napisati besedilo v medslovanščini, se ga ni treba zares naučiti. Vse, kar potrebujete, sta slovnica in slovar. Ne bojte se, da bo rezultat slab, kajti _slaba medslovanščina_ ne obstaja: zapomnite si, da medslovanščina ni hermetičen jezik, temveč skupek priporočil, ki jim lahko poljubno sledite. Če jim boste poskušali slediti, bo rezultat po vsej verjetnosti boljši, kot če jih ne boste.
+Medslovanščina je sestavljen pomožni jezik, zasnovan tako, da je medsebojno razumljiv govorcem različnih slovanskih jezikov. Izhaja iz skupne baze slovanskega besedišča in slovnice.
 
-Da bi obvladali medslovanski jezik, se ga boste seveda morali naučiti. Če ste Slovani ali vsaj dobro poznate enega ali več slovanskih jezikov, je to precej stvar postopnega učenja, kako spremeniti svoj jezik, da bo bolj dostopen drugim Slovanom. Naše izkušnje kažejo, da večina ljudi hitro in enostavno ugotovi, kako to storiti, tako da preprosto preberejo in poslušajo. Seveda lahko pomaga tudi branje [slovnice][1] in/ali vadnice!
+:::note Primer
 
-Če ste novi v slovanskih jezikih, očitno ne morete vzeti nobenega obstoječega slovanskega jezika za izhodišče. Začetni tečaj je v pripravi, do takrat pa le dobro preberite slovnico in omenjeno vadnico. Začnete lahko tudi z učenjem [`Slovianto`][Slovianto], zelo poenostavljene oblike medslovanščine, ki vam omogoča, da začnete komunicirati na zelo osnovni ravni, hkrati pa postopoma nadgrajujete svoje znanje in spretnosti.
+- **Medžuslovjanski** je jezik takoj priblizno vsem slovansko-jezyčnym ljudem brez učenja.
+- **Medžuslovjanski** je jezik, ki ga brez učenja razumejo skoraj vsi slovansko govoreči ljudje.
 
-Ko gre za govorjenje, se moramo vedno zavedati, da komunikacija ni le stvar jezika. Enako pomemben je neverbalni del. Ko poskušate v pogovoru uporabljati medslovanski jezik, se vedno prepričajte, da vas sogovornik dejansko razume. Govorite počasi, ohranjajte očesni stik, dobro artikulirajte in bodite vedno dober poslušalec.
+:::
 
-## Je res, da vsi Slovani razumejo medslovanščino? \{#is-it-true-that-all-slavs-can-understand-interslavic}
+### Kaj pomeni "pomožni jezik"? \{#what-does-auxiliary-language-mean}
 
-Kratek odgovor je: ne. Panslovanskega besedišča je veliko, a če bi vsi slovanski jeziki uporabljali iste besede, ne bi bilo potrebe po posebnem medslovanskem jeziku. Vse, kar smo naredili, je izbor besed, ki so razumljive največjemu številu slovanskih narodov. Neizogibno so nekatere besede bolj usmerjene proti vzhodu ali zahodu, severu ali jugu. Če pisatelj dosledno uporablja besede, ki jih ena polovica slovanskega prebivalstva najbolje razume, bo to avtomatsko povzročilo boljše rezultate pri tej polovici in slabše pri drugi.
+Ker je pomožni jezik, pomeni, da medslovanščina ne namerava nadomestiti živih slovanskih jezikov ali služiti kot jezik za visoko literaturo - za te namene že imamo živahne, žive jezike. Namesto tega je njegov cilj pomagati pri komunikaciji med ljudmi iz različnih jezikovnih okolij.
 
-Razumevanje medslovanščine je v veliki meri stvar razumevanja splošnega pomena stavka, tudi brez razumevanja nekaterih posameznih besed. To zahteva določeno raven inteligence in izkušenj. Od ljudi, ki imajo težave z razumevanjem svojega jezika, če je zapisan ali izgovorjen nekoliko drugače, ni mogoče razumno pričakovati, da bodo razumeli isto besedilo v jeziku, kot je medslovanski. Vsako medslovansko besedilo bo neizogibno vsebovalo besede, ki jih slovanski govorec ne more povezati s svojim jezikom, sposobnost zapolnitve teh leksikalnih vrzeli pa se razlikuje od osebe do osebe. Tu in tam se na spletu odvijejo razprave o kakšnem fragmentu medslovanskega besedila, odgovori pa so si pogosto nasprotujoči: nekdo trdi, da razume vsako posamezno besedo, nekdo iste narodnosti razume le 40 %.
+### Kako se naučiti in uporabljati medslovansko? \{#how-to-learn-and-use}
 
-Tudi poslušanje jezika, ki ga aktivno ne poznamo, zahteva raven koncentracije, ki jo je mogoče doseči le, če je poslušalec pripravljen sodelovati. Oseba, ki ima s pogovorom kaj pridobiti, se bo bolj potrudila kot oseba, ki je utrujena, sitna in nezainteresirana. Govorec naj vedno čim bolj pomaga poslušalcu s počasnim in jasnim govorom, pri čemer se ves čas zaveda, da poslušalec potrebuje nekaj časa za obdelavo.
+Če že poznate slovanski jezik:
 
-Vse, kar lahko z gotovostjo trdimo, je, da velika večina tistih, ki so komentirali medslovanščino ali sodelovali v naših raziskovalnih projektih, razmeroma dobro razume besedila v pisni ali govorjeni medslovanščini. Med govorci različnih slovanskih jezikov ni velikih razlik v razumljivosti, le da imajo Čehi in Slovaki nekoliko višje, Južni Slovani pa nekoliko nižje od povprečja. Vemo pa, da obstaja povezava med sposobnostjo ljudi za razumevanje medslovanskega jezika in njihovo stopnjo izobrazbe.
+- Preletite [Medslovansko slovnico][12] in za orientacijo opazujte poljubno medslovansko besedilo, na primer [Mali princ][8].
+- Glejte [Medslovanski slovar][1] za prevajanje besed in razumevanje njihovih sklanjatev.
+- Začnite sestavljati stavke z uporabo slovarja. Ne bojte se – večina slovanskih jezikov ima dovolj podobno slovnico in besedišče.
+- Pričakujte več mesecev predanega učenja in vaje, da postanete vešči pisanja in govorjenja medslovanskega jezika.
 
-## Kakšne so te čudne diakritike in črke, ki jih nekateri uporabljajo v medslovanščini? \{#what-are-those-weird-diacritics-and-letters-some-people-use-in-interslavic}
+Če ne znate slovanskega jezika:
 
-Medslovanska latinica ima štiri črke z diakritiko: `Č`, `Š`  in `Ž` (uporablja se v vseh slovanskih pravopisih razen v poljščini) ter `Ě` (uporablja se v češčini in lužiški srbščini in predstavlja glas »ye«). Vendar pa lahko v nekaterih besedilih, pa tudi v slovarju, naletite na črke, kot sta `Å`, `Đ`, `Ȯ`, `Ŕ`  in `Ų`. Te črke so neobvezne razširitve standardne abecede, ki pripadajo [medslovanski etimološki abecedi][2].
-Posredujejo dodatne informacije o etimologiji in izgovorjavi. Za tiste, katerih jeziki imajo bogatejšo fonologijo (kot sta ruščina in poljščina), olajšajo povezovanje medslovanskih besed z besedami v svojem jeziku. Drugi lahko preprosto prezrejo diakritike (izjeme: `Ć` in `Đ` je treba brati kot `Č` in `DŽ`).
+- Oglejte si vadnico [Slovianto][13] za uvodni jezikovni pregled.
+- Pridružite se medslovanski skupnosti na [Discord][3] in [Facebook][4] za najnovejše nasvete o pristopih, ki ustrezajo vašim potrebam.
 
-Čisto nič ni narobe, če ne veste, kako in kdaj uporabiti te črke. Niso obvezni in medslovanščina, zapisana v standardnem pravopisu, s temi dodatki nikakor ni slabša od medslovanščine. Poleg tega smo opazili, da je lahko razlika med pravopisoma zelo zmedena za nove člane naše skupnosti. Interslovanščina je že po svoji naravi zelo prilagodljiva in svojim uporabnikom omogoča veliko svobode, vendar večina ljudi pričakuje jezik s fiksnimi pravili: zaradi preveč svobode se novinci težko učijo in uporabljajo interslovanščino. Zaradi tega uporabnike prosimo, naj te razširjene abecede ne uporabljajo v vsakodnevnem pogovoru in če se za to vseeno odločijo, naj pojasnijo, da lahko bralec te dodatne diakritične znake prezre.
+### Koliko časa traja učenje medslovanskega jezika? \{#how-long-does-it-take-to-learn}
 
-Čeprav zgoraj omenjena etimološka abeceda deluje samo za latinico, nekateri ljudje uporabljajo cirilične ustreznice, kot sta `Ѣ`, `Ѧ`  in `Ѫ`, vzete iz stare cerkvene slovanščine. Ker so te črke arhaične in večini bralcev neznane, je njihova uporaba v praktični komunikaciji ne le nesmiselna, ampak tudi v nasprotju s samim namenom medslovanščine. Zato uporabnikom močno odsvetujemo uporabo cirilskih ustreznic etimološke abecede.
+Interslovanščina ima dve ravni znanja: standardno in napredno.
 
-## Kako lahko pišem medslovansko na lastno tipkovnico? \{#how-can-i-write-interslavic-on-my-own-keyboard}
+Za slovanske materne govorce učenje standardne ravni medslovanščine ne bi smelo trajati dolgo – veliko ljudi je poročalo, da je njihova učna izkušnja neintenzivna, ki se je običajno izvajala v prostem času in trajalo jim je:
 
-Za to obstaja več rešitev. Standardno medslovansko lahko pišemo s češko tipkovnico, poenostavljeno medslovansko (tj. brez `Ě` in `Y`) tudi s hrvaško, srbsko ali slovensko tipkovnico. V operacijskem sistemu Windows je črka `Ě` na voljo tudi pri zadnjih treh: preprosto pritisnite :kbd[Alt+2] in nato `E/e`.
+- 2-3 tedne študija za samozavestno pisanje;
+- 1,5-3 mesece za vključitev v osnovne pogovore;
+- 8-10 mesecev za samozavestno govorjenje o številnih temah.
 
-Poenostavljeno cirilico lahko pišemo s srbsko cirilično tipkovnico. Za standardno cirilico boste potrebovali črke `Ы` iz ruščine in `Є` iz ukrajinščine.
+Potreben čas pa je individualen in se lahko od osebe do osebe zelo razlikuje. Če ne govorite slovanskih jezikov, bo učenje medslovanskega jezika trajalo precej dlje.
 
-Druge možnosti:
+### Je res, da vsi Slovani razumejo medslovanščino? \{#can-all-slavs-understand-interslavic}
 
-- Če uporabljate Windows, glejte [siciliano/klaviatury].
-- Android ima rešitev, imenovano GBoard. Tam mednarodna latinica vsebuje vse črke, ki se uporabljajo v standardni in etimološki medslovanski abecedi, z izjemo `Ȯ`, ki jo je mogoče najti v definiciji livonske tipkovnice. Medslovansko cirilico je mogoče pisati z definicijo tipkovnice za cerkveno slovanščino (v tem primeru napišite `ЛЬ` in `НЬ` namesto `Љ` in `Њ`).
-- Za cirilico lahko uporabite tudi tipkovnico Multiling O z eno od naslednjih definicij. Ko ga namestite na svoj telefon, odprite povezave in kliknite gumb Uporabi. Te definicije tipkovnice vsebujejo vse črke cirilice iz sodobnih slovanskih jezikov in vse ravni medslovanske cirilice:
-  - [`ЈЦУКЕН`][`JCUKEN`] (za vzhodne Slovane)
-  - [`ЉЊЕРТЗ`][`ЉЊЕРТЗ`] (za Srbe in Makedonce)
-  - [`ЯВЕРТЪ`][`YAVERT'] (za Bolgare)
-  - [`ѢЬЕРТЫ`][`ѢЬЕРТЫ`] (za tiste, ki uporabljajo tipkovnico, podobno QWERTY)
-- Linux ima veliko diakritičnih znakov za latinske tipkovnice s tipko Compose.
-- Sistem Mac ima nekaj mednarodnih definicij tipkovnic, kjer jih lahko najdete tudi vi (npr. `ABC Extended`). Črke iz medslovanske cirilice lahko najdemo tudi v definicijah ruske in drugih tipkovnic s črkami iz drugih pravopisov cirilice (na primer Mac ima standardno in fonetično ruščino, beloruščino in ukrajinščino).
-- V sistemu iOS lahko uporabite definicijo češke tipkovnice. Če želite zapisati etimološko medslovanščino, boste morali preklapljati med češčino, hrvaščino (za `Đ`) in litovščino (za `Ų`); verjetno ne boste našli črke `Ȯ`, lahko pa namesto nje uporabite `Ò` ali pa jo v celoti izpustite. Če ne želite preklapljati med definicijami tipkovnice za pisanje cirilice, lahko uporabite ukrajinsko tipkovnico, kot sledi: `І` namesto `Ј`, `ЛЬ`  in `НЬ` namesto `Љ` in `Њ` ter @@ 50 se prikaže, če še naprej pritiskate `І`.
+Ne. Resnična izjava: **mnogi** Slovani lahko dovolj dobro razumejo medslovanski jezik brez predhodnega študija, če dobro obvladajo svoj materni slovanski jezik, so osredotočeni in imajo željo po razumevanju.
 
-Če se vam zdi vse to preveč zapleteno, je seveda možno zamenjati problematične črke s črkami, ki so na voljo tudi na vaši tipkovnici. Na primer, Poljaki lahko pišejo `CZ` namesto `Č`, Vzhodni Slovani in Bolgari lahko pišejo `Й` namesto `J` itd. Za podrobnosti glejte predstavitev problematičnih znakov. Ne pozabite, da lahko takšne različice negativno vplivajo na razumljivost.
+### Ali bom razumel druge slovanske jezike, če se bom naučil medslovanščine? \{#will-i-understand-other-slavic-languages}
 
-Za ad hoc uporabo lahko vedno uporabite [transliterator] ali [razširjeni transliterator] (za standardno oziroma etimološko ortografijo), da dobite želeni rezultat.
+Raje ne. Učenje medslovanskega jezika izboljša vaše razumevanje drugih slovanskih jezikov, vendar to ni bližnjica – če želite dobro razumeti kateri koli jezik, se ga boste morali posebej naučiti.
 
-## Na pomoč! Ne najdem besede! \{#help-i-cant-find-a-word}
+### Če govorim svoj materni slovanski jezik z medslovanskim govorcem, me bo razumel? \{#will-they-understand-me}
 
-Medslovanščina je projekt v teku in prav možno je, da v slovarju ne boste našli besede, ki jo iščete. Če je temu tako, najprej poiščite sinonime. Če tudi to ne deluje, lahko storite to:
+Razlikuje se od osebe do osebe. Mnogi medslovanski govorci so poročali, da lahko razumejo govorce drugih slovanskih jezikov, vendar so tudi opazili, da se njihove sposobnosti razumevanja razlikujejo glede na določen jezik.
 
-- Preverite nekaj slovanskih slovarjev, zlasti ruskega, poljskega, češkega in srbohrvaškega, in poiščite rezultate, ki so podobni v več jezikih. Seznam spletnih slovarjev najdete [tukaj][slovarji].
-- Če je to preveč dela, preprosto uporabite rusko besedo ali namesto tega besedo v svojem slovanskem jeziku.
-- Obstaja posebna Facebook skupina, kjer lahko prosite za besede, predlagate nove besede ali predlagate spremembe: [Medslovanski zbor].
+### Zakaj medslovanščina vključuje neslovanske besede, kot je "koledar"? \{#why-include-non-slavic-words}
 
-## Medslovanski in angleški \{#interslavic-and-english}
+Cilj Interslavic je, da je takoj dostopen in razumljiv brez predhodnega učenja. Besede kakor »kolendar« ali »kompjuter« poznajo vsi Slovani; zato pridejo take besede v medslovansko leksiko.
 
-Eden ponavljajočih se argumentov v razpravah o medslovanskih in umetnih jezikih nasploh je tale: **zakaj bi se ga kdo učil, če že imamo angleščino kot svetovni jezik?**
+### Kakšne so te čudne diakritike in črke, ki jih nekateri uporabljajo v medslovanščini? \{#what-are-those-weird-diacritics}
 
-To je nedvomno res, in če mislite, da se v slovanskem svetu lahko znajdete z angleščino, potem vsekakor. Zagotovo vas ne bomo poskušali ustaviti! Vendar upoštevajte, da so v Srednji in Vzhodni Evropi stvari le redko tako preproste. Mnogi ljudje v tem delu sveta so popolnoma enojezični in tudi tisti, ki trdijo, da znajo angleško, pogosto ne bodo sposobni proizvesti več kot le nekaj zlomljenih stavkov v njej. To še posebej velja za podeželje, a tudi v mestih, trgovinah in celo hotelih ta situacija še zdaleč ni izjema. Na splošno velja, da bolj ko potujete na vzhod, slabše je. V Ruski federaciji na primer le 5,5 % prebivalcev govori angleško (po popisu leta 2010). Čeprav se bo to stanje v prihodnosti verjetno izboljšalo, bo trajalo več desetletij, preden bo angleščina resnično v pomoč tistim, ki obiščejo regijo.
+Medslovanska latinica ima samo štiri črke z diakritičnimi znaki: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Vendar pa nekateri ljudje uporabljajo dodatne diakritike in črke, da bi si zapomnili slovansko etimologijo, zato lahko občasno naletite na čudne besede, kot je :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
 
-Druga stvar je, da se mnogim Slovanom zdi nekako sramotno uporabljati angleščino v komunikaciji z drugimi Slovani.
+Medtem ko lahko etimološke pisave pomagajo izboljšati izgovorjavo v naprednejših fazah, pogosto poslabšajo razumevanje pisnega besedila in veljajo za nestandardne. Če se torej medslovanskega jezika šele začenjate učiti, je priporočljivo, da se držite standardne latinice ali cirilice in se osredotočite na osvajanje osnov.
 
-Angleščina je zelo specifičen jezik s kulturnim ozadjem, semantiko, sintakso, črkovanjem itd., ki se zelo razlikujejo od slovanskih jezikov. Tudi zato so računalniški prevodi prek Google Translate med češčino in poljščino ali hrvaščino popolnoma neuporabni, pogosto celo absurdni in smešni. Angleščina je preprosto preveč drugačna od slovanskih jezikov, da bi služila kot osrednji ali pomožni jezik na slovanskem ozemlju.
+:::info Nasvet
 
-Medslovanščina seveda ni končna rešitev teh težav. Njeno razumevanje bo od bralca ali poslušalca vedno zahtevalo nekaj truda in določeno stopnjo inteligence. Toda Interslovan vsaj omogoča sporazumevanje na osnovni ravni z enojezičnimi ljudmi v kateri koli slovansko govoreči državi. In če pri pisanju uporabljate medslovanski jezik, se lahko razumete z bralci v številnih različnih državah, ne glede na to, ali poznajo še kateri drug jezik poleg svojega.
+Če pristopate k medslovanščini kot platformi za preučevanje drugih slovanskih jezikov in ne kot samostojnemu jeziku, bi bilo morda koristno že od prvega dne omogočiti etimološko pisavo v [Medslovanskem slovarju][1], da se vam ne bo treba znova učiti besede kasneje.
 
-## Medslovanski in ruski \{#interslavic-and-russian}
+:::
 
-Nekateri so trdili, da je škoda, če Slovani uporabljajo angleščino za sporazumevanje z drugimi Slovani. **Ali ne bi bila ruščina, materni jezik skoraj polovice Slovanov in ki jo razume skoraj polovica druge polovice, naravni lingua franca za Slovane?**
+### Kako lahko pišem medslovansko na lastno tipkovnico? \{#keyboard-layouts}
 
-Ruščine se sicer splača naučiti, ni pa ravno lahek jezik za obvladovanje. Kot vsi drugi slovanski jeziki je tudi ruščina imela svoj ločen razvoj od skupnega prednika slovanskih jezikov. Njegova sintaktična zgradba je precej drugačna od drugih slovanskih jezikov (na primer glagola »imeti« je praktično odsoten, glagol »biti« je močno okrnjen tako po obliki kot po rabi) in je poln besed in idiomov, ki jih ni mogoče najti v katerem koli drugem slovanskem jeziku. Brez predznanja zahodni ali južni Slovan verjetno ne bo razumel ruščine.
+Za to obstaja več rešitev:
 
-Poleg tega je bila ruščina državam srednje in vzhodne Evrope dolgo časa vsiljena kot lingua franca, posledica pa je, da so številni ljudje, tako Slovani kot Neslovani, razvili močan odpor do ruščine, ki so ga začeli povezovati z »jezikom zatiralca«.
+- Izberite eno od naših [razporeditev tipkovnice][15] za vaš operacijski sistem.
+- Če ne najdete ali namestite tipkovnice po meri:
+  - standardna medslovanska se lahko piše na **češki** tipkovnici,
+  - poenostavljena medslovanska (brez `Ě`/`Є`  in `Y`/`Ы`) – tudi na hrvaški, srbski ali slovenski tipkovnici.
+- Če se vam zdi vse to preveč zapleteno, lahko problematične črke nadomestite s črkami, ki so na voljo tudi na vaši tipkovnici:
+  - Poljaki lahko pišejo `CZ` namesto `Č`, `SZ`  namesto `Š`, `Ż`  namesto `Ž` itd.
+  - Vzhodni Slovani in Bolgari lahko pišejo `Й` ali `І` namesto `J`, `ЛЬ`  namesto `Љ`, `НЬ`  namesto `Њ` itd.
+  - Za podrobnosti glejte [predstavitev problematičnih znakov][14] in ne pozabite, da lahko takšne različice poslabšajo razumljivost.
+- Za ad hoc uporabo lahko vedno uporabite [transliterator][6] ali [razširjeni transliterator][7] (za standardno oziroma etimološko ortografijo), da dobite želeni rezultat.
 
-Bi bila končno ruščina res najboljša rešitev za poljsko-hrvaške odnose?
+### Ali obstaja avtomatski prevajalnik za medslovanščino? \{#automatic-translator-for-interslavic}
 
-### Torej, kaj pa poenostavljena ruščina? \{#so-how-about-a-simplified-russian-then}
+Da, na voljo je prototip [samodejnega prevajalnika za medslovansko] [2]. Deluje, vendar še vedno zahteva nadaljnji razvoj in izboljšave programerjev.
 
-Ruščina je že živ in standardiziran jezik. Seveda si poenostavljena oblika ni nepredstavljiva. Lahko bi se na primer znebili vseh mehkih soglasnikov, zmanjšali število sklanjatev in spregatev ter odpravili vse nepravilnosti. Končni rezultat takih dejanj pa bo le ruščina z napakami, z drugimi besedami: slaba ruščina. V mešanih skupinah so naravni govorci jezika sporazumevanja vedno v ugodnejšem položaju od tistih, katerih znanje jezika je omejeno.
+### Ali obstaja Duolingo tečaj za medslovanščino? \{#duolingo-course-for-interslavic}
 
-Poleg tega bi bilo poenostavljeno različico ruščine morda lažje naučiti in uporabljati, vendar ne nujno lažje razumeti za tiste, ki je ne znajo, niti ne bi obravnavala drugih težav.
+Ne, trenutno ni na voljo tečaja Duolingo.
 
-## Medslovanščina in esperanto \{#interslavic-and-esperanto}
+### Na pomoč! Ne najdem besede! \{#cant-find-a-word}
 
-Druga pogosto slišana točka je tale: **imamo esperanto, kakšen smisel ima torej še en umetni jezik?**
+Medslovanščina je projekt v razvoju in možno je, da ne boste našli določene besede [v slovarju][1]. V tem primeru:
 
-Esperanto je jezik, ki je namenjen celemu svetu in je zasnovan tako, da je čim bolj preprost in kulturno nevtralen. Ali je esperantu uspelo doseči svoje cilje kot globalni jezik, je sporno, nesporno pa je dejstvo, da je esperanto daleč najuspešnejši umetni jezik vseh časov. Ima pa eno veliko napako: ne glede na to, kako preprosta je, je treba dobro poznati njeno slovnico in leksikalne gradnike, preden jo lahko razumemo. Neposredna posledica tega je, da je znanje esperanta uporabno samo v komunikaciji z drugimi esperantisti, kar ga v bistvu naredi za jezik skupnosti.
+- najprej poiščite sinonime;
+- iskanje z uporabo bota Mašina na [strežniku Discord][3] ali [Telegram Messenger][5];
+- za pomoč prosite medslovanske govorce na strežniku Discord.
 
-Po drugi strani pa medslovanščina ni bila zasnovana niti za uporabo v svetovnem merilu niti kot jezik skupnosti. Kolikor ga sploh lahko štejemo za umeten jezik, je tako imenovani _conski konstruirani jezik_, pomožni jezik za sporazumevanje z ali med govorci relativno heterogene družine jezikov, v tem primeru slovanskih jezikov. Zasnovan je bil tako, da ga govorci teh jezikov razumejo, ne da bi sploh vedeli, s katerim jezikom imajo opravka. Čeprav je medslovanska slovnica res veliko bolj zapletena od esperantske, je za govorce slovanskih jezikov izjemno enostavna: vse, kar morajo vedeti, je v bistvu nekaj preprostih trikov za spreminjanje lastnih jezikov.
+### Ali obstajajo filmi, glasba ali knjige v medslovanščini? \{#movies-music-or-books-in-interslavic}
 
-Z drugimi besedami, koristi učenja medslovanskega jezika so popolnoma drugačne kot koristi učenja esperanta.
+Da, v medslovanščini so na voljo različne vsebine:
 
-## Interslavic in Slovio \{#interslavic-and-slovio}
+- [Filmi (YouTube seznam predvajanja)][9]
+- [Pesmi (YouTube seznam predvajanja)][10]
 
-Preden je bil leta 2006 medslovanski (ponovno) vzpostavljen pod imenom „Slovianski“, je bilo na desetine drugih slovanskih jezikovnih projektov. Starejši so bili do takrat že zastareli in pozabljeni, novejši pa nerazviti samostojni projekti – z eno razvpito izjemo: **Slovio**, dokaj znan projekt s popolno slovnico in velikim slovarjem. Nekateri so se spraševali: **zakaj bi začeli nov projekt, če en tak jezik že obstaja?**
+V razdelku [Viri][16] najdete več medslovanskih knjig, kratkih zgodb, zvočnih knjig, pesmi in pesmi.
 
-Slovio in medslovanski jezik sta resda slovanska pomožna jezika, a tu se podobnost konča. Slovio je samooklicani jezik radikalnega panslavizma, a hkrati trdi, da je _„univerzalju“_, jezik za ves svet. Ne glede na to, kakšen je njegov resnični namen, velja omeniti, da Slovio sploh ni zelo slovanski: njegova slovnica skoraj v celoti temelji na esperantu, njegovi mehanizmi za gradnjo besed so večinoma germanski, v njegovem besedišču, čeprav očitno prevladuje (pogosto pohabljena) ruščina besede, se tudi ne navezuje na noben predvidljiv način na slovanske jezike. Posledično je njegova izobraževalna vrednost tako rekoč nična. Slovio se zaradi svojega umetnega in neslovanskega značaja nikoli ni uspel uveljaviti med Slovani. Poleg tega je vsa dejavnost Slovia leta 2011 tako rekoč zamrla.
+### Kdo potrebuje vsebino v medslovanščini: filme, glasbo, besedila? \{#who-needs-content-in-interslavic}
 
-Za razliko od Slovia, Interslavic v celoti temelji na skupnem slovanskem gradivu. Niti ni namenjen temu, da bi postal svetovni jezik, niti da bi služil kot jezik skupnosti govorcev, niti da bi propagiral kakršno koli politično ideologijo. Je zgolj orodje za komunikacijo in izobraževanje, ne pa sam sebi namen.
+Medslovanska jezikovna vsebina je dragocen vir tako za učence kot za materne govorce slovanskih jezikov, ki jih zanima razumevanje brez predhodnega študija. Glede na komentarje, ki jih dobimo, večina gledalcev medslovanskih vsebin spada v slednjo skupino.
 
-Na žalost je ustvarjalec Slovia namenoma širil lažne informacije o drugih medslovanskih projektih in se celo zatekel k promociji Slovia pod njihovimi imeni. Da ne bo zmede, je treba poudariti, da sta Interslavic in Slovio popolnoma nepovezana projekta. Za kratko razlago glejte izjavo o omejitvi odgovornosti.
+### Zakaj potrebujemo medslovanščino, če je povsod angleščina? \{#interslavic-and-english}
 
-## Medslovanska in praslovanska/stara cerkvena slovanščina \{#interslavic-and-proto-slavicold-church-slavonic}
+_Vojtěch Merunka_ in _Jan van Steenbergen_, glavna avtorja sodobne medslovanščine, sta ugotovila, da je angleščina sicer globalni jezik, vendar je lahko za slovanske govorce izziv zaradi svoje edinstvene ortografije, mešanega besedišča, nepravilne slovnice in posebne fonetike. Namen medslovanskega jezika je olajšati komunikacijo znotraj slovanske skupnosti, pri čemer se ohranijo kulturne nianse, ki bi se lahko izgubile pri uporabi neslovanskega jezika.
 
-Praslovanščina obstaja le kot znanstvena ekstrapolacija, toda stara cerkvena slovanščina in njeni različni regionalni odcepi tvorijo dobro izpričan jezik – zelo podoben praslovanščini – ki se je kot pisni jezik uporabljal za Slovane različnih narodnosti do 16. stoletja. Trdili so, da bi bil zaradi tega še vedno odličen kandidat za nevtralni slovanski krovni jezik.
+Oglejte si več primerjav medslovanskih in drugih jezikov [tukaj][11].
 
-Na nek način je točno to, kar počnemo. Ne smemo pa pozabiti, da starocerkvenoslovanska fonologija, pravopis, slovnica in sintaksa niso le zapleteni, ampak tudi izjemno arhaični. Velik del njegovega besedišča se v sodobnih jezikih ne uporablja več, manjkajo pa besede za sodobne pojme. Da bi dobili idejo, si samo poskusite predstavljati, kaj se zgodi, če poskusite uporabiti klasično latinščino za pogovor z govorci francoščine ali italijanščine!
+### Ali ne moremo preprosto izbrati naravnega slovanskega jezika, ki bo služil kot medslovanski jezik? \{#a-natural-slavic-language}
 
-Da bi bila primerna za sodobno sporazumevanje, stara cerkvena slovanščina zahteva temeljito posodobitev, ki vključuje veliko več kot le dodajanje besed za "letalo" in "televizija". Vsak posamezen element je treba postaviti pred prizmo _modernih slovanskih jezikov_ in ga ustrezno posodobiti. Vsak od teh sodobnih jezikov je produkt lastnega, individualnega razvoja, kar pojasnjuje, zakaj so besede od enega jezika do drugega videti drugače in imajo včasih tudi drugačen pomen.
+Na žalost brez predhodnega učenja noben posamezen naravni slovanski jezik ne more služiti kot medsebojno razumljivo sporazumevalno sredstvo za vse slovanske govorce.
 
-Da bi zagotovili doslednost, nikoli ne izposojamo besed _neposredno_ iz teh jezikov. Namesto tega primerjamo njihove različne oblike, se vrnemo k njihovim (staroslovanskim ali rekonstruiranim) osnovnim oblikam in jih vzamemo kot izhodišče za vzpostavitev največjega skupnega imenovalca glede na ustaljene, večinsko zasnovane vzorce. Tako ustvarimo tesen približek hipotetičnega jezika, ki bi lahko nastal, če slovanski jeziki ne bi razpadli v celotno družino jezikov – ali, če vam je ljubše, tega, kar bi postala stara cerkvena slovanščina, če bi ji bilo dovoljeno se skozi stoletja naravno razvijajo.
+### Ali Interslavic želi združiti države v enotno slovansko državo? \{#interslavic-to-rule-them-all}
 
-Z drugimi besedami, medslovanščina se začne tam, kjer se konča stara cerkvena slovanščina, in jo lahko obravnavamo kot njeno sodobno nadaljevanje. Lahko bi rekli, da je nastanek medslovanščine v bistvu razveljavitev razvoja, zaradi katerega so se slovanski jeziki oddaljevali.
+Ne, medslovanščina je nepolitični jezikovni projekt. Njegov cilj je pospeševanje komunikacije v turizmu, kulturi in gospodarstvu.
 
-[novoslovanščina]: http://www.neoslavonic.org
+### Kakšno politično držo podpira Interslavic? Gre za obliko panslavizma? \{#political-stance-of-interslavic}
 
-[Slovenian]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
+Medslovanščina ni oblika panslavizma in ne zagovarja nobene politične drže. Gre za povsem lingvističen projekt.
 
-[sicilijano/klaviatura]: http://tyflonet.com/siciliano/klaviatury
+[1]: https://interslavic-dictionary.com/
 
-[`JCUKEN`]: https://bit.ly/2NSMxdC
+[2]: https://huggingface.co/spaces/Salavat/Interslavic-Translator-NLLB200
 
-[`LJNJERTZ`]: https://bit.ly/37frqto
+[3]: https://discord.com/invite/n3saqm27QW/
 
-[`IVERT']: https://bit.ly/2XwwTbb
+[4]: https://www.facebook.com/groups/interslavic/
 
-[`ѢHERTY`]: https://bit.ly/2prMdcr
+[5]: http://t.me/mashina_slovnik_bot
 
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
+[6]: http://steen.free.fr/interslavic/transliterator.html
 
-[razširjeni transliterator]: http://steen.free.fr/interslavic/transliterator_extended.html
+[7]: http://steen.free.fr/interslavic/transliterator_extended.html
 
-[slovarji]: http://steen.free.fr/interslavic/slovniky.html
+[8]: http://steen.free.fr/interslavic/maly_princ.html
 
-[Medslovanski zbor]: http://facebook.com/groups/1933305396885265
+[9]: https://youtube.com/playlist?list=PLN7FF06VmIkkpWsnaRKitfJMx0Ngr8h-g
 
-[1]: ../grammar/index.md
+[10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[2]: ../orthography.md#etymological-alphabet
+[11]: ./language-comparison.md
 
+[12]: ../grammar/index.md
+
+[13]: ../simple-grammar/index.md
+
+[14]: ../orthography.md#representation-of-problematic-characters
+
+[15]: ../../resources/keyboards.md
+
+[16]: ../../resources/index.md
