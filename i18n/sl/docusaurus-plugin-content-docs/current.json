@@ -34,5 +34,9 @@
   "sidebar.learnSidebar.category.Preprosta slovnica": {
     "message": "Preprosta slovnica",
     "description": "The label for category Preprosta slovnica in sidebar learnSidebar"
+  },
+  "sidebar.resourcesSidebar.category.Applets": {
+    "message": "Applets",
+    "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

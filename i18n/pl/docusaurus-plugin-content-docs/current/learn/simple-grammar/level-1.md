@@ -11,7 +11,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] można zapisać alfabetem łacińskim i cyrylicą, ale tutaj skoncentrujemy się na alfabecie łacińskim:
 
-:::komponent{name="MDSlovianto1"}
+:::component{name="MDSlovianto1"}
 - jako _a_ po angielsku :en[f**a**ther]
 - jak w języku angielskim
 - jak _ts_ po angielsku „bi**ts**”
@@ -245,7 +245,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
 ## Przykładowy tekst: W restauracji
 
-:::komponent{name="MDSlovianto2"}
+:::component{name="MDSlovianto2"}
 - Dobry dzień! Czy restauracja jest otwarta?
 - Dobry dzień. Tak, jesteśmy otwarci.
 - Czy można tu napić się czegoś?
@@ -263,7 +263,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
 ## Podstawowe słownictwo
 
-:::komponent{name="MDSlovianto3"}
+:::component{name="MDSlovianto3"}
 :::
 
 [1]: https://interslavic-dictionary.com

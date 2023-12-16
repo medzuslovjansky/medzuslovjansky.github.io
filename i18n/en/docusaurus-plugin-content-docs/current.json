@@ -22,5 +22,9 @@
   "sidebar.learnSidebar.category.Miscellaneous": {
     "message": "Miscellaneous",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
+  },
+  "sidebar.resourcesSidebar.category.Applets": {
+    "message": "Applets",
+    "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

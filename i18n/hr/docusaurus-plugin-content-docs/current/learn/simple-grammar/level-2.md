@@ -107,7 +107,7 @@ Isto što vrijedi za pridjeve, vrijedi i za posvojne, pokazne, odnosne, neodređ
 
 ### Sadašnje vrijeme
 
-:::komponenta{name="MDSimpleGrammar1"}
+:::component{name="MDSimpleGrammar1"}
 :::
 
 U :notr[Slovianto] razini 1 naučili ste da se sadašnje vrijeme tvori dodavanjem završetka `-(e)t` na korijen: :isv[ja děla-t] "ja radim", :isv[vy prosi-t] "ti pitaš", :isv[oni nes-et] "oni nose". Za slavensko uho to, međutim, zvuči neprirodno, jer svi slavenski jezici sklanjaju svoje glagole za lice i broj. Da biste ostavili bolji dojam, mnogo toga možete dobiti učenjem i nekih od ovih osobnih završetaka.
@@ -118,7 +118,7 @@ Završetak `-š` i osobna zamjenica :isv[ty] trebali bi se koristiti samo za obi
 
 ### Prošlo vrijeme
 
-:::komponenta{name="MDSimpleGrammar2"}
+:::component{name="MDSimpleGrammar2"}
 :::
 
 U prošlom vremenu glagoli se ne konjugiraju prema licu. Međutim, oni su konjugirani za spol. Ovo se može činiti čudnim, ali objašnjenje je prilično jednostavno: oblik :isv[dělal] zapravo je particip, što znači nešto poput „učinio”, i zato se slaže sa subjektom u rodu i broju, ali ne i lično. Obrasci su oni prikazani u tablici s desne strane.
@@ -133,21 +133,21 @@ Kondicional se formira dodavanjem čestice :isv[by] u prošlo vrijeme, te stoga 
 
 ### Imperativ
 
-:::komponenta{name="MDSimpleGrammar3"}
+:::component{name="MDSimpleGrammar3"}
 :::
 
 Osim oblika imperativa koji ste već naučili (2. lice množine), postoje i oblici imperativa za 2. lice jednine i 1. lice množine. Završeci su `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) i `-jte` (:abbr[2 pl.]) iza samoglasnika i `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) i `-ite` (:abbr[2 pl.]) iza suglasnika. Dakle, :isv[dělajte] znači "učini!" i može biti usmjereno na više ljudi odjednom, ali može poslužiti i kao pristojniji oblik jednine, dok se :isv[dělaj] smije koristiti samo za prijatelje, obitelj i djecu. :isv[Dělajmo] znači: „Učinimo”.
 
 ### Glagol biti"
 
-:::komponenta{name="MDSimpleGrammar4"}
+:::component{name="MDSimpleGrammar4"}
 :::
 
 Budući da sve navedeno također utječe na jedini nepravilni glagol u :notr[Slovianto], :isv[byti]  „biti“, evo njegove potpune konjugacije.
 
 ## Ogledni tekst
 
-:::komponenta{name="MDSimpleGrammar5"}
+:::component{name="MDSimpleGrammar5"}
 ### Naše selo
 
 Od svih mogućih mjesta gdje ljudi žive, ono koje najviše volim je malo selo daleko od gradske buke, sa svojom malom zajednicom. Nema prenapučenih stanova, samo male drvene kućice. To je jednostavno i slikovito mjesto za život, sa stanovnicima čija su lica poznata poput cvijeća u našem vrtu. To je osamljeni svijet s nekoliko ljudi, usko povezanih kao mravi u mravinjaku, ili pčele u košnici, ili ovce u toru, ili časne sestre u samostanu, ili mornari na brodu – gdje svatko svakog poznaje i svatko je poznat svima, gdje se svatko za svakoga zanima, i svatko se može nadati da se drugi zanima za njega.

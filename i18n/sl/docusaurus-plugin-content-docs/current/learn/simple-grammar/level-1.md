@@ -11,7 +11,7 @@ origin: http://steen.free.fr/interslavic/slovianto1.html
 
 :notr[Slovianto] lahko zapišemo v latinici in cirilici, vendar se bomo tukaj osredotočili na latinico:
 
-:::komponenta{name="MDSlovianto1"}
+:::component{name="MDSlovianto1"}
 - kot _a_ v angleščini :en[f**a**ther]
 - kot v angleščini
 - kot _ts_ v angleščini „bi**ts**”
@@ -245,7 +245,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 
 ## Primer besedila: V restavraciji
 
-:::komponenta{name="MDSlovianto2"}
+:::component{name="MDSlovianto2"}
 - Dober dan! Je restavracija odprta?
 - Dober dan. Da, odprti smo.
 - Ali je mogoče tukaj kaj popiti?
@@ -263,7 +263,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 
 ## Osnovno besedišče
 
-:::komponenta{name="MDSlovianto3"}
+:::component{name="MDSlovianto3"}
 :::
 
 [1]: https://interslavic-dictionary.com

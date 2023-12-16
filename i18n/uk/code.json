@@ -368,24 +368,33 @@
     "description": "The unlisted content banner title"
   },
   "com.script.Standard": {
-    "message": "Standard"
+    "message": "Стандартний"
   },
   "com.script.Etymological": {
-    "message": "Etymological"
+    "message": "Етимологічний"
   },
   "com.script.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Вимова"
   },
   "com.script.Latin": {
-    "message": "Latin"
+    "message": "Латиниця"
   },
   "com.script.IPA": {
-    "message": "IPA"
+    "message": "МФА"
   },
   "com.markdown.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Вимова"
   },
   "com.script.Cyrillic": {
-    "message": "Cyrillic"
+    "message": "Кирилиця"
+  },
+  "com.grammar.singular": {
+    "message": "однина"
+  },
+  "com.grammar.plural": {
+    "message": "множина"
+  },
+  "com.interslavic.declinator.case": {
+    "message": "відмінок"
   }
 }

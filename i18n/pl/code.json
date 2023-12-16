@@ -368,24 +368,33 @@
     "description": "The unlisted content banner title"
   },
   "com.script.Standard": {
-    "message": "Standard"
+    "message": "Standardowy"
   },
   "com.script.Etymological": {
-    "message": "Etymological"
+    "message": "Etymologiczny"
   },
   "com.script.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Wymowa"
   },
   "com.script.Latin": {
-    "message": "Latin"
+    "message": "Łacinka"
   },
   "com.script.IPA": {
-    "message": "IPA"
+    "message": "MAF"
   },
   "com.markdown.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Wymowa"
   },
   "com.script.Cyrillic": {
-    "message": "Cyrillic"
+    "message": "Cyrylica"
+  },
+  "com.grammar.singular": {
+    "message": "liczba pojedyncza"
+  },
+  "com.grammar.plural": {
+    "message": "liczba mnoga"
+  },
+  "com.interslavic.declinator.case": {
+    "message": "przypadek"
   }
 }

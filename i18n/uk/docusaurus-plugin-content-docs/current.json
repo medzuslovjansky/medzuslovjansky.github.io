@@ -30,5 +30,9 @@
   "sidebar.learnSidebar.category.Проста граматика": {
     "message": "Проста граматика",
     "description": "The label for category Проста граматика in sidebar learnSidebar"
+  },
+  "sidebar.resourcesSidebar.category.Applets": {
+    "message": "Applets",
+    "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

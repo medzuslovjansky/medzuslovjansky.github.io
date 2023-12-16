@@ -1,154 +1,148 @@
 ---
 sidebar_position: 5
-license: republish
-author: Jan van Steenbergen
-origin: http://steen.free.fr/interslavic/faq.html
 ---
 
-# Frequently asked questions
+# Frequently asked questions (FAQ)
 
-## How to learn and use Interslavic? \{#how-to-learn-and-use-interslavic}
+### What is Interslavic (Medžuslovjansky)? \{#what-is-interslavic}
 
-This depends very much on what your needs are, and also on whether you are a Slav yourself. If you want to write a text in Interslavic, there is no need to really learn it. All you need is the grammar and the dictionary. Don't be afraid that the result will be bad, because there is no such thing as _bad Interslavic_: remember that Interslavic is not a hermetic language, but rather a set of recommendations you can follow at will. If you try to follow them, the result will in all likeliness be better than if you don't.
+Interslavic is a constructed auxiliary language designed to be mutually intelligible for speakers of various Slavic languages. It draws from a common base of Slavic vocabulary and grammar.
 
-To be proficient in Interslavic, you will of course have to learn it. If you are Slavic or at least have good knowledge of one or more Slavic languages, this is pretty a much a matter of gradually learning how to modify your own language in order to make it more accessible for other Slavs. Our experience is that most people quickly and easily find out how to do this by simply reading and listening. Of course, reading the [grammar][1] and/or the tutorial can help, too!
+:::note Example
 
-If you are new to the Slavic languages, you obviously cannot take any existing Slavic language as a starting point. A beginner's course is in preparation, but in the meantime, just read the grammar and the afore-mentioned tutorial carefully. You can also start with learning [`Slovianto`][Slovianto], a highly simplified form of Interslavic that allows you to start communicating on a very basic level, while gradually enlarging your knowledge and skills.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
-When it comes to speaking, one has always to remember that communication is not just a matter of language. The non-verbal part is equally important. When you try to use Interslavic in a conversation, always make sure that the person you are talking to actually understands you. Speak slowly, keep eye-contact, articulate well, and always be a good listener.
+:::
 
-## Is it true that all Slavs can understand Interslavic? \{#is-it-true-that-all-slavs-can-understand-interslavic}
+### What does "auxiliary language" mean? \{#what-does-auxiliary-language-mean}
 
-The short answer is: no. There is a lot of Pan-Slavic vocabulary, but if all Slavic languages used the same words, there would be no need for a separate Interslavic language. All we have done is selecting words that are understandable to the largest number of Slavic nations. Inevitably, some words are more geared towards East or West, North or South. If a writer consistently uses words that are best understood by one particular half of the Slavic population, this will automatically lead to better results in this particular half and worse results in the other.
+Being an auxiliary language means that Interslavic does not intend to replace any living Slavic languages or serve as a language for high literature — we already have vibrant, living languages for those purposes. Instead, its goal is to aid in communication between people from different linguistic backgrounds.
 
-Understanding Interslavic is largely a matter of understanding the general meaning of a sentence even without understanding some individual words. This requires a certain level of intelligence and experience. People who have problems understanding their own language when written or pronounced slightly differently, cannot reasonably be expected to understand the same text in a language like Interslavic. Any Interslavic text will inevitably contain words that a Slavic speaker cannot link to his own language, and the ability to fill in these lexical gaps varies from person to person. Every now and then, discussions take place on the Internet about some Interslavic text fragment, and the answers are often conflicting: one person claims to understand every single word, another person of the same nationality understands only 40%.
+### How to learn and use Interslavic? \{#how-to-learn-and-use}
 
-Also, listening to a language one does not actively know requires a level of concentration that can be achieved only if the listener is willing to cooperate. A person who has something to gain from the conversation will try harder than a person who is tired, annoyed and uninterested. The speaker should always help the listener as much as possible by speaking slowly and clearly, constantly being aware of the fact that the listener needs some time for processing.
+If you're already familiar with a Slavic language:
+* Skim through [Interslavic Grammar][12] and observe any Interslavic text for guidance, for instance, [The Little Prince][8].
+* Refer to [Interslavic Dictionary][1] for translating words and understanding their declensions.
+* Begin composing sentences using the dictionary. Don't be afraid – most Slavic languages have similar enough grammar and vocabulary.
+* Expect several months of dedicated learning and practice to become proficient in writing and speaking Interslavic.
 
-All we can say with certainty is that a vast majority of those who have commented on Interslavic or participated in our research projects can understand texts in written or spoken Interslavic reasonably well. There are no huge differences in intelligibility between speakers of different Slavic languages, except that Czechs and Slovaks score a bit higher and South Slavs a bit lower than average. What we do know, however, is that there is correlation between people's capability to understand Interslavic and their level of education.
+If you don't know a Slavic language:
+* Review the [Slovianto][13] tutorial for an introductory language overview.
+* Join the Interslavic community on [Discord][3] and [Facebook][4] for the latest advice on approaches that suit your needs.
 
-## What are those weird diacritics and letters some people use in Interslavic? \{#what-are-those-weird-diacritics-and-letters-some-people-use-in-interslavic}
+### How long does it take to learn Interslavic? \{#how-long-does-it-take-to-learn}
 
-The Interslavic Latin alphabet has four letters with a diacritic: `Č`, `Š` and `Ž` (used in all Slavic orthographies except Polish) as well as `Ě` (used in Czech and Sorbian, representing a „ye“ sound). However, in some texts, but also in the dictionary, you may encounter letters like `Å`, `Đ`, `Ȯ`, `Ŕ` and `Ų`. These letters are optional extensions of the standard alphabet that belong to the [Interslavic etymological alphabet][2].
-They convey additional information about etymology and pronunciation. For those whose languages have a richer phonology (like Russian and Polish), they make it easier to link Interslavic words to words in their own language. Others can simply ignore the diacritics (exceptions: `Ć` and `Đ` should be read as `Č` and `DŽ`).
+Interslavic has two levels of proficiency: standard and advanced.
 
-There is absolutely nothing wrong with it if you don't know how and when to use these letters. They are not mandatory and Interslavic written in standard orthography is by no means inferior to Interslavic with these additions. Besides, we have noticed that the difference between orthographies can be very confusing for new members of our community. Interslavic is very flexible by its very nature, allowing much freedom to its users, but most people expect a language with fixed rules: too much freedom makes it hard for newcomers to learn and practise Interslavic. For that reason, users are asked not to use this extended alphabet in daily conversation, and if they choose to do so anyway, to make it clear that these additional diacritics can be ignored by the reader.
+For Slavic native speakers, learning the standard level of Interslavic should not take a long time – many people reported their learning experience as non-intensive, usually pursued during their free time, and it took them:
 
-Although the aforementioned etymological alphabet works for the Latin alphabet only, some people use Cyrillic equivalents such as `Ѣ`, `Ѧ` and `Ѫ`, taken from Old Church Slavonic. Since those letters are archaic and unknown to most readers, using them in practical communication is not only pointless, but also contrary to the very purpose of Interslavic. For that reason, we strongly discourage users from using Cyrillic equivalents of the etymological alphabet.
+* 2-3 weeks of study to write confidently;
+* 1.5-3 months to engage in basic conversations;
+* 8-10 months to speak confidently on a wide range of topics.
 
-## How can I write Interslavic on my own keyboard? \{#how-can-i-write-interslavic-on-my-own-keyboard}
+However, the required time is individual and may vary significantly from person to person. If you do not speak Slavic languages, it will take considerably longer to learn Interslavic.
 
-There are several solutions for this. Standard Interslavic can be written on a Czech keyboard, simplified Interslavic (i.e. without `Ě` and `Y`) also on a Croatian, Serbian or Slovenian keyboard. On Windows the letter `Ě` is available on the latter three as well: just press :kbd[Alt+2], followed by `E/e`.
+### Is it true that all Slavs can understand Interslavic? \{#can-all-slavs-understand-interslavic}
 
-Simplified Cyrillic can be written on a Serbian Cyrillic keyboard. For standard Cyrillic you'll need the letters `Ы` from Russian and `Є` from Ukrainian.
+No. A true statement: **many** Slavs can understand Interslavic well enough without any prior study if they have a strong command of their native Slavic language, focus, and a desire to understand.
 
-Other possibilities:
+### If I learn Interslavic, will I understand other Slavic languages? \{#will-i-understand-other-slavic-languages}
 
-- If you use Windows, see [siciliano/klaviatury].
-- Android has a solution called GBoard. There, the international Latin alphabet contains all letters used in standard and etymological Interslavic, with the exception of `Ȯ`, which can be found on the Livonian keyboard definition. Interslavic Cyrillic can be written with the keyboard definition for Church Slavonic (in that case, write `ЛЬ` and `НЬ` instead of `Љ` and `Њ`).
-- For Cyrillic, you can also use Multiling O Keyboard, with one of the following definitions. Once you install it on your phone, open the links and click the Apply button. These keyboard definitions contain all Cyrillic letters from the modern Slavic languages and all levels of Interslavic Cyrillic:
-  - [`ЈЦУКЕН`] (for East Slavs)
-  - [`ЉЊЕРТЗ`] (for Serbs and Macedonians)
-  - [`ЯВЕРТЪ`] (for Bulgarians)
-  - [`ѢЬЕРТЫ`] (for those using a keyboard similar to QWERTY)
-- Linux has many diacritics for Latin keyboards with the Compose Key.
-- The Mac system has a few international keyboard definitions where you can find them, too (e.g. `ABC Extended`). The letters from Interslavic Cyrillic can also be found in Russian and other keyboard definitions with letters from other Cyrillic orthographies (for example, Mac has standard and phonetic Russian, Belarussian and Ukrainian).
-- On iOS, you can use the Czech keyboard definition. To write etymological Interslavic, you will have to switch between Czech, Croatian (for `Đ`) and Lithuanian (for `Ų`); you probably won't find the letter `Ȯ`, but you can use `Ò` instead or omit it altogether. If you don't want to switch between keyboard definitions for writing Cyrillic, you can use the Ukrainian keyboard, as follows: `І` instead of `Ј`, `ЛЬ` and `НЬ` instead of `Љ` and `Њ`, and `Ы` will appear if you keep pushing `І`.
+Rather not. Learning Interslavic improves your comprehension of other Slavic languages, but it is not a shortcut - to get a good grasp of any particular language, you'll have to learn it specifically.
 
-If you find all this too complicated, it is of course possible to substitute problematic letters with letters available on you own keyboard, too. For example, Poles can write `CZ` instead of `Č`, East Slavs and Bulgarians can write `Й` instead of `J`, etc. For details, see representation of problematic characters. Remember that such variants might have a negative impact on intelligibility.
+### If I speak my native Slavic language to an Interslavic speaker, will they understand me? \{#will-they-understand-me}
 
-For ad hoc use, you can always use the [transliterator] or the [extended transliterator] (for standard and etymological orthography respectively) to get the desired result.
+It varies from person to person. Many Interslavic speakers have reported being able to understand speakers of other Slavic languages, but they also noted that their comprehension abilities differ depending on the specific language. 
 
-## Help! I can't find a word! \{#help-i-cant-find-a-word}
+### Why does Interslavic include non-Slavic words, such as "kalendar"? \{#why-include-non-slavic-words}
 
-Interslavic is an ongoing project, and it is quite possible that you won't find a word you are looking for in the dictionary. If that is the case, looking for synonyms first. If that doesn't work either, this is what you can do:
+The goal of Interslavic is to be immediately accessible and understandable without prior learning. Words like "kalendar" or "kompjuter" are known to all Slavs; therefore, such words get included in the Interslavic lexicon.
 
-- Check a few Slavic dictionaries, especially Russian, Polish, Czech and Serbo-Croatian, and look for results that are similar in multiple languages. You can find a list of online dictionaries [here][dictionaries].
-- If that's too much work, just use the Russian word, or alternatively, the word in your own Slavic language.
-- There is a special Facebook group where you can ask for words, propose new words or suggest changes: [Interslavic Assembly].
+### What are those weird diacritics and letters some people use in Interslavic? \{#what-are-those-weird-diacritics}
 
-## Interslavic and English \{#interslavic-and-english}
+The Interslavic Latin alphabet has only four letters with diacritics: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. However, some people use additional diacritics and letters to memorize Slavic etymology, so occasionally, you might encounter weird words like :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
 
-One recurring argument in discussions about Interslavic and artificial languages in general is this: **why would anyone learn it, since we already have English as a world language?**
+While etymological scripts may help improve pronunciation in advanced stages, they often degrade written text comprehension and are considered non-standard. Therefore, if you are just starting to learn Interslavic, it is recommended to stick to the standard Latin or Cyrillic alphabet and focus on mastering the basics.
 
-That is undeniably true, and if you think you can get by with English in the Slavic world, then by all means do. We surely will not try to stop you! However, please consider that in Central and Eastern Europe things are rarely that simple. Many people in that part of the world are completely monolingual, and even those who claim to know English often won't be able to produce more than just a few broken sentences in it. That is especially true at the countryside, but in cities, shops and even hotels this situation is far from exceptional either. In general, the further East you travel, the worse it gets. In the Russian Federation, for example, only 5.5 % of the population can speak English (according to the 2010 census). Although this situation is likely to improve in the future, it will take many decades before English will be really helpful to those visiting the region.
+:::info Tip
 
-Another thing is that many Slavs find it sort of shameful to use English in communication with other Slavs.
+If you approach Interslavic as a platform for studying other Slavic languages, rather than a standalone language, it might be beneficial to enable the etymological script in the [Interslavic Dictionary][1] from the day one, so you don't have to relearn the words later.
 
-English is a highly specific language, with a cultural background, semantics, syntax, spelling etc. that are very different from the Slavic languages. This is also why computer translations via Google Translate between Czech and Polish or Croatian are totally unusable, often even absurd and ridiculous. English is simply too different from the Slavic languages to serve as a pivot language or an auxiliary language on Slavic territory.
+:::
 
-Of course, Interslavic is not the ultimate solution to these problems. Understanding it will always require some effort and a certain level of intelligence on the part of the reader or listener. But Interslavic at least makes it possible to communicate on a basic level with monolingual people in any Slavic-speaking country. And if you use Interslavic in writing, you can make yourself understood to readers in many different countries, no matter whether they know any other language beside their own.
+### How can I write Interslavic on my own keyboard? \{#keyboard-layouts}
 
-## Interslavic and Russian \{#interslavic-and-russian}
+There are several solutions for this:
 
-It has been argued by some that it is a shame if Slavs use English to communicate with other Slavs. **Wouldn't Russian, the mother tongue of almost half of the Slavs and understood by almost half the other half, be a natural lingua franca for Slavic people?**
+* Pick one of our [keyboard layouts][15] for your operating system.
+* If you cannot find or install a custom keyboard:
+  * standard Interslavic can be written on a **Czech** keyboard,
+  * simplified Interslavic (without `Ě`/`Є` and `Y`/`Ы`) – also on a Croatian, Serbian or Slovenian keyboard.
+* If you find all this too complicated, you may substitute problematic letters with letters available on your keyboard, too:
+  * Poles can write `CZ` instead of `Č`, `SZ` instead of `Š`, `Ż` instead of `Ž`, etc.
+  * East Slavs and Bulgarians can write `Й` or `І` instead of `J`, `ЛЬ` instead of `Љ`, `НЬ` instead of `Њ`, etc.
+  * For details, see [representation of problematic characters][14] and remember that such variants might worsen intelligibility.
+* For ad-hoc use, you can always use the [transliterator][6] or the [extended transliterator][7] (for standard and etymological orthography, respectively) to get the desired result.
 
-Russian is well worth learning, but it is not exactly an easy language to master. Like all other Slavic languages, Russian has had its own separate development from the common ancestor of the Slavic languages. Its syntactic structure is considerably different from the other Slavic languages (for example, the verb „to have“ is practically absent, the verb „to be“ heavily reduced both in form and use), and it is full of words and idioms that cannot be found in any other Slavic language. Without prior knowledge, a West or South Slav is unlikely to understand Russian.
+### Is there an automatic translator for Interslavic? \{#automatic-translator-for-interslavic}
 
-Apart from that, Russian has been imposed upon the countries of Central and Eastern Europe as a lingua franca for a long time, and the effect is that many people, both Slavs and non-Slavs, have developed a strong resistance against Russian, which they have come to associate with „the language of the oppressor“.
+Yes, there is a prototype of an [automatic translator for Interslavic][2] available. It is functional but still requires further development and improvement by programmers.
 
-At last, would Russian really be the best solution for Polish-Croatian relations?
+### Is there a Duolingo course for Interslavic? \{#duolingo-course-for-interslavic}
 
-### So how about a Simplified Russian, then? \{#so-how-about-a-simplified-russian-then}
+No, there is no Duolingo course available right now.
 
-Russian is a living and standardized language already. Sure, a simplified form of it is not unthinkable. One might for example get rid of all soft consonants, reduce the number of declensions and conjugations, and eliminate all irregularity. The ultimate result of such actions, however, will be nothing but Russian with mistakes, in other words: bad Russian. In mixed groups, native speakers of the language of communication are always in a more advantageous position than those whose knowledge of it is limited.
+### Help! I can't find a word! \{#cant-find-a-word}
 
-Besides, a simplified version of Russian would perhaps be easier to learn and use, but not necessarily easier to understand for those who don't know it, nor would it address any of the other issues.
+Interslavic is an evolving project, and it is possible that you may not be able to find a specific word [in the dictionary][1]. In that case:
+- look for synonyms first;
+- search using Mašina bot on the [Discord server][3] or [Telegram Messenger][5];
+- ask Interslavic speakers on the Discord server to help you.
 
-## Interslavic and Esperanto \{#interslavic-and-esperanto}
+### Are there any movies, music, or books in Interslavic? \{#movies-music-or-books-in-interslavic}
 
-Another frequently heard point is this: **we have Esperanto, so what's the point of yet another artificial language?**
+Yes, there is various content available in Interslavic:
+- [Movies (YouTube playlist)][9]
+- [Songs (YouTube playlist)][10]
 
-Esperanto is a language intended for the whole world, and it has been designed to be as simple and culturally neutral as possible. Whether Esperanto has succeeded in achieving its goals as a global language is disputable, but it is an undeniable fact that Esperanto is by far the most successful artificial language ever. It has, however, one major flaw: no matter how simple it is, one has to know its grammar and its lexical building blocks pretty well before one can understand it. The direct consequence is that knowledge of Esperanto is useful in communication with other Esperantists only, which essentially makes it a community language.
+In the [Resources][16] section, you can find more Interslavic books, short stories, audiobooks, poems, and songs.
 
-Interslavic, on the other hand, was neither designed to be used on a global scale, nor to serve as the language of a community. As far as it can be considered an artificial language at all, it is a so-called _zonal constructed language_, an auxiliary language for communication with or among speakers of a relatively heterogeneous family of languages, in this case the Slavic languages. It was designed in such way that speakers of these languages can understand it without even knowing what language they are dealing with. Although Interslavic grammar is admittedly a lot more complex than Esperanto's, it is extremely easy for speakers of Slavic languages: all they need to know is basically a few simple tricks for modifying their own languages.
+### Who needs content in Interslavic: movies, music, texts? \{#who-needs-content-in-interslavic}
 
-In other words, the benefits of learning Interslavic are of a completely different order than those of learning Esperanto.
+Interslavic language content is a valuable resource for both learners and native speakers of Slavic languages interested in understanding it without prior study. Based on the comments we get, the majority of viewers of Interslavic content belong to the latter group.
 
-## Interslavic and Slovio \{#interslavic-and-slovio}
+### Why do we need Interslavic if there is English everywhere? \{#interslavic-and-english}
 
-Before Interslavic was (re)started in 2006 under the name „Slovianski“, there had been dozens of other Slavic-based language projects. By then, the older ones were obsolete and forgotten, while the more recent ones were underdeveloped one-man projects – with one notorious exception: **Slovio**, a fairly well-known project with a complete grammar and a large dictionary. Some have asked: **why start a new project if there is already one such language around?**
+_Vojtěch Merunka_ and _Jan van Steenbergen_, principal authors of the modern Interslavic, have noted that while English is a global language, it can be challenging for Slavic speakers due to its unique orthography, mixed vocabulary, irregular grammar, and peculiar phonetics. Interslavic aims to facilitate communication within the Slavic community, preserving cultural nuances that might be lost when using a non-Slavic language.
 
-Indeed, Slovio and Interslavic are both Slavic-based auxiliary languages, but that is where the similarity ends. Slovio is the self-proclaimed language of radical pan-Slavism, yet it also claims to be _„universalju“_, a language for the whole world. Whatever be its true purpose, it is well worth mentioning that Slovio is not very Slavic at all: its grammar is almost entirely based on Esperanto, its word building mechanisms are mostly Germanic, and its vocabulary, although clearly dominated by (often mutilated) Russian words, does not relate in any predictable way to the Slavic languages either. As a result, its educational value is practically zero. Because of its artificial and un-Slavic character, Slovio has never succeeded in gaining any acceptation among Slavs. In addition, all Slovio activity has practically died out in 2011.
+See more comparisons between Interslavic and other languages [here][11].
 
-Unlike Slovio, Interslavic is entirely based on common Slavic material. It is neither intended to become a world language, nor to serve as the language of a speaker community, nor to propagate any political ideology. It is merely a tool for communication and education, not a purpose in itself.
+### Can't we just choose a natural Slavic language to serve as the Interslavic language? \{#a-natural-slavic-language}
 
-Sadly, Slovio's creator has deliberately been spreading false information about other Interslavic projects and even resorted to promoting Slovio under their names. To avoid confusion, it should be emphasised that Interslavic and Slovio are completely unrelated projects. See the disclaimer for a short explanation.
+Unfortunately, without prior learning, no single natural Slavic language can serve as a mutually intelligible means of communication for all Slavic speakers.
 
-## Interslavic and Proto-Slavic/Old Church Slavonic \{#interslavic-and-proto-slavicold-church-slavonic}
+### Does Interslavic aim to unite the countries into a single Slavic state? \{#interslavic-to-rule-them-all}
 
-Proto-Slavic exists only as a scientific extrapolation, but Old Church Slavonic and its various regional offshoots constitute a well-attested language – very similar to Proto-Slavic – that has been used as a written language for Slavs of different nationalities up to the 16th century. It has been argued that this would still make it an excellent candidate for a neutral Slavic umbrella language.
+No, Interslavic is a non-political linguistic project. Its objective is to foster communication in tourism, culture, and business.
 
-In a way, that is precisely what we are doing. It should be remembered, however, that Old Church Slavonic phonology, orthography, grammar and syntax are not only complicated, but also extremely archaic. Much of its vocabulary is no longer used in the contemporary languages, while words for modern concepts are lacking. To get an idea, just try to imagine what happens if you try using Classical Latin to converse with speakers of French or Italian!
+### What political stance does Interslavic support? Is it a form of Pan-Slavism? \{#political-stance-of-interslavic}
 
-To be suitable for modern communication, Old Church Slavonic requires a thorough modernisation, which entails a lot more than just adding words for „airplane“ and „television“. Every single element must be held against the prism of the _modern Slavic languages_ and updated accordingly. Each of these modern languages is the product of its own, individual development, which explains why words look differently from one language to another and sometimes also have different meanings.
+Interslavic is not a form of Pan-Slavism and does not endorse any political stance. It is a purely linguistic project.
 
-To ensure consistency, we never borrow words _directly_ from these languages. Instead, we compare their various shapes, return to their (Old Slavonic or reconstructed) their base forms and take those as a starting point for establishing the largest common denominator according to fixed, majority-based patterns. Thus, we create a close approximation of the hypothetical language that might have emerged if the Slavic languages would not have fallen apart into an entire family of languages – or, if you prefer, of what Old Church Slavonic would have become had it been allowed to develop naturally over the centuries.
-
-In other words, Interslavic begins where Old Church Slavonic ends, and can be treated as a modern continuation of it. One could say that the making of Interslavic is essentially the unmaking of developments that made the Slavic languages drift apart.
-
-[Neoslavonic]: http://www.neoslavonic.org
-
-[Slovianto]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[siciliano/klaviatury]: http://tyflonet.com/siciliano/klaviatury
-
-[`ЈЦУКЕН`]: https://bit.ly/2NSMxdC
-
-[`ЉЊЕРТЗ`]: https://bit.ly/37frqto
-
-[`ЯВЕРТЪ`]: https://bit.ly/2XwwTbb
-
-[`ѢЬЕРТЫ`]: https://bit.ly/2prMdcr
-
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
-
-[extended transliterator]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[dictionaries]: http://steen.free.fr/interslavic/slovniky.html
-
-[Interslavic Assembly]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
+[1]: https://interslavic-dictionary.com/
+[2]: https://huggingface.co/spaces/Salavat/Interslavic-Translator-NLLB200
+[3]: https://discord.com/invite/n3saqm27QW/
+[4]: https://www.facebook.com/groups/interslavic/
+[5]: http://t.me/mashina_slovnik_bot
+[6]: http://steen.free.fr/interslavic/transliterator.html
+[7]: http://steen.free.fr/interslavic/transliterator_extended.html
+[8]: http://steen.free.fr/interslavic/maly_princ.html
+[9]: https://youtube.com/playlist?list=PLN7FF06VmIkkpWsnaRKitfJMx0Ngr8h-g
+[10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
+[11]: ./language-comparison.md
+[12]: ../grammar/index.md
+[13]: ../simple-grammar/index.md
+[14]: ../orthography.md#representation-of-problematic-characters
+[15]: ../../resources/keyboards.md
+[16]: ../../resources/index.md
