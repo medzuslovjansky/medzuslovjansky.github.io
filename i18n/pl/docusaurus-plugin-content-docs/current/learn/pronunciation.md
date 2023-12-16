@@ -14,36 +14,36 @@ Sposób wymawiania języków etnicznych zależy od ich rodzimych użytkowników.
 Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie słowiańskim. W poniższej tabeli wyjątki podano w trzeciej kolumnie:
 
 :::component{name="MDPronunciation1"}
-- jak `a` w :en[f**a**ther]
-- jak `b` w :en[**b**ook]
-- jak `ts` w :en[bi**ts**]
-- jak `ch` w :en[**ch**urch]
-- jak `d` w :en[**d**eer]
-- jak `j` w :en[**J**ohn]
-- jak `e` w :en[b**e**st]
-- jak `ye` w :en[**ye**t]
-- jak `f` w :en[**f**orest]
-- jak `g` w :en[**g**ood]
-- jak `ch` po szkocku :en[lo**ch**]
-- jak `ea` w :en[b**ea**t]
-- jak `y` w :en[**y**ard]
-- jak `k` po angielsku, ale bez aspiracji
-- jako `l` w języku angielskim
-- jak `li` w :en[mil**li**on]
-- jak `m` w :en[**m**op]
-- jak `n` w :en[**n**orth]
-- jak `ny` w :en[ca**ny**on]
-- jak `o` w :en[**o**r]
-- jak `p` po angielsku, ale bez aspiracji
-- walcowane `r`
-- jak `s` w :en[**s**pin]
-- jak `sh` w :en[**sh**op]
-- jak `t` po angielsku, ale bez aspiracji
-- jak `oo` w :en[b**oo**k]
-- jak `v` w :en[a**v**oid]
-- jak `i` w :en[b**i**t]
-- jak `z` w :en[**z**oo]
-- jak `si` w :en[vi**si**on]
+- jak `a` w :pl[m**a**ma]
+- jak `b` w :pl[**b**urak]
+- jak `c` w :pl[**c**ytryna]
+- jak `cz` w :pl[**cz**kawka]
+- jak `d` w :pl[**d**om]
+- jak `dż` w :pl[**dż**em]
+- jak `e` w :pl[**e**lf]
+- jak `je` w :pl[**je**ść]
+- jak `f` w :pl[**f**ortepian]
+- jak `g` w :pl[**g**ra]
+- jak `ch` lub `h` w :pl[**ch**usta]
+- jak `i` w :pl[W**i**ktoria]
+- jak `y` w :pl[m**y**sz]
+- jak `k` w :pl[**k**rąg]
+- jako `l` w :pl[**l**uksus]
+- jak `li` w :pl[mi**li**oner]
+- jak `m` w : pl[**m**aks]
+- jak `n` w : pl[**n**]
+- jak `ny` w :en[kolo**ni**a]
+- jak `o` w :pl[**o**ko]
+- jak `p` w :pl[**p**tak]
+- jak `r` w pl[**r**]
+- jak `s` w :pl[**s**okół]
+- jak `sz` w :pl[**sh**abla]
+- jak `t` w :pl[**t**artak]
+- jak `u` w :pl[**u**kos]
+- jak `v` w :pl[**w**alec]
+- jak `i` w :pl[m**y**sz]
+- jak `z` w :pl[**z**ebra]
+- jak `ż` w :pl[**ż**uk]
 :::
 
 **Uwagi:**
@@ -68,19 +68,19 @@ Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykł
 
 :::component{name="MDPronunciation2"}
 - jak `o` w :en[m**o**ther]
-- jak `ch` w :en[**ch**eap]
+- jak `ć` w :pl[jecha**ć**]
 - jak `d` w :en[**d**uke]
 - jak `j` w :en[**j**eep]
 - jak `e` w :en[bett**e**r]
 - jak `ya` w :en[**ya**m]
 - jak `lj`, zwykle przed `j`, `n`  lub `s`
-- jak `nj`, zwykle przed `j` lub `s`
+- jak `ń` w :pl[ko**ń**]
 - jak `o` w :en[mem**o**ry]
 - podniesiony tryl zębodołowy
-- jak `sh` w :en[**sh**eet]
+- jak `ś` w :en[**ś**winia]
 - jak `t` w :en[**t**ube]
-- między `ow` w amerykańskim :en[m**ow**] i `ew` w :en[h**ew**]
-- dźwięczny odpowiednik `ś`
+- między `ow` w amerykańskim :en[m**ow**] i `ew` w :en[h**ew**]  
+- jak `ź` w :pl[**ź**rebie]
 :::
 
 **Uwagi:**
@@ -93,19 +93,19 @@ Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykł
 
 ## Stres \{#stress}
 
-Akcent jest bezpłatny. Jeśli jednak chcesz pozostać po bezpiecznej stronie, warto zastosować się do wskazówek:
+Akcent jest dowolny. Jeśli jednak chcesz pozostać po bezpiecznej stronie, warto zastosować się do wskazówek:
 
 - Kiedy słowo ma dwie sylaby, akcent pada na pierwszą sylabę.
 - Kiedy słowo ma trzy sylaby, akcent pada na pierwszą lub drugą sylabę.
 - Kiedy słowo ma cztery sylaby, akcent pada na drugą lub trzecią sylabę.
-- Przegięcie nie powinno wpływać na stres; jeśli przymiotnik :isv[běly] wymawia się :isv[b:stress[ě]ly], dopełniacz należy wymawiać :isv[b:stress[ě]logo], a nie :isv[běl:stress[o]go].
+- Fleksja nie powinna wpływać na stres; jeśli przymiotnik :isv[běly] wymawia się :isv[b:stress[ě]ly], dopełniacz należy wymawiać :isv[b:stress[ě]logo], a nie :isv[běl:stress[o]go].
 - Ogólnie rzecz biorąc, lepiej unikać akcentowania przedrostków, przyrostków, końcówek liter itp.
 
 ## Uwaga ogólna \{#general-remark}
 
 Jeśli chodzi o mówienie, zawsze trzeba pamiętać, że słuchacz prawdopodobnie nie zna języka międzysłowiańskiego, a nawet jeśli jest, to nie jest przyzwyczajony do słuchania tego języka. Za każdym razem, gdy używasz języka intersłowiańskiego w rozmowie, zawsze upewnij się, że osoba, z którą rozmawiasz, naprawdę cię rozumie. Mów powoli, utrzymuj kontakt wzrokowy, wyrażaj się jasno i zawsze bądź dobrym słuchaczem. W końcu komunikacja to nie tylko kwestia języka, równie ważna jest część niewerbalna.
 
-To samo, a może nawet bardziej, dotyczy zwracania się do publiczności. Intersłowiański został skonstruowany tak, aby zmaksymalizować zrozumiałość, ale to nie znaczy, że każdy Słowianin może zrozumieć każde jego słowo. Słuchanie Interslavic polega na ciągłym wyszukiwaniu powiązań i konotacji, a kiedy ktoś usłyszy słowo, którego nie rozumie – co jest całkiem nieuniknione – istnieje prawdopodobieństwo, że zacznie się nad nim zastanawiać i przegapi resztę zdania. Konieczne jest, aby zawsze dawać słuchaczom tyle czasu, ile potrzeba na przetworzenie informacji, aby się wchłonęła. Nie mów więc szybko, mów wyraźnie, bierz głęboki oddech między zdaniami, używaj prozodii najlepiej jak potrafisz, i tak dalej...
+To samo, a może nawet bardziej, dotyczy zwracania się do publiczności. Intersłowiański został skonstruowany tak, aby zmaksymalizować zrozumiałość, ale to nie znaczy, że każdy Słowianin może zrozumieć każde słowo. Słuchanie Interslavic polega na ciągłym wyszukiwaniu powiązań i konotacji, a kiedy ktoś usłyszy słowo, którego nie rozumie – co jest całkiem nieuniknione – istnieje prawdopodobieństwo, że zacznie się nad nim zastanawiać i przegapi resztę zdania. Konieczne jest, aby zawsze dawać słuchaczom tyle czasu, ile potrzeba na przetworzenie informacji, aby się przyswoiła. Nie mów więc szybko, mów wyraźnie, bierz głęboki oddech między zdaniami, używaj prozodii najlepiej jak potrafisz, i tak dalej...
 
 [1]: ./phonology.md#hard_and_soft
 
