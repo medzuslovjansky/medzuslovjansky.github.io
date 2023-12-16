@@ -32,7 +32,7 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 - jak `li` w :pl[mi**li**oner]
 - jak `m` w : pl[**m**aks]
 - jak `n` w : pl[**n**]
-- jak `ny` w :en[ca**ny**on]
+- jak `ny` w :en[kolo**ni**a]
 - jak `o` w :pl[**o**ko]
 - jak `p` w :pl[**p**tak]
 - jak `r` w pl[**r**]
