@@ -14,7 +14,7 @@ Sposób wymawiania języków etnicznych zależy od ich rodzimych użytkowników.
 Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie słowiańskim. W poniższej tabeli wyjątki podano w trzeciej kolumnie:
 
 :::component{name="MDPronunciation1"}
-- jak `a` w :pl[m**a**ma]
+- jak `a` w :pl[**a**rbuz]
 - jak `b` w :pl[**b**urak]
 - jak `c` w :pl[**c**ytryna]
 - jak `cz` w :pl[**cz**kawka]
@@ -31,8 +31,8 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 - jako `l` w :pl[**l**uksus]
 - jak `li` w :pl[mi**li**oner]
 - jak `m` w :pl[**m**aks]
-- jak `n` w :pl[**n**oć]
-- jak `ny` w :en[kolo**ni**a]
+- jak `n` w :pl[**n**oc]
+- jak `ni` w :pl[kolo**ni**a]
 - jak `o` w :pl[**o**ko]
 - jak `p` w :pl[**p**tak]
 - jak `r` w pl[**r**adio]
