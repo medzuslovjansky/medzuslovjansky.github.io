@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+custom_edit_url: /501
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 
 # Konstruované slovanské jazyky
@@ -17,9 +21,7 @@ Stejně jako mnoho jiných velkých jazykových rodin i slovanské jazyky inspir
 6. `Општи Словенски Језик` (1796) od Srba Stefana Stratimiroviće, vycházející převážně z ruštiny.
 7. `Wspólny język słowiański` (1807) od Poláka Samuela Lindeho.
 8. `Regular Russian` (1810-1820) od Barlomeje Kopitara.
-9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), od Slováka Jana Herkeľa (1786-před 1865), uveřejněno v jeho ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budapešť 1826) a jeho "---
-sidebar_position: 4
---- ( Vídeň 1826). Tento jazyk vycházel ze západoslovanských jazyků.
+9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), od Slováka Jana Herkeľa (1786-před 1865), uveřejněno v jeho ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budapešť 1826) a jeho " ( Vídeň 1826). Tento jazyk vycházel ze západoslovanských jazyků.
    Ukázka: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Sveslavjanski jezik][3] (1850) od Chorvata Matija Bana, uveřejněno v jeho "`Dubrovnik. Cviet narodnog književstva. Svezak drugi`" (Záhřeb 1851). Na základě staroslověnštiny.
 11. `Vseslavjanski jezik` (1850) od Slovince Jakoba Radoslava Razlaga (1826-1880).

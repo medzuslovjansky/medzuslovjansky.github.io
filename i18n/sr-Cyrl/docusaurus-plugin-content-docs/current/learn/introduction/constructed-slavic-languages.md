@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+custom_edit_url: /501
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 
 # Изграђени словенски језици
@@ -17,9 +21,7 @@ sidebar_position: 4
 6. `Општи Словенски Језик` (1796) српског Стефана Стратимировића, углавном на руском.
 7. `Wspólny język słowiański` (1807) Пољака Самјуела Линдеа.
 8. `Regular Russian` (1810-1820) Барломеја Копитара.
-9. [Универсалис Лингуа Славица][2] (`Vseslovanski Jazyk`) (1826), Словака Јана Херкеља (1786-пре 1865), објављено у његовом „:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]” (Будимпешта 1826) и његовом „---
-sidebar_position: 4
---- ( Беч 1826). Овај језик је био заснован на западнословенским језицима.
+9. [Универсалис Лингуа Славица][2] (`Vseslovanski Jazyk`) (1826), Словака Јана Херкеља (1786-пре 1865), објављено у његовом „:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]” (Будимпешта 1826) и његовом „ ( Беч 1826). Овај језик је био заснован на западнословенским језицима.
    Пример: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Свеславјански језик][3] (1850) Хрвата Матије Бана, објављено у његовом „`Dubrovnik. Cviet narodnog književstva. Svezak drugi`“ (Загреб 1851). На основу старославенског.
 11. `Vseslavjanski jezik` (1850) Словенца Јакоба Радослава Разлага (1826-1880).

@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+custom_edit_url: /501
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 
 # Konstruirani slovanski jeziki
@@ -17,9 +21,7 @@ Tako kot mnoge druge velike jezikovne družine so tudi slovanski jeziki navdihni
 6. `Општи Словенски Језик` (1796) Srba Stefana Stratimirovića, ki temelji predvsem na ruščini.
 7. `Wspólny język słowiański` (1807) Poljak Samuel Linde.
 8. `Regular Russian` (1810-1820) by Barlomej Kopitar.
-9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), Slovak Jan Herkeľ (1786-pred 1865), objavljeno v njegovem ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budimpešta 1826) in njegovem "---
-sidebar_position: 4
---- ( Dunaj 1826). Ta jezik je temeljil na zahodnoslovanskih jezikih.
+9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), Slovak Jan Herkeľ (1786-pred 1865), objavljeno v njegovem ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budimpešta 1826) in njegovem " ( Dunaj 1826). Ta jezik je temeljil na zahodnoslovanskih jezikih.
    Vzorec: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Sveslavjanski jezik][3] (1850) Hrvata Matije Bana, objavljen v njegovem "`Dubrovnik. Cviet narodnog književstva. Svezak drugi`" (Zagreb 1851). Temelji na stari cerkveni slovanščini.
 11. `Vseslavjanski jezik` (1850) by the Slovene Jakob Radoslav Razlag (1826-1880).

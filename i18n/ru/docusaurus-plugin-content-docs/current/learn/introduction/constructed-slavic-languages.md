@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+custom_edit_url: /501
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 
 # Созданные славянские языки
@@ -17,9 +21,7 @@ sidebar_position: 4
 6. `Општи Словенски Језик` (1796 г.) серба Стефана Стратимировича, основано в основном на русском языке.
 7. `Wspólny język słowiański` (1807 г.) поляка Самуэля Линде.
 8. `Regular Russian` (1810-1820) Барломея Копитаря.
-9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826 г.) словака Яна Геркеля (1786-до 1865 г.), опубликовано в его «:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]» (Будапешт, 1826 г.) и его «---
-sidebar_position: 4
---- ( Вена 1826 г.). Этот язык был основан на западнославянских языках.
+9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826 г.) словака Яна Геркеля (1786-до 1865 г.), опубликовано в его «:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]» (Будапешт, 1826 г.) и его « ( Вена 1826 г.). Этот язык был основан на западнославянских языках.
    Образец: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Sveslavjanski jezik][3] (1850) хорвата Матии Бана, опубликовано в его "`Dubrovnik. Cviet narodnog književstva. Svezak drugi`" (Загреб, 1851). На основе старославянского языка.
 11. `Vseslavjanski jezik` (1850) словенца Якоба Радослава Разлага (1826-1880).

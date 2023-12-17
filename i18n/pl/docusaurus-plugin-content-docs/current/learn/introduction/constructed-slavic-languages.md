@@ -1,5 +1,9 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+custom_edit_url: /501
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 
 # Skonstruowane języki słowiańskie
@@ -17,9 +21,7 @@ Podobnie jak wiele innych dużych rodzin językowych, języki słowiańskie zain
 6. `Општи Словенски Језик` (1796) autorstwa Serba Stefana Stratimirovicia, oparty głównie na języku rosyjskim.
 7. `Wspólny język słowiański` (1807) przez Polaka Samuela Linde.
 8. `Regular Russian` (1810-1820) autorstwa Barlomeja Kopitara.
-9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), autorstwa Słowaka Jana Herkeľa (1786-przed 1865), opublikowane w jego „:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]” (Budapeszt 1826) i „---
-sidebar_position: 4
---- ( Wiedeń 1826). Język ten opierał się na językach zachodniosłowiańskich.
+9. [Universalis Lingua Slavica][2] (`Vseslovanski Jazyk`) (1826), autorstwa Słowaka Jana Herkeľa (1786-przed 1865), opublikowane w jego „:notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]” (Budapeszt 1826) i „ ( Wiedeń 1826). Język ten opierał się na językach zachodniosłowiańskich.
    Próbka: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Sveslavjanski jezik][3] (1850) Chorwata Matija Ban, opublikowany w jego „`Dubrovnik. Cviet narodnog književstva. Svezak drugi`” (Zagrzeb 1851). Na podstawie staro-cerkiewno-słowiańskiego.
 11. `Vseslavjanski jezik` (1850) przez Słoweńca Jakoba Radoslava Razlaga (1826-1880).
