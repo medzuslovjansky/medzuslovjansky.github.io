@@ -10,8 +10,8 @@ Međuslavenski je konstruirani pomoćni jezik dizajniran da bude međusobno razu
 
 :::note Primjer
 
-- **Međuslovjanski** je jezik neposredno priblizno vsem slovjansko-jezyčnym ljudima bez učenja.
-- **Medžuslovjanski** je jezik koji bez učenja razumiju gotovo svi slavenski govornici.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
 :::
 

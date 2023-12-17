@@ -10,8 +10,8 @@ sidebar_position: 5
 
 :::note Пример
 
-- **Medžuslovjansky** е език непосредствено priblizno vsim Slovjan-jezyčnym ljudam без обучение.
-- **Меджусловянски** е език, разбираем без учене от почти всички славяноезични.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
 :::
 

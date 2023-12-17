@@ -10,8 +10,8 @@ Medslovanščina je sestavljen pomožni jezik, zasnovan tako, da je medsebojno r
 
 :::note Primer
 
-- **Medžuslovjanski** je jezik takoj priblizno vsem slovansko-jezyčnym ljudem brez učenja.
-- **Medžuslovjanski** je jezik, ki ga brez učenja razumejo skoraj vsi slovansko govoreči ljudje.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
 :::
 

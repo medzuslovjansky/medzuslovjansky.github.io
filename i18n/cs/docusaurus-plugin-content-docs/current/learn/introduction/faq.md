@@ -10,8 +10,8 @@ Interslovanština je konstruovaný pomocný jazyk navržený tak, aby byl pro ml
 
 :::note Příklad
 
-- **Medžuslovjansky** je jazyk hned priblizno vsim Slovjan-jezyčnym ljudam bez učenja.
-- **Medžuslovjansky** je jazyk, kterému rozumí téměř všichni slovansky mluvící lidé bez učení.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
 :::
 
