@@ -62,7 +62,7 @@ Rzeczowniki rodzaju nijakiego kończą się na `-o` (rdzenie twarde) lub `-e` (r
 - Na mianownik/biernik i instrumentalną liczbę pojedynczą wpływa zasada [`o`/`e` ][4].
 - Jeśli chodzi o miejscownik liczby pojedynczej, to, co dotyczy rzeczowników rodzaju męskiego, dotyczy także rzeczowników rodzaju nijakiego: zamiast `-u` można również napisać `-ě` po twardej spółgłosce lub `-i` po miękkiej spółgłosce.
 - Rzeczowniki rodzaju nijakiego nie mają wołacza odrębnego od mianownika.
-- W dopełniaczu liczby mnogiej rzeczowniki rodzaju nijakiego pierwszej deklinacji mają końcówkę `-Ø`. W przypadkach, gdy prowadzi to do niemożliwych zbitek spółgłosek, `-e-` jest wstawiane przed `-j` lub po miękkiej spółgłosce, albo `-o-` między twardymi spółgłoskami: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
+- W dopełniaczu liczby mnogiej rzeczowniki rodzaju nijakiego pierwszej deklinacji mają zerową końcówkę `-Ø`. W przypadkach, gdy prowadzi to do niemożliwych zbitek spółgłosek, `-e-` jest wstawiane przed `-j` lub po miękkiej spółgłosce, albo `-o-` między twardymi spółgłoskami: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
 
 Istnieje również specjalna grupa rzeczowników rodzaju nijakiego z końcówką `-e` (w ortografii naukowej: `-ę`), na przykład :isv[ime] „imię” (rdzeń: `imen-`) i :isv[tele] „cielę” (rdzeń: `telęt-`). Zawiera również kilka słów o `-o`, na przykład :isv[nebo] „niebo” (rdzeń: `nebes-`). W staro-cerkiewnosłowiańskim należeli do specjalnej deklinacji, która obecnie zanikła w większości języków. Można je odmieniać jak zwykłe rzeczowniki rodzaju nijakiego (tak jakby ich mianowniki to :isv[imeno] i :isv[teleto]), można je też odmieniać zgodnie z bardziej archaiczną [deklinacją atematyczną][1].
 
