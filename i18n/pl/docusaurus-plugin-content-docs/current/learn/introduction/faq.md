@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ### Co to jest język międzysłowiański (Medžuslovjansky)? \{#what-is-interslavic}
 
-Międzysłowiański jest skonstruowanym językiem pomocniczym, zaprojektowanym tak, aby był wzajemnie zrozumiały dla osób posługujących się różnymi językami słowiańskimi. Czerpie ze wspólnej podstawy słownictwa i gramatyki słowiańskiej.
+Międzysłowiański jest skonstruowanym językiem pomocniczym, zaprojektowanym tak, aby był wzajemnie zrozumiały dla osób posługujących się różnymi językami słowiańskimi. Czerpie ze wspólnej podstawy, słownictwa i gramatyki słowiańskiej.
 
 :::note Przykład
 
@@ -43,7 +43,7 @@ Dla rodzimych użytkowników języka słowiańskiego nauka standardowego poziomu
 - 1,5-3 miesiące na prowadzenie podstawowych rozmów;
 - 8-10 miesięcy na swobodne wypowiadanie się na różne tematy.
 
-Wymagany czas jest jednak kwestią indywidualną i może się znacznie różnić w zależności od osoby. Jeśli nie znasz języków słowiańskich, nauka języka intersłowiańskiego zajmie znacznie więcej czasu.
+Wymagany czas jest jednak kwestią indywidualną i może się znacznie różnić w zależności od osoby. Jeśli nie znasz żadnego z języków słowiańskich, nauka języka intersłowiańskiego zajmie znacznie więcej czasu.
 
 ### Czy to prawda, że ​​wszyscy Słowianie rozumieją język międzysłowiański? \{#can-all-slavs-understand-interslavic}
 
@@ -59,13 +59,13 @@ To zależy od osoby. Wielu użytkowników języka międzysłowiańskiego zgłosi
 
 ### Dlaczego język międzysłowiański zawiera słowa niesłowiańskie, takie jak „kalendarz”? \{#why-include-non-slavic-words}
 
-Celem Interslavic jest bycie natychmiast dostępnym i zrozumiałym bez konieczności wcześniejszej nauki. Słowa takie jak „kalendar” czy „kompjuter” są znane wszystkim Słowianom; dlatego takie słowa włączają się do leksykonu międzysłowiańskiego.
+Celem języka Międzysłowiańskiego jest bycie natychmiast dostępnym i zrozumiałym bez konieczności wcześniejszej nauki. Słowa takie jak „kalendar” czy „kompjuter” są znane wszystkim Słowianom; dlatego takie słowa włączają się do leksykonu międzysłowiańskiego.
 
 ### Co to za dziwne znaki diakrytyczne i litery, których niektórzy używają w języku międzysłowiańskim? \{#what-are-those-weird-diacritics}
 
 Międzysłowiański alfabet łaciński ma tylko cztery litery ze znakami diakrytycznymi: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Jednak niektórzy ludzie używają dodatkowych znaków diakrytycznych i liter, aby zapamiętać słowiańską etymologię, więc czasami możesz napotkać dziwne słowa, takie jak :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
 
-Chociaż pisma etymologiczne mogą pomóc w poprawie wymowy na zaawansowanych etapach, często pogarszają zrozumienie tekstu pisanego i są uważane za niestandardowe. Dlatego jeśli dopiero zaczynasz uczyć się języka intersłowiańskiego, zaleca się trzymanie się standardowego alfabetu łacińskiego lub cyrylicy i skupienie się na opanowaniu podstaw.
+Chociaż pismo etymologiczne może pomóc w poprawie wymowy na zaawansowanych etapach, często pogarszają zrozumienie tekstu pisanego i jest uważane za niestandardowe. Dlatego jeśli dopiero zaczynasz uczyć się języka intersłowiańskiego, zaleca się trzymanie się standardowego alfabetu łacińskiego lub cyrylicy i skupienie się na opanowaniu podstaw.
 
 :::info Wskazówka
 
@@ -101,7 +101,7 @@ Interslavic to projekt rozwijający się i może się zdarzyć, że nie będzies
 
 - najpierw szukaj synonimów;
 - szukaj za pomocą bota Mašina na [serwerze Discord] [3] lub [Telegram Messenger] [5];
-- poproś o pomoc głośniki Interslavic na serwerze Discord.
+- poproś o pomoc użytkowników na serwerze Discord.
 
 ### Czy w języku międzysłowiańskim są jakieś filmy, muzyka lub książki? \{#movies-music-or-books-in-interslavic}
 
@@ -122,7 +122,7 @@ _Vojtěch Merunka_ i _Jan van Steenbergen_, główni autorzy współczesnego ję
 
 Zobacz więcej porównań między językiem międzysłowiańskim a innymi językami [tutaj] [11].
 
-### Czy nie możemy po prostu wybrać naturalnego języka słowiańskiego, który będzie językiem międzysłowiańskim? \{#a-natural-slavic-language}
+### Czy nie możemy po prostu wybrać naturalny język słowiański, który będzie językiem międzysłowiańskim? \{#a-natural-slavic-language}
 
 Niestety, bez wcześniejszej nauki żaden naturalny język słowiański nie może służyć jako wzajemnie zrozumiały środek komunikacji dla wszystkich słowiańskich użytkowników.
 
