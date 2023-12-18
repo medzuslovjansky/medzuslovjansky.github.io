@@ -23,9 +23,9 @@ W ramach pierwszej deklinacji wyróżniamy trzy typy. Ta różnica dotyczy tylko
 - Rodzaj męski nieożywiony (wszystkie pozostałe rzeczowniki rodzaju męskiego): biernik jest zawsze identyczny z mianownikiem
 - Nijakie: mianownik, biernik i wołacz są zawsze identyczne
 
-Inne rozróżnienie dotyczy twardych i miękkich wzorów deklinacji. Miękkie łodygi to łodygi kończące się na `š`, `ž`, `č`, `c`, `j`, `lj`  lub `nj`. Z reguły po miękkiej łodydze `-o` i `-y` końcówki stają się `-e`, `-ě` staje się `-i`.
+Inne rozróżnienie dotyczy twardych i miękkich wzorów deklinacji. Rzeczowniki miękkotematowe to te których temat(część wyrazu, która nie zmienia się w trakcie odmiany) kończy się na  `š`, `ž`, `č`, `c`, `j`, `lj`  lub `nj`. Z reguły po miękkim temacie `-o` i `-y` końcówki przechodzą w `-e`,(np. natomiast `-ě` przechodzi w `-i`.
 
-Podstawowe zakończenia przedstawiono w poniższych tabelach. Formy między nawiasami są używane po miękkich łodygach. Zakończenia zerowe są oznaczone `-Ø`:
+Podstawowe zakończenia przedstawiono w poniższych tabelach. Formy w nawiasach są używane w przypadku rzeczowników miękkotematowych. Zakończenia zerowe są oznaczone `-Ø`:
 
 :::component{name="MDNouns1"}
 :::
@@ -47,10 +47,10 @@ Cztery przykłady: :isv[brat] „brat”, :isv[dom] „dom”, :isv[muž] „mę
 
 Uwagi:
 
-- Miejscownik liczby pojedynczej jest tym, gdzie języki słowiańskie różnią się najbardziej. Zalecane zakończenie to `-u` (tj. takie samo jak celownik), które w większości języków występuje przynajmniej w niektórych przypadkach. Alternatywnie możliwe jest również użycie `-ě` po twardych spółgłoskach i `-i` po miękkich spółgłoskach (np. :isv[bratě], :isv[muži]).
+- Miejscownik (na kim?,na czym?) liczby pojedynczej jest tym, gdzie języki słowiańskie różnią się najbardziej. Zalecane zakończenie to `-u` (tj. takie samo jak celownik), które w większości języków występuje przynajmniej w niektórych przypadkach. Alternatywnie możliwe jest również użycie `-ě` po twardych spółgłoskach i `-i` po miękkich spółgłoskach (np. :isv[bratě], :isv[muži]).
 - W wołaczu `k`, `g`  i `h` stają się `č`, `ž`  i `š` przed `e`: :isv[člověk] → :isv[člověče], :isv[Bog]  → :isv[Bože].
 - Słowa na `-ec` mają końcówkę wołacza `-če` zamiast oczekiwanego `-cu`: :isv[otec] → :isv[otče].
-- Niektóre rzeczowniki zakończone na twardą spółgłoskę mają w ortografii naukowej miękką spółgłoskę, np. :isv[gosť] „gość”, :isv[lěkaŕ] „lekarz, lekarz”. Mogą śledzić zarówno twardy, jak i miękki wzór deklinacji: :abbr[gen.pl.] :isv[gostov]  lub :isv[gostev].
+- Niektóre rzeczowniki zakończone na twardą spółgłoskę mają w ortografii naukowej miękką spółgłoskę, np. :isv[gosť] „gość”, :isv[lěkaŕ] „lekarz, lekarz”. Dopuszczalny jest zarówno twardy, jak i miękki wzór deklinacji: :abbr[gen.pl.] :isv[gostov]  lub :isv[gostev].
 - Słowa na `-anin` tracą morfem `-in-` w liczbie mnogiej: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina],  ale: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.]  :isv[Slovjanov].
 - W `-a` występuje kilka słów oznaczających osoby płci męskiej, np. :isv[sluga] „sługa”, :isv[kolega] „kolega”, :isv[sudja] „sędzia” itp. W liczbie mnogiej są one odmieniane jak :isv[brat] lub :isv[muž], ale w liczbie pojedynczej naśladują wzór [drugiej deklinacji][2].
 
@@ -62,7 +62,7 @@ Rzeczowniki rodzaju nijakiego kończą się na `-o` (rdzenie twarde) lub `-e` (r
 - Na mianownik/biernik i instrumentalną liczbę pojedynczą wpływa zasada [`o`/`e` ][4].
 - Jeśli chodzi o miejscownik liczby pojedynczej, to, co dotyczy rzeczowników rodzaju męskiego, dotyczy także rzeczowników rodzaju nijakiego: zamiast `-u` można również napisać `-ě` po twardej spółgłosce lub `-i` po miękkiej spółgłosce.
 - Rzeczowniki rodzaju nijakiego nie mają wołacza odrębnego od mianownika.
-- W dopełniaczu liczby mnogiej rzeczowniki rodzaju nijakiego pierwszej deklinacji mają zerową końcówkę `-Ø`. W przypadkach, gdy prowadzi to do niemożliwych skupień spółgłosek, `-e-` jest wstawiane przed `-j` lub po miękkiej spółgłosce, albo `-o-` między twardymi spółgłoskami: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
+- W dopełniaczu liczby mnogiej rzeczowniki rodzaju nijakiego pierwszej deklinacji mają zerową końcówkę `-Ø`. W przypadkach, gdy prowadzi to do niemożliwych zbitek spółgłosek, `-e-` jest wstawiane przed `-j` lub po miękkiej spółgłosce, albo `-o-` między twardymi spółgłoskami: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
 
 Istnieje również specjalna grupa rzeczowników rodzaju nijakiego z końcówką `-e` (w ortografii naukowej: `-ę`), na przykład :isv[ime] „imię” (rdzeń: `imen-`) i :isv[tele] „cielę” (rdzeń: `telęt-`). Zawiera również kilka słów o `-o`, na przykład :isv[nebo] „niebo” (rdzeń: `nebes-`). W staro-cerkiewnosłowiańskim należeli do specjalnej deklinacji, która obecnie zanikła w większości języków. Można je odmieniać jak zwykłe rzeczowniki rodzaju nijakiego (tak jakby ich mianowniki to :isv[imeno] i :isv[teleto]), można je też odmieniać zgodnie z bardziej archaiczną [deklinacją atematyczną][1].
 
@@ -79,11 +79,11 @@ Co do reszty, deklinacja jest zawsze regularna. Trzy przykłady: :isv[slovo] „
 
 ## Deklinacja rzeczowników rodzaju żeńskiego \{#feminine-declension}
 
-Większość rzeczowników rodzaju żeńskiego ma końcówkę `-a` i dlatego należy do drugiej deklinacji. Ponownie rozróżniamy twarde i miękkie łodygi. W przypadku rzeczowników rodzaju żeńskiego różnice między deklinacją twardą i miękką nie są jedynie kwestią zastosowania zasady o/e. Z reguły końcówki `-y` i `-ě` po twardej spółgłosce stają się `-e` i `-i` po miękkiej spółgłosce (czyli są „odwrócone”).
+Większość rzeczowników rodzaju żeńskiego ma końcówkę `-a` i dlatego należy do drugiej deklinacji. Ponownie rozróżniamy twarde i miękkie tematy. W przypadku rzeczowników rodzaju żeńskiego różnice między deklinacją twardą i miękką nie są jedynie kwestią zastosowania zasady o/e. Z reguły końcówki `-y` i `-ě` po twardej spółgłosce stają się `-e` i `-i` po miękkiej spółgłosce (czyli są „odwrócone”).
 
 Podobnie jak w przypadku rzeczowników rodzaju nijakiego, zakończenie zerowe w dopełniaczu liczby mnogiej może wymagać wstawienia samogłoski epentetycznej `-e-` lub `-o-`.
 
-Kilka słów z `-i` również należy do tej grupy (na przykład :isv[pani], które jest odmieniane tak, jakby mianownik liczby pojedynczej był \*:isv[panja]).
+Kilka słów z `-i` również należy do tej grupy (na przykład :isv[pani], które jest odmieniane tak jakby mianownikiem liczby pojedynczej był \*:isv[panja]).
 
 Odmiana `-a` obejmuje również szereg rzeczowników rodzaju męskiego z końcówką `-a` odnoszącą się do osób płci męskiej, np. :isv[sluga] „sługa” i :isv[sudja] „sędzia”. Są odmieniane jak :isv[žena] lub :isv[zemja] w liczbie pojedynczej, ale w liczbie mnogiej są zgodne ze wzorem rzeczowników rodzaju męskiego ożywionego: :abbr[nom.sg.] :isv[sluga], :abbr[gen.sg.] :isv[slugy], :abbr[nom.pl.] :isv[slugi], :abbr[gen.pl.] :isv[slugov],  itd.
 
@@ -120,7 +120,7 @@ Całej deklinacji atematycznej można uniknąć, odmieniając te słowa zgodnie 
 
 ## Rzeczowniki nieregularne \{#irregular-nouns}
 
-Międzysłowiańska jest utrzymywana tak regularnie, jak to możliwe, ale kilku przypadków nieprawidłowości nie da się uniknąć bez przeciwstawienia się naturalizmowi. Następujące rzeczowniki mają nieregularną liczbę mnogą (wszystkie cztery odmieniają się jak rzeczownik żeński typu `kost`):
+Międzysłowiański jest utrzymywana tak regularnie, jak to tylko możliwe, ale kilku przypadków nieprawidłowości nie da się uniknąć bez przeciwstawienia się naturalizmowi. Następujące rzeczowniki mają nieregularną liczbę mnogą (wszystkie cztery odmieniają się jak rzeczownik żeński typu `kost`):
 
 - :isv[člověk] (:abbr[m.]) „człowiek, osoba”, :abbr[pl.] :isv[ljudi]  „ludzie”
 - :isv[děte] (:abbr[gen.] :isv[děteta]  lub :isv[dětete]) (:abbr[n.]) „dziecko”, :abbr[pl.] :isv[děti]  „dzieci”
