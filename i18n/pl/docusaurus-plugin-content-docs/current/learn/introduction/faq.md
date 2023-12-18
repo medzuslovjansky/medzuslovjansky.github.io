@@ -10,7 +10,7 @@ Międzysłowiański jest skonstruowanym językiem pomocniczym, zaprojektowanym t
 
 :::note Przykład
 
-* **Medžuslovjansky** jest jezyk razumlivy približno vsim slovjansko-jezyčnym ljudam bez učenja.
+* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
 * **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
 
 :::
