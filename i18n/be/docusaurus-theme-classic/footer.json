@@ -1,6 +1,6 @@
 {
   "link.title.Sitemap": {
-    "message": "Мапа сайта",
+    "message": "Мапа сайту",
     "description": "The title of the footer links column with title=Sitemap in the footer"
   },
   "link.title.Community": {
@@ -8,11 +8,11 @@
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.item.label.Home": {
-    "message": "Галоўна",
+    "message": "Галоўная",
     "description": "The label of footer link with label=Home linking to /"
   },
   "link.item.label.Learn": {
-    "message": "Вучэння",
+    "message": "Вучэнне",
     "description": "The label of footer link with label=Learn linking to /learn/introduction"
   },
   "link.item.label.Resources": {
