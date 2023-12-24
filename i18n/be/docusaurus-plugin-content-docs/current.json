@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Наступная",
     "description": "The label for version current"
   },
   "sidebar.learnSidebar.category.Уводзіны": {
@@ -8,19 +8,19 @@
     "description": "The label for category Уводзіны in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Grammar": {
-    "message": "Grammar",
+    "message": "Граматыка",
     "description": "The label for category Grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Vocabulary": {
-    "message": "Vocabulary",
+    "message": "Слоўнік",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Simple grammar": {
-    "message": "Simple grammar",
+    "message": "Спрошчаная граматыка",
     "description": "The label for category Simple grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Miscellaneous": {
-    "message": "Miscellaneous",
+    "message": "Змяшанае",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Граматыка": {
@@ -28,11 +28,11 @@
     "description": "The label for category Граматыка in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Простая граматыка": {
-    "message": "Простая граматыка",
+    "message": "Спрошчаная граматыка",
     "description": "The label for category Простая граматыка in sidebar learnSidebar"
   },
   "sidebar.resourcesSidebar.category.Applets": {
-    "message": "Applets",
+    "message": "Прыкладанкі",
     "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }
