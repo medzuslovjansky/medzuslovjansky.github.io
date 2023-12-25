@@ -7,7 +7,7 @@ origin: http://steen.free.fr/interslavic/introduction.html
 verified: true
 ---
 
-# Уводзіны
+# Уводзіны 
 
 ## Што такое міжславянская мова? \{#what-is-interslavic}
 
