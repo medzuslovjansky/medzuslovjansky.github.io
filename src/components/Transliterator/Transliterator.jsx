@@ -1,7 +1,7 @@
 import React, {useCallback, useState} from "react";
 import {FlavorisationBCP47, FlavorisationBCP47Code, transliterate} from '@interslavic/utils';
 import CodeBlock from '@theme/CodeBlock';
-import {michalSwat} from './michal';
+import {customTransliterate} from './custom';
 import styles from './Transliterator.module.scss';
 
 /** @type {Record<FlavorisationBCP47Code, string>} */
@@ -37,11 +37,12 @@ const tertiary = {
   'MichalSwatPolishCyrillic': 'Polish → Cyrillic (Michał Swat)',
   'MichalSwatPolishGlagolitic': 'Polish → Glagolitic (Michał Swat)',
   'MichalSwatMsGlagolitic': 'Interslavic → Glagolitic (Michał Swat)',
+  'GorlatoffCyrillicLatin': 'Меджусловјанскы → Medžuslovjansky (Mihail Gorlatov)',
 };
 
 function doTransliterate(input, script) {
   if (tertiary[script]) {
-    return michalSwat(input, script);
+    return customTransliterate(input, script);
   } else {
     return transliterate(input, script);
   }
