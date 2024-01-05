@@ -4,11 +4,11 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Лого",
+    "message": "Лога",
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
-    "message": "Вучэння",
+    "message": "Вучэнне",
     "description": "Navbar item with label Learn"
   },
   "item.label.Resources": {
