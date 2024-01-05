@@ -20,28 +20,28 @@
     "description": "Title of the button to submit a new search"
   },
   "com.admonitions.autotranslation.message": {
-    "message": "Гэты артыкул быў аўтаматычна перакладзены і можа ўтрымліваць любыя памылкі. Забяспечыць пераклад больш чым на дзесяць моў - складаная задача, і мы з нецярпеннем чакаем вашай дапамогі. Калі ласка, звяжыцеся з намі на {Discord}, калі вы хочаце дапамагчы нам палепшыць якасць нашых перакладаў. Акрамя таго, вы можаце прапанаваць выпраўленні непасрэдна праз {GitHub}."
+    "message": "Гэты артыкул быў аўтаматычна перакладзены і можа ўтрымліваць любыя памылкі. Забяспечыць пераклад больш чым на дзесяць моў — складаная задача, і мы з нецярпеннем чакаем вашай дапамогі. Калі ласка, звяжыцеся з намі на {Discord}, калі вы хочаце дапамагчы нам палепшыць якасць нашых перакладаў. Акрамя таго, вы можаце прапанаваць выпраўленні непасрэдна праз {GitHub}."
   },
   "com.admonitions.autotranslation.title": {
     "message": "Аўтаматычны пераклад"
   },
   "com.admonitions.license.republish.link": {
-    "message": "рэпублікаваць"
+    "message": "Пераапублікаваць"
   },
   "com.admonitions.license.republish.message": {
-    "message": "This article has been {republished} with the permission of its original author, {author}."
+    "message": "Гэты артыкул быў {пераапублікаваны} са згоды аўтара дадзенага арыгіналу, {аўтар}."
   },
   "com.admonitions.license.title": {
     "message": "Прававая інфармацыя"
   },
   "com.admonitions.missingTranslation.message": {
-    "message": "Гэты артыкул яшчэ не быў перакладзены.\nЗабеспячэнне перакладу больш чым на дзесяць моў - складаная задача, і мы з нецярпеннем чакаем вашай дапамогі.\nКалі ласка, звяжыцеся з намі на {Discord}, калі вы хочаце дапамагчы нам палепшыць якасць нашых перакладаў."
+    "message": "Гэты артыкул яшчэ не быў перакладзены.\nЗабеспячэнне перакладу больш чым на дзесяць моў — складаная задача, і мы з нецярпеннем чакаем вашай дапамогі.\nКалі ласка, звяжыцеся з намі на {Discord}, калі вы хочаце дапамагчы нам палепшыць якасць нашых перакладаў."
   },
   "com.admonitions.missingTranslation.title": {
     "message": "Адсутнічае пераклад"
   },
   "pages.home.meta.description": {
-    "message": "Вучэце міжславянскую мову і знаходзьце больш сябароў і калег-славяністаў з усяго свету."
+    "message": "Вучыце міжславянскую мову і знаходзьце больш сяброў і калег-славяністаў з усяго свету."
   },
   "pages.home.meta.title": {
     "message": "Вучыце міжславянскую мову"
@@ -50,10 +50,10 @@
     "message": "Як гэта працуе"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "З дапамогай міжславянскай мовы вы можаце знайсці больш сябароў і калег-славяністаў з усяго свету."
+    "message": "З дапамогай міжславянскай мовы вы можаце знайсці больш сяброў і калег-славяністаў з усяго свету."
   },
   "pages.home.sections[0].slides[0].title": {
-    "message": "Мова, разумелая ўсімі славянскімі народамі"
+    "message": "Мова, зразумелая ўсімі славянскімі народамі"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Адкрыць больш"
@@ -62,28 +62,28 @@
     "message": "або пачніце курс"
   },
   "pages.home.sections[1].cards[0].description": {
-    "message": "Вучэнне міжславянскай мовы хутка палепшвае эфектыўнасць асобнай камунікацыі паміж людзьмі, якія размаўляюць на розных славянскіх мовах. У звязі з маніфармнасцю жывых славянскіх моў, адзін тэкст або абмеркаванне, якія прадстаўлены на міжславянскай мове, займае менш часу і прасторы, як для спажывання, так і для стварэння."
+    "message": "Вывучэнне міжславянскай хутка паляпшае эфектыўнасць зносін ужывую паміж людзьмі, якія размаўляюць на розных славянскіх мовах. Улічваючы разнастайнасць жывых славянскіх моў, адзін тэкст або прамова на міжславянскай займае менш часу і месца як для ўжывання, так і для стварэння."
   },
   "pages.home.sections[1].cards[0].title": {
     "message": "У бізнесе і турызме"
   },
   "pages.home.sections[1].cards[1].description": {
-    "message": "Міжславянская мова не звязаная з ніводнай канкрэтнай культурай, мовай, нацыяй або ўрадам. Ніводны родны носіцель мовы ня мае няправядлівага перавагі. Ў гэтай сувязі міжславянская мова мае падтрымку міжнароднай супольнасці, вольная ад палітычных і этнічных пытанняў."
+    "message": "Міжславянская мова не звязаная з ніводнай канкрэтнай культурай, мовай, нацыяй або ўрадам. Ніводны носьбіт мовы не мае несправядлівай перавагі. У гэтых адносінах міжславянская мова мае падтрымку міжнароднай супольнасці, вольная ад палітычных і этнічных пытанняў."
   },
   "pages.home.sections[1].cards[1].title": {
     "message": "Нейтральная мова"
   },
   "pages.home.sections[1].cards[2].description": {
-    "message": "Ад ранней XVII стагоддзя да сучаснасці, на тэрыторыі сучасных славянскіх краін мы можам пабачыць нязменныя спробы стварыць мову паміж. Дзелячы культурна-науковыя веды і ўзноўліваючы размову паміж славянскімі народамі, гэта набывае ў значэнні ў сучасным эпоху цыфравых тэхналогій."
+    "message": "Ад XVII стагоддзя і да нашых дзён на тэрыторыі сучасных славянскіх краін мы можам прасачыць безупынныя спробы стварэння мовы-пасярэдніка. Абмен культурнымі і навуковымі ведамі, і ўзнаўленне перамоваў паміж славянскімі народамі набывае асаблівую істотнасць ў нашую эпоху лічбавых тэхналогій."
   },
   "pages.home.sections[1].cards[2].title": {
-    "message": "Спадчына спалучнай славянскай"
+    "message": "Агульнаславянская спадчына"
   },
   "pages.home.sections[2].cta": {
     "message": "Атрымаць рэсурсы"
   },
   "pages.home.sections[2].description": {
-    "message": "У сацыяльных сетках адбываецца вялікая актыўнасць - там вы можаце задаць пытанні і атрымаць адказы, а таксама практыкаваць мову ўжываючыся ў жывым размовам. Акрамя таго, мы пастаянна працуем над праграмнымі прадуктамі, каб паляпшыць ваш досвед з міжславянскай мовай: інтэрактыўны слоўнік, праверка правапісу, кіраванне клавіятурай і г.д."
+    "message": "Найбольшая дзейнасць адбываецца ў сацыяльных сетках — там вы можаце задаць пытанні і атрымаць адказы, а таксама практыкавацца размовам. Акрамя таго, мы заўсёды працуем над праграмнымі прадуктамі, каб палепшыць ваш досвед у вывучэнні міжславянскай мовы: інтэрактыўны слоўнік, праверка правапісу, кіраванне клавіятурай і г.д."
   },
   "pages.home.sections[2].title": {
     "message": "Рэсурсы для вучэння і выкарыстання міжславянскай мовы"
@@ -97,7 +97,7 @@
     "description": "The ARIA label for the back to top button"
   },
   "theme.CodeBlock.copied": {
-    "message": "Скапіравана",
+    "message": "Скапіявана",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copy": {
@@ -105,7 +105,7 @@
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Капіраваць код у буфер абмену",
+    "message": "Капіяваць код у буфер абмену",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
@@ -113,7 +113,7 @@
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-    "message": "Пераключыць згорнутую катэгорыю бакавага меню '{label}'",
+    "message": "Пераключыць згорнутую катэгорыю бакавога меню '{label}'",
     "description": "The ARIA label to toggle the collapsible sidebar category"
   },
   "theme.ErrorPageContent.title": {
@@ -133,11 +133,11 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Калі ласка, звяжыцеся з уладальнікам сайту, які даслаў вам спасылку, і дайце яму ведаць, што гэтая спасылка зламаная.",
+    "message": "Калі ласка, звяжыцеся з уладальнікам сайту, які даслаў вам спасылку, і паведаміце яму, што гэтая спасылка зламаная.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.NotFound.title": {
-    "message": "Старонку не знойдзена",
+    "message": "Старонка не знойдзена",
     "description": "The title of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -149,7 +149,7 @@
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
-    "message": "Небясьпека",
+    "message": "Небяспека",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
@@ -189,15 +189,15 @@
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Новая запіс",
+    "message": "Новы запіс",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Старая запіс",
+    "message": "Стары запіс",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.post.plurals": {
-    "message": "Адна запіс|{count} запісі(-аў)",
+    "message": "Адзін запіс|{count} запісы(-аў)",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
@@ -209,7 +209,7 @@
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "1 хвіліна чытання|{readingTime} хвілін чытання",
+    "message": "1 хвіліна чытання|{readingTime} хвіліны(-аў) чытання",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.sidebar.navAriaLabel": {
@@ -221,15 +221,15 @@
     "description": "The title of the page for a blog tag"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Пераключыць паміж цёмным і светлым рэжымам (цяпер {mode})",
+    "message": "Пераключыць паміж цёмным і светлым рэжымам (зараз {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "цёмны рэжым",
+    "message": "Цёмны рэжым",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "светлы рэжым",
+    "message": "Светлы рэжым",
     "description": "The name for the light color mode"
   },
   "theme.common.editThisPage": {
@@ -241,19 +241,19 @@
     "description": "Title for link to heading"
   },
   "theme.common.skipToMainContent": {
-    "message": "Перайсці да галоўнага зместу",
+    "message": "Перайсці да галоўнага меню",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} элементаў",
+    "message": "{count} элементы(-аў)",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Дамашняя старонка",
+    "message": "Хатняя старонка",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Хлебныя кроцкі",
+    "message": "Навігацыйны ланцужок бягучай старонкі",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.paginator.navAriaLabel": {
@@ -261,11 +261,11 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.next": {
-    "message": "Наступны",
+    "message": "Наступная",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.paginator.previous": {
-    "message": "Папярэдні",
+    "message": "Папярэдняя",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -273,23 +273,23 @@
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Згарнуць баковую панэль",
+    "message": "Згарнуць бакавую панэль",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Згарнуць баковую панэль",
+    "message": "Згарнуць бакавую панэль",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Разгарнуць баковую панэль",
+    "message": "Разгарнуць бакавую панэль",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Разгарнуць баковую панэль",
+    "message": "Разгарнуць бакавую панэль",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Баковая панэль дакументацыі",
+    "message": "Бакавая панэль дакументацыі",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
@@ -297,11 +297,11 @@
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\"",
+    "message": "{nDocsTagged} з тэгам \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Адзін дакумэнт з тэгам|{count} дакумэнты(-аў) з тэгам",
+    "message": "Адзін дакумент з тэгам|{count} дакументы(-аў) з тэгам",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.versionBadge.label": {
@@ -360,7 +360,7 @@
     "description": "The title of the tag list page"
   },
   "theme.unlistedContent.message": {
-    "message": "Гэтая старонка недаступная. Пашукавыя сістэмы не індэксуюць яе, і толькі карыстальнікі, якія маюць прымыты доступ, могуць зайсці на яе.",
+    "message": "Гэтая старонка недаступная. Пошукавыя сістэмы не вызначаюць яе, і толькі карыстальнікі, якія маюць прамы доступ, могуць зайсці яе.",
     "description": "The unlisted content banner message"
   },
   "theme.unlistedContent.title": {
@@ -368,33 +368,33 @@
     "description": "The unlisted content banner title"
   },
   "com.script.Standard": {
-    "message": "Standard"
+    "message": "Стандартная"
   },
   "com.script.Etymological": {
-    "message": "Etymological"
+    "message": "Этымалагічная"
   },
   "com.script.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Вымаўленне"
   },
   "com.script.Latin": {
-    "message": "Latin"
+    "message": "Лацініца"
   },
   "com.script.IPA": {
-    "message": "IPA"
+    "message": "МФА"
   },
   "com.markdown.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Вымаўленне"
   },
   "com.script.Cyrillic": {
-    "message": "Cyrillic"
+    "message": "Кірыліца"
   },
   "com.grammar.singular": {
-    "message": "Singular"
+    "message": "Адзіночны лік"
   },
   "com.grammar.plural": {
-    "message": "Plural"
+    "message": "Множны лік"
   },
   "com.interslavic.declinator.case": {
-    "message": "case"
+    "message": "Прыклад"
   }
 }
