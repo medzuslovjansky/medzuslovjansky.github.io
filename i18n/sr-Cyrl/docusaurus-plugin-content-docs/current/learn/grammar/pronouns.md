@@ -6,7 +6,7 @@ custom_edit_url: /501
 origin: http://steen.free.fr/interslavic/pronouns.html
 ---
 
-# Проноунс
+# Заменице
 
 ## Личне и повратне заменице \{#personal-and-reflexive-pronouns}
 

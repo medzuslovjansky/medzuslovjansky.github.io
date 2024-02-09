@@ -1,22 +1,22 @@
 {
   "title": {
-    "message": "Interslavic",
-    "description": "The title in the navbar"
+    "message": "Међусловјански",
+    "description": "The title in the navbar (Interslavic) in Serbian"
   },
   "logo.alt": {
-    "message": "Logo",
+    "message": "Лого",
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
-    "message": "Learn",
+    "message": "Учебник",
     "description": "Navbar item with label Learn"
   },
   "item.label.Resources": {
-    "message": "Resources",
+    "message": "Ресурси",
     "description": "Navbar item with label Resources"
   },
   "item.label.Online Dictionary": {
-    "message": "Online Dictionary",
+    "message": "Онлајн речник",
     "description": "Navbar item with label Online Dictionary"
   }
 }

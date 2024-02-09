@@ -20,7 +20,7 @@
     "description": "Title of the button to submit a new search"
   },
   "com.admonitions.autotranslation.message": {
-    "message": "Овај чланак је аутоматски преведен и можда садржи грешке. Обезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи. Контактирајте нас на {Дисцорд} ако желите да нам помогнете да побољшамо квалитет наших превода. Алтернативно, можете предложити исправке директно преко {ГитХуб}-а."
+    "message": "Овај чланак је аутоматски преведен и можда садржи грешке. Обезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи. Контактирајте нас на {Discord} ако желите да нам помогнете да побољшамо квалитет наших превода. Алтернативно, можете предложити исправке директно преко {GitHub}-а."
   },
   "com.admonitions.autotranslation.title": {
     "message": "Аутоматски превод"
@@ -35,7 +35,7 @@
     "message": "Правне информације"
   },
   "com.admonitions.missingTranslation.message": {
-    "message": "Овај чланак још није преведен.\nОбезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи.\nКонтактирајте нас на {Дисцорд} ако желите да нам помогнете да побољшамо квалитет наших превода."
+    "message": "Овај чланак још није преведен.\nОбезбеђивање превода на више од десет језика је изазован задатак и радујемо се вашој помоћи.\nКонтактирајте нас на {Discord} ако желите да нам помогнете да побољшамо квалитет наших превода."
   },
   "com.admonitions.missingTranslation.title": {
     "message": "Недостаје превод"
@@ -205,7 +205,7 @@
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}",
+    "message": "Прочитајте више о {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
@@ -221,15 +221,15 @@
     "description": "The title of the page for a blog tag"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})",
+    "message": "Промени тему",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode",
+    "message": "тамни режим",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
+    "message": "светли режим",
     "description": "The name for the light color mode"
   },
   "theme.common.editThisPage": {
@@ -249,7 +249,7 @@
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page",
+    "message": "Почетна",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
@@ -269,7 +269,7 @@
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar",
+    "message": "Затвори бочну листу",
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
@@ -281,19 +281,19 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Прошири бочну листу",
+    "message": "Прикажи бочну листу",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Прошири бочну листу",
+    "message": "Прикажи бочну листу",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
+    "message": "Навигација",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
+    "message": "Сакриј/прикажи бочну листу",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -336,7 +336,7 @@
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
+    "message": "Језик",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
@@ -368,33 +368,33 @@
     "description": "The unlisted content banner title"
   },
   "com.script.Standard": {
-    "message": "Standard"
+    "message": "Стандардни"
   },
   "com.script.Etymological": {
-    "message": "Etymological"
+    "message": "Етимолошки"
   },
   "com.script.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Изговор"
   },
   "com.script.Latin": {
-    "message": "Latin"
+    "message": "Латиница"
   },
   "com.script.IPA": {
-    "message": "IPA"
+    "message": "МФА"
   },
   "com.markdown.Pronunciation": {
-    "message": "Pronunciation"
+    "message": "Изговор"
   },
   "com.script.Cyrillic": {
-    "message": "Cyrillic"
+    "message": "Ћирилица"
   },
   "com.grammar.singular": {
-    "message": "Singular"
+    "message": "једнина"
   },
   "com.grammar.plural": {
-    "message": "Plural"
+    "message": "множина"
   },
   "com.interslavic.declinator.case": {
-    "message": "case"
+    "message": "падеж"
   }
 }

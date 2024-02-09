@@ -5,7 +5,7 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronunciation.html
 ---
 
-# Пронунциатион
+# Изговор
 
 ## Преглед \{#overview}
 
