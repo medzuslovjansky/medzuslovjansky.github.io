@@ -4,39 +4,27 @@
     "description": "The label for version current"
   },
   "sidebar.learnSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "Увод",
     "description": "The label for category Introduction in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Grammar": {
-    "message": "Grammar",
+    "message": "Граматика",
     "description": "The label for category Grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Vocabulary": {
-    "message": "Vocabulary",
+    "message": "Лексикон",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Simple grammar": {
-    "message": "Simple grammar",
+    "message": "Једноставна граматика",
     "description": "The label for category Simple grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Miscellaneous": {
-    "message": "Miscellaneous",
+    "message": "Разно",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
   },
-  "sidebar.learnSidebar.category.Увод": {
-    "message": "Увод",
-    "description": "The label for category Увод in sidebar learnSidebar"
-  },
-  "sidebar.learnSidebar.category.Граматика": {
-    "message": "Граматика",
-    "description": "The label for category Граматика in sidebar learnSidebar"
-  },
-  "sidebar.learnSidebar.category.Једноставна граматика": {
-    "message": "Једноставна граматика",
-    "description": "The label for category Једноставна граматика in sidebar learnSidebar"
-  },
   "sidebar.resourcesSidebar.category.Applets": {
-    "message": "Applets",
+    "message": "Апликације",
     "description": "The label for category Applets in sidebar resourcesSidebar"
   }
 }

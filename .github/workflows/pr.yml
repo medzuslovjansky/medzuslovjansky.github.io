@@ -14,14 +14,14 @@ jobs:
 
       - name: Get changed docs
         id: docs
-        uses: tj-actions/changed-files@v36
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             docs/**/*.{md,mdx}
 
       - name: Get changed translations
         id: translations
-        uses: tj-actions/changed-files@v36
+        uses: tj-actions/changed-files@v41
         with:
           files: |
             i18n/**/*.{md,mdx}
