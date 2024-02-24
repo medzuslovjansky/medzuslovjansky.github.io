@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Лога",
+    "message": "Эмблема",
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
@@ -16,7 +16,7 @@
     "description": "Navbar item with label Resources"
   },
   "item.label.Online Dictionary": {
-    "message": "Слоўнік-онлайн",
+    "message": "Сеціўны слоўнік",
     "description": "Navbar item with label Online Dictionary"
   }
 }
