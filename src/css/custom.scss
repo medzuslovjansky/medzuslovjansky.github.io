@@ -34,6 +34,10 @@
     --ifm-table-head-background: #d2e1f9;
     --ifm-table-border-color: #8dabda;
     --ifm-table-stripe-background: transparent;
+
+    --ifm-color-secondary-contrast-background: #f5f9ff;
+    --ifm-color-secondary-contrast-foreground: #001b2e;
+    --ifm-color-secondary-dark: #d2e1f9;
   }
 
   &[data-theme='dark'] {
@@ -43,6 +47,8 @@
     --ifm-background-surface-color: #213340;
     --ifm-footer-background-color: #213340;
     --ifm-button-color: #daeaf2;
+    --ifm-color-secondary-contrast-background: #213340;
+    --ifm-color-secondary-dark: #445e71;
     //--fun-color-primary-dark: #001B2E;
     //--fun-color-primary-regular: #4C587B;
     //--fun-color-primary-accent: #4C93C6;

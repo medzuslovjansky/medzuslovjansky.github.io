@@ -3,6 +3,7 @@ sidebar_position: 3
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronouns.html
+toc_max_heading_level: 2
 ---
 
 # Pronouns
@@ -16,12 +17,15 @@ The forms between brackets are clitic forms, i.e., they are weaker and always un
 :::component{name=MDPronouns1}
 :::
 
-Notes:
+:::note Notes
 
-1. After a preposition, all pronouns of the third person are preceded by `n-`: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
-2. If you are curious how these forms relate to the Slavic languages, you can see them compared [here][1].
+After a preposition, all pronouns of the third person are preceded by `n-`: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
 
-A few notes regarding usage:
+If you are curious how these forms relate to the Slavic languages, you can see them compared [here][1].
+
+:::
+
+A few more notes regarding usage:
 
 - Because not all verb endings are equally obvious to all speakers of Slavic languages, pro-drop (i.e. omitting personal pronouns when they are the subject of a sentence) is not recommended. It is better to say :isv[ja čitaju] instead of just :isv[čitaju], although the latter is definitely not incorrect.
 - Prepositions can govern any case but the nominative, depending on their usage in the Slavic languages.
@@ -66,14 +70,12 @@ If we need to be more precise, the simplest solution is using :isv[tutoj] for �
 :::component{name=MDPronouns3}
 :::
 
-:::note Notes
+### Notes
 
 1. Less simple, but historically more accurate, is the following three-way distinction: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) for „this”, :isv[toj] for „that” and :isv[onoj] for „yonder”. It should be remembered, however, that :isv[sej] has practically vanished from most modern languages except for a few fossilized remnants. It may therefore not always be clear.
 2. Another demonstrative pronoun is :isv[ov], meaning the same thing as :isv[sej]. However, its meaning is very different in the modern languages.
 3. :isv[Tutoj], :isv[tamtoj], :isv[ov] and :isv[onoj] are declined like :isv[toj].
 4. Instead of the plurals :isv[tyh], :isv[tym] and :isv[tymi] one might sometimes encounter :isv[těh], :isv[těm] and :isv[těmi].
-
-:::
 
 ## Relative pronouns \{#relative-pronouns}
 
