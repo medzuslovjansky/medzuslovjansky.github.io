@@ -11,7 +11,7 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 
 Personal pronouns have six cases—the same as nouns but without the vocative. The reflexive pronoun :isv[sebe] is inflected like :isv[ty], :isv[tebe], …, the only difference being that it does not have a nominative.
 
-The forms between brackets are clitic forms, i.e. they are weaker and always unstressed. :isv[Se] is used in reflexive verbs: :isv[Ja myju se] „I'm washing myself”. If it needs to be stressed, the longer form is used: :isv[Ja myju jedino sebe] „I wash nobody but myself”. After a preposition, it is better to use the longer forms: :isv[k mně], :isv[za tebe].
+The forms between brackets are clitic forms, i.e., they are weaker and always unstressed. :isv[Se] is used in reflexive verbs: :isv[Ja myju se] „I'm washing myself”. If it needs to be stressed, the longer form is used: :isv[Ja myju jedino sebe] „I wash nobody but myself”. After a preposition, it is better to use the longer forms: :isv[k mně], :isv[za tebe].
 
 :::component{name=MDPronouns1}
 :::
@@ -27,7 +27,7 @@ A few notes regarding usage:
 - Prepositions can govern any case but the nominative, depending on their usage in the Slavic languages.
 - The pronoun :isv[on] refers to any noun of masculine gender and not only to male beings. In the same way, the pronoun :isv[ona] refers to any noun of feminine gender and not only to female beings.
 - As all natural Slavic languages, Interslavic has got T-V distinction, i.e. :isv[vy] is a universal second person pronoun for both numbers, whereas the second person singular :isv[ty] is used only for addressing friends, relatives and children.
-- The reflexive pronoun can also be used as a reciprocal pronoun: :isv[Oni bijut se] can mean „They are hitting themselves”, but would rather have the meaning: „They are hitting each other”. To be more explicit about the meaning „each other”, you can add the formula :isv[jedin drugogo]: :isv[Oni bijut se jedin drugogo].
+- The reflexive pronoun can also be used as a reciprocal pronoun: :isv[Oni bijut se] can mean „They are hitting themselves”, but would rather have the meaning: „They are hitting each other”. To be more explicit about the meaning „each other”, you can add the formula :isv[jedin drugogo]:, e.g.: :isv[Oni bijut se jedin drugogo].
 
 ## Possessive pronouns \{#possessive-pronouns}
 
@@ -66,12 +66,14 @@ If we need to be more precise, the simplest solution is using :isv[tutoj] for �
 :::component{name=MDPronouns3}
 :::
 
-Notes:
+:::note Notes
 
 1. Less simple, but historically more accurate, is the following three-way distinction: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) for „this”, :isv[toj] for „that” and :isv[onoj] for „yonder”. It should be remembered, however, that :isv[sej] has practically vanished from most modern languages except for a few fossilized remnants. It may therefore not always be clear.
 2. Another demonstrative pronoun is :isv[ov], meaning the same thing as :isv[sej]. However, its meaning is very different in the modern languages.
 3. :isv[Tutoj], :isv[tamtoj], :isv[ov] and :isv[onoj] are declined like :isv[toj].
 4. Instead of the plurals :isv[tyh], :isv[tym] and :isv[tymi] one might sometimes encounter :isv[těh], :isv[těm] and :isv[těmi].
+
+:::
 
 ## Relative pronouns \{#relative-pronouns}
 
@@ -118,10 +120,12 @@ One of Zamenhof's best inventions was his **table of correlatives**, a group of 
 :::component{name=MDPronouns6}
 :::
 
-Notes:
+:::note Notes
 
 - In all cases when :isv[koj] appears, :isv[ktory] can be used interchangeably.
 - In all cases when `-gda` appears, `-gdy` can be used interchangeably.
+
+:::
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
 [2]: #pronominal_adverbs
