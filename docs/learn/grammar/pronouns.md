@@ -88,6 +88,8 @@ A third option is the more archaic :isv[iže] – used in the nominative for all
 The interrogative pronouns are :isv[kto] „who” and :isv[čto] (or :isv[što]) „what”. They are inflected as follows:
 
 :::component{name=MDPronouns4}
+* who?
+* what?
 :::
 
 Interrogative determiners are :isv[koj] (inflected like :isv[moj]) „which” (instead, :isv[ktory] can be used as well), the possessive pronoun :isv[čij] „whose” (see above), and the adjective :isv[kaky] „what kind of”.
@@ -120,6 +122,8 @@ Referring to another item of a group (`in-`): :isv[inokto] „someone else”, :
 One of Zamenhof's best inventions was his **table of correlatives**, a group of interrelated pronouns, adjectives and adverbs. There words have been kept as regular as possible, but not at the expense of recognisability for speakers of Slavic languages. A few virtually impossible words have been left out, and a few other regular forms have been replaced by forms that are common in the natural languages. Irregular forms (i.e. not looking the way they should according to the table) are shown in _**italics**_.
 
 :::component{name=MDPronouns6}
+* question; here; there; yonder; some; several; any; no; every; else;
+* which? who? what? how much? whose? what kind of? how? where? whereto? when? whither? whence? why (purpose)? why (reason)?
 :::
 
 :::note Notes

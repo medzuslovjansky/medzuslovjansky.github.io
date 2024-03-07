@@ -2,6 +2,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
 
+import { Cell } from "./_td";
+
 export default function Posessive() {
   return (
     <Tabs>
@@ -20,54 +22,51 @@ function Singular() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>masculine
-            <br />
+            <br/>
             (animate)
           </th>
           <th> masculine
-            <br />
+            <br/>
             (inanimate)
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th> neuter</th>
+          <th> feminine</th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td colSpan={2}> moj </td>
-          <td rowSpan={2}> moje </td>
-          <td> moja </td>
+          <Cell colSpan={2}> moj </Cell>
+          <Cell rowSpan={2}> moje </Cell>
+          <Cell> moja </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> mojego </td>
-          <td> moj </td>
-          <td> moju </td>
+          <Cell> mojego </Cell>
+          <Cell> moj </Cell>
+          <Cell> moju </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={3}> mojego </td>
-          <td> mojej </td>
+          <Cell colSpan={3}> mojego </Cell>
+          <Cell> mojej </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={3}> mojemu </td>
-          <td> mojej </td>
+          <Cell colSpan={3}> mojemu </Cell>
+          <Cell> mojej </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={3}> mojim </td>
-          <td> mojeju </td>
+          <Cell colSpan={3}> mojim </Cell>
+          <Cell> mojeju </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={3}> mojem </td>
-          <td> mojej </td>
+          <Cell colSpan={3}> mojem </Cell>
+          <Cell> mojej </Cell>
         </tr>
       </tbody>
     </table>
@@ -79,47 +78,44 @@ function Plural() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>masculine
-            <br />
+            <br/>
             (animate)
           </th>
           <th> masculine
-            <br />
+            <br/>
             (inanimate)
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th> neuter</th>
+          <th> feminine</th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td> moji </td>
-          <td colSpan={3} rowSpan={2}> moje </td>
+          <Cell> moji </Cell>
+          <Cell colSpan={3} rowSpan={2}> moje </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> mojih </td>
+          <Cell className="noRight"> mojih </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={4}> mojih </td>
+          <Cell colSpan={4}> mojih </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={4}> mojim </td>
+          <Cell colSpan={4}> mojim </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={4}> mojimi </td>
+          <Cell colSpan={4}> mojimi </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={4}> mojih </td>
+          <Cell colSpan={4}> mojih </Cell>
         </tr>
       </tbody>
     </table>)

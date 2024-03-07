@@ -224,7 +224,7 @@ mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
+code, tbody[lang*=interslv], th[lang*=interslv], td[lang*=interslv] {
   font-family: var(--fun-safe-sans);
   font-size: 90%;
 }
@@ -232,6 +232,20 @@ code, table[lang*=interslv], tbody[lang*=interslv], td[lang*=interslv] {
 .table_full {
   width: 100%;
   display: table;
+}
+
+table .invisible {
+  background: var(--ifm-background-color) !important;
+  border-left: none;
+  border-top: none;
+}
+
+table .noLeft {
+  border-left-width: 1px !important;
+}
+
+table .noRight {
+  border-right-width: 1px !important;
 }
 
 .table_sticky {

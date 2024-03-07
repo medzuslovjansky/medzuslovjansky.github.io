@@ -2,6 +2,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
 
+import { Cell } from "./_td";
+
 export default function Indefinite() {
   return (
     <Tabs>
@@ -19,56 +21,53 @@ function Singular() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
             masculine
-            <br />
+            <br/>
             (animate)
           </th>
           <th>
             masculine
-            <br />
+            <br/>
             (inanimate)
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th> neuter</th>
+          <th> feminine</th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td colSpan={2}> ves </td>
-          <td rowSpan={2}> vse </td>
-          <td> vsa </td>
+          <Cell colSpan={2}> ves </Cell>
+          <Cell rowSpan={2}> vse </Cell>
+          <Cell> vsa </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> vsego </td>
-          <td> ves </td>
-          <td> vsu </td>
+          <Cell> vsego </Cell>
+          <Cell> ves </Cell>
+          <Cell> vsu </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={3}> vsego </td>
-          <td> vsej </td>
+          <Cell colSpan={3}> vsego </Cell>
+          <Cell> vsej </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={3}> vsemu </td>
-          <td> vsej </td>
+          <Cell colSpan={3}> vsemu </Cell>
+          <Cell> vsej </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={3}> vsim </td>
-          <td> vseju </td>
+          <Cell colSpan={3}> vsim </Cell>
+          <Cell> vseju </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={3}> vsem </td>
-          <td> vsej </td>
+          <Cell colSpan={3}> vsem </Cell>
+          <Cell> vsej </Cell>
         </tr>
       </tbody>
     </table>
@@ -80,50 +79,47 @@ function Plural() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> plural </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
             masculine
-            <br />
+            <br/>
             (animate)
           </th>
           <th>
             masculine
-            <br />
+            <br/>
             (inanimate)
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th> neuter</th>
+          <th> feminine</th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td> vsi </td>
-          <td colSpan={3} rowSpan={2}> vse </td>
+          <Cell> vsi </Cell>
+          <Cell colSpan={3} rowSpan={2}> vse </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> vsih </td>
+          <Cell className="noRight"> vsih </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={4}> vsih </td>
+          <Cell colSpan={4}> vsih </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={4}> vsim </td>
+          <Cell colSpan={4}> vsim </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={4}> vsimi </td>
+          <Cell colSpan={4}> vsimi </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={4}> vsih </td>
+          <Cell colSpan={4}> vsih </Cell>
         </tr>
       </tbody>
     </table>)
-} 
+}

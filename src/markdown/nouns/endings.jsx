@@ -2,7 +2,6 @@ import clsx from 'clsx';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
-import styles from './endings.module.scss';
 
 export default function Endings() {
   return (
@@ -19,9 +18,9 @@ export default function Endings() {
 
 function Singular() {
   return (
-    <table className={clsx('table_sticky', styles.table)}>
+    <table className={clsx('table_sticky')}>
       <Header />
-      <tbody className={styles.tbody}>
+      <tbody>
         <tr align="center">
           <th><Abbr>nom.</Abbr></th>
           <td colSpan={2}><code>-Ø</code></td>
@@ -122,13 +121,13 @@ function Header() {
   return (
     <thead>
       <tr valign="top">
-        <th rowSpan={2} className={clsx('sticky', styles.invisible)} />
+        <th rowSpan={2} className={clsx('sticky', 'invisible')} />
         <th colSpan={3}>1st declension</th>
         <th>2nd</th>
         <th>3rd</th>
       </tr>
       <tr>
-        <th className={styles.noLeft}>masculine animate</th>
+        <th className={'noLeft'}>masculine animate</th>
         <th>masculine inanimate</th>
         <th>neuter</th>
         <th colSpan={2}>feminine</th>

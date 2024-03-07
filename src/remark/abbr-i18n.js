@@ -46,6 +46,20 @@ const genders = {
   },
 };
 
+genders['masc.'] = {
+  ...genders['m.'],
+  en: ['masc.', 'masculine'],
+};
+genders['fem.'] = {
+  ...genders['f.'],
+  en: ['fem.', 'feminine'],
+};
+genders['neut.'] = {
+  ...genders['n.'],
+  en: ['neut.', 'neuter'],
+};
+
+
 const cases = {
   'nom.': {
     'en': ['nom.', 'nominative'],

@@ -2,6 +2,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
 
+import { Cell } from "./_td";
+
 export default function Personal() {
   return (
     <Tabs>
@@ -22,69 +24,65 @@ function Singular() {
   return (
     <table className="table_sticky">
       <thead>
-        <tr>
-          <th rowSpan={3}>
-          </th>
-          <th colSpan={5}> Singular </th>
-        </tr>
-        <tr>
+      <tr>
+          <th rowSpan={2} className="invisible"></th>
           <th rowSpan={2}>
             1st person
           </th>
           <th rowSpan={2}>
             2nd person
           </th>
-          <th colSpan={3}> 3rd person </th>
-        </tr>
-        <tr>
-          <th > masc. </th>
-          <th> neut. </th>
-          <th> fem. </th>
+          <th colSpan={3}> 3rd person</th>
+      </tr>
+      <tr>
+          <th className="noLeft"><Abbr>masc.</Abbr></th>
+          <th><Abbr>neut.</Abbr></th>
+          <th><Abbr>fem.</Abbr></th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <th><Abbr>nom.</Abbr></th>
-          <td> ja </td>
-          <td> ty </td>
-          <td> on </td>
-          <td> ono </td>
-          <td> ona </td>
+          <Cell> ja </Cell>
+          <Cell> ty </Cell>
+          <Cell> on </Cell>
+          <Cell> ono </Cell>
+          <Cell> ona </Cell>
         </tr>
         <tr>
           <th><Abbr>acc.</Abbr></th>
-          <td> mene (me) </td>
-          <td> tebe (te) </td>
-          <td colSpan={2}> jego (go) </td>
-          <td> ju </td>
+          <Cell> mene (me) </Cell>
+          <Cell> tebe (te) </Cell>
+          <Cell colSpan={2}> jego (go) </Cell>
+          <Cell> ju </Cell>
         </tr>
         <tr>
           <th><Abbr>gen.</Abbr></th>
-          <td> mene </td>
-          <td> tebe </td>
-          <td colSpan={2}> jego </td>
-          <td> jej </td>
+          <Cell> mene </Cell>
+          <Cell> tebe </Cell>
+          <Cell colSpan={2}> jego </Cell>
+          <Cell> jej </Cell>
         </tr>
         <tr>
           <th><Abbr>dat.</Abbr></th>
-          <td> mně (mi) </td>
-          <td> tobě (ti) </td>
-          <td colSpan={2}> jemu (mu) </td>
-          <td> jej </td>
+          <Cell> mně (mi) </Cell>
+          <Cell> tobě (ti) </Cell>
+          <Cell colSpan={2}> jemu (mu) </Cell>
+          <Cell> jej </Cell>
         </tr>
         <tr>
           <th><Abbr>ins.</Abbr></th>
-          <td> mnoju </td>
-          <td> toboju </td>
-          <td colSpan={2}> jim </td>
-          <td> jeju </td>
+          <Cell> mnoju </Cell>
+          <Cell> toboju </Cell>
+          <Cell colSpan={2}> jim </Cell>
+          <Cell> jeju </Cell>
         </tr>
         <tr>
           <th><Abbr>loc.</Abbr></th>
-          <td> mně </td>
-          <td> tobě </td>
-          <td colSpan={2}> jim </td>
-          <td> jej </td>
+          <Cell> mně </Cell>
+          <Cell> tobě </Cell>
+          <Cell colSpan={2}> jim </Cell>
+          <Cell> jej </Cell>
         </tr>
       </tbody>
     </table>
@@ -95,61 +93,57 @@ function Plural() {
   return (
     <table className="table_sticky">
       <thead>
-        <tr>
-          <th rowSpan={3}>
-          </th>
-          <th colSpan={4}> Plural </th>
-        </tr>
-        <tr>
+      <tr>
+          <th rowSpan={2} className="invisible"></th>
           <th rowSpan={2}>
             1st person
           </th>
           <th rowSpan={2}>
             2nd person
           </th>
-          <th colSpan={2}> 3rd person </th>
-        </tr>
-        <tr>
-          <th> masc.anim. </th>
+          <th colSpan={2}> 3rd person</th>
+      </tr>
+      <tr>
+        <th><Abbr>m.anim.</Abbr></th>
           <th> other</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <th><Abbr>nom.</Abbr></th>
-          <td> my </td>
-          <td> vy </td>
-          <td> oni </td>
-          <td> one </td>
+          <Cell> my </Cell>
+          <Cell> vy </Cell>
+          <Cell> oni </Cell>
+          <Cell> one </Cell>
         </tr>
         <tr>
           <th><Abbr>acc.</Abbr></th>
-          <td rowSpan={2}> nas </td>
-          <td rowSpan={2}> vas </td>
-          <td rowSpan={2}> jih </td>
-          <td> je </td>
+          <Cell rowSpan={2}> nas </Cell>
+          <Cell rowSpan={2}> vas </Cell>
+          <Cell rowSpan={2}> jih </Cell>
+          <Cell> je </Cell>
         </tr>
         <tr>
           <th><Abbr>gen.</Abbr></th>
-          <td> jih </td>
+          <Cell> jih </Cell>
         </tr>
         <tr>
           <th><Abbr>dat.</Abbr></th>
-          <td> nam </td>
-          <td> vam </td>
-          <td colSpan={2}> jim </td>
+          <Cell> nam </Cell>
+          <Cell> vam </Cell>
+          <Cell colSpan={2}> jim </Cell>
         </tr>
         <tr>
           <th><Abbr>ins.</Abbr></th>
-          <td> nami </td>
-          <td> vami </td>
-          <td colSpan={2}> jimi </td>
+          <Cell> nami </Cell>
+          <Cell> vami </Cell>
+          <Cell colSpan={2}> jimi </Cell>
         </tr>
         <tr>
           <th><Abbr>loc.</Abbr></th>
-          <td> nas </td>
-          <td> vas </td>
-          <td colSpan={2}> jih </td>
+          <Cell> nas </Cell>
+          <Cell> vas </Cell>
+          <Cell colSpan={2}> jih </Cell>
         </tr>
       </tbody>
     </table>
@@ -159,36 +153,30 @@ function Plural() {
 function Reflexive() {
   return (
     <table className="table_sticky">
-      <thead>
-        <tr>
-          <th></th>
-          <th> Reflexive </th>
-        </tr>
-      </thead>
       <tbody>
         <tr>
           <th><Abbr>nom.</Abbr></th>
-          <td> — </td>
+          <Cell> — </Cell>
         </tr>
         <tr>
           <th><Abbr>acc.</Abbr></th>
-          <td> sebe (se) </td>
+          <Cell> sebe (se) </Cell>
         </tr>
         <tr>
           <th><Abbr>gen.</Abbr></th>
-          <td> sebe </td>
+          <Cell> sebe </Cell>
         </tr>
         <tr>
           <th><Abbr>dat.</Abbr></th>
-          <td> sobě (si) </td>
+          <Cell> sobě (si) </Cell>
         </tr>
         <tr>
           <th><Abbr>ins.</Abbr></th>
-          <td> soboju </td>
+          <Cell> soboju </Cell>
         </tr>
         <tr>
           <th><Abbr>loc.</Abbr></th>
-          <td> sobě </td>
+          <Cell> sobě </Cell>
         </tr>
       </tbody>
     </table>

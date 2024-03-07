@@ -1,7 +1,6 @@
 import MDXComponents from "@theme-original/MDXComponents";
 import DocCardList from "@theme/DocCardList";
 import {
-  Abbr,
   CustomBeforeSection,
   CustomAfterSection,
   IPA,
@@ -22,7 +21,7 @@ import MDPronouns2 from "@site/src/markdown/pronouns/posessive";
 import MDPronouns3 from "@site/src/markdown/pronouns/demonstrative";
 import MDPronouns4 from "@site/src/markdown/pronouns/interrogative";
 import MDPronouns5 from "@site/src/markdown/pronouns/indefinite";
-import MDPronouns6 from "@site/src/markdown/pronouns/pronomonal";
+import MDPronouns6 from "@site/src/markdown/pronouns/pronominal";
 import MDNumerals1 from "@site/src/markdown/numerals/2-4";
 import MDNumerals2 from "@site/src/markdown/numerals/5-30";
 import MDVerbs1 from "@site/src/markdown/verbs/motion";
