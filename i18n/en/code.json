@@ -399,5 +399,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "animate",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "inanimate",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Neuter",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Feminine",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Reflexive",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "1st person",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "2nd person",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "3rd person",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "declension",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "soft",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "hard",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "other",
+    "description": "other"
   }
 }

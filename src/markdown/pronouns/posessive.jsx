@@ -1,3 +1,4 @@
+import {translate} from "@docusaurus/Translate";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
@@ -7,10 +8,10 @@ import { Cell } from "./_td";
 export default function Posessive() {
   return (
     <Tabs>
-      <TabItem value="singular" label="Singular number">
+      <TabItem value="singular" label={translate({ id: 'com.grammar.singular', message: 'Singular forms (grammatical number)' })}>
         <Singular />
       </TabItem>
-      <TabItem value="plural" label="Plural number">
+      <TabItem value="plural" label={translate({ id: 'com.grammar.plural', message: 'Plural forms (grammatical number)' })}>
         <Plural />
       </TabItem>
     </Tabs>
@@ -21,25 +22,23 @@ function Singular() {
   return (
     <table className="table_sticky">
       <thead>
-        <tr align="center">
-          <th className="invisible"></th>
-          <th>masculine
-            <br/>
-            (animate)
-          </th>
-          <th> masculine
-            <br/>
-            (inanimate)
-          </th>
-          <th> neuter</th>
-          <th> feminine</th>
-        </tr>
+      <tr align="center">
+        <th className="invisible"></th>
+        <th>
+          <Abbr>m.</Abbr><br/>({translate({id: 'com.grammar.animate', message: 'Animate (grammar)'})})
+        </th>
+        <th>
+          <Abbr>m.</Abbr><br/>({translate({id: 'com.grammar.inanimate', message: 'Inanimate (grammar)'})})
+        </th>
+        <th><Abbr>n.</Abbr></th>
+        <th><Abbr>f.</Abbr></th>
+      </tr>
       </thead>
       <tbody>
       <tr align="center">
-          <th><Abbr>nom.</Abbr></th>
-          <Cell colSpan={2}> moj </Cell>
-          <Cell rowSpan={2}> moje </Cell>
+        <th><Abbr>nom.</Abbr></th>
+        <Cell colSpan={2}> moj </Cell>
+        <Cell rowSpan={2}> moje </Cell>
           <Cell> moja </Cell>
         </tr>
         <tr align="center">
@@ -77,29 +76,27 @@ function Plural() {
   return (
     <table className="table_sticky">
       <thead>
-        <tr align="center">
-          <th className="invisible"></th>
-          <th>masculine
-            <br/>
-            (animate)
-          </th>
-          <th> masculine
-            <br/>
-            (inanimate)
-          </th>
-          <th> neuter</th>
-          <th> feminine</th>
-        </tr>
+      <tr align="center">
+        <th className="invisible"></th>
+        <th>
+          <Abbr>m.</Abbr><br/>({translate({id: 'com.grammar.animate', message: 'Animate (grammar)'})})
+        </th>
+        <th>
+          <Abbr>m.</Abbr><br/>({translate({id: 'com.grammar.inanimate', message: 'Inanimate (grammar)'})})
+        </th>
+        <th><Abbr>n.</Abbr></th>
+        <th><Abbr>f.</Abbr></th>
+      </tr>
       </thead>
       <tbody>
       <tr align="center">
-          <th><Abbr>nom.</Abbr></th>
-          <Cell> moji </Cell>
-          <Cell colSpan={3} rowSpan={2}> moje </Cell>
-        </tr>
-        <tr align="center">
-          <th><Abbr>acc.</Abbr></th>
-          <Cell className="noRight"> mojih </Cell>
+        <th><Abbr>nom.</Abbr></th>
+        <Cell> moji </Cell>
+        <Cell colSpan={3} rowSpan={2}> moje </Cell>
+      </tr>
+      <tr align="center">
+        <th><Abbr>acc.</Abbr></th>
+        <Cell className="noRight"> mojih </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>

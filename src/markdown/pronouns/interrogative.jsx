@@ -52,6 +52,8 @@ export default function Interrogative({ children }) {
 }
 
 function extractListItems(children) {
+  if (!children) return [];
+
   return React.Children.toArray(
     React.Children.only(children).props.children
   ).filter(item => item.type === 'li');

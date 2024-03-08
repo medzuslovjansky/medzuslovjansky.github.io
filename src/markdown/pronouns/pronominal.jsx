@@ -312,11 +312,9 @@ function Cell(props) {
 }
 
 function childrenToRowHeaders(children) {
-  const [, listItem] = React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
+  const [, listItem] = extractListItems(children);
 
-  const rawString = String(listItem.props.children);
+  const rawString = listItem ? String(listItem.props.children) : '';
 
   return rawString.split(/\s*\?\s*/)
     .reduce(translationsReducer, Object.entries({
@@ -340,7 +338,7 @@ function childrenToRowHeaders(children) {
 
 function childrenToColumnHeaders(children) {
   const [listItem] = extractListItems(children);
-  const rawString = String(listItem.props.children);
+  const rawString = listItem ? String(listItem.props.children) : '';
 
   return rawString.split(/\s*;\s*/)
     .reduce(translationsReducer, Object.entries({
@@ -359,6 +357,8 @@ function childrenToColumnHeaders(children) {
 }
 
 function extractListItems(children) {
+  if (!children) return [];
+
   return React.Children.toArray(
     React.Children.only(children).props.children
   ).filter(item => item.type === 'li');

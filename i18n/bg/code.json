@@ -405,5 +405,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "одушевено",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "неодушевено",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Среден род",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Женски род",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Възвратни",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "Първо лице",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Второ лице",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Трето лице",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "склонение",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "мек",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "твърд",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "друго",
+    "description": "other"
   }
 }

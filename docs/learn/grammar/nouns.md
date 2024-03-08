@@ -45,7 +45,7 @@ Four examples: :isv[brat] „brother”, :isv[dom] „house”, :isv[muž] „ma
 :::component{name=MDNouns2}
 :::
 
-Notes:
+:::note Notes
 
 - The locative singular is where the Slavic languages differ most. The recommended ending is `-u` (i.e. the same as the dative), which in most languages occurs at least in some instances. Alternatively, it is also possible to use `-ě` after hard consonants and `-i` after soft consonants (e.g. :isv[bratě], :isv[muži]).
 - In the vocative, `k`, `g` and `h` become `č`, `ž` and `š` before `e`: :isv[člověk] → :isv[člověče], :isv[Bog] → :isv[Bože].
@@ -53,6 +53,8 @@ Notes:
 - Some nouns ending in a hard consonant have a soft consonant in scientific orthography, e.g. :isv[gosť] „guest”, :isv[lěkaŕ] „doctor, physician”. They can follow both the hard and the soft declension pattern: :abbr[gen.pl.] :isv[gostov] or :isv[gostev].
 - Words on `-anin` lose the morpheme `-in-` in the plural: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina], but: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.] :isv[Slovjanov].
 - There are a few words on `-a` denoting male persons, such as :isv[sluga] „servant”, :isv[kolega] „colleague”, :isv[sudja] „judge”, etc. In the plural these are inflected like :isv[brat] or :isv[muž], but in the singular, they follow the pattern of the [second declension][2].
+
+:::
 
 ## Declension of neuter nouns \{#neuter-declension}
 

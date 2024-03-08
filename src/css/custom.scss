@@ -117,11 +117,16 @@ body[data-theme='dark'] {
 .markdown {
   h1:first-child {
     line-height: 1.286;
+    margin-bottom: 0.25em;
   }
 
   h2 {
     font-weight: normal;
     line-height: 1.33;
+  }
+
+  h1 + h2 {
+    margin-top: 0;
   }
 
   a {
@@ -224,13 +229,24 @@ mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code, tbody[lang*=interslv], th[lang*=interslv], td[lang*=interslv] {
+code, th[lang*=interslv] {
   font-family: var(--fun-safe-sans);
   font-size: 90%;
 }
 
+td[lang*=interslv] {
+  font-family: var(--fun-safe-sans);
+  font-size: 0.8rem;
+}
+
 .table_full {
   width: 100%;
+  display: table;
+}
+
+.table_mw {
+  width: 100%;
+  max-width: 360px;
   display: table;
 }
 
@@ -251,6 +267,8 @@ table .noRight {
 .table_sticky {
   border-collapse: separate;
   border-spacing: 0;
+  overflow-x: auto;
+  overflow-y: visible;
 
   tr:first-child > * {
     border-top-width: 2px;

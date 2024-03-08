@@ -85,6 +85,8 @@ Tretja možnost je bolj arhaičen `iže` – uporablja se v nominativu za vse sp
 Vprašalna zaimka sta `kto` „kdo” in `čto` (ali `što`) „kaj”. Sklanjajo se takole:
 
 :::component{name=MDPronouns4}
+* kdo?
+* kaj?
 :::
 
 Vprašalni določniki so `koj` (sklanja se kot `moj`) „kateri” (namesto tega se lahko uporabi tudi `ktory`), svojilni zaimek `čij` „čigav” (glej zgoraj) in pridevnik `kaky` „ kakšen".
@@ -117,6 +119,8 @@ Sklicevanje na drug element skupine (`in-`): `inokto` „nekdo drug”, `inočto
 Eden najboljših Zamenhofovih izumov je bila njegova **tabela korelativov**, skupina medsebojno povezanih zaimkov, pridevnikov in prislovov. Tam so besede ohranjene čim bolj redne, a ne na račun prepoznavnosti za govorce slovanskih jezikov. Nekaj praktično nemogočih besed je bilo izpuščenih, nekaj drugih običajnih oblik pa je bilo nadomeščenih z oblikami, ki so običajne v naravnih jezikih. Nepravilne oblike (tj. ne izgledajo tako, kot bi morale glede na tabelo) so prikazane v _**ležečem tisku**_.
 
 :::component{name=MDPronouns6}
+* vprašanje; tukaj; tam; tjakaj; nekaj; nekaj; katerikoli; noben; vsak; drug;
+* kateri? kdo? kaj? koliko? čigav? kakšen? kako? kje? kam? kdaj? kam? od kod? zakaj (namen)? zakaj (razlog)?
 :::
 
 Opombe:

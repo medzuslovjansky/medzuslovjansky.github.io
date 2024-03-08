@@ -8,12 +8,10 @@ export default function Declinator(props) {
   const { nom, acc, gen, dat, ins, loc, voc } = declensionNoun(lemma, additional, gender, animate, plural, singular, indeclinable);
 
   return (
-    <table className="table_full">
+    <table className="table_sticky table_mw">
       <thead>
       <tr>
-        <th>
-          <Translate id="com.interslavic.declinator.case">case</Translate>
-        </th>
+        <th className="invisible"></th>
         <th>
           <Abbr>sg.</Abbr>
         </th>

@@ -85,6 +85,8 @@ Třetí možností je archaičtější `iže` – používá se v nominativu pro
 Tázací zájmena jsou `kto` „kdo“ a `čto` (nebo `što`) „co“. Skloňují se takto:
 
 :::component{name=MDPronouns4}
+* kdo?
+* co?
 :::
 
 Tázacími determinanty jsou `koj` (skloňuje se jako `moj`) „který“ (místo toho lze použít i `ktory`), přivlastňovací zájmeno `čij` „jehož“ (viz výše) a přídavné jméno `kaky` „ jaký druh".
@@ -117,6 +119,8 @@ Odkazování na jinou položku skupiny (`in-`): `inokto` „někdo jiný“, `in
 Jedním z nejlepších Zamenhofových vynálezů byla jeho **tabulka souvztažností**, skupina vzájemně souvisejících zájmen, přídavných jmen a příslovcí. Slova tam byla zachována co nejpravidelnější, ale ne na úkor rozeznatelnosti pro mluvčí slovanských jazyků. Několik prakticky nemožných slov bylo vynecháno a několik dalších pravidelných tvarů bylo nahrazeno tvary, které jsou běžné v přirozených jazycích. Nepravidelné tvary (tj. nevypadají tak, jak by podle tabulky měly) jsou zobrazeny _**kurzívou**_.
 
 :::component{name=MDPronouns6}
+* otázka; tady; tam; tamhle; nějaký; několik; jakýkoli; žádný; každý; jiný;
+* který? kdo? co? kolik? čí? jaký? jak? kde? kam? kdy? kam? odkud? proč (účel)? proč (důvod)?
 :::
 
 Poznámky:

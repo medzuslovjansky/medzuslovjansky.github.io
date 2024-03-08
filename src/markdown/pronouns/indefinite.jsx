@@ -1,3 +1,4 @@
+import {translate} from "@docusaurus/Translate";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
@@ -7,10 +8,10 @@ import { Cell } from "./_td";
 export default function Indefinite() {
   return (
     <Tabs>
-      <TabItem value="singular" label="Singular number">
+      <TabItem value="singular" label={translate({ id: 'com.grammar.singular', message: 'Singular forms (grammatical number)' })}>
         <Singular />
       </TabItem>
-      <TabItem value="plural" label="Plural number">
+      <TabItem value="plural" label={translate({ id: 'com.grammar.plural', message: 'Plural forms (grammatical number)' })}>
         <Plural />
       </TabItem>
     </Tabs>)
@@ -23,17 +24,13 @@ function Singular() {
         <tr align="center">
           <th className="invisible"></th>
           <th>
-            masculine
-            <br/>
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br/>
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter</th>
-          <th> feminine</th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>
@@ -81,17 +78,13 @@ function Plural() {
         <tr align="center">
           <th className="invisible"></th>
           <th>
-            masculine
-            <br/>
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br/>
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter</th>
-          <th> feminine</th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>

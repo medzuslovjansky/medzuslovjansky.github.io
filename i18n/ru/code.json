@@ -396,5 +396,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "одушевлённое",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "неодушевлённое",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Средний род",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Женский род",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Возвратные",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "Первое лицо",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Второе лицо",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Третье лицо",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "склонение",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "мягкий",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "твёрдый",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "другое",
+    "description": "other"
   }
 }
