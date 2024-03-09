@@ -1,0 +1,58 @@
+.select {
+  width: 100%;
+  min-width: 15ch;
+  padding: 0.25ch;
+  font: inherit;
+}
+
+.selectContainer {
+  display: block;
+  padding: var(--ifm-table-cell-padding);
+}
+
+.selectCell {
+  padding: 0;
+}
+
+.dragging {
+  /* Container + ::after styles */
+  position: relative;
+  z-index: 1;
+  outline: 2px dashed var(--ifm-color-primary);
+
+  &::before {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--ifm-color-primary);
+    opacity: 0.1;
+    user-select: none;
+  }
+}
+
+.msIcon {
+  vertical-align: -7%;
+  margin-right: 0.5ch;
+}
+
+.synset {
+  font-style: normal !important;
+}
+
+.lemma {
+}
+
+.automatic {
+  &::before {
+    content: '🤖';
+  }
+
+  .lemma {
+    font-style: italic !important;
+    font-size: 90%;
+  }
+}
