@@ -3,6 +3,8 @@ sidebar_position: 8
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slavic_pronouns.html
+description: "Explore the personal pronouns in the Slavic languages, including natural, constructed, and fictional dialects, for a comprehensive linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, personal pronouns, pronouns, slavic languages]
 ---
 
 # Personal pronouns in the Slavic languages

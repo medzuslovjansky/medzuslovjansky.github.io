@@ -3,7 +3,8 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto2.html
-description: Gender, nouns, adjectives, verbs
+description: "Explore the more advanced grammar of Slovianto, a simplified form of Interslavic, for a basic linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
 ---
 
 import Tabs from '@theme/Tabs';

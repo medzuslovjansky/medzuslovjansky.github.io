@@ -3,6 +3,8 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/history.html
+description: "Discover the history of Interslavic, a constructed language based on the common forms found in Slavic languages."
+tags: [interslavic, history, language learning, pan-slavism]
 title: History of Interslavic
 ---
 

@@ -3,6 +3,13 @@
 
 const { themes: prismThemes } = require('prism-react-renderer');
 
+const DOCUSAURUS_LOCALE = process.env.DOCUSAURUS_LOCALE;
+const GITHUB_PR_NUMBER = process.env.GITHUB_PR_NUMBER;
+
+const editUrl = GITHUB_PR_NUMBER
+  ? `https://github.com/medzuslovjansky/medzuslovjansky.github.io/pull/${GITHUB_PR_NUMBER}/files#`
+  : 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/';
+
 async function createConfig() {
   /** @type {import('@docusaurus/types').Config} */
   return {
@@ -29,9 +36,10 @@ async function createConfig() {
           docs: {
             routeBasePath: '',
             sidebarPath: require.resolve('./sidebars.js'),
-            editUrl: 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
+            editUrl,
             editLocalizedFiles: true,
             showLastUpdateTime: true,
+            showLastUpdateAuthor: true,
             remarkPlugins: [
               require('./src/remark/mdx-before-after-plugin'),
               require('./src/remark/custom-directives'),
@@ -41,8 +49,7 @@ async function createConfig() {
             routeBasePath: 'articles',
             path: './articles',
             showReadingTime: true,
-            editUrl:
-              'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/',
+            editUrl,
             editLocalizedFiles: true,
           },
           theme: {
@@ -52,7 +59,10 @@ async function createConfig() {
       ],
     ],
 
-    i18n: {
+    i18n: DOCUSAURUS_LOCALE ? {
+      defaultLocale: DOCUSAURUS_LOCALE,
+      locales: [DOCUSAURUS_LOCALE],
+    } : {
       defaultLocale: 'en',
       locales: [
         'en',

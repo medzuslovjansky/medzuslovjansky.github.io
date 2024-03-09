@@ -3,6 +3,8 @@ sidebar_position: 4
 license: republish
 author: Jan van Steenbergen
 custom_edit_url: /501
+last_update:
+  author: Google Translate
 origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
 ---
 

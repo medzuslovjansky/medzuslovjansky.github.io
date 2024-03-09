@@ -2,8 +2,9 @@
 sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
-description: "Genders, numbers, cases, declensions and more"
 origin: http://steen.free.fr/interslavic/nouns.html
+description: "Learn about the genders, numbers, cases, and declensions of nouns in Interslavic. Understand the nuances of noun declension patterns and irregularities."
+tags: [interslavic, nouns, grammar, language learning]
 ---
 
 # Nouns

@@ -3,6 +3,8 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/adjectives.html
+description: "Explore the inflection, short form, adverbs, and degrees of comparison of adjectives in Interslavic. Learn about regular and irregular forms, comparative and superlative structures, and usage examples."
+tags: [interslavic, adjectives, inflection, degrees of comparison, language learning]
 ---
 
 # Adjectives

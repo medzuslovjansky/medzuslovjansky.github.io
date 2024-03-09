@@ -3,6 +3,8 @@ sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/relay.html
+description: "Explore the Pan-Slavic Relay, a game played by conlangers, and the original English text by Mary Russel Mitford, written in the first half of the XIX century."
+tags: [conlanging, pan-slavic, relay, game, poetry, translation, constructed languages, slavic languages, auxiliary languages, interslavic, slovianski, slovio, slavski, slovioski, pan-slavic relay, mary russel mitford, poetry, translation, constructed languages, slavic languages, auxiliary languages, interslavic, slovianski, slovio, slavski, slovioski, pan-slavic relay, mary russel mitford]
 ---
 
 # The Pan-Slavic Relay

@@ -2,6 +2,8 @@
 sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
+last_update:
+  author: Филип Ковчин
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 

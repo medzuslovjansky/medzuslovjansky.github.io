@@ -1,5 +1,8 @@
 ---
 sidebar_position: 5
+license: CC-BY-NC-4.0
+author: Interslavic Community
+description: Get answers to frequently asked questions about Interslavic, including its purpose, learning, and usage.
 ---
 
 # Frequently asked questions (FAQ)

@@ -1,5 +1,10 @@
 ---
 sidebar_position: 4
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/constructed_slavic_languages.html
+description: "Explore the history and development of artificial Slavic languages, from early attempts in the 16th century to recent projects like Interslavic."
+tags: [constructed languages, slavic languages, language history, language learning]
 ---
 
 # Constructed Slavic languages

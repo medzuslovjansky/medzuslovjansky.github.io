@@ -3,6 +3,8 @@ sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/faq.html
+description: "Learn about the Interslavic language and how it compares to other languages, including English, Russian, Esperanto, Slovio, and Proto-Slavic/Old Church Slavonic."
+tags: [interslavic, language comparison, grammar, language learning]
 ---
 
 # Language comparison

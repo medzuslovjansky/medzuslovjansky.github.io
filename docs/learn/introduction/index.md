@@ -3,6 +3,8 @@ sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/introduction.html
+description: "Learn about Interslavic, a natural and broadly understandable language for Slavs, based on common forms found in Slavic languages."
+tags: [interslavic, grammar, language learning, introduction]
 ---
 
 # Introduction

@@ -29,7 +29,7 @@
     "message": "поново објављен"
   },
   "com.admonitions.license.republish.message": {
-    "message": "This article has been {republished} with the permission of its original author, {author}."
+    "message": "Овај чланак је {republished} уз дозволу његовог оригиналног аутора, {author}."
   },
   "com.admonitions.license.title": {
     "message": "Правне информације"

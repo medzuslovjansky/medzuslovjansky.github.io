@@ -3,6 +3,8 @@ sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/grammar.html
+description: "Learn about the grammar of Interslavic, a natural and broadly understandable language for Slavs, based on common forms found in Slavic languages."
+tags: [interslavic, grammar, slavic languages, communication, language learning]
 ---
 
 # Grammar

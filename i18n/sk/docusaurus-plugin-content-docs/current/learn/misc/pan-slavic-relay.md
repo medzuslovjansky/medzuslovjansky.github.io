@@ -4,6 +4,8 @@ license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/relay.html
 custom_edit_url: /501
+last_update:
+  author: Google Translate
 ---
 
 # Panslovanská štafeta

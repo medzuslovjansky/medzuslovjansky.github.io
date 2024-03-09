@@ -3,6 +3,8 @@ sidebar_position: 8
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/syntax.html
+description: "Explore the syntax of Interslavic, a natural and broadly understandable language for Slavs, based on common forms found in Slavic languages."
+tags: [interslavic, syntax, grammar, language learning]
 ---
 
 # Syntax

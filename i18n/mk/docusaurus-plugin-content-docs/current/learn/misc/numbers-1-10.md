@@ -1,5 +1,7 @@
 ---
 custom_edit_url: /501
+last_update:
+  author: Google Translate
 origin: http://steen.free.fr/interslavic/numbers_1-10.html
 ---
 

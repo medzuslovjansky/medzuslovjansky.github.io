@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/word_formation.html
+description: "Explore the word formation in Interslavic, including suffixes, prefixes, and the derivation of words, for a comprehensive linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, word formation]
 ---
 
 # Word formation

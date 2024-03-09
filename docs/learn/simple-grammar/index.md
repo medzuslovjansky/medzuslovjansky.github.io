@@ -1,5 +1,9 @@
 ---
 sidebar_position: 8
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/grammar.html#simple_grammar
+description: "Explore the simplified grammar of Interslavic, or Slovianto, for a basic linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
 ---
 
 # Simple grammar

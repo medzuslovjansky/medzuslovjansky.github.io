@@ -3,6 +3,8 @@ sidebar_position: 3
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/design-criteria.html
+description: "Interslavic Design Criteria: Learn about the principles behind Interslavic, a language designed to bridge differences among Slavic nations."
+tags: [interslavic, design criteria, language learning]
 ---
 
 # Design criteria
