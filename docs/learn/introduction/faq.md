@@ -1,10 +1,8 @@
 ---
 sidebar_position: 5
 license: CC-BY-NC-4.0
-author: Міжславянская супольнасць
-last_update:
-  author: Зміцер Клімовіч
-description: Атрымайце адказы на часта задаваныя пытанні пра міжславянскую мову, у тым ліку пра яе прызначэнне, вывучэнне і выкарыстанне.
+author: Interslavic Community
+description: Get answers to frequently asked questions about Interslavic, including its purpose, learning, and usage.
 ---
 
 # Frequently asked questions (FAQ)
