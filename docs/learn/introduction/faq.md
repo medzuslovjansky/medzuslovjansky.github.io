@@ -1,7 +1,9 @@
 ---
 sidebar_position: 5
 license: CC-BY-NC-4.0
-author: Interslavic Community
+author: Міжславянская супольнасць
+last_update:
+  author: Зміцер Клімовіч
 description: Get answers to frequently asked questions about Interslavic, including its purpose, learning, and usage.
 ---
 
