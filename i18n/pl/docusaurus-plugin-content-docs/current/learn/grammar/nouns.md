@@ -2,7 +2,9 @@
 sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
-description: "Genders, numbers, cases, declensions and more"
+last_update:
+  author: Denis Czerwinski
+description: Deklinacja rzeczowników w języku międzysłowiańskim, z przykładami i wyjaśnieniami.
 origin: http://steen.free.fr/interslavic/nouns.html
 ---
 

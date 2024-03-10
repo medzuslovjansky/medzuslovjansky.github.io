@@ -1,8 +1,9 @@
 ---
 sidebar_position: 2
 license: republish
-author: Зміцер Клімовіч
-original_author: Jan van Steenbergen
+author: Jan van Steenbergen
+last_update:
+  author: Зміцер Клімовіч
 origin: http://steen.free.fr/interslavic/orthography.html
 ---
 

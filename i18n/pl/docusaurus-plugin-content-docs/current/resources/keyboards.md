@@ -1,7 +1,7 @@
 ---
 custom_edit_url: /501
 last_update:
-  author: Google Translate
+  author: Yngar
 ---
 
 # Klawiatury

@@ -1,5 +1,10 @@
 ---
 sidebar_position: 5
+license: CC-BY-NC-4.0
+author: Wspólnota Międzysłowiańska
+last_update:
+  author: Denis Czerwiński
+description: Dowiedz się, co to jest język międzysłowiański, jak go nauczyć i jak go używać, a także inne często zadawane pytania.
 ---
 
 # Często zadawane pytania (FAQ)

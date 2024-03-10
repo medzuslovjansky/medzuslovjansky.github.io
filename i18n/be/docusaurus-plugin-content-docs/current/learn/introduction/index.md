@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 license: republish
-author: Зміцер Клімовіч
-original_author: Ян ван Стенберген
+author: Jan van Steenbergen
+last_update:
+  author: Зміцер Клімовіч
 origin: http://steen.free.fr/interslavic/introduction.html
 verified: true
 ---

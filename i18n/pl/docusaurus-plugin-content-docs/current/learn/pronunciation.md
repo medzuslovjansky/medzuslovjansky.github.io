@@ -2,6 +2,9 @@
 sidebar_position: 4
 license: republish
 author: Jan van Steenbergen
+last_update:
+  author: Denis Czerwinski
+description: Wymowa w języku międzysłowiańskim, z uwzględnieniem różnic między językami słowiańskimi.
 origin: http://steen.free.fr/interslavic/pronunciation.html
 ---
 

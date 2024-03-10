@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
 license: republish
-author: Зміцер Клімовіч
-original_author: Jan van Steenbergen
+author: Jan van Steenbergen
+last_update:
+  author: Зміцер Клімовіч
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 

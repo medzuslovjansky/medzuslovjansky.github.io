@@ -2,6 +2,8 @@
 sidebar_position: 3
 license: republish
 author: Jan van Steenbergen
+last_update:
+  author: Yngar
 origin: http://steen.free.fr/interslavic/phonology.html
 ---
 
