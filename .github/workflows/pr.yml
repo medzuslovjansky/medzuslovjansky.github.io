@@ -4,37 +4,64 @@ on:
     branches:
       - main
 jobs:
-  mdx-lint:
+  preview-website:
     runs-on: ubuntu-latest
+    environment:
+      name: preview
+      url: https://site-interslavic-pr-${{ github.event.pull_request.number }}.surge.sh
+    env:
+      GITHUB_PR_NUMBER: ${{ github.event.pull_request.number }}
+      DEPLOYMENT_URL: https://site-interslavic-pr-${{ github.event.pull_request.number }}.surge.sh
     steps:
+      - name: Start deployment
+        uses: bobheadxi/deployments@v1
+        id: deployment
+        with:
+          step: start
+          token: ${{ secrets.GITHUB_TOKEN }}
+          env: preview
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 2 # To retrieve the preceding commit.
 
-      - name: Get changed docs
-        id: docs
+      - name: Get changed files
+        id: changed-files
         uses: tj-actions/changed-files@v41
         with:
-          files: |
-            docs/**/*.{md,mdx}
+          separator: '\n'
 
-      - name: Get changed translations
-        id: translations
-        uses: tj-actions/changed-files@v41
-        with:
-          files: |
-            i18n/**/*.{md,mdx}
+      - name: Write changed files to log
+        run: |
+          echo "${{ steps.changed-files.outputs.all_changed_files }}" > git-changes.log
+          cat git-changes.log
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
 
-      - name: Validate docs
-        if: ${{ steps.docs.outputs.all_changed_files != '' }}
-        run: npx --package=@interslavic/text-plugins isv-verify-i18n ${{ steps.docs.outputs.all_changed_files }} 'i18n/**/*.{md,mdx}'
+      - name: NPM install
+        uses: bahmutov/npm-install@v1
+        with:
+          useLockFile: false
 
-      - name: Validate translations
-        if: ${{ steps.translations.outputs.all_changed_files != '' }}
-        run: npx --package=@interslavic/text-plugins isv-verify-i18n 'docs/**/*.{md,mdx}' ${{ steps.translations.outputs.all_changed_files }}
+      - name: Build a preview
+        run: npm run build
+
+      - name: Deploy to Surge
+        run: npx surge ./build ${{ env.DEPLOYMENT_URL }}
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+
+      - name: Update deployment status
+        uses: bobheadxi/deployments@v1
+        if: always()
+        with:
+          step: finish
+          token: ${{ secrets.GITHUB_TOKEN }}
+          status: ${{ job.status }}
+          env: ${{ steps.deployment.outputs.env }}
+          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
