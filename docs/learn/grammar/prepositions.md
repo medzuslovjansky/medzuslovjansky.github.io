@@ -3,6 +3,8 @@ sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/conjunctions.html
+description: "Learn about the usage, inflection, and examples of conjunctions in Interslavic. Discover how conjunctions connect words, sentences, phrases, and clauses together."
+tags: [interslavic, prepositions, conjunctions, grammar, language learning]
 ---
 
 # Prepositions

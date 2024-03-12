@@ -1,5 +1,10 @@
 ---
 sidebar_position: 5
+license: CC-BY-NC-4.0
+author: Wspólnota Międzysłowiańska
+last_update:
+  author: Denis Czerwiński
+description: Dowiedz się, co to jest język międzysłowiański, jak go nauczyć i jak go używać, a także inne często zadawane pytania.
 ---
 
 # Często zadawane pytania (FAQ)
@@ -63,7 +68,7 @@ Celem języka Międzysłowiańskiego jest bycie natychmiast dostępnym i zrozumi
 
 ### Co to za dziwne znaki diakrytyczne i litery, których niektórzy używają w języku międzysłowiańskim? \{#what-are-those-weird-diacritics}
 
-Międzysłowiański alfabet łaciński ma tylko cztery litery ze znakami diakrytycznymi: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Jednak niektórzy ludzie używają dodatkowych znaków diakrytycznych i liter, aby zapamiętać słowiańską etymologię, więc czasami możesz napotkać dziwne słowa, takie jak :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Międzysłowiański alfabet łaciński ma tylko cztery litery ze znakami diakrytycznymi: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Jednak niektórzy ludzie używają dodatkowych znaków diakrytycznych i liter, aby zapamiętać słowiańską etymologię, więc czasami możesz napotkać dziwne słowa, takie jak :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Chociaż pismo etymologiczne może pomóc w poprawie wymowy na zaawansowanych etapach, często pogarszają zrozumienie tekstu pisanego i jest uważane za niestandardowe. Dlatego jeśli dopiero zaczynasz uczyć się języka intersłowiańskiego, zaleca się trzymanie się standardowego alfabetu łacińskiego lub cyrylicy i skupienie się na opanowaniu podstaw.
 

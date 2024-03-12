@@ -1,5 +1,10 @@
 ---
 sidebar_position: 2
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/derivation.html
+description: "Explore the derivation of words in Interslavic, including Proto-Slavic and international vocabulary, for a comprehensive linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, derivation, proto-slavic, international vocabulary]
 ---
 
 # Derivation of words

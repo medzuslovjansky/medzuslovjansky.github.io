@@ -3,6 +3,8 @@ sidebar_position: 4
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/numerals.html
+description: "Learn about cardinal numbers, ordinal numbers, fractions, collective numbers, and more in Interslavic."
+tags: [interslavic, numerals, grammar, language learning]
 ---
 
 # Numerals

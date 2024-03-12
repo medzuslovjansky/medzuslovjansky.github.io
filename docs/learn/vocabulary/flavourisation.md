@@ -1,5 +1,10 @@
 ---
 sidebar_position: 3
+license: republish
+author: Jan van Steenbergen
+origin: http://steen.free.fr/interslavic/flavorizacija.html
+description: "Explore the concept of flavourisation in Interslavic, including dialects, pronunciation, and spelling, for a comprehensive linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, flavourisation, dialects, pronunciation, spelling]
 ---
 
 import Tabs from '@theme/Tabs';

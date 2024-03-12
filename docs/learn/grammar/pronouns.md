@@ -1,9 +1,11 @@
 ---
 sidebar_position: 3
+toc_max_heading_level: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronouns.html
-toc_max_heading_level: 2
+description: "Explore the usage, inflection, and examples of pronouns in Interslavic. Learn about personal, reflexive, possessive, demonstrative, relative, interrogative, and indefinite pronouns."
+tags: [interslavic, pronouns, grammar, language learning]
 ---
 
 # Pronouns

@@ -3,6 +3,8 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/adjectives.html
+last_update:
+  author: Google Translate
 ---
 
 # Придеви

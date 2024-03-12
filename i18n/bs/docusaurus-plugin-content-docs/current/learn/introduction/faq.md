@@ -63,7 +63,7 @@ Cilj Interslavic je da bude odmah dostupan i razumljiv bez prethodnog učenja. R
 
 ### Koje su to čudne dijakritičke i slova koje neki ljudi koriste u međuslavenskom? \{#what-are-those-weird-diacritics}
 
-Međuslavenska latinica ima samo četiri slova sa dijakritičkim znacima: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Međutim, neki ljudi koriste dodatne dijakritičke znakove i slova kako bi zapamtili slovensku etimologiju, tako da povremeno možete naići na čudne riječi poput :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Međuslavenska latinica ima samo četiri slova sa dijakritičkim znacima: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Međutim, neki ljudi koriste dodatne dijakritičke znakove i slova kako bi zapamtili slovensku etimologiju, tako da povremeno možete naići na čudne riječi poput :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Iako etimološka pisma mogu pomoći u poboljšanju izgovora u naprednim fazama, često degradiraju razumijevanje pisanog teksta i smatraju se nestandardnim. Stoga, ako tek počinjete da učite međuslavenski, preporučuje se da se držite standardne latinice ili ćirilice i fokusirate se na savladavanje osnova.
 

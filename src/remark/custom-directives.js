@@ -42,6 +42,7 @@ const plugin = (_options) => {
         case 'en':
         case 'fr':
         case 'hr':
+        case 'hbs':
         case 'hsb':
         case 'isv':
         case 'mk':

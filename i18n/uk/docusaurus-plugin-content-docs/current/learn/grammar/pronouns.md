@@ -1,9 +1,11 @@
 ---
 sidebar_position: 3
+toc_max_heading_level: 2
 license: republish
 author: Jan van Steenbergen
+last_update:
+  author: Google Translate
 origin: http://steen.free.fr/interslavic/pronouns.html
-toc_max_heading_level: 2
 ---
 
 # Займенники

@@ -62,6 +62,7 @@ import MDOrthography1 from "@site/src/markdown/orthography/latin-alphabet.mdx";
 import MDOrthography2 from "@site/src/markdown/orthography/cyrillic-alphabet.mdx";
 import MDOrthography3 from "@site/src/markdown/orthography/disappeared-phonemes.mdx";
 import MDOrthography4 from "@site/src/markdown/orthography/alphabetOverview";
+import IntelligibilityBuilder from "@site/src/components/IntelligibilityBuilder/IntelligibilityBuilder";
 
 export default {
   ...MDXComponents,
@@ -69,6 +70,7 @@ export default {
   CustomBeforeSection,
   DocCardList,
   IPA,
+  IntelligibilityBuilder,
   MDPronunciation1,
   MDPronunciation2,
   MDNouns1,

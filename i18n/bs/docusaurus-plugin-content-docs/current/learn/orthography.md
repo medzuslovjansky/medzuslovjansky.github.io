@@ -87,7 +87,7 @@ Osnovno latinično i ćirilično pismo međuslavenskog sastoje se od slova čiji
 
 Za razliku od alfabeta kao što su Međunarodna fonetska abeceda i [Slovensko pismo][3], ova ortografija nije namijenjena da pruži informacije o izgovoru pojedinih jezika, već da pokaže odnos između njih. Može se uporediti sa ortografijom engleskog: iako postoje velike razlike u izgovoru između britanskog engleskog, škotskog engleskog i američkog engleskog, svi su napisani na praktično isti način, koristeći pravopisne konvencije koje predstavljaju govorni jezik 14. stoljeća. Kada bi Sloveni koristili slično pismo umjesto svojih nacionalnih pravopisa zasnovanih na izgovoru, riječ za „pet“ bi se mogla napisati kao :isv[_pęt́_] u svim slovenskim jezicima, umjesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
 
-Ova abeceda zasnovana na etimologiji (ranije poznata kao :notr[_Naučny medžuslovjansky_] „Scientific Interslavic”) takođe služi kao izvorni kod za međuslavenski jezik. Dizajniran je tako da se od standardnog međuslavenskog razlikuje samo po dodatnim dijakritičkim znakovima, tako da ih čitatelj koji nije upoznat s tim dijakritičkim znakovima može jednostavno zanemariti. Upotreba ovog pravopisa na međuslavenskom jeziku može poslužiti u sljedeće svrhe:
+Ova abeceda zasnovana na etimologiji (ranije poznata kao :notr[_Naučny Medžuslovjansky_] „Scientific Interslavic”) takođe služi kao izvorni kod za međuslavenski jezik. Dizajniran je tako da se od standardnog međuslavenskog razlikuje samo po dodatnim dijakritičkim znakovima, tako da ih čitatelj koji nije upoznat s tim dijakritičkim znakovima može jednostavno zanemariti. Upotreba ovog pravopisa na međuslavenskom jeziku može poslužiti u sljedeće svrhe:
 
 - prenošenje etimoloških informacija,
 - podržavanje procesa učenja olakšavanjem povezivanja međuslavenskih riječi sa svojim pandanima u drugim slovenskim jezicima,
@@ -119,7 +119,7 @@ Sljedeća tabela prikazuje korespondencije između slova navedenih iznad (predlo
 Ukratko, postoji nekoliko mogućnosti za pisanje iste riječi. Opšta smjernica je: što razumljivije to bolje. Međutim, treba imati na umu nekoliko stvari:
 
 - Da biste izbjegli zabunu među pridošlicama, pokušajte što više pratiti standardni latinični i/ili ćirilični pravopis. Interslavske rasporede tastature možete preuzeti [ovdje][2].
-- Iz istog razloga nemojte koristiti etimološko pismo (ranije poznato kao :notr[_Naučny medžuslovjansky_]) u običnim razgovorima. Kad god ga ipak koristite, izričito navedite zašto ga koristite.
+- Iz istog razloga nemojte koristiti etimološko pismo (ranije poznato kao :notr[_Naučny Medžuslovjansky_]) u običnim razgovorima. Kad god ga ipak koristite, izričito navedite zašto ga koristite.
 - Izbjegavajte korištenje ćiriličkih slova koja se više ne koriste (kao što je `ѣ`, `ѩ`, `ѫ`, `ѱ`) i ne pokušavajte ćirilizirati etimološku abecedu na bilo koji drugi način, jer bi oboje ozbiljno ometali razumljivost.
 - Ako imate problema s pisanjem određenih znakova, koristite jednu od predloženih alternativa.
 - Budite dosljedni u svojim izborima. Ako, na primjer, odlučite da koristite `sz` za predstavljanje `š`, ostavite tako u cijelom tekstu ili razgovoru, inače ćete samo stvoriti zabunu. Iz istog razloga, ako koristite `sz`, nemojte koristiti `č` ili `cx` u isto vrijeme.

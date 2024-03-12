@@ -3,6 +3,8 @@ sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto1.html
+description: "Explore the simplified grammar of Interslavic, or Slovianto, for a basic linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
 ---
 
 # Level 1

@@ -87,7 +87,7 @@ Základné latinské a cyrilské abecedy interslovančiny pozostávajú z písme
 
 Na rozdiel od abecied, akými sú medzinárodná fonetická abeceda a [slovanská abeceda][3], tento pravopis nemá podávať informácie o výslovnosti jednotlivých jazykov, ale ukázať vzťah medzi nimi. Dá sa to prirovnať k pravopisu angličtiny: hoci existujú obrovské rozdiely vo výslovnosti medzi britskou angličtinou, škótskou angličtinou a americkou angličtinou, všetky sú napísané prakticky rovnakým spôsobom, pričom sa používajú pravopisné konvencie, ktoré predstavujú hovorený jazyk 14. storočia. Ak by Slovania namiesto svojich národných pravopisov založených na výslovnosti používali podobnú abecedu, slovo „päť“ by sa vo všetkých slovanských jazykoch mohlo písať ako :isv[_pęt́_], namiesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] atď.
 
-Táto abeceda založená na etymológii (predtým známa ako :notr[_Naučny medžuslovjansky_] „Vedecká medzislovančina“) tiež slúži ako zdrojový kód medzislovančiny. Bola navrhnutá tak, že sa od štandardnej medzislovanskej odlišuje len dodatočnou diakritikou, takže čitateľ, ktorý túto diakritiku nepozná, ju môže jednoducho ignorovať. Používanie tohto pravopisu v interslovančine môže slúžiť na tieto účely:
+Táto abeceda založená na etymológii (predtým známa ako :notr[_Naučny Medžuslovjansky_] „Vedecká medzislovančina“) tiež slúži ako zdrojový kód medzislovančiny. Bola navrhnutá tak, že sa od štandardnej medzislovanskej odlišuje len dodatočnou diakritikou, takže čitateľ, ktorý túto diakritiku nepozná, ju môže jednoducho ignorovať. Používanie tohto pravopisu v interslovančine môže slúžiť na tieto účely:
 
 - odovzdávanie etymologických informácií,
 - podpora procesu učenia sa uľahčením prepojenia medzislovanských slov s ich náprotivkami v iných slovanských jazykoch,
@@ -119,7 +119,7 @@ Nasledujúca tabuľka zobrazuje zhody medzi písmenami uvedenými vyššie (navr
 Aby som to zhrnul, existuje niekoľko možností na napísanie toho istého slova. Všeobecné pravidlo znie: čím zrozumiteľnejšie, tým lepšie. Je však potrebné mať na pamäti niekoľko vecí:
 
 - Aby ste predišli zmätku medzi nováčikmi, snažte sa čo najviac dodržiavať štandardný latinský a/alebo cyrilický pravopis. Rozloženie medzislovanskej klávesnice si môžete stiahnuť [tu][2].
-- Z rovnakého dôvodu nepoužívajte v bežných rozhovoroch etymologickú abecedu (predtým známu ako :notr[_Naučny medžuslovjansky_]). Vždy, keď ho napriek tomu použijete, uveďte, prečo ho používate.
+- Z rovnakého dôvodu nepoužívajte v bežných rozhovoroch etymologickú abecedu (predtým známu ako :notr[_Naučny Medžuslovjansky_]). Vždy, keď ho napriek tomu použijete, uveďte, prečo ho používate.
 - Vyhnite sa používaniu písmen azbuky, ktoré sa už nepoužívajú (napríklad `ѣ`, `ѩ`, `ѫ`, `ѱ`) a nepokúšajte sa ani iným spôsobom cyrilizovať etymologickú abecedu, pretože oboje by vážne narušilo zrozumiteľnosť.
 - Ak máte problémy s písaním určitých znakov, použite jednu z navrhovaných alternatív.
 - Buďte dôslední pri výbere. Ak sa napríklad rozhodnete použiť `sz` na vyjadrenie `š`, ponechajte to tak v celom texte alebo konverzácii, inak len vytvoríte zmätok. Z rovnakého dôvodu, ak používate `sz`, potom nepoužívajte súčasne `č` alebo `cx`.

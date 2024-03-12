@@ -1,5 +1,7 @@
 ---
 sidebar_position: 8
+last_update:
+  author: Google Translate
 ---
 
 # Једноставна граматика

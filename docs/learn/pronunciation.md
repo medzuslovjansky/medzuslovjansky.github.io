@@ -3,8 +3,8 @@ sidebar_position: 4
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronunciation.html
-description: "A comprehensive guide to pronunciation in Interslavic. This page covers the standard alphabet, etymological alphabet extensions, stress rules, and more."
-keywords: [Interslavic, Medžuslovjansky, Меджусловјанскы, pronunciation, phonemes, language, phonology, etymology]
+description: "Learn how to pronounce Interslavic sounds accurately and effectively."
+tags: [interslavic, pronunciation, language, slavic languages, linguistics]
 ---
 
 # Pronunciation

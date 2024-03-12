@@ -3,6 +3,8 @@ sidebar_position: 3
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
+description: "Explore the phonology of Interslavic, a constructed language based on the Slavic languages, for a comprehensive linguistic comparison."
+keywords: [interslavic, phonology, slavic languages, constructed language, sound system, vowels, consonants, phonotactics, morphophonemic alternations]
 ---
 
 # Phonology

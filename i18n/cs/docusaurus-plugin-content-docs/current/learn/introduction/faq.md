@@ -63,7 +63,7 @@ Cílem mezislovanštiny je být okamžitě dostupný a srozumitelný bez předch
 
 ### Jaké jsou ty podivné diakritiky a písmena, které někteří lidé používají v mezislovanštině? \{#what-are-those-weird-diacritics}
 
-Mezislovanská latinka má pouze čtyři písmena s diakritikou: C :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Někteří lidé však používají další diakritiku a písmena, aby si zapamatovali slovanskou etymologii, takže občas se můžete setkat s podivnými slovy jako :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Mezislovanská latinka má pouze čtyři písmena s diakritikou: C :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Někteří lidé však používají další diakritiku a písmena, aby si zapamatovali slovanskou etymologii, takže občas se můžete setkat s podivnými slovy jako :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Zatímco etymologická písma mohou pomoci zlepšit výslovnost v pokročilých stádiích, často zhoršují porozumění psanému textu a jsou považována za nestandardní. Pokud tedy s interslovanštinou teprve začínáte, doporučuje se držet se standardní latinky nebo azbuky a zaměřit se na zvládnutí základů.
 

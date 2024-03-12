@@ -3,6 +3,8 @@ sidebar_position: 5
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/verbs.html
+description: "Explore the perfective and imperfective aspect, conjugation, and examples of verbs in Interslavic. Learn about regular and irregular forms, and usage."
+tags: [interslavic, verbs, grammar, language learning]
 ---
 
 # Verbs

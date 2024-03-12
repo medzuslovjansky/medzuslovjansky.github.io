@@ -3,7 +3,8 @@ sidebar_position: 2
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto2.html
-description: Gender, nouns, adjectives, verbs
+description: "Explore the more advanced grammar of Slovianto, a simplified form of Interslavic, for a basic linguistic comparison."
+tags: [interslavic, grammar, language learning, linguistics, comparative, simplified grammar, slovianto]
 ---
 
 import Tabs from '@theme/Tabs';
@@ -11,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 # Level 2
 
-In [**Level 1**][1] you have learned a number of forms that can you can use to make yourself understandable to Slavs on a very basic level. This language, however, is very primitive, and doesn't do justice to the richness of the Slavic languages at all. So, if you are up to the challenge, here are some more tools that you can use to make `Slovianto` look and sound a lot more natural.
+In [**Level 1**][1] you have learned a number of forms that can you can use to make yourself understandable to Slavs on a very basic level. This language, however, is very primitive, and doesn't do justice to the richness of the Slavic languages at all. So, if you are up to the challenge, here are some more tools that you can use to make :isv[Slovianto] look and sound a lot more natural.
 
 **Level 2** differs from **Level 1** in two ways:
 

@@ -192,15 +192,33 @@ abbr {
   font-style: italic;
   font-size: 90%;
 
+  code {
+    font-size: 100%;
+  }
+
   > strong {
     font-weight: bolder;
     text-decoration: underline;
   }
 }
 
+span[lang] {
+  outline: 5px solid violet;
+}
+
+span[lang*=interslv] {
+  outline: 5px solid orange;
+}
+
+:not([lang]).notranslate {
+  outline: 5px solid red
+}
+
+
 code, .notranslate {
   //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
 }
+
 
 @keyframes blink {
   0% {
@@ -222,6 +240,9 @@ code {
   vertical-align: initial;
   white-space: pre;
   font: inherit;
+  font-family: var(--fun-safe-sans);
+  font-style: normal;
+  font-size: 90%;
   font-weight: bold;
 }
 
@@ -229,9 +250,8 @@ mark {
   background-color: var(--ifm-color-warning-lightest);
 }
 
-code, th[lang*=interslv] {
+th[lang*=interslv] {
   font-family: var(--fun-safe-sans);
-  font-size: 90%;
 }
 
 td[lang*=interslv] {

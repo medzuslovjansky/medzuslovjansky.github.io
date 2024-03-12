@@ -2,9 +2,10 @@
 sidebar_position: 6
 license: republish
 author: Jan van Steenbergen
+last_update:
+  author: Google Translate
 origin: http://steen.free.fr/interslavic/grammar.html
 ---
-
 
 # Граматика
 

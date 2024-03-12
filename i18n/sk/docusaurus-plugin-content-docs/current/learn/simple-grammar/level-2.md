@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # Úroveň 2
 
-V [**Úrovni 1**][1] ste sa naučili množstvo foriem, ktoré môžete použiť na to, aby ste sa stali zrozumiteľnými pre Slovanov na úplne základnej úrovni. Tento jazyk je však veľmi primitívny a vôbec nezodpovedá bohatstvu slovanských jazykov. Takže, ak ste na túto výzvu, tu je niekoľko ďalších nástrojov, ktoré môžete použiť na to, aby `Slovianto` vyzeralo a znelo oveľa prirodzenejšie.
+V [**Úrovni 1**][1] ste sa naučili množstvo foriem, ktoré môžete použiť na to, aby ste sa stali zrozumiteľnými pre Slovanov na úplne základnej úrovni. Tento jazyk je však veľmi primitívny a vôbec nezodpovedá bohatstvu slovanských jazykov. Takže, ak ste na túto výzvu, tu je niekoľko ďalších nástrojov, ktoré môžete použiť na to, aby :isv[Slovianto] vyzeralo a znelo oveľa prirodzenejšie.
 
 **Úroveň 2** sa líši od **Úrovne 1** dvoma spôsobmi:
 

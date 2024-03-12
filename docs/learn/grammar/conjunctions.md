@@ -3,6 +3,8 @@ sidebar_position: 7
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/prepositions.html
+description: "Learn about the usage, inflection, and examples of prepositions in Interslavic. Discover how prepositions govern different cases and their meanings in various contexts."
+tags: [interslavic, conjunctions, prepositions, grammar, language learning]
 ---
 
 # Conjunctions
