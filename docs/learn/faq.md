@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 license: CC-BY-NC-4.0
 author: Interslavic Community
 description: Get answers to frequently asked questions about Interslavic, including its purpose, learning, and usage.
@@ -13,8 +12,8 @@ Interslavic is a constructed auxiliary language designed to be mutually intellig
 
 :::note Example
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -143,9 +142,9 @@ Interslavic is not a form of Pan-Slavism and does not endorse any political stan
 [8]: http://steen.free.fr/interslavic/maly_princ.html
 [9]: https://youtube.com/playlist?list=PLN7FF06VmIkkpWsnaRKitfJMx0Ngr8h-g
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
-[11]: ./language-comparison.md
-[12]: ../grammar/index.md
-[13]: ../simple-grammar/index.md
-[14]: ../orthography.md#representation-of-problematic-characters
-[15]: ../../resources/keyboards.md
-[16]: ../../resources/index.md
+[11]: ./introduction/language-comparison.md
+[12]: ./grammar/index.md
+[13]: ./simple-grammar/index.md
+[14]: ./orthography.md#representation-of-problematic-characters
+[15]: ./../resources/keyboards.md
+[16]: ./../resources/index.md

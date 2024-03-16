@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import {translate} from "@docusaurus/Translate";
 import {Banner, Features, Carousel} from "../components";
-import MovieIcon from '@site/static/img/icons/movie.svg';
+import MovieIcon from '@site/static/img/icons/faq.svg';
 import styles from './index.module.css';
 
 export default function HomePage() {
@@ -21,23 +21,28 @@ export default function HomePage() {
             image={require('@site/static/img/home/banner_hero.png').default}
             title={translate({
               id: 'pages.home.sections[0].slides[0].title',
-              message: 'The language understood by all Slavic peoples'
+              message: 'A Language All Slavic Peoples Understand'
             })}
-            subtitle={translate({
-              id: 'pages.home.sections[0].slides[0].subtitle',
-              message: 'With Interslavic you can find more Slavic-speaking friends and colleagues worldwide.'
-            })}
+            subtitle={<>
+              {translate({
+                id: 'pages.home.sections[0].slides[0].subtitle',
+                message: 'No prior studying necessary – native speakers naturally comprehend 85%+ of Interslavic content.'
+              })}
+              <a href="https://www.researchgate.net/publication/337553634_The_Interslavic_language_as_a_tool_for_supporting_e-democracy_in_Central_and_Eastern_Europe" target="_blank" rel="noreferrer">
+               ⁽*⁾
+              </a>
+            </>}
             cta={
-              <Link to="/learn/introduction/design-criteria">
+              <Link to="/learn/faq">
                 <MovieIcon/>
-                {translate({id: 'pages.home.sections[0].slides[0].cta', message: 'How it works'})}
+                {translate({id: 'pages.home.sections[0].slides[0].cta', message: 'How come?'})}
               </Link>
             }
           />
         </Carousel>
         <Features
           primaryAction={
-            <Link to="/learn/introduction">
+            <Link to="/learn/introduction/">
               {translate({id: 'pages.home.sections[1].actions.primary', message: 'Discover more'})}
             </Link>
           }

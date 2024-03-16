@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 ---
 
 # Často kladené otázky (FAQ)
@@ -10,8 +9,8 @@ Interslovanština je konstruovaný pomocný jazyk navržený tak, aby byl pro ml
 
 :::note Příklad
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -154,14 +153,14 @@ Interslovanština není formou panslavismu a nepodporuje žádný politický pos
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

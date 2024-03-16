@@ -187,10 +187,15 @@ abbr {
   }
 }
 
-.italic-text, span[lang] {
+isv-t, div[lang], span[lang] {
   font-family: var(--fun-safe-serif);
   font-style: italic;
   font-size: 90%;
+
+  h1 &, h2 &, h3 & {
+    font-family: inherit;
+    font-size: 100%;
+  }
 
   code {
     font-size: 100%;
@@ -199,38 +204,6 @@ abbr {
   > strong {
     font-weight: bolder;
     text-decoration: underline;
-  }
-}
-
-span[lang] {
-  outline: 5px solid violet;
-}
-
-span[lang*=interslv] {
-  outline: 5px solid orange;
-}
-
-:not([lang]).notranslate {
-  outline: 5px solid red
-}
-
-
-code, .notranslate {
-  //animation: blink 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
-}
-
-
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-
-  50% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
   }
 }
 

@@ -27,6 +27,8 @@ const plugin = (_options) => {
           return abbr(node, docLang);
         case 'notr':
           return notr(node);
+        case 'isv':
+          return isv(node);
         case 'ipa':
           return ipa(node);
         case 'component':
@@ -44,7 +46,6 @@ const plugin = (_options) => {
         case 'hr':
         case 'hbs':
         case 'hsb':
-        case 'isv':
         case 'mk':
         case 'pl':
         case 'ru':
@@ -98,6 +99,10 @@ function pickTagName(node) {
 
 function kbd(node) {
   prepareNode(node).data.hName = 'kbd';
+}
+
+function isv(node) {
+  prepareNode(node).data.hName = 'isv-t';
 }
 
 function stress(node) {
