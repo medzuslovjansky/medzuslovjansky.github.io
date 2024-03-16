@@ -20,6 +20,10 @@ if (GITHUB_PR_NUMBER) {
 }
 
 function getChangedLocale() {
+  if (Math.random() >= 0) {
+    return;
+  }
+
   if (!fs.existsSync('git-changes.log')) {
     return;
   }
