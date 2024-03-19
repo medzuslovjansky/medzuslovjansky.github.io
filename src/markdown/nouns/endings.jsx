@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {Abbr} from "@site/src/components";
+import {CodeCell as Cell} from "./_td";
 
 export default function Endings() {
   return (
@@ -26,47 +27,47 @@ function Singular() {
       <tbody>
       <tr align="center">
         <th><Abbr>nom.</Abbr></th>
-        <td colSpan={2}><code>-Ø</code></td>
-        <td rowSpan={2}><code>-o</code> <code>(-e)</code></td>
-        <td><code>-a</code></td>
-        <td rowSpan={2}><code>-Ø</code></td>
+        <Cell colSpan={2}>-Ø</Cell>
+        <Cell rowSpan={2}>-o (-e)</Cell>
+        <Cell>-a</Cell>
+        <Cell rowSpan={2}>-Ø</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>acc.</Abbr></th>
-        <td><code>-a</code></td>
-        <td><code>-Ø</code></td>
-        <td><code>-u</code></td>
+        <Cell>-a</Cell>
+        <Cell>-Ø</Cell>
+        <Cell className="noRight">-u</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>gen.</Abbr></th>
-        <td colSpan={3}><code>-a</code></td>
-        <td><code>-y</code> <code>(-e)</code></td>
-        <td><code>-i</code></td>
+        <Cell colSpan={3}>-a</Cell>
+        <Cell>-y (-e)</Cell>
+        <Cell>-i</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>dat.</Abbr></th>
-        <td colSpan={3}><code>-u</code></td>
-        <td><code>-ě</code> <code>(-i)</code></td>
-        <td><code>-i</code></td>
+        <Cell colSpan={3}>-u</Cell>
+        <Cell>-ě (-i)</Cell>
+        <Cell>-i</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>ins.</Abbr></th>
-        <td colSpan={3}><code>-om</code> <code>(-em)</code></td>
-        <td><code>-oju</code> <code>(-eju)</code></td>
-        <td><code>-ju</code></td>
+        <Cell colSpan={3}>-om (-em)</Cell>
+        <Cell>-oju (-eju)</Cell>
+        <Cell>-ju</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>loc.</Abbr></th>
-        <td colSpan={3}><code>-u</code></td>
-        <td><code>-ě</code> <code>(-i)</code></td>
-        <td><code>-i</code></td>
+        <Cell colSpan={3}>-u</Cell>
+        <Cell>-ě (-i)</Cell>
+        <Cell>-i</Cell>
       </tr>
       <tr align="center">
         <th><Abbr>voc.</Abbr></th>
-        <td colSpan={2}><code>-e</code> <code>(-u)</code></td>
-        <td><code>-o</code> <code>(-e)</code></td>
-        <td><code>-o</code></td>
-        <td><code>-i</code></td>
+        <Cell colSpan={2}>-e (-u)</Cell>
+        <Cell>-o (-e)</Cell>
+        <Cell>-o</Cell>
+        <Cell>-i</Cell>
       </tr>
       </tbody>
     </table>
@@ -81,39 +82,34 @@ function Plural() {
       <tr align="center">
 
         <th><Abbr>nom.</Abbr></th>
-        <td><code>-i</code></td>
-        <td rowSpan={2}><code>-y</code> <code>(-e)</code></td>
-        <td rowSpan={2}><code>-a</code></td>
-        <td rowSpan={2}><code>-y</code> <code>(-e)</code></td>
-        <td rowSpan={2}><code>-i</code></td>
+        <Cell>-i</Cell>
+        <Cell rowSpan={2}>-y (-e)</Cell>
+        <Cell rowSpan={2}>-a</Cell>
+        <Cell rowSpan={2}>-y (-e)</Cell>
+        <Cell rowSpan={2}>-i</Cell>
       </tr>
       <tr align="center">
-
         <th><Abbr>acc.</Abbr></th>
-        <td><code>-ov</code> <code>(-ev)</code></td>
+        <Cell className="noRight">-ov (-ev)</Cell>
       </tr>
       <tr align="center">
-
         <th><Abbr>gen.</Abbr></th>
-        <td colSpan={2}><code>-ov</code> <code>(-ev)</code></td>
-        <td><code>-Ø</code></td>
-        <td><code>-Ø</code></td>
-        <td><code>-ij</code></td>
+        <Cell colSpan={2}>-ov (-ev)</Cell>
+        <Cell>-Ø</Cell>
+        <Cell>-Ø</Cell>
+        <Cell>-ij</Cell>
       </tr>
       <tr align="center">
-
         <th><Abbr>dat.</Abbr></th>
-        <td colSpan={5}><code>-am</code></td>
+        <Cell colSpan={5}>-am</Cell>
       </tr>
       <tr align="center">
-
         <th><Abbr>ins.</Abbr></th>
-        <td colSpan={5}><code>-ami</code></td>
+        <Cell colSpan={5}>-ami</Cell>
       </tr>
       <tr align="center">
-
         <th><Abbr>loc.</Abbr></th>
-        <td colSpan={5}><code>-ah</code></td>
+        <Cell colSpan={5}>-ah</Cell>
       </tr>
       </tbody>
     </table>

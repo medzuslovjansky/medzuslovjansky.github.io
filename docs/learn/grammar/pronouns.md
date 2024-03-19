@@ -21,7 +21,7 @@ The forms between brackets are clitic forms, i.e., they are weaker and always un
 
 :::note Notes
 
-After a preposition, all pronouns of the third person are preceded by `n-`: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
+After a preposition, all pronouns of the third person are preceded by :isv[`n-`]: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], etc. (for that reason, the locative forms :isv[jim], :isv[jej] and :isv[jih] never occur, as the locative is always preceded by a preposition)
 
 If you are curious how these forms relate to the Slavic languages, you can see them compared [here][1].
 
@@ -83,7 +83,7 @@ If we need to be more precise, the simplest solution is using :isv[tutoj] for �
 
 The relative pronoun that is used most frequently is :isv[ktory]. It is inflected like an ordinary adjective. Alternatively, South Slavic :isv[koj] (inflected like :isv[moj]) can be used as well. Their meanings are identical and they can be used interchangably.
 
-A third option is the more archaic :isv[iže] – used in the nominative for all genders, both singular and plural; in other cases it is inflected like a form of the personal pronoun **:isv[on]/:isv[ona]/:isv[ono]** with the suffix `-že`: :abbr[m.gen.sg.] :isv[jegože], :abbr[m.dat.sg.] :isv[jemuže] etc.
+A third option is the more archaic :isv[iže] – used in the nominative for all genders, both singular and plural; in other cases it is inflected like a form of the personal pronoun **:isv[on]/:isv[ona]/:isv[ono]** with the suffix :isv[`-že`]: :abbr[m.gen.sg.] :isv[jegože], :abbr[m.dat.sg.] :isv[jemuže] etc.
 
 ## Interrogative pronouns \{#interrogative-pronouns}
 
@@ -100,19 +100,19 @@ Interrogative determiners are :isv[koj] (inflected like :isv[moj]) „which” (
 
 This is a large group of pronouns and determiners, most of which are derived regularly from the interrogative pronouns. There are several categories:
 
-Referring to all items (universal) (`vs-`): :isv[vsi] or :isv[vsekto] „everyone, everybody”, :isv[vse] or :isv[vsečto] „everything”; :isv[ves] (:abbr[f.] :isv[vsa], :abbr[n.] :isv[vse] „whole, entire; all”); :isv[cěly] „whole, entire”; :isv[vsaky] „each, every”; :isv[vsekaky] „each kind of, all sorts of”; :isv[vsečij] „everybody's”.
+Referring to all items (universal) (:isv[`vs-`]): :isv[vsi] or :isv[vsekto] „everyone, everybody”, :isv[vse] or :isv[vsečto] „everything”; :isv[ves] (:abbr[f.] :isv[vsa], :abbr[n.] :isv[vse] „whole, entire; all”); :isv[cěly] „whole, entire”; :isv[vsaky] „each, every”; :isv[vsekaky] „each kind of, all sorts of”; :isv[vsečij] „everybody's”.
 
-Refering to no items (negative) (`ni-`): :isv[nikto] „no one, nobody”, :isv[ničto] „nothing”, :isv[nikoj], :isv[nijedin] and :isv[nikaky] „not a single, none”, :isv[ničij] „nobody's”.
+Refering to no items (negative) (:isv[`ni-`]): :isv[nikto] „no one, nobody”, :isv[ničto] „nothing”, :isv[nikoj], :isv[nijedin] and :isv[nikaky] „not a single, none”, :isv[ničij] „nobody's”.
 
-Referring a single unspecified item (`ně-`): :isv[někto] „someone, somebody”, :isv[něčto] „something”, :isv[někoj] „some”, :isv[někaky] „some kind of”, :isv[něčij] „someone's, somebody's”.
+Referring a single unspecified item (:isv[`ně-`]): :isv[někto] „someone, somebody”, :isv[něčto] „something”, :isv[někoj] „some”, :isv[někaky] „some kind of”, :isv[něčij] „someone's, somebody's”.
 
-Referring to several unspecified items (`poně–`): :isv[poněkoj] „some, several”, :isv[poněkaky] „several kinds of”.
+Referring to several unspecified items (:isv[`poně–`]): :isv[poněkoj] „some, several”, :isv[poněkaky] „several kinds of”.
 
 Referring to a large group of items: :isv[mnogy] „much, many, a lot of”.
 
-Referring to any member of a group (`-koli`, `-nebud`, `libo-`): :isv[ktokoli], :isv[libokto], :isv[kto-nebud] „anyone, anyone”, :isv[čtokoli], :isv[libočto], :isv[čto-nebud] „anything”; :isv[kojkoli], :isv[libokoj], :isv[koj-nebud] „any”, :isv[kakykoli], :isv[libokaky], :isv[kaky-nebud] „any kind of”; :isv[čijkoli], :isv[libočij], :isv[čij-nebud] „anyone's, anybody's”. To indicate indifference, the adverb :isv[bylo] can be used: :isv[bylo kto] „no matter who, just anybody”, :isv[bylo čto] „no matter what”, etc.
+Referring to any member of a group (:isv[`-koli`], :isv[`-nebud`], :isv[`libo-`]): :isv[ktokoli], :isv[libokto], :isv[kto-nebud] „anyone, anyone”, :isv[čtokoli], :isv[libočto], :isv[čto-nebud] „anything”; :isv[kojkoli], :isv[libokoj], :isv[koj-nebud] „any”, :isv[kakykoli], :isv[libokaky], :isv[kaky-nebud] „any kind of”; :isv[čijkoli], :isv[libočij], :isv[čij-nebud] „anyone's, anybody's”. To indicate indifference, the adverb :isv[bylo] can be used: :isv[bylo kto] „no matter who, just anybody”, :isv[bylo čto] „no matter what”, etc.
 
-Referring to another item of a group (`in-`): :isv[inokto] „someone else”, :isv[inočto] „something else”, :isv[iny] „other”, :isv[inočij] „someone else's”.
+Referring to another item of a group (:isv[`in-`]): :isv[inokto] „someone else”, :isv[inočto] „something else”, :isv[iny] „other”, :isv[inočij] „someone else's”.
 
 :isv[Vsekto], :isv[nikto], :isv[něčto], :isv[čtokoli] etc. are inflected like :isv[kto] and :isv[čto]. Likewise, :isv[nikoj], :isv[něčij] etc. are inflected like :isv[koj] and :isv[čij] (and thus like :isv[moj]). :isv[Ves] is inflected as follows:
 
@@ -131,7 +131,7 @@ One of Zamenhof's best inventions was his **table of correlatives**, a group of 
 :::note Notes
 
 - In all cases when :isv[koj] appears, :isv[ktory] can be used interchangeably.
-- In all cases when `-gda` appears, `-gdy` can be used interchangeably.
+- In all cases when :isv[`-gda`] appears, :isv[`-gdy`] can be used interchangeably.
 
 :::
 

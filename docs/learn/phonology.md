@@ -101,13 +101,13 @@ They play a crucial role in both inflection and the word building process, and t
 _Palatalisation_ means that under certain conditions the velar consonants :isv[`k`] :isv[`g`] :isv[`h`] (as well as the dental affricate :isv[`c`]) are changed to the postalveolar consonants :isv[`č`] :isv[`ž`] :isv[`š`].
 This happens in the following cases:
 
-- before :isv[`-e`] in the vocative singular of masculine nouns: :isv[Bo**g**] „God” > :isv[Bo**ž**e], :isv[hlåpė**c**] „boy” > :isv[hlåp**č**e]
-- before :isv[`-e`], :isv[`-eš`] etc. in the present tense of verbs: :isv[pe**k**-ti] „to bake” > :isv[pe**č**eš], :isv[mo**g**-ti] „can” > :isv[mo**ž**eš]
-- before :isv[`-i-`] in derived verbs: :isv[muka] „torment” > :isv[mu**č**iti] „to torment”, :isv[slu**g**a] „servant” > :isv[slu**ž**iti] „to serve”
-- before the suffixes :isv[`-an(in)`], :isv[`-ba`], :isv[`-ec`], :isv[`-ica`], :isv[`-ina`], :isv[`-išče`], :isv[`-je`], :isv[`-ji`], :isv[`-nik`], :isv[`-ny`], :isv[`-ok`]/:isv[`-ka`]/:isv[`-ko`], :isv[`-sky`], :isv[`-stvo`], etc.: :isv[rų**k**a] „hand” > :isv[rų**č**ny] „manual”, :isv[mu**h**a] „fly” > :isv[mu**š**ka] „small fly”
+- before :isv[`-e`] in the vocative singular of masculine nouns: :isv[Bo**g**] „God” ⇒ :isv[Bo**ž**e], :isv[hlåpė**c**] „boy” ⇒ :isv[hlåp**č**e]
+- before :isv[`-e`], :isv[`-eš`] etc. in the present tense of verbs: :isv[pe**k**-ti] „to bake” ⇒ :isv[pe**č**eš], :isv[mo**g**-ti] „can” ⇒ :isv[mo**ž**eš]
+- before :isv[`-i-`] in derived verbs: :isv[muka] „torment” ⇒ :isv[mu**č**iti] „to torment”, :isv[slu**g**a] „servant” ⇒ :isv[slu**ž**iti] „to serve”
+- before the suffixes :isv[`-an(in)`], :isv[`-ba`], :isv[`-ec`], :isv[`-ica`], :isv[`-ina`], :isv[`-išče`], :isv[`-je`], :isv[`-ji`], :isv[`-nik`], :isv[`-ny`], :isv[`-ok`]/:isv[`-ka`]/:isv[`-ko`], :isv[`-sky`], :isv[`-stvo`], etc.: :isv[rų**k**a] „hand” ⇒ :isv[rų**č**ny] „manual”, :isv[mu**h**a] „fly” ⇒ :isv[mu**š**ka] „small fly”
 
 Apart from the aforementioned vocative, palatalisation never occurs in the declension of nouns, adjectives and pronouns.
-Thus: :abbr[sg.] :isv[Čeh] „Czech” > :abbr[pl.] :isv[Čehi] „Czechs”; :abbr[sg.] :isv[dȯlgy] „long” > :abbr[pl.] :isv[dȯlgi] (animate) or :isv[dȯlge] (inanimate).
+Thus: :abbr[sg.] :isv[Čeh] „Czech” ⇒ :abbr[pl.] :isv[Čehi] „Czechs”; :abbr[sg.] :isv[dȯlgy] „long” ⇒ :abbr[pl.] :isv[dȯlgi] (animate) or :isv[dȯlge] (inanimate).
 
 ### Iotation \{#iotation}
 
@@ -121,13 +121,13 @@ Sometimes, the result is the same as in the case of a softened consonant, someti
 - In the case of :isv[`l`] :isv[`n`] :isv[`r`], iotation gives the same result as softening: :isv[`lj`] :isv[`nj`] :isv[`rj`].
 - The combinations :isv[`s`]+:isv[`j`] and :isv[`z`]+:isv[`j`] become :isv[`š`] :isv[`ž`].
 - The combinations :isv[`t`]+:isv[`j`] and :isv[`d`]+:isv[`j`] become :isv[`ć`] :isv[`đ`] (normally written :isv[`č`] :isv[`dž`]).
-- In the sequences :isv[`sk`] :isv[`st`] :isv[`zg`] :isv[`zd`], the :isv[`s`] and :isv[`z`] are iotated along with the following consonant, thus: :isv[`st`]+:isv[`j`] > :isv[`šć`], etc.
+- In the sequences :isv[`sk`] :isv[`st`] :isv[`zg`] :isv[`zd`], the :isv[`s`] and :isv[`z`] are iotated along with the following consonant, thus: :isv[`st`]+:isv[`j`] ⇒ :isv[`šć`], etc.
 
 Iotation occurs mostly in :isv[`-i-`] class verbs:
 
-- in the first person singular: :isv[pro**s**-iti] > :isv[pro**s**-jų] > :isv[pro**š**ų] (normally written :isv[pro**š**u])
-- in the perfect passive participle: :isv[tra**t**-iti]> :isv[tra**t**-jeny] > :isv[tra**ć**eny] (normally written :isv[tra**č**eny])
-- in the case of imperfective verbs derived from perfective verbs on :isv[`-iti`]: :isv[nagrå**d**-iti] > :isv[nagra**d**-jati] > :isv[nagra**đ**ati] (normally written :isv[nagra**dž**ati])
+- in the first person singular: :isv[pro**s**-iti] ⇒ :isv[pro**s**-jų] ⇒ :isv[pro**š**ų] (normally written :isv[pro**š**u])
+- in the perfect passive participle: :isv[tra**t**-iti] ⇒ :isv[tra**t**-jeny] ⇒ :isv[tra**ć**eny] (normally written :isv[tra**č**eny])
+- in the case of imperfective verbs derived from perfective verbs on :isv[`-iti`]: :isv[nagrå**d**-iti] ⇒ :isv[nagra**d**-jati] ⇒ :isv[nagra**đ**ati] (normally written :isv[nagra**dž**ati])
 
 Iotation does not occur when a word with initial :isv[`j`] is preceded by a prefix: :isv[`s`]+:isv[jesti] becomes :isv[**sj**esti], not :isv[šesti].
 
@@ -138,14 +138,14 @@ Any changes are blocked by the softener, so to speak.
 In etymological orthography :isv[`ljj`], :isv[`njj`] etc. are written as :isv[`ľj`] :isv[`ńj`], to avoid gemination of :isv[`j`].
 Likewise, we write :isv[`ŕj`] :isv[`t́j`] :isv[`d́j`] :isv[`śj`] :isv[`źj`] :isv[`šj`] :isv[`žj`] :isv[`čj`] as well.
 In standard orthography we simply write :isv[`lj`] :isv[`nj`] :isv[`rj`] :isv[`tj`] :isv[`dj`] :isv[`sj`] :isv[`zj`] :isv[`šj`] :isv[`žj`] :isv[`čj`] in these cases.
-If the stem ends in :isv[`-j`], the following :isv[`j-`] is simply swallowed: :isv[dvo**j**-iti] > :isv[dvo**j-j**ų] > :isv[dvo**j**ų].
+If the stem ends in :isv[`-j`], the following :isv[`j-`] is simply swallowed: :isv[dvo**j**-iti] ⇒ :isv[dvo**j-j**ų] ⇒ :isv[dvo**j**ų].
 
 This occurs in the following situations:
 
-- with the palatalising suffix :isv[`-’je`] (indicating a place, for example): :isv[morje]> :isv[pri+mor+’je] > :isv[primoŕje] (normally written :isv[primorje])
-- in verbal nouns, where the ending :isv[`-y`] of the perfect passive participle is replaced with (palatalising) :isv[`-’je`]: :isv[dělati] > :isv[dělańje] (normally written :isv[dělanje])
-- with the palatalising possessive suffix :isv[`-ji`]: :isv[Bog] + :isv[`’ji`] > :isv[Bo**ž**ji_], :isv[kot] + :isv[`’ji`] > :isv[:isv[`kot́ji`]] (normally written :isv[kotji])
-- in the instrumental singular of nouns of the :isv[kost] type: :isv[kost] + :isv[`’jų`] > :isv[kost́jų] (normally written :isv[kostju])
+- with the palatalising suffix :isv[`-’je`] (indicating a place, for example): :isv[morje]⇒ :isv[pri+mor+’je] ⇒ :isv[primoŕje] (normally written :isv[primorje])
+- in verbal nouns, where the ending :isv[`-y`] of the perfect passive participle is replaced with (palatalising) :isv[`-’je`]: :isv[dělati] ⇒ :isv[dělańje] (normally written :isv[dělanje])
+- with the palatalising possessive suffix :isv[`-ji`]: :isv[Bog] + :isv[`’ji`] ⇒ :isv[Bo**ž**ji], :isv[kot] + :isv[`’ji`] ⇒ :isv[kot́ji`] (normally written :isv[kotji])
+- in the instrumental singular of nouns of the :isv[kost] type: :isv[kost] + :isv[`’jų`] ⇒ :isv[kost́jų] (normally written :isv[kostju])
 
 Complicated as this may seem, all this means in writing is that the suffixes :isv[`-je`], :isv[`-ji`] and the instrumental ending :isv[`-jų`] do not cause iotation, but only palatalisation of :isv[`k`] :isv[`g`] :isv[`h`] :isv[`c`].
 
@@ -156,7 +156,7 @@ The differences between softened, patalalised and iotated consonants are demonst
 :::component{name=MDPhonology3}
 :::
 
-### :isv[`O`] > :isv[`E`] \{#o--e}
+### :isv[`O`] ⇒ :isv[`E`] \{#o--e}
 
 Old Slavic used to have a peculiar intolerance of :isv[`o`] following a soft consonant, and whenever such a sequence occurred because of an ending or a suffix, the :isv[`o`] was changed to :isv[`e`].
 This development has left its marks in all Slavic languages, although nowadays they differ as to the degree in which the is still applied.
@@ -167,7 +167,7 @@ Thus, endings like :isv[`-o`], :isv[`-ov`], :isv[`-om`], :isv[`-ogo`] and :isv[`
 Because of the :isv[`o`]/:isv[`e`] rule, we have :isv[morje] versus :isv[okno], :isv[krajev] versus :isv[gradov], and :isv[čego] versus :isv[kogo].
 The same mechanism also works in combination with suffixes like :isv[`-ost`], :isv[`-ovati`] and :isv[`-ovy`], for example: :isv[svěžest́], :isv[nočevati].
 
-#### :isv[`Y`] > :isv[`I`]/:isv[`E`] \{#y--ie}
+### :isv[`Y`] ⇒ :isv[`I`]/:isv[`E`] \{#y--ie}
 
 In South Slavic and Ukrainian, as well as in spoken Czech and Slovak, :isv[`i`] and :isv[`y`] have merged into one vowel.
 In Interslavic, the pronunciation of :isv[`y`] may therefore be :ipa[i], :ipa[ɪ], :ipa[ɨ] or anything in between.
@@ -182,36 +182,36 @@ For example: :abbr[m.pl.] :isv[dom-**y**] versus :isv[kraj-**e**], :abbr[f.pl.] 
 
 Because several Slavic languages do not distinguish between :isv[`i`] and :isv[`y`] at all, substituting all occurrences of :isv[`y`] with :isv[`i`] is an acceptable simplification in written Interslavic.
 
-#### :isv[`Ě`] > :isv[`I`] \{#ě--i}
+### :isv[`Ě`] ⇒ :isv[`I`] \{#ě--i}
 
 Just like :isv[`y`], the phoneme :isv[`ě`] always follows a hard consonant.
-In the dative and locative singular of feminine nouns, it becomes i after a soft consonant, i.e. it follows a pattern opposite to :isv[`y`] > :isv[`e`]: :isv[žen-**ě**], but :isv[zemj-**i**].
+In the dative and locative singular of feminine nouns, it becomes i after a soft consonant, i.e. it follows a pattern opposite to :isv[`y`] ⇒ :isv[`e`]: :isv[žen-**ě**], but :isv[zemj-**i**].
 
-#### Fleeting :isv[`o`]/:isv[`e`] \{#fleeting-oe}
+### Fleeting :isv[`o`]/:isv[`e`] \{#fleeting-oe}
 
 A characteristic feature of the Slavic languages is the existence of "fleeting" or "movable" vowels, referring to the phenomenon of vowels appearing and disappearing in a seemingly random manner, especially in certain inflected forms of nouns.
-This is a result of different reflexes of the Common Slavic jers :isv[`ъ`] and :isv[`ь`], which were lost in weak positions and vocalised to :isv[`o`] and :isv[`e`] in strong positions.
+This is a result of different reflexes of the Common Slavic jers :sla[`ъ`] and :sla[`ь`], which were lost in weak positions and vocalised to :isv[`o`] and :isv[`e`] in strong positions.
 In most cases this vowel appears in words that would otherwise end in a consonant cluster, and disappears when this cluster is followed by an ending.
 
 Fleeting :isv[`o`] and :isv[`e`] (in the etymological alphabet marked with a dot: :isv[`ȯ`] and :isv[`ė`]) appear especially in the following cases:
 
 - in the nominative (and, in the case of inanimate nouns, the accusative) singular of masculine nouns, particularly those ending in :isv[`-ėc`] and :isv[`-ȯk`], as well as a few other nouns:
-  :abbr[nom.sg.] :isv[ot**ė**c] „father” > :abbr[gen.sg.] :isv[otca]
-  :abbr[nom.sg.] :isv[pěs**ȯ**k] „sand” > :abbr[gen.sg.] :isv[pěska]
-  :abbr[nom.sg.] :isv[p**ė**s] „dog” > :abbr[gen.sg.] :isv[psa]
-  :abbr[nom.sg.] :isv[s**ȯ**n] „dream” > :abbr[gen.sg.] :isv[sna]
-  :abbr[nom.sg.] :isv[kr**ȯ**v] „blood” > :abbr[gen.sg.] :isv[krvi]
+  - :abbr[nom.sg.] :isv[ot**ė**c] „father” ⇒ :abbr[gen.sg.] :isv[otca]
+  - :abbr[nom.sg.] :isv[pěs**ȯ**k] „sand” ⇒ :abbr[gen.sg.] :isv[pěska]
+  - :abbr[nom.sg.] :isv[p**ė**s] „dog” ⇒ :abbr[gen.sg.] :isv[psa]
+  - :abbr[nom.sg.] :isv[s**ȯ**n] „dream” ⇒ :abbr[gen.sg.] :isv[sna]
+  - :abbr[nom.sg.] :isv[kr**ȯ**v] „blood” ⇒ :abbr[gen.sg.] :isv[krvi]
 - in the genitive plural of feminine and neuter nouns that would otherwise end in a consonant cluster:
-  :abbr[nom.sg.] :isv[okno] „window” > :abbr[gen.pl.] :isv[ok**ė**n]
-  :abbr[nom.sg.] :isv[miska] „bowl” > :abbr[gen.pl.] :isv[mis**ȯ**k]
+  - :abbr[nom.sg.] :isv[okno] „window” ⇒ :abbr[gen.pl.] :isv[ok**ė**n]
+  - :abbr[nom.sg.] :isv[miska] „bowl” ⇒ :abbr[gen.pl.] :isv[mis**ȯ**k]
 - in the nominative singular masculine forms of certain pronouns:
-  :abbr[m.nom.sg.] :isv[v**ė**ś] „all, entire”, :abbr[f.nom.sg.] :isv[vśa]
+  - :abbr[m.nom.sg.] :isv[v**ė**ś] „all, entire”, :abbr[f.nom.sg.] :isv[vśa]
 - before certain suffixes:
-  :isv[piśmo] „letter, script” > :isv[pis**ė**mny] „written, in writing”
+  - :isv[piśmo] „letter, script” ⇒ :isv[pis**ė**mny] „written, in writing”
 - the prepositions :isv[s] and :isv[v] when preceding certain pronouns or consonant clusters, or when used as a prefix before a vowel or a consonant cluster:
-  :isv[`s`] „with” + :isv[mnojų] „me” (:abbr[instr.sg.]) > :isv[s**ȯ** mnojų],
-  :isv[`v`] „in” + :isv[vsih] „all” (:abbr[loc.pl.]) > :isv[v**ȯ** vsih],
-  :isv[`s-`] + :isv[držati] > :isv[s**ȯ**držati] „to contain”,
-  :isv[`v-`] + :isv[idti] > :isv[v**ȯ**jdti] „to enter”.
+  - :isv[`s`] „with” + :isv[mnojų] „me” (:abbr[instr.sg.]) ⇒ :isv[s**ȯ** mnojų],
+  - :isv[`v`] „in” + :isv[vsih] „all” (:abbr[loc.pl.]) ⇒ :isv[v**ȯ** vsih],
+  - :isv[`s-`] + :isv[držati] ⇒ :isv[s**ȯ**držati] „to contain”,
+  - :isv[`v-`] + :isv[idti] ⇒ :isv[v**ȯ**jdti] „to enter”.
 
 [1]: orthography.md#etymological_alphabet

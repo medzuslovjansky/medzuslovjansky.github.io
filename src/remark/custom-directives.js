@@ -102,7 +102,8 @@ function kbd(node) {
 }
 
 function isv(node) {
-  prepareNode(node).data.hName = 'isv-t';
+  namedComponent(node, 'TransliteratorElement');
+  remapTextRecursively(node, (text) => text.replaceAll('t́', 'ť'));
 }
 
 function stress(node) {
@@ -146,6 +147,20 @@ function getShallowText(node) {
   return result;
 }
 
+function remapTextRecursively(node, callback) {
+  const children = node.children;
+  const n = children.length;
+
+  for (let i = 0; i < n; i++) {
+    const child = children[i];
+    if (child.type === 'text' && typeof child.value === 'string') {
+      child.value = callback(child.value);
+    }
+  }
+
+  return node;
+}
+
 function lang(node) {
   const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
   prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
@@ -154,11 +169,11 @@ function lang(node) {
 function component(node) {
   const { name, ...props } = node.attributes || {};
   if (!name) return;
+  namedComponent(node, name, props);
+}
 
-  Object.assign(prepareNode(node).data, {
-    hName: name,
-    hProperties: props,
-  });
+function namedComponent(node, hName, hProperties = {}) {
+  Object.assign(prepareNode(node).data, { hName, hProperties });
 }
 
 module.exports = plugin;

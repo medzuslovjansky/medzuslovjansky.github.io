@@ -63,7 +63,7 @@ The goal of Interslavic is to be immediately accessible and understandable witho
 
 ### What are those weird diacritics and letters some people use in Interslavic? \{#what-are-those-weird-diacritics}
 
-The Interslavic Latin alphabet has only four letters with diacritics: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. However, some people use additional diacritics and letters to memorize Slavic etymology, so occasionally, you might encounter weird words like :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
+The Interslavic Latin alphabet has only four letters with diacritics: `Č` :ipa[t͡ʃ], `Š` :ipa[ʂ], `Ž` :ipa[ʒ], `Ě` :ipa[jɛ]. However, some people use additional diacritics and letters to memorize Slavic etymology, so occasionally, you might encounter weird words like :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 While etymological scripts may help improve pronunciation in advanced stages, they often degrade written text comprehension and are considered non-standard. Therefore, if you are just starting to learn Interslavic, it is recommended to stick to the standard Latin or Cyrillic alphabet and focus on mastering the basics.
 

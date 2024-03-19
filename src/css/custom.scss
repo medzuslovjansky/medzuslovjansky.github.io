@@ -117,7 +117,7 @@ body[data-theme='dark'] {
 .markdown {
   h1:first-child {
     line-height: 1.286;
-    margin-bottom: 0.25em;
+    //margin-bottom: 0.25em;
   }
 
   h2 {
@@ -125,9 +125,9 @@ body[data-theme='dark'] {
     line-height: 1.33;
   }
 
-  h1 + h2 {
-    margin-top: 0;
-  }
+  //h1 + h2 {
+  //  margin-top: 0;
+  //}
 
   a {
     text-decoration: underline;
@@ -187,17 +187,19 @@ abbr {
   }
 }
 
-isv-t, div[lang], span[lang] {
+div[lang], span[lang] {
   font-family: var(--fun-safe-serif);
   font-style: italic;
   font-size: 90%;
 
-  h1 &, h2 &, h3 & {
-    font-family: inherit;
-    font-size: 100%;
+  td & {
+    font-family: var(--fun-safe-sans);
+    font-style: normal;
+    font-size: 80%;
   }
 
-  code {
+  h1 &, h2 &, h3 & {
+    font-family: inherit;
     font-size: 100%;
   }
 
@@ -205,6 +207,15 @@ isv-t, div[lang], span[lang] {
     font-weight: bolder;
     text-decoration: underline;
   }
+}
+
+th[lang*=interslv] {
+  font-family: var(--fun-safe-sans);
+}
+
+td[lang*=interslv] {
+  font-family: var(--fun-safe-sans);
+  font-size: 0.8rem;
 }
 
 code {
@@ -215,21 +226,12 @@ code {
   font: inherit;
   font-family: var(--fun-safe-sans);
   font-style: normal;
-  font-size: 90%;
+  font-size: 0.8rem;
   font-weight: bold;
 }
 
 mark {
   background-color: var(--ifm-color-warning-lightest);
-}
-
-th[lang*=interslv] {
-  font-family: var(--fun-safe-sans);
-}
-
-td[lang*=interslv] {
-  font-family: var(--fun-safe-sans);
-  font-size: 0.8rem;
 }
 
 .table_full {

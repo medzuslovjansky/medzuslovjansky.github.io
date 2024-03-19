@@ -3,7 +3,7 @@ import TabItem from '@theme/TabItem';
 import { translate } from "@docusaurus/Translate";
 import { Abbr } from "@site/src/components";
 
-import { CodeCell as Cell } from "./_td";
+import { CodeCell } from "./_td";
 
 export default function BasicEndings() {
   return (
@@ -34,35 +34,35 @@ function Singular() {
         </tr>
         <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <Cell colSpan={2}>-y (-i)</Cell>
-          <Cell rowSpan={2}>-o (-e)</Cell>
-          <Cell>-a</Cell>
+          <CodeCell colSpan={2}>-y (-i)</CodeCell>
+          <CodeCell rowSpan={2}>-o (-e)</CodeCell>
+          <CodeCell>-a</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <Cell>-ogo (-ego)</Cell>
-          <Cell>-y (-i)</Cell>
-          <Cell>-u</Cell>
+          <CodeCell>-ogo (-ego)</CodeCell>
+          <CodeCell>-y (-i)</CodeCell>
+          <CodeCell>-u</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <Cell colSpan={3}>-ogo (-ego)</Cell>
-          <Cell>-oj (-ej)</Cell>
+          <CodeCell colSpan={3}>-ogo (-ego)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <Cell colSpan={3}>-omu (-emu)</Cell>
-          <Cell>-oj (-ej)</Cell>
+          <CodeCell colSpan={3}>-omu (-emu)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <Cell colSpan={3}>-ym (-im)</Cell>
-          <Cell>-oju (-eju)</Cell>
+          <CodeCell colSpan={3}>-ym (-im)</CodeCell>
+          <CodeCell>-oju (-eju)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <Cell colSpan={3}>-om (-em)</Cell>
-          <Cell>-oj (-ej)</Cell>
+          <CodeCell colSpan={3}>-om (-em)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
       </tbody>
     </table>
@@ -86,28 +86,28 @@ function Plural() {
         </tr>
         <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <Cell>-i</Cell>
-          <Cell colSpan={3} rowSpan={2}>-e</Cell>
+          <CodeCell>-i</CodeCell>
+          <CodeCell colSpan={3} rowSpan={2}>-e</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <Cell className="noRight">-yh (-ih)</Cell>
+          <CodeCell className="noRight">-yh (-ih)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <Cell colSpan={4}>-yh (-ih)</Cell>
+          <CodeCell colSpan={4}>-yh (-ih)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <Cell colSpan={4}>-ym (-im)</Cell>
+          <CodeCell colSpan={4}>-ym (-im)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <Cell colSpan={4}>-ymi (-imi)</Cell>
+          <CodeCell colSpan={4}>-ymi (-imi)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <Cell colSpan={4}>-yh (-ih)</Cell>
+          <CodeCell colSpan={4}>-yh (-ih)</CodeCell>
         </tr>
       </tbody>
     </table>

@@ -13,7 +13,7 @@ tags: [interslavic, adjectives, inflection, degrees of comparison, language lear
 
 Adjectives match with the noun they modify in gender, case and number. Declension is always regular. However, three things are to be remembered:
 
-- Adjectives are heavily affected by the [o/e][1] and [y/i][2] rules, which means that a distinction is made between hard stems and soft stems: if the stem ends in `š`, `ž`, `č` or `j`, then every `-o-` becomes `-e-` and every `-y-` becomes `-i-`.
+- Adjectives are heavily affected by the [:isv[`o`]/:isv[`e`]][1] and [:isv[`y`]/:isv[`i`]][2] rules, which means that a distinction is made between hard stems and soft stems: if the stem ends in :isv[`š`], :isv[`ž`], :isv[`č`] or :isv[`j`], then every :isv[`-o-`] becomes :isv[`-e-`] and every :isv[`-y-`] becomes :isv[`-i-`].
 - Just like in the case of nouns, the accusative of has the same form as the genitive when the corresponding noun is masculine and animate, both singular and plural.
 - Except for adjectives referring to masculine, animate nouns, the nominate and accusative plural are identical for all genders.
 
@@ -40,7 +40,7 @@ Example of the declension of soft adjectives: :isv[svěži] „fresh”:
 
 ## Short form
 
-A small number of adjectives exist in the so-called short form, a relic of the indefinite declension of adjectives in Common Slavic. This short form differs from regular adjectives only in the masculine nominative singular by omitting the ending `-y`/`-i`. The most common examples are the possessive adjectives `-ov` and `-in`, respecively expressing ownership by a masculine and feminine person: :isv[Petrov dom] „Peter’s house”, :isv[materin stol] „mother’s table”. All other forms are regular: :isv[Petrova kniga] „Peter’s book”, :isv[na materinom stolu] „on mother’s table”.
+A small number of adjectives exist in the so-called short form, a relic of the indefinite declension of adjectives in Common Slavic. This short form differs from regular adjectives only in the masculine nominative singular by omitting the ending :isv[`-y`]/:isv[`-i`]. The most common examples are the possessive adjectives :isv[`-ov`] and :isv[`-in`], respecively expressing ownership by a masculine and feminine person: :isv[Petrov dom] „Peter’s house”, :isv[materin stol] „mother’s table”. All other forms are regular: :isv[Petrova kniga] „Peter’s book”, :isv[na materinom stolu] „on mother’s table”.
 
 These possessive adjectives are only used when the possessor is a single word. In other cases, the genitive is used: :isv[bratova kniga] „brother’s book”, but: :isv[kniga mojego brata] „my brother’s book”; :isv[Puškinova poezija] „Pushkin’s poetry”, but: :isv[poezija Aleksandra Puškina] „Aleksandr Pushkin’s poetry”.
 
@@ -48,7 +48,7 @@ The short form may also be used when the adjective forms the predicate of the se
 
 ## Adverbs
 
-Adverbs can be derived from adjectives by using the ending `-o` (`-e` after a soft consonant). In other words, they are identical to the neuter singular: :isv[dobro] „well”, :isv[svěže] „freshly”.
+Adverbs can be derived from adjectives by using the ending :isv[`-o`] (:isv[`-e`] after a soft consonant). In other words, they are identical to the neuter singular: :isv[dobro] „well”, :isv[svěže] „freshly”.
 
 ## Degrees of comparison
 
@@ -60,13 +60,13 @@ This way of forming a comparative is easiest to use. Simply have the ground form
 
 ### Synthetic comparative
 
-The basic comparative ending for adjectives `-ějši` (`-ejši` after a soft consonant), replacing the ending `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby] → :isv[slabějši], :isv[blagy] → :isv[blažejši], :isv[svěži] → :isv[svěžejši].
+The basic comparative ending for adjectives :isv[`-ějši`] (:isv[`-ejši`] after a soft consonant), replacing the ending :isv[`-y`]/:isv[`-i`]: :isv[bogaty] → :isv[bogatějši], :isv[slaby] → :isv[slabějši], :isv[blagy] → :isv[blažejši], :isv[svěži] → :isv[svěžejši].
 
-These endings can simply be made into adverbs by replacing the element `-ši` by `-e` (giving the ending `-ěje`/`-eje` instead of the adverbial ending `-o`/`-e`): :isv[novo] → :isv[nověje], :isv[čisto] → :isv[čistěje], :isv[tiho] → :isv[tišeje], :isv[svěže] → :isv[svěžeje].
+These endings can simply be made into adverbs by replacing the element :isv[`-ši`] by :isv[`-e`] (giving the ending :isv[`-ěje`]/:isv[`-eje`] instead of the adverbial ending :isv[`-o`]/:isv[`-e`]): :isv[novo] → :isv[nověje], :isv[čisto] → :isv[čistěje], :isv[tiho] → :isv[tišeje], :isv[svěže] → :isv[svěžeje].
 
-An exception are adjectives on `-ky`, `-eky`, `-oky`, which have `-ši` instead: :isv[kratky] → :isv[kratši], :isv[tenky] → :isv[tenši], :isv[daleky] → :isv[dalši], :isv[vysoky] → :isv[vysši].
+An exception are adjectives on :isv[`-ky`], :isv[`-eky`], :isv[`-oky`], which have :isv[`-ši`] instead: :isv[kratky] → :isv[kratši], :isv[tenky] → :isv[tenši], :isv[daleky] → :isv[dalši], :isv[vysoky] → :isv[vysši].
 
-The comparatives of these adjectives can be adverbialised by adding the ending `-je` to the root, causing [iotation][3] of the preceding consonant(s): :isv[daleko] → :isv[dalje], :isv[široko] → :isv[širje], :isv[vysoky] → :isv[vyše], :isv[blizko] → :isv[bliže], :isv[rědko] → :isv[rědže].
+The comparatives of these adjectives can be adverbialised by adding the ending :isv[`-je`] to the root, causing [iotation][3] of the preceding consonant(s): :isv[daleko] → :isv[dalje], :isv[široko] → :isv[širje], :isv[vysoky] → :isv[vyše], :isv[blizko] → :isv[bliže], :isv[rědko] → :isv[rědže].
 
 ### Irregular comparatives
 
@@ -84,7 +84,7 @@ It is not impossible to use regular forms of these adjectives (like :isv[dobrěj
 
 ### Superlative
 
-The superlative is formed by adding the prefix `naj-` to the comparative: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). This works for the analytic comparative, too: :isv[najvyše sintetičny] or :isv[najbolje sintetičny].
+The superlative is formed by adding the prefix :isv[`naj-`] to the comparative: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). This works for the analytic comparative, too: :isv[najvyše sintetičny] or :isv[najbolje sintetičny].
 
 As a means of simplification, this ending can also be added to the positive instead (which is how superlatives are made in Bulgarian and Macedonian): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
@@ -92,9 +92,9 @@ As a means of simplification, this ending can also be added to the positive inst
 
 The adverbs :isv[menje] and :isv[najmenje] can be used to express the opposite meaning of :isv[vyše]/:isv[bolje] and :isv[najvyše]/:isv[najbolje], meaning „less” and „least” respectively.
 
-The prefix `prě-` attached to the positive can be used as a kind of superlative as well, expressing an extreme or excessive degree („very”, „too”).
+The prefix :isv[`prě-`] attached to the positive can be used as a kind of superlative as well, expressing an extreme or excessive degree („very”, „too”).
 
-The prefix `ne-` creates a negative: :isv[neprijetny] „not pleasant, unpleasant”.
+The prefix :isv[`ne-`] creates a negative: :isv[neprijetny] „not pleasant, unpleasant”.
 
 ### Example
 
