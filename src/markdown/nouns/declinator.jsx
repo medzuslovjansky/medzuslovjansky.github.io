@@ -1,6 +1,5 @@
 import {declensionNoun, transliterate} from '@interslavic/utils';
-import {Abbr} from '@site/src/components';
-import Translate from '@docusaurus/Translate';
+import {Abbr, TransliteratorElement} from '@site/src/components';
 
 export default function Declinator(props) {
   const {lemma, additional = '', gender, animate = false, plural = false, singular = false, indeclinable = false, athematic = false } = props;
@@ -8,12 +7,10 @@ export default function Declinator(props) {
   const { nom, acc, gen, dat, ins, loc, voc } = declensionNoun(lemma, additional, gender, animate, plural, singular, indeclinable);
 
   return (
-    <table className="table_full">
+    <table className="table_sticky table_mw">
       <thead>
       <tr>
-        <th>
-          <Translate id="com.interslavic.declinator.case">case</Translate>
-        </th>
+        <th className="invisible"></th>
         <th>
           <Abbr>sg.</Abbr>
         </th>
@@ -44,8 +41,8 @@ function Case({row: [singular, plural], title}) {
   return (
     <tr>
       <th><Abbr>{title}</Abbr></th>
-      <td lang="art-x-interslv">{s}</td>
-      <td lang="art-x-interslv">{p}</td>
+      <td><TransliteratorElement>{s}</TransliteratorElement></td>
+      <td><TransliteratorElement>{p}</TransliteratorElement></td>
     </tr>
   );
 }

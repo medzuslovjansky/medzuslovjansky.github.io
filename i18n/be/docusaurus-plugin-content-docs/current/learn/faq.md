@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 license: CC-BY-NC-4.0
 author: Міжславянская супольнасць
 last_update:
@@ -15,8 +14,8 @@ description: Атрымайце адказы на часта задаваныя 
 
 :::note Прыклад
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -68,7 +67,7 @@ description: Атрымайце адказы на часта задаваныя 
 
 ### Што гэта за дзіўныя дыякрытычныя знакі і літары, якія некаторыя людзі выкарыстоўваюць у міжславянскай мове? \{#what-are-those-weird-diacritics}
 
-Міжславянскі лацінскі алфавіт мае толькі чатыры літары з дыякрытыкай: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Аднак некаторыя людзі выкарыстоўваюць дадатковыя дыякрытычныя знакі і літары, каб запомніць славянскую этымалогію, таму час ад часу вы можаце сустрэць такія дзіўныя словы, як :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Міжславянскі лацінскі алфавіт мае толькі чатыры літары з дыякрытыкай: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Аднак некаторыя людзі выкарыстоўваюць дадатковыя дыякрытычныя знакі і літары, каб запомніць славянскую этымалогію, таму час ад часу вы можаце сустрэць такія дзіўныя словы, як :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Хаця этымалагічныя тэксты могуць дапамагчы палепшыць вымаўленне на прасунутых стадыях, яны часта пагаршаюць разуменне пісьмовага тэксту і лічацца нестандартнымі. Таму, калі вы толькі пачынаеце вывучаць міжславянскую мову, рэкамендуецца прытрымлівацца стандартнага лацінскага або кірылічнага алфавіту і сканцэнтравацца на засваенні асноў.
 
@@ -159,14 +158,14 @@ _Войцех Мэрунка_ і _Ян ван Стэнберген_ — гало
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

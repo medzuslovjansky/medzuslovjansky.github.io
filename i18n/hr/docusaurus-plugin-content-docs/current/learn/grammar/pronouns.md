@@ -87,6 +87,8 @@ Treća opcija je arhaičniji `iže` – koristi se u nominativu za sve rodove, i
 Upitne zamjenice su `kto` „tko” i `čto` (ili `što`) „što”. Oni se mijenjaju na sljedeći način:
 
 :::component{name=MDPronouns4}
+* tko?
+* što?
 :::
 
 Upitne determinante su `koj` (sklanja se kao `moj`) „koji” (umjesto toga se može koristiti i `ktory`), posvojna zamjenica `čij` „čiji” (vidi gore) i pridjev `kaky` „ koja vrsta".
@@ -119,6 +121,8 @@ Upućivanje na drugu stavku grupe (`in-`): `inokto` „netko drugi”, `inočto`
 Jedan od najboljih Zamenhofovih izuma bila je njegova **tablica korelativa**, skupina međusobno povezanih zamjenica, pridjeva i priloga. Tu su riječi zadržane što pravilnije, ali ne na uštrb prepoznatljivosti za govornike slavenskih jezika. Nekoliko gotovo nemogućih riječi je izostavljeno, a nekoliko drugih pravilnih oblika zamijenjeno je oblicima koji su uobičajeni u prirodnim jezicima. Nepravilni oblici (tj. koji ne izgledaju onako kako bi trebali prema tablici) prikazani su _**kurzivom**_.
 
 :::component{name=MDPronouns6}
+* pitanje; ovdje; tamo; ondje; neki; nekoliko; bilo koji; nijedan; svaki; drugi;
+* koji? tko? što? koliko? čiji? kakav? kako? gdje? kamo? kada? kuda? odakle? zašto (svrha)? zašto (razlog)?
 :::
 
 Bilješke:

@@ -3,7 +3,9 @@ import TabItem from '@theme/TabItem';
 import { translate } from "@docusaurus/Translate";
 import { Abbr } from "@site/src/components";
 
-export default function Good() {
+import { Cell } from "./_td";
+
+export default function Soft() {
   return (
     <Tabs groupId="number">
       <TabItem value="sg" label={translate({ id: 'com.grammar.singular', message: 'Singular' })} default>
@@ -20,57 +22,49 @@ function Singular() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}>
-          </th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td colSpan={2}> <code>dobry</code> </td>
-          <td rowSpan={2}> <code>dobro</code> </td>
-          <td> <code>dobra</code> </td>
+          <Cell colSpan={2}>svěži</Cell>
+          <Cell rowSpan={2}>svěže</Cell>
+          <Cell>svěža</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> <code>dobrogo</code> </td>
-          <td> <code>dobry</code> </td>
-          <td> <code>dobru</code> </td>
+          <Cell>svěžego</Cell>
+          <Cell>svěži</Cell>
+          <Cell>svěžu</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={3}> <code>dobrogo</code> </td>
-          <td> <code>dobroj</code> </td>
+          <Cell colSpan={3}>svěžego</Cell>
+          <Cell>svěžej</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={3}> <code>dobromu</code> </td>
-          <td> <code>dobroj</code> </td>
+          <Cell colSpan={3}>svěžemu</Cell>
+          <Cell>svěžej</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={3}> <code>dobrym</code> </td>
-          <td> <code>dobroju</code> </td>
+          <Cell colSpan={3}>svěžim</Cell>
+          <Cell>svěžeju</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={3}> <code>dobrom</code> </td>
-          <td> <code>dobroj</code> </td>
+          <Cell colSpan={3}>svěžem</Cell>
+          <Cell>svěžej</Cell>
         </tr>
       </tbody>
     </table>
@@ -82,52 +76,42 @@ function Plural() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}>
-          </th>
-          <th colSpan={4}> plural </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
-          <th><Abbr>nom.</Abbr></th>
-          <td> <code>dobri</code></td>
-          <td colSpan={3} rowSpan={2}>
-            <code>dobre</code>
-          </td>
+      <tr align="center">
+        <th><Abbr>nom.</Abbr></th>
+        <Cell>svěži</Cell>
+        <Cell colSpan={3} rowSpan={2}>svěže</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> <code>dobryh</code> </td>
+          <Cell className="noRight">svěžih</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={4}> <code>dobryh</code> </td>
+          <Cell colSpan={4}>svěžih</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={4}> <code>dobrym</code> </td>
+          <Cell colSpan={4}>svěžim</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={4}> <code>dobrymi</code> </td>
+          <Cell colSpan={4}>svěžimi</Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={4}> <code>dobryh</code> </td>
+          <Cell colSpan={4}>svěžih</Cell>
         </tr>
       </tbody>
     </table>

@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # Poziom 2
 
-Na [**Poziomie 1**][1] nauczyłeś się szeregu form, dzięki którym możesz być zrozumiały dla Słowian na bardzo podstawowym poziomie. Język ten jest jednak bardzo prymitywny i zupełnie nie oddaje bogactwa języków słowiańskich. Jeśli więc podejmiesz wyzwanie, oto kilka dodatkowych narzędzi, których możesz użyć, aby `Slovianto` wyglądał i brzmiał o wiele bardziej naturalnie.
+Na [**Poziomie 1**][1] nauczyłeś się szeregu form, dzięki którym możesz być zrozumiały dla Słowian na bardzo podstawowym poziomie. Język ten jest jednak bardzo prymitywny i zupełnie nie oddaje bogactwa języków słowiańskich. Jeśli więc podejmiesz wyzwanie, oto kilka dodatkowych narzędzi, których możesz użyć, aby :isv[Slovianto] wyglądał i brzmiał o wiele bardziej naturalnie.
 
 **Poziom 2** różni się od **Poziomu 1** pod dwoma względami:
 

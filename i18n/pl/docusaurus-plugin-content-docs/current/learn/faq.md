@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 license: CC-BY-NC-4.0
 author: Wspólnota Międzysłowiańska
 last_update:
@@ -15,8 +14,8 @@ Międzysłowiański jest skonstruowanym językiem pomocniczym, zaprojektowanym t
 
 :::note Przykład
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -68,7 +67,7 @@ Celem języka Międzysłowiańskiego jest bycie natychmiast dostępnym i zrozumi
 
 ### Co to za dziwne znaki diakrytyczne i litery, których niektórzy używają w języku międzysłowiańskim? \{#what-are-those-weird-diacritics}
 
-Międzysłowiański alfabet łaciński ma tylko cztery litery ze znakami diakrytycznymi: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Jednak niektórzy ludzie używają dodatkowych znaków diakrytycznych i liter, aby zapamiętać słowiańską etymologię, więc czasami możesz napotkać dziwne słowa, takie jak :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Międzysłowiański alfabet łaciński ma tylko cztery litery ze znakami diakrytycznymi: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Jednak niektórzy ludzie używają dodatkowych znaków diakrytycznych i liter, aby zapamiętać słowiańską etymologię, więc czasami możesz napotkać dziwne słowa, takie jak :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Chociaż pismo etymologiczne może pomóc w poprawie wymowy na zaawansowanych etapach, często pogarszają zrozumienie tekstu pisanego i jest uważane za niestandardowe. Dlatego jeśli dopiero zaczynasz uczyć się języka intersłowiańskiego, zaleca się trzymanie się standardowego alfabetu łacińskiego lub cyrylicy i skupienie się na opanowaniu podstaw.
 
@@ -159,14 +158,14 @@ Międzysłowiański nie jest formą panslawizmu i nie popiera żadnego stanowisk
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

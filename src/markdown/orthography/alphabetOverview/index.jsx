@@ -92,15 +92,15 @@ function Table({ script }) {
 
     return (
       <tr key={index}>
-        {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow}>{Ss}</td>}
-        <td>{Ee}</td>
+        {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow} lang={script}>{Ss}</td>}
+        <td lang="art-x-interslv-etymolog">{Ee}</td>
         <td>{ipa}</td>
       </tr>
     )
   }
 
   return (
-    <table className={styles.table} lang="art-x-interslv">
+    <table className={styles.table}>
       <thead>
         <tr>
           <th className={styles.header}>{translate({ id: 'com.script.Standard', message: 'Standard' })}</th>

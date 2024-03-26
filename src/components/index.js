@@ -3,6 +3,7 @@ import { CustomAfterSection, CustomBeforeSection } from "./sections";
 import { IPA } from "./IPA";
 import { Abbr } from "./Abbr";
 import { Transliterator } from './Transliterator';
+import { TransliteratorElement } from './TransliteratorElement';
 
 export {
   Abbr,
@@ -13,4 +14,5 @@ export {
   Features,
   IPA,
   Transliterator,
+  TransliteratorElement,
 };

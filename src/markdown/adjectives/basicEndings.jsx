@@ -3,6 +3,8 @@ import TabItem from '@theme/TabItem';
 import { translate } from "@docusaurus/Translate";
 import { Abbr } from "@site/src/components";
 
+import { CodeCell } from "./_td";
+
 export default function BasicEndings() {
   return (
     <Tabs groupId="number">
@@ -20,55 +22,47 @@ function Singular() {
     <table className="table_sticky">
       <tbody>
         <tr align="center">
-          <th rowSpan={2}>
-          </th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
         <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td colSpan={2}> <code>-y</code> <code>(-i)</code></td>
-          <td rowSpan={2}> <code>-o</code> <code>(-e)</code></td>
-          <td> <code>-a</code></td>
+          <CodeCell colSpan={2}>-y (-i)</CodeCell>
+          <CodeCell rowSpan={2}>-o (-e)</CodeCell>
+          <CodeCell>-a</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> <code>-ogo</code> <code>(-ego)</code> </td>
-          <td> <code>-y</code> <code>(-i)</code></td>
-          <td> <code>-u</code> </td>
+          <CodeCell>-ogo (-ego)</CodeCell>
+          <CodeCell>-y (-i)</CodeCell>
+          <CodeCell>-u</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={3}> <code>-ogo</code> <code>(-ego)</code></td>
-          <td> <code>-oj</code> <code>(-ej)</code></td>
+          <CodeCell colSpan={3}>-ogo (-ego)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={3}> <code>-omu</code> <code>(-emu)</code></td>
-          <td> <code>-oj</code> <code>(-ej)</code> </td>
+          <CodeCell colSpan={3}>-omu (-emu)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={3}> <code>-ym</code> <code>(-im)</code></td>
-          <td> <code>-oju</code> <code>(-eju)</code></td>
+          <CodeCell colSpan={3}>-ym (-im)</CodeCell>
+          <CodeCell>-oju (-eju)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={3}> <code>-om</code> <code>(-em)</code></td>
-          <td> <code>-oj</code> <code>(-ej)</code> </td>
+          <CodeCell colSpan={3}>-om (-em)</CodeCell>
+          <CodeCell>-oj (-ej)</CodeCell>
         </tr>
       </tbody>
     </table>
@@ -80,50 +74,40 @@ function Plural() {
     <table className="table_sticky">
       <tbody>
         <tr align="center">
-          <th rowSpan={2}>
-          </th>
-          <th colSpan={4}> plural </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
         <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td> <code>-i</code></td>
-          <td colSpan={3} rowSpan={2}>
-            <code>-e</code>
-          </td>
+          <CodeCell>-i</CodeCell>
+          <CodeCell colSpan={3} rowSpan={2}>-e</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> <code>-yh</code> <code>(-ih)</code></td>
+          <CodeCell className="noRight">-yh (-ih)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={4}> <code>-yh</code> <code>(-ih)</code> </td>
+          <CodeCell colSpan={4}>-yh (-ih)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={4}> <code>-ym</code> <code>(-im)</code> </td>
+          <CodeCell colSpan={4}>-ym (-im)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={4}> <code>-ymi</code> <code>(-imi)</code> </td>
+          <CodeCell colSpan={4}>-ymi (-imi)</CodeCell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={4}> <code>-yh</code> <code>(-ih)</code> </td>
+          <CodeCell colSpan={4}>-yh (-ih)</CodeCell>
         </tr>
       </tbody>
     </table>

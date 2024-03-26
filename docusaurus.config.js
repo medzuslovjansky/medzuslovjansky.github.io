@@ -57,6 +57,15 @@ async function createConfig() {
       '@noomorph/docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
       require.resolve('./src/plugins/webpack.js'),
+      ['@docusaurus/plugin-client-redirects', {
+        createRedirects(existingPath) {
+          if (existingPath.includes('/faq')) {
+            return [existingPath.replace('/faq', '/introduction/faq')];
+          }
+
+          return undefined;
+        },
+      }],
     ],
     presets: [
       [
@@ -169,6 +178,10 @@ async function createConfig() {
                 {
                   label: 'Resources',
                   to: '/resources',
+                },
+                {
+                  label: 'FAQ',
+                  to: '/learn/faq',
                 },
                 // {
                 //   label: 'Articles',

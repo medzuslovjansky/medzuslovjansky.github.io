@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # 2. stopnja
 
-V [**Ravni 1**][1] ste se naučili številnih oblik, ki jih lahko uporabite, da postanete razumljivi Slovanom na zelo osnovni ravni. Ta jezik pa je zelo primitiven in sploh ne upošteva bogastva slovanskih jezikov. Torej, če ste kos izzivu, je tukaj še nekaj orodij, s katerimi lahko `Slovianto` naredite videz in zvok veliko bolj naraven.
+V [**Ravni 1**][1] ste se naučili številnih oblik, ki jih lahko uporabite, da postanete razumljivi Slovanom na zelo osnovni ravni. Ta jezik pa je zelo primitiven in sploh ne upošteva bogastva slovanskih jezikov. Torej, če ste kos izzivu, je tukaj še nekaj orodij, s katerimi lahko :isv[Slovianto] naredite videz in zvok veliko bolj naraven.
 
 **Raven 2** se razlikuje od **Raven 1** na dva načina:
 

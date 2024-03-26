@@ -396,5 +396,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "animirani",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "neživi",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Srednji rod",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Ženski rod",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Povratni",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "Prva oseba",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Druga oseba",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Tretja oseba",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "deklinacija",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "mehak",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "trd",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "drugo",
+    "description": "other"
   }
 }

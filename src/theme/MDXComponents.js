@@ -1,11 +1,11 @@
 import MDXComponents from "@theme-original/MDXComponents";
 import DocCardList from "@theme/DocCardList";
 import {
-  Abbr,
   CustomBeforeSection,
   CustomAfterSection,
   IPA,
   Transliterator,
+  TransliteratorElement,
 } from "@site/src/components";
 import MDPronunciation1 from "@site/src/markdown/pronunciation-of-the-alphabet";
 import MDPronunciation2 from "@site/src/markdown/etymological-alphabet-extensions";
@@ -15,14 +15,14 @@ import MDNouns3 from "@site/src/markdown/nouns/neuter";
 import MDNouns4 from "@site/src/markdown/nouns/feminine";
 import MDNouns5 from "@site/src/markdown/nouns/athematic";
 import MDAdjectives1 from "@site/src/markdown/adjectives/basicEndings";
-import MDAdjectives2 from "@site/src/markdown/adjectives/good";
-import MDAdjectives3 from "@site/src/markdown/adjectives/fresh";
+import MDAdjectives2 from "@site/src/markdown/adjectives/hard";
+import MDAdjectives3 from "@site/src/markdown/adjectives/soft";
 import MDPronouns1 from "@site/src/markdown/pronouns/personal";
 import MDPronouns2 from "@site/src/markdown/pronouns/posessive";
 import MDPronouns3 from "@site/src/markdown/pronouns/demonstrative";
 import MDPronouns4 from "@site/src/markdown/pronouns/interrogative";
 import MDPronouns5 from "@site/src/markdown/pronouns/indefinite";
-import MDPronouns6 from "@site/src/markdown/pronouns/pronomonal";
+import MDPronouns6 from "@site/src/markdown/pronouns/pronominal";
 import MDNumerals1 from "@site/src/markdown/numerals/2-4";
 import MDNumerals2 from "@site/src/markdown/numerals/5-30";
 import MDVerbs1 from "@site/src/markdown/verbs/motion";
@@ -129,4 +129,5 @@ export default {
   MDOrthography3,
   MDOrthography4,
   Transliterator,
+  TransliteratorElement,
 };

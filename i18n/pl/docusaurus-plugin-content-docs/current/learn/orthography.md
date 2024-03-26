@@ -89,7 +89,7 @@ Podstawowe alfabety języka międzysłowiańskiego — łaciński i cyrylica —
 
 W przeciwieństwie do alfabetów, takich jak międzynarodowy alfabet fonetyczny i [alfabet słowiański][3], ta ortografia nie ma na celu informowania o wymowie poszczególnych języków, ale pokazanie zależności między nimi. Można to porównać do ortografii języka angielskiego: chociaż istnieją ogromne różnice w wymowie między brytyjskim angielskim, szkockim angielskim i amerykańskim angielskim, wszystkie są pisane praktycznie w ten sam sposób, przy użyciu konwencji pisowni, która reprezentuje język mówiony z XIV wieku. Gdyby Słowianie używali podobnego alfabetu zamiast opartych na wymowie narodowych ortografii, słowo oznaczające „pięć” we wszystkich językach słowiańskich można by zapisać jako :isv[_pęt́_] zamiast :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
 
-Ten oparty na etymologii alfabet (wcześniej znany jako :notr[_Naučny medžuslovjansky_] „Naukowy międzysłowiański”) służy również jako kod źródłowy języka międzysłowiańskiego. Został zaprojektowany w taki sposób, aby różnił się od standardowego międzysłowiańskiego jedynie dodatkowymi znakami diakrytycznymi, tak aby czytelnik nieobeznany z tymi znakami diakrytycznymi mógł je po prostu zignorować. Używanie tej ortografii w języku międzysłowiańskim może służyć następującym celom:
+Ten oparty na etymologii alfabet (wcześniej znany jako :notr[_Naučny Medžuslovjansky_] „Naukowy międzysłowiański”) służy również jako kod źródłowy języka międzysłowiańskiego. Został zaprojektowany w taki sposób, aby różnił się od standardowego międzysłowiańskiego jedynie dodatkowymi znakami diakrytycznymi, tak aby czytelnik nieobeznany z tymi znakami diakrytycznymi mógł je po prostu zignorować. Używanie tej ortografii w języku międzysłowiańskim może służyć następującym celom:
 
 - przekazywanie informacji etymologicznych,
 - wspomaganie procesu uczenia się poprzez ułatwianie łączenia wyrazów międzysłowiańskich z ich odpowiednikami w innych językach słowiańskich,
@@ -121,7 +121,7 @@ Poniższa tabela przedstawia odpowiedniki między wyżej wymienionymi literami (
 Podsumowując, istnieje kilka możliwości napisania tego samego słowa. Ogólna zasada brzmi: im bardziej zrozumiałe, tym lepiej. Należy jednak pamiętać o kilku rzeczach:
 
 - Aby uniknąć nieporozumień wśród nowicjuszy, staraj się w jak największym stopniu przestrzegać standardowej ortografii łacińskiej i/lub cyrylicy. Układy klawiatury międzysłowiańskiej można pobrać [tutaj][2].
-- Z tego samego powodu nie używaj alfabetu etymologicznego (wcześniej znanego jako :notr[_Naučny medžuslovjansky_]) w zwykłych rozmowach. Ilekroć go używasz, wyraźnie wspomnij, dlaczego to robisz.
+- Z tego samego powodu nie używaj alfabetu etymologicznego (wcześniej znanego jako :notr[_Naučny Medžuslovjansky_]) w zwykłych rozmowach. Ilekroć go używasz, wyraźnie wspomnij, dlaczego to robisz.
 - Unikaj używania znaków z cyrylicy, które nie są już używane (takie jak `ѣ`, `ѩ`, `ѫ`, `ѱ`) i nie korzystaj z alfabetu etymologicznego cyrylicy w jakikolwiek inny sposób, ponieważ oba działania poważnie utrudniłyby zrozumienie.
 - Jeśli masz problemy z pisaniem niektórych znaków, skorzystaj z jednej z sugerowanych alternatyw.
 - Bądź konsekwentny w swoich wyborach. Jeśli na przykład zdecydujesz się użyć `sz` do reprezentowania `š`, zachowaj to w całym tekście lub rozmowie, w przeciwnym razie stworzysz tylko zamieszanie. Z tego samego powodu, jeśli używasz `sz`, nie używaj jednocześnie `č` ani `cx`.

@@ -7,7 +7,7 @@ export default function SloviantoDialogue({ children }) {
 
   return (
     <section className="dialogue">
-      <div lang="art-Latn-x-interslv" className="italic-text">
+      <div lang="art-Latn-x-interslv">
         <DialogueISV />
       </div>
       <div lang={i18n.currentLocale}>

@@ -396,5 +396,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "przypadek"
+  },
+  "com.grammar.animate": {
+    "message": "żywotny",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "nieżywotny",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Nijaki rodzaj",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Żeński rodzaj",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Zwrotne",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "Pierwsza osoba",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Druga osoba",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Trzecia osoba",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "deklinacja",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "miękki",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "twardy",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "inne",
+    "description": "other"
   }
 }

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 ---
 
 # Često postavljana pitanja (FAQ)
@@ -10,8 +9,8 @@ Međuslavenski je konstruirani pomoćni jezik dizajniran da bude međusobno razu
 
 :::note Primjer
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -63,7 +62,7 @@ Cilj Interslavic-a je da bude odmah dostupan i razumljiv bez prethodnog učenja.
 
 ### Kakvi su to čudni dijakritički znakovi i slova koje neki ljudi koriste u međuslavenskom? \{#what-are-those-weird-diacritics}
 
-Međuslavenska latinica ima samo četiri slova s ​​dijakritikom: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Međutim, neki ljudi koriste dodatne dijakritičke znakove i slova kako bi zapamtili slavensku etimologiju, tako da povremeno možete naići na čudne riječi poput :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Međuslavenska latinica ima samo četiri slova s ​​dijakritikom: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Međutim, neki ljudi koriste dodatne dijakritičke znakove i slova kako bi zapamtili slavensku etimologiju, tako da povremeno možete naići na čudne riječi poput :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Dok etimološka pisma mogu pomoći u poboljšanju izgovora u naprednim fazama, ona često pogoršavaju razumijevanje pisanog teksta i smatraju se nestandardnim. Stoga, ako tek počinjete učiti međuslavenski jezik, preporučuje se držati se standardne latinice ili ćirilice i usredotočiti se na svladavanje osnova.
 
@@ -154,14 +153,14 @@ Interslavic nije oblik panslavizma i ne zastupa nikakav politički stav. To je �
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

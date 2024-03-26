@@ -87,6 +87,8 @@ Treťou možnosťou je archaickejšie `iže` – používané v nominatíve pre 
 Opytovacie zámená sú `kto` „kto“ a `čto` (alebo `što`) „čo“. Skloňujú sa takto:
 
 :::component{name=MDPronouns4}
+* kto?
+* čo?
 :::
 
 Opytovacie determinanty sú `koj` (skloňuje sa ako `moj`) „ktorý“ (namiesto toho možno použiť aj `ktory`), privlastňovacie zámeno `čij` „čí“ (pozri vyššie) a prídavné meno `kaky` „ aký druh“.
@@ -119,6 +121,8 @@ S odkazom na inú položku skupiny (`in-`): `inokto` „niekto iný“, `inočto
 Jedným z najlepších Zamenhofových vynálezov bola jeho **tabuľka korelatív**, skupina vzájomne súvisiacich zámen, prídavných mien a prísloviek. Slová sa tam zachovali čo najpravidelnejšie, ale nie na úkor rozoznateľnosti pre ľudí, ktorí hovoria slovanskými jazykmi. Niekoľko prakticky nemožných slov bolo vynechaných a niekoľko ďalších pravidelných tvarov bolo nahradených tvarmi, ktoré sú bežné v prirodzených jazykoch. Nepravidelné tvary (t. j. nevyzerajú tak, ako by mali podľa tabuľky) sú zobrazené _**kurzívou**_.
 
 :::component{name=MDPronouns6}
+* otázka; tu; tam; tam ďaleko; niektoré; niekoľko; akýkoľvek; žiadny; každý; iný;
+* ktorý? kto? čo? koľko? čí? aký? ako? kde? kam? kedy? kam? odkiaľ? prečo (účel)? prečo (dôvod)?
 :::
 
 Poznámky:

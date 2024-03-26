@@ -87,6 +87,8 @@ Trzecią opcją jest bardziej archaiczny `iže` – używany w mianowniku dla ws
 Zaimki pytające to `kto` „kto” i `čto` (lub `što`) „co”. Są one odmieniane w następujący sposób:
 
 :::component{name=MDPronouns4}
+* kto?
+* co?
 :::
 
 Określniki pytające to `koj` (odmieniane jak `moj`) „który” (zamiast tego można również użyć `ktory`), zaimek dzierżawczy `čij` „czyj” (patrz wyżej) i przymiotnik `kaky` „ jakiego rodzaju".
@@ -119,6 +121,8 @@ Odnosząc się do innego elementu grupy (`in-`): `inokto` „ktoś inny”, `ino
 Jednym z najlepszych wynalazków Zamenhofa była jego **tabela korelatów**, grupa powiązanych ze sobą zaimków, przymiotników i przysłówków. Tam słowa zostały zachowane tak regularnie, jak to możliwe, ale nie kosztem rozpoznawalności dla osób posługujących się językami słowiańskimi. Pominięto kilka praktycznie niemożliwych słów, a kilka innych regularnych form zastąpiono formami powszechnymi w językach naturalnych. Formy nieregularne (tj. nie wyglądające tak, jak powinny zgodnie z tabelą) są zaznaczone _**kursywą**_.
 
 :::component{name=MDPronouns6}
+* pytanie; tutaj; tam; daleko; niektóre; kilka; jakikolwiek; żaden; każdy; inny;
+* który? kto? co? ile? czyj? jaki rodzaj? jak? gdzie? dokąd? kiedy? dokąd? skąd? po co (cel)? dlaczego (powód)?
 :::
 
 Uwagi:

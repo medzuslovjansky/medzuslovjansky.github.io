@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 ---
 
 # Pogosto zastavljena vprašanja (FAQ)
@@ -10,8 +9,8 @@ Medslovanščina je sestavljen pomožni jezik, zasnovan tako, da je medsebojno r
 
 :::note Primer
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -63,7 +62,7 @@ Cilj Interslavic je, da je takoj dostopen in razumljiv brez predhodnega učenja.
 
 ### Kakšne so te čudne diakritike in črke, ki jih nekateri uporabljajo v medslovanščini? \{#what-are-those-weird-diacritics}
 
-Medslovanska latinica ima samo štiri črke z diakritičnimi znaki: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Vendar pa nekateri ljudje uporabljajo dodatne diakritike in črke, da bi si zapomnili slovansko etimologijo, zato lahko občasno naletite na čudne besede, kot je :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Medslovanska latinica ima samo štiri črke z diakritičnimi znaki: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Vendar pa nekateri ljudje uporabljajo dodatne diakritike in črke, da bi si zapomnili slovansko etimologijo, zato lahko občasno naletite na čudne besede, kot je :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Medtem ko lahko etimološke pisave pomagajo izboljšati izgovorjavo v naprednejših fazah, pogosto poslabšajo razumevanje pisnega besedila in veljajo za nestandardne. Če se torej medslovanskega jezika šele začenjate učiti, je priporočljivo, da se držite standardne latinice ali cirilice in se osredotočite na osvajanje osnov.
 
@@ -154,14 +153,14 @@ Medslovanščina ni oblika panslavizma in ne zagovarja nobene politične drže. 
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

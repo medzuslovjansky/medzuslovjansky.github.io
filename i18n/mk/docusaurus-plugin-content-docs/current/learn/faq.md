@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 ---
 
 # Најчесто поставувани прашања (ЧПП)
@@ -10,8 +9,8 @@ sidebar_position: 5
 
 :::note Пример
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -63,7 +62,7 @@ Interslavic има две нивоа на владеење: стандардно
 
 ### Кои се тие чудни дијакритици и букви што некои луѓе ги користат на интерсловенски јазик? \{#what-are-those-weird-diacritics}
 
-Меѓусловенската латиница има само четири букви со дијакритични знаци: Č :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Сепак, некои луѓе користат дополнителни дијакритици и букви за да ја запаметат словенската етимологија, па повремено може да наидете на чудни зборови како :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Меѓусловенската латиница има само четири букви со дијакритични знаци: :isv[`Č`] :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Сепак, некои луѓе користат дополнителни дијакритици и букви за да ја запаметат словенската етимологија, па повремено може да наидете на чудни зборови како :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Додека етимолошките скрипти може да помогнат во подобрувањето на изговорот во напредните фази, тие често го деградираат разбирањето на пишаниот текст и се сметаат за нестандардни. Затоа, ако штотуку почнувате да учите меѓусловенски, се препорачува да се држите до стандардната латиница или кирилица и да се фокусирате на совладување на основите.
 
@@ -154,14 +153,14 @@ Interslavic е проект кој се развива, и можно е да н
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

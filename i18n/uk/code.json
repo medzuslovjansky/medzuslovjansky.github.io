@@ -389,12 +389,60 @@
     "message": "Кирилиця"
   },
   "com.grammar.singular": {
-    "message": "однина"
+    "message": "Однина"
   },
   "com.grammar.plural": {
-    "message": "множина"
+    "message": "Множина"
   },
   "com.interslavic.declinator.case": {
-    "message": "відмінок"
+    "message": "Відмінок"
+  },
+  "com.grammar.animate": {
+    "message": "живий",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "неживий",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Середній рід",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Жіночий рід",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Зворотні",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "1-а особа",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "2-а особа",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "3-я особа",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "відміна",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "м'який",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "твердий",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "інше",
+    "description": "other"
   }
 }

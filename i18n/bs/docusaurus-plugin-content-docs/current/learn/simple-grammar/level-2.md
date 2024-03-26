@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # Nivo 2
 
-U [**Nivou 1**][1] naučili ste brojne forme koje možete koristiti da postanete razumljivi Slovenima na vrlo osnovnom nivou. Ovaj jezik je, međutim, vrlo primitivan i nimalo ne odgovara bogatstvu slovenskih jezika. Dakle, ako ste dorasli izazovu, evo još nekih alata koje možete koristiti da `Slovianto` izgleda i zvuči mnogo prirodnije.
+U [**Nivou 1**][1] naučili ste brojne forme koje možete koristiti da postanete razumljivi Slovenima na vrlo osnovnom nivou. Ovaj jezik je, međutim, vrlo primitivan i nimalo ne odgovara bogatstvu slovenskih jezika. Dakle, ako ste dorasli izazovu, evo još nekih alata koje možete koristiti da :isv[Slovianto] izgleda i zvuči mnogo prirodnije.
 
 **Nivo 2** razlikuje se od **Nivo 1** na dva načina:
 

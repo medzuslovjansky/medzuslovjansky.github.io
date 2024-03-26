@@ -396,5 +396,53 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "životné",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "neživotné",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Střední rod",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Ženský rod",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Zvratné",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "První osoba",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Druhá osoba",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Třetí osoba",
+    "description": "3rd person"
+  },
+  "com.grammar.declension": {
+    "message": "skloňování",
+    "description": "declension"
+  },
+  "com.grammar.soft": {
+    "message": "měkký",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "tvrdý",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "jiné",
+    "description": "other"
   }
 }

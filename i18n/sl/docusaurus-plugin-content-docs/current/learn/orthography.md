@@ -87,7 +87,7 @@ Osnovna medslovanska latinica in cirilica sta sestavljeni iz črk, katerih izgov
 
 V nasprotju z abecedami, kot sta mednarodna fonetična abeceda in [slavistična abeceda][3], ta pravopis ni namenjen podajanju informacij o izgovorjavi posameznih jezikov, temveč prikazu razmerja med njimi. Lahko ga primerjamo z ortografijo angleščine: čeprav obstajajo velike razlike v izgovorjavi med britansko angleščino, škotsko angleščino in ameriško angleščino, so vse napisane na praktično enak način, z uporabo črkovalnih konvencij, ki predstavljajo govorjeni jezik 14. stoletja. Če bi Slovani uporabljali podobno abecedo namesto svojih nacionalnih pravopisov, ki temeljijo na izgovoru, bi lahko besedo za pet v vseh slovanskih jezikih zapisali kot :isv[_pęt́_], namesto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] itd.
 
-Ta na etimologiji temelječa abeceda (prej znana kot :notr[_Naučny medžuslovjansky_] »znanstvena medslovanska«) služi tudi kot izvorna koda za medslovansko. Oblikovana je bila tako, da se od standardne medslovanske loči le po dodatnih diakritikah, tako da jih bralec, ki teh diakritik ne pozna, preprosto prezre. Uporaba tega pravopisa v medslovanščini lahko služi za naslednje namene:
+Ta na etimologiji temelječa abeceda (prej znana kot :notr[_Naučny Medžuslovjansky_] »znanstvena medslovanska«) služi tudi kot izvorna koda za medslovansko. Oblikovana je bila tako, da se od standardne medslovanske loči le po dodatnih diakritikah, tako da jih bralec, ki teh diakritik ne pozna, preprosto prezre. Uporaba tega pravopisa v medslovanščini lahko služi za naslednje namene:
 
 - posredovanje etimoloških informacij,
 - podpiranje učnega procesa z omogočanjem lažjega povezovanja medslovanskih besed z njihovimi ustreznicami v drugih slovanskih jezikih,
@@ -119,7 +119,7 @@ Naslednja tabela prikazuje ujemanja med zgoraj omenjenimi črkami (predlagana al
 Če povzamemo, obstaja več možnosti za zapis iste besede. Splošno vodilo je: bolj ko je razumljivo, bolje je. Vendar morate upoštevati nekaj stvari:
 
 - Da bi se izognili zmedi med novinci, poskušajte čim bolj upoštevati standardni latinični in/ali cirilski pravopis. Medslovanske razporeditve tipkovnic lahko prenesete [tukaj][2].
-- Iz istega razloga v običajnih pogovorih ne uporabljajte etimološke abecede (prej znane kot :notr[_Naučny medžuslovjansky_]). Kadarkoli ga vseeno uporabljate, izrecno navedite, zakaj ga uporabljate.
+- Iz istega razloga v običajnih pogovorih ne uporabljajte etimološke abecede (prej znane kot :notr[_Naučny Medžuslovjansky_]). Kadarkoli ga vseeno uporabljate, izrecno navedite, zakaj ga uporabljate.
 - Izogibajte se uporabi črk v cirilici, ki se ne uporabljajo več (kot je `ѣ`, `ѩ`, `ѫ`, `ѱ`) in tudi ne poskušajte cirilizirati etimološke abecede na kakršenkoli drug način, saj bi oboje resno oviralo razumljivost.
 - Če imate težave pri pisanju določenih znakov, uporabite eno od predlaganih alternativ.
 - Bodite dosledni pri svojih odločitvah. Če se na primer odločite uporabiti `sz` za predstavitev `š`, naj bo tako v celotnem besedilu ali pogovoru, sicer boste ustvarili samo zmedo. Iz istega razloga, če uporabljate `sz`, ne uporabljajte `č` ali `cx` hkrati.

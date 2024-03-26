@@ -1,14 +1,17 @@
+import {translate} from "@docusaurus/Translate";
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import { Abbr } from "@site/src/components";
 
+import { Cell } from "./_td";
+
 export default function Demonstrative() {
   return (
     <Tabs>
-      <TabItem value="singular" label="Singular number">
+      <TabItem value="singular" label={translate({ id: 'com.grammar.singular', message: 'Singular number forms' })}>
         <Singular />
       </TabItem>
-      <TabItem value="plural" label="Plural number">
+      <TabItem value="plural" label={translate({ id: 'com.grammar.plural', message: 'Plural forms (grammatical number)' })}>
         <Plural />
       </TabItem>
     </Tabs>
@@ -20,56 +23,49 @@ function Singular() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> singular </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td colSpan={2}> toj </td>
-          <td rowSpan={2}> to </td>
-          <td> ta </td>
+          <Cell colSpan={2}> toj </Cell>
+          <Cell rowSpan={2}> to </Cell>
+          <Cell> ta </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> togo </td>
-          <td> toj </td>
-          <td> tu </td>
+          <Cell> togo </Cell>
+          <Cell> toj </Cell>
+          <Cell> tu </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={3}> togo </td>
-          <td> toj </td>
+          <Cell colSpan={3}> togo </Cell>
+          <Cell> toj </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={3}> tomu </td>
-          <td> toj </td>
+          <Cell colSpan={3}> tomu </Cell>
+          <Cell> toj </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={3}> tym </td>
-          <td> toju </td>
+          <Cell colSpan={3}> tym </Cell>
+          <Cell> toju </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={3}> tom </td>
-          <td> toj </td>
+          <Cell colSpan={3}> tom </Cell>
+          <Cell> toj </Cell>
         </tr>
       </tbody>
     </table>
@@ -81,49 +77,42 @@ function Plural() {
     <table className="table_sticky">
       <thead>
         <tr align="center">
-          <th rowSpan={2}></th>
-          <th colSpan={4}> plural </th>
-        </tr>
-        <tr align="center">
+          <th className="invisible"></th>
           <th>
-            masculine
-            <br />
-            (animate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.animate', message: 'Animate (grammar)' })})
           </th>
           <th>
-            masculine
-            <br />
-            (inanimate)
+            <Abbr>m.</Abbr><br/>({translate({ id: 'com.grammar.inanimate', message: 'Inanimate (grammar)' })})
           </th>
-          <th> neuter </th>
-          <th> feminine </th>
+          <th><Abbr>n.</Abbr></th>
+          <th><Abbr>f.</Abbr></th>
         </tr>
       </thead>
       <tbody>
-        <tr align="center">
+      <tr align="center">
           <th><Abbr>nom.</Abbr></th>
-          <td> ti </td>
-          <td colSpan={3} rowSpan={2}> te </td>
+          <Cell> ti </Cell>
+          <Cell colSpan={3} rowSpan={2}> te </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>acc.</Abbr></th>
-          <td> tyh </td>
+          <Cell className="noRight"> tyh </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>gen.</Abbr></th>
-          <td colSpan={4}> tyh </td>
+          <Cell colSpan={4}> tyh </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>dat.</Abbr></th>
-          <td colSpan={4}> tym </td>
+          <Cell colSpan={4}> tym </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>ins.</Abbr></th>
-          <td colSpan={4}> tymi </td>
+          <Cell colSpan={4}> tymi </Cell>
         </tr>
         <tr align="center">
           <th><Abbr>loc.</Abbr></th>
-          <td colSpan={4}> tyh </td>
+          <Cell colSpan={4}> tyh </Cell>
         </tr>
       </tbody>
     </table>)

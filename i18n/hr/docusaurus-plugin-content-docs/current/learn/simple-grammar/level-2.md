@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 # Razina 2
 
-U [**razini 1**][1] naučili ste niz oblika koje možete koristiti kako biste bili razumljivi Slavenima na vrlo osnovnoj razini. Ovaj je jezik, međutim, vrlo primitivan i nimalo ne iskazuje pravo bogatstvu slavenskih jezika. Dakle, ako ste dorasli izazovu, evo još nekoliko alata koje možete koristiti kako bi `Slovianto` izgledao i zvučao mnogo prirodnije.
+U [**razini 1**][1] naučili ste niz oblika koje možete koristiti kako biste bili razumljivi Slavenima na vrlo osnovnoj razini. Ovaj je jezik, međutim, vrlo primitivan i nimalo ne iskazuje pravo bogatstvu slavenskih jezika. Dakle, ako ste dorasli izazovu, evo još nekoliko alata koje možete koristiti kako bi :isv[Slovianto] izgledao i zvučao mnogo prirodnije.
 
 **Razina 2** razlikuje se od **Razine 1** na dva načina:
 

@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 ---
 
 # Často kladené otázky (FAQ)
@@ -10,8 +9,8 @@ Interslovančina je konštruovaný pomocný jazyk navrhnutý tak, aby bol pre po
 
 :::note Príklad
 
-* **Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.
-* **Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.
+* :notr[**Medžuslovjansky** jest jezyk razumlivy priblizno vsim slovjansko-jezyčnym ljudam bez učenja.]
+* :notr[**Меджусловјанскы** јест језык разумливы приблизно всим словјанско-језычным људам без ученја.]
 
 :::
 
@@ -63,7 +62,7 @@ Cieľom medzislovančiny je byť okamžite dostupný a zrozumiteľný bez predch
 
 ### Aké sú tie divné diakritiky a písmená, ktoré niektorí ľudia používajú v medzislovančine? \{#what-are-those-weird-diacritics}
 
-Medzislovanská latinka má iba štyri písmená s diakritikou: C :ipa[t͡ʃ], Š :ipa[ʂ], Ž :ipa[ʒ], Ě :ipa[jɛ]. Niektorí ľudia však používajú ďalšiu diakritiku a písmená na zapamätanie si slovanskej etymológie, takže občas sa môžete stretnúť so zvláštnymi slovami ako :isv[ćuđi], :isv[otėc], :isv[dȯžď], :isv[gręź], :isv[bųde], :isv[hlåd], :isv[сѫглӑсък], :isv[тѣх], :isv[гѫбоѭ], :isv[показуѥт].
+Medzislovanská latinka má iba štyri písmená s diakritikou: C :ipa[t͡ʃ], :isv[`Š`] :ipa[ʂ], :isv[`Ž`] :ipa[ʒ], :isv[`Ě`] :ipa[jɛ]. Niektorí ľudia však používajú ďalšiu diakritiku a písmená na zapamätanie si slovanskej etymológie, takže občas sa môžete stretnúť so zvláštnymi slovami ako :sla[ćuđi], :sla[otėc], :sla[dȯžď], :sla[gręź], :sla[bųde], :sla[hlåd], :sla[сѫглӑсък], :sla[тѣх], :sla[гѫбоѭ], :sla[показуѥт].
 
 Zatiaľ čo etymologické písma môžu pomôcť zlepšiť výslovnosť v pokročilých štádiách, často zhoršujú porozumenie písaného textu a považujú sa za neštandardné. Preto, ak sa s interslovančinou len začínate, odporúča sa držať štandardnej latinky alebo azbuky a zamerať sa na zvládnutie základov.
 
@@ -154,14 +153,14 @@ Interslovančina nie je formou panslavizmu a neschvaľuje žiadny politický pos
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./language-comparison.md
+[11]: ./introduction/language-comparison.md
 
-[12]: ../grammar/index.md
+[12]: ./grammar/index.md
 
-[13]: ../simple-grammar/index.md
+[13]: ./simple-grammar/index.md
 
-[14]: ../orthography.md#representation-of-problematic-characters
+[14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ../../resources/keyboards.md
+[15]: ./../resources/keyboards.md
 
-[16]: ../../resources/index.md
+[16]: ./../resources/index.md

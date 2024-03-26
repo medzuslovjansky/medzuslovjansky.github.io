@@ -396,5 +396,49 @@
   },
   "com.interslavic.declinator.case": {
     "message": "case"
+  },
+  "com.grammar.animate": {
+    "message": "živi",
+    "description": "animate"
+  },
+  "com.grammar.inanimate": {
+    "message": "neživi",
+    "description": "inanimate"
+  },
+  "com.grammar.neuter": {
+    "message": "Srednji rod",
+    "description": "Neuter"
+  },
+  "com.grammar.feminine": {
+    "message": "Ženski rod",
+    "description": "Feminine"
+  },
+  "com.grammar.reflexive": {
+    "message": "Povratni",
+    "description": "Reflexive"
+  },
+  "com.grammar.1stPerson": {
+    "message": "Prvo lice",
+    "description": "1st person"
+  },
+  "com.grammar.2ndPerson": {
+    "message": "Drugo lice",
+    "description": "2nd person"
+  },
+  "com.grammar.3rdPerson": {
+    "message": "Treće lice",
+    "description": "3rd person"
+  },
+  "com.grammar.soft": {
+    "message": "mek",
+    "description": "soft"
+  },
+  "com.grammar.hard": {
+    "message": "tvrdo",
+    "description": "hard"
+  },
+  "com.grammar.other": {
+    "message": "drugo",
+    "description": "other"
   }
 }

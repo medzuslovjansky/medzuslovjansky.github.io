@@ -88,7 +88,7 @@ Základní latinka a cyrilice mezislovanštiny se skládají z písmen, jejichž
 
 Na rozdíl od abeced, jako je mezinárodní fonetická abeceda a [slovanská abeceda][3], tento pravopis nemá podávat informace o výslovnosti jednotlivých jazyků, ale ukazovat vztah mezi nimi. Lze to přirovnat k pravopisu angličtiny: ačkoli existují obrovské rozdíly ve výslovnosti mezi britskou angličtinou, skotskou angličtinou a americkou angličtinou, všechny jsou psány prakticky stejným způsobem a používají se pravopisné konvence, které představují mluvený jazyk 14. století. Pokud by Slované používali podobnou abecedu místo svých národních pravopisů založených na výslovnosti, slovo pro „pět“ by se ve všech slovanských jazycích mohlo psát jako :isv[_pęt́_], namísto :ru[_пять_], :pl[_pięć_], :csb[_piãc_], :hsb[_pjeć_], :cs[_pět_], :sk[_päť_], :sl[_pet_] atd.
 
-Tato abeceda založená na etymologii (dříve známá jako :notr[_Naučny medžuslovjansky_] „Vědecká mezislovanština“) také slouží jako zdrojový kód mezislovanštiny. Byl navržen tak, aby se od standardní mezislovanštiny lišil pouze další diakritikou, takže čtenář, který tyto diakritiky nezná, je může jednoduše ignorovat. Použití tohoto pravopisu v mezislovanštině může sloužit následujícím účelům:
+Tato abeceda založená na etymologii (dříve známá jako :notr[_Naučny Medžuslovjansky_] „Vědecká mezislovanština“) také slouží jako zdrojový kód mezislovanštiny. Byl navržen tak, aby se od standardní mezislovanštiny lišil pouze další diakritikou, takže čtenář, který tyto diakritiky nezná, je může jednoduše ignorovat. Použití tohoto pravopisu v mezislovanštině může sloužit následujícím účelům:
 
 - předávání etymologických informací,
 - podpora procesu učení tím, že se mezislovanská slova snáze spojí s jejich protějšky v jiných slovanských jazycích,
@@ -120,7 +120,7 @@ Následující tabulka ukazuje shody mezi písmeny uvedenými výše (doporučen
 Abych to shrnul, existuje několik možností, jak napsat stejné slovo. Obecná zásada zní: čím srozumitelnější, tím lépe. Je však třeba mít na paměti několik věcí:
 
 - Abyste se vyhnuli zmatkům mezi nováčky, snažte se co nejvíce dodržovat standardní latinský a/nebo cyrilický pravopis. Mezislovanské rozložení klávesnice lze stáhnout [zde][2].
-- Ze stejného důvodu nepoužívejte v běžné konverzaci etymologickou abecedu (dříve známou jako :notr[_Naučny medžuslovjansky_]). Kdykoli jej přesto použijete, uveďte prosím výslovně, proč jej používáte.
+- Ze stejného důvodu nepoužívejte v běžné konverzaci etymologickou abecedu (dříve známou jako :notr[_Naučny Medžuslovjansky_]). Kdykoli jej přesto použijete, uveďte prosím výslovně, proč jej používáte.
 - Nepoužívejte azbuka, která se již nepoužívají (například `ѣ`, `ѩ`, `ѫ`, `ѱ`) a nepokoušejte se cyrilicizovat etymologickou abecedu jakýmkoli jiným způsobem, protože obojí by vážně narušilo srozumitelnost.
 - Pokud máte problémy s psaním určitých znaků, použijte jednu z navrhovaných alternativ.
 - Buďte důslední ve svých volbách. Pokud se například rozhodnete použít `sz` pro reprezentaci `š`, ponechte to tak v celém textu nebo konverzaci, jinak jen vytvoříte zmatek. Ze stejného důvodu, pokud používáte `sz`, nepoužívejte současně `č` nebo `cx`.

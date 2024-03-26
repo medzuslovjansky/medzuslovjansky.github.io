@@ -39,6 +39,7 @@
 
 .cta > :first-child {
   margin-right: 1ch;
+  margin-top: -2px;
 }
 
 @media (max-width: 996px) {
