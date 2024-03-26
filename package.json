@@ -34,11 +34,14 @@
   },
   "devDependencies": {
     "jest": "^29.0.0",
+    "jest-allure2-reporter": "^2.0.0-beta.14",
     "jest-environment-jsdom": "^29.6.1",
     "jest-image-snapshot": "^6.4.0",
+    "jimp": "^0.22.12",
     "patch-package": "^8.0.0",
     "puppeteer": "^22.4.1",
     "react-test-renderer": "^18.2.0",
+    "strip-ansi": "^6.0.1",
     "ts-jest": "^29.0.0"
   },
   "browserslist": {

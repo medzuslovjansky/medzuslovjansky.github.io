@@ -203,6 +203,10 @@ div[lang], span[lang] {
     font-size: 100%;
   }
 
+  code {
+    font-size: 90%;
+  }
+
   > strong {
     font-weight: bolder;
     text-decoration: underline;
@@ -223,11 +227,11 @@ code {
   border: initial;
   vertical-align: initial;
   white-space: pre;
-  font: inherit;
-  font-family: var(--fun-safe-sans);
-  font-style: normal;
-  font-size: 0.8rem;
-  font-weight: bold;
+  font: normal bold 0.8rem var(--fun-safe-sans);
+
+  h1 &, h2 &, h3 & {
+    font: inherit;
+  }
 }
 
 mark {
@@ -312,22 +316,6 @@ kbd {
   border-color: var(--ifm-table-border-color);
   box-shadow: inset 0 -2px 0 var(--ifm-table-border-color);
   color: var(--ifm-color-primary);
-}
-
-/* Dev-only CSS selector */
-.docsWrapper_node_modules-\@docusaurus-theme-classic-lib-theme-DocRoot-Layout-styles-module {
-  code, kbd, [translate=no] {
-    //animation: blink 5s infinite alternate;
-  }
-}
-
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
 }
 
 .text-3-col {

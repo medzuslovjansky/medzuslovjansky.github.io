@@ -7,7 +7,7 @@ description: "Learn about the Interslavic language and how it compares to other 
 tags: [interslavic, language comparison, grammar, language learning]
 ---
 
-# Language comparison
+# Language Comparison
 
 ## Interslavic and English \{#interslavic-and-english}
 
