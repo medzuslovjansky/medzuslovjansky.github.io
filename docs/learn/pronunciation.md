@@ -50,16 +50,16 @@ All letters can be pronounced as they are pronounced in any Slavic alphabet. In 
 
 **Notes:**
 
-1. In the pronunciation of vowels, there tends to be some variation on the scale of open/closed and front/back. Only `u` is always :ipa[u].
+1. In the pronunciation of vowels, there tends to be some variation on the scale of open/closed and front/back. Only :isv[`u`] is always :ipa[u].
 2. To avoid fuzziness, akanje (pronouncing unstressed vowels as :ipa[ɑ] or :ipa[ə] in Russian) should be avoided.
 3. Apart from :isv[`a`] :isv[`e`] :isv[`ě`] :isv[`i`] :isv[`o`] :isv[`u`] :isv[`y`], the letter :isv[`r`] can be a vowel, too. That is the case when it appears after a consonant and is not followed by a vowel, resulting in so-called _syllabic r_. It should be pronounced with a schwa before it (more or less like the name „Murphy”): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
 4. For the ease of pronunciation, it is always possible to insert a schwa in an inconvenient consonant cluster: :isv[jesm] :ipa[jɛsǝm], :isv[himn] :ipa[ximǝn], :isv[vedl] :ipa[vɛdǝl].
 5. Speakers of languages like English and German should be aware that any type of aspiration (as in English „pork” or German „Tüte”) must be avoided.
-6. When `ě` follows a dental/alveolar consonant (:isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`n`] :isv[`l`] :isv[`r`]), this consonant is pronounced soft (see [phonology][1]). After other consonants it produces the same sound as :isv[`e`], but preceded by :isv[`j`]: :isv[dělo] sounds like :isv[ďelo], :isv[pěsok] like :isv[pjesok].
+6. When :isv[`ě`] follows a dental/alveolar consonant (:isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`n`] :isv[`l`] :isv[`r`]), this consonant is pronounced soft (see [phonology][1]). After other consonants it produces the same sound as :isv[`e`], but preceded by :isv[`j`]: :isv[dělo] sounds like :isv[ďelo], :isv[pěsok] like :isv[pjesok].
 7. A consonant before :isv[`i`] can be pronounced soft, too, but this is not mandatory.
 8. Likewise, a consonant is inherently soft before :isv[`j`] as well, unless this consonant is part of a prefix: :isv[žitje] is pronounced :notr[žiťje], but in the word :isv[odjehati] the :isv[`d`] remains hard.
 9. On the other hand, although the Proto-Slavic phoneme :isv[`e`] softens the preceding consonant in Polish and Russian, it is better to keep a hard pronunciation in this case.
-10. The letter :isv[`l`] is a somewhat special case. Before :isv[`a`] :isv[`o`] :isv[`u`] :isv[`y`], as well as syllable-finally, it sounds like the „thick” :isv[`l`] in _full_. Before :isv[`e`], :isv[`ě`] and :isv[`i`] is rather tends to follow the pronunciation pattern of :isv[`lj`]: :isv[lev] :ipa[lʲɛv] \~ :ipa[ʎɛf], etc.
+10. The letter :isv[`l`] is a somewhat special case. Before :isv[`a`] :isv[`o`] :isv[`u`] :isv[`y`], as well as syllable-finally, it sounds like the „thick” :isv[`l`] in _full_. Before :isv[`e`], :isv[`ě`] and :isv[`i`] is rather tends to follow the pronunciation pattern of :isv[:isv[`lj`]]: :isv[lev] :ipa[lʲɛv] \~ :ipa[ʎɛf], etc.
 11. There are no strict rules for devoicing voiced consonants at the end of a word, or voicing unvoiced consonants before voiced consonants. Anybody can use the pronunciation he feels most comfortable with. Thus, :isv[Bog] :ipa[bɔk] and :isv[prosba] :ipa[prɔzbɑ] are both correct. In general however, it deserves recommendation to follow a pronunciation that is as close as possible to how it is written.
 
 ## Etymological alphabet extensions \{#etymological-alphabet-extensions}
@@ -87,11 +87,11 @@ These characters belong to the [etymological alphabet][2]. They are not used in 
 
 **Notes:**
 
-1. Of particular interest here is the character `ę`. The „hard” pronunciation :ipa[ɛ] is characteristic for South Slavic, but in the remaining languages its pronunciation varies between :ipa[ja], :ipa[jɛ] and :ipa[jɔ̃]. Following majority rule, `e` should be pronounced as a hard :ipa[ɛ], but `ę` more like :ipa[jæ]. This means that `ę` behaves like `ě` rather than `e`, and like `ě` it can soften a preceding consonant.
-2. Despite the ogonek, `ę` and `ų` are not pronounced as nasal vowels like in Polish!
-3. The soft consonants `t́` `d́` `ś` `ź` `ŕ` (pronounced hard in South Slavic, partly also in Czech and Slovak) are realised either by having the hard consonant followed by a `j`-like sound, or by softening or by palatalising it.
-4. When the letter `ŕ` acts as the soft counterpart of syllabic `r`, it can soften the preceding consonant or have it followed by :ipa[j]: _`mŕtvy`_ :ipa[mjǝrtvɪ].
-5. The soft consonants `ľ` and `ń` are used for writing `lj` and `nj` before `j`, resulting in a certain prolongation of the latter, for example _`dělańje`_ :ipa[dʲɛɫanʲĭɛ].
+1. Of particular interest here is the character :isv[`ę`]. The „hard” pronunciation :ipa[ɛ] is characteristic for South Slavic, but in the remaining languages its pronunciation varies between :ipa[ja], :ipa[jɛ] and :ipa[jɔ̃]. Following majority rule, :isv[`e`] should be pronounced as a hard :ipa[ɛ], but :isv[`ę`] more like :ipa[jæ]. This means that :isv[`ę`] behaves like :isv[`ě`] rather than :isv[`e`], and like :isv[`ě`] it can soften a preceding consonant.
+2. Despite the ogonek, :isv[`ę`] and :isv[`ų`] are not pronounced as nasal vowels like in Polish!
+3. The soft consonants :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`] (pronounced hard in South Slavic, partly also in Czech and Slovak) are realised either by having the hard consonant followed by a :isv[`j`]-like sound, or by softening or by palatalising it.
+4. When the letter :isv[`ŕ`] acts as the soft counterpart of syllabic :isv[`r`], it can soften the preceding consonant or have it followed by :ipa[j]: :isv[mŕtvy] :ipa[mjǝrtvɪ].
+5. The soft consonants :isv[`ľ`] and :isv[`ń`] are used for writing :isv[`lj`] and :isv[`nj`] before :isv[`j`], resulting in a certain prolongation of the latter, for example :isv[dělańje] :ipa[dʲɛɫanʲĭɛ].
 
 ## Stress \{#stress}
 
