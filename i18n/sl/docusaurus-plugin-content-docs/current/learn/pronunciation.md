@@ -48,23 +48,23 @@ Vse črke je mogoče izgovoriti tako, kot se izgovarjajo v kateri koli slovanski
 
 **Opombe:**
 
-1. Pri izgovorjavi samoglasnikov je običajno nekaj variacij na lestvici odprto/zaprto in spredaj/zadaj. Samo `u` je vedno :ipa[u].
+1. Pri izgovorjavi samoglasnikov je običajno nekaj variacij na lestvici odprto/zaprto in spredaj/zadaj. Samo :isv[`u`] je vedno :ipa[u].
 2. Da bi se izognili nejasnosti, se je treba izogibati akanju (izgovarjavi nenaglašenih samoglasnikov kot :ipa[ɑ] ali :ipa[ə] v ruščini).
-3. Poleg `a` `e` `ě` `i` `o` `u` `y`,  je lahko tudi črka `r` samoglasnik. To je v primeru, ko se pojavi za soglasnikom in mu ne sledi samoglasnik, kar ima za posledico tako imenovani _zlogovniški r_. Izgovarjati ga je treba s schwa pred njim (bolj ali manj kot ime "Murphy"): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
+3. Poleg :isv[`a`] :isv[`e`] :isv[`ě`] :isv[`i`] :isv[`o`] :isv[`u`] :isv[`y`],  je lahko tudi črka :isv[`r`] samoglasnik. To je v primeru, ko se pojavi za soglasnikom in mu ne sledi samoglasnik, kar ima za posledico tako imenovani _zlogovniški r_. Izgovarjati ga je treba s schwa pred njim (bolj ali manj kot ime "Murphy"): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
 4. Za lažjo izgovorjavo je vedno možno v neprimeren soglasniški sklop vstaviti švo: :isv[jesm] :ipa[jɛsǝm], :isv[himn] :ipa[ximǝn], :isv[vedl] :ipa[vɛdǝl].
 5. Govorci jezikov, kot sta angleščina in nemščina, se morajo zavedati, da se je treba izogibati kakršnim koli aspiracijam (kot v angleščini „pork” ali nemščini „Tüte”).
-6. Kadar `ě` sledi zobnemu/alveolarnemu soglasniku (`t` `d` `s` `z` `n` `l` `r`), se ta soglasnik izgovori mehko (glejte [fonologijo][1]). Za drugimi soglasniki proizvede enak zvok kot `e`, vendar pred njim `j`: :isv[dělo] zveni kot :notr[ďelo], :isv[pěsok]  kot :notr[pjesok].
-7. Soglasnik pred `i` se lahko izgovori tudi mehko, vendar to ni obvezno.
-8. Podobno je soglasnik sam po sebi mehak tudi pred `j`, razen če je ta soglasnik del predpone: :isv[žitje] se izgovori :notr[žiťje], vendar v besedi :isv[odjehati] `d` ostane trd.
-9. Po drugi strani, čeprav praslovanski fonem `e` mehča predhodni soglasnik v poljščini in ruščini, je v tem primeru bolje ohraniti trdo izgovorjavo.
-10. Črka `l` je nekoliko poseben primer. Pred `a` `o` `u` `y`,  in končno zlog zveni kot "debelo" `l` v :en[full]. Pred `e`, `ě`  in `i` se nagiba k temu, da sledi vzorcu izgovorjave `lj`: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] itd.
+6. Kadar :isv[`ě`] sledi zobnemu/alveolarnemu soglasniku (:isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`n`] :isv[`l`] :isv[`r`]), se ta soglasnik izgovori mehko (glejte [fonologijo][1]). Za drugimi soglasniki proizvede enak zvok kot :isv[`e`], vendar pred njim :isv[`j`]: :isv[dělo] zveni kot :notr[ďelo], :isv[pěsok]  kot :notr[pjesok].
+7. Soglasnik pred :isv[`i`] se lahko izgovori tudi mehko, vendar to ni obvezno.
+8. Podobno je soglasnik sam po sebi mehak tudi pred :isv[`j`], razen če je ta soglasnik del predpone: :isv[žitje] se izgovori :notr[žiťje], vendar v besedi :isv[odjehati] :isv[`d`] ostane trd.
+9. Po drugi strani, čeprav praslovanski fonem :isv[`e`] mehča predhodni soglasnik v poljščini in ruščini, je v tem primeru bolje ohraniti trdo izgovorjavo.
+10. Črka :isv[`l`] je nekoliko poseben primer. Pred :isv[`a`] :isv[`o`] :isv[`u`] :isv[`y`],  in končno zlog zveni kot "debelo" :isv[`l`] v :en[full]. Pred :isv[`e`], :isv[`ě`]  in :isv[`i`] se nagiba k temu, da sledi vzorcu izgovorjave :isv[`lj`]: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] itd.
 11. Ni strogih pravil za izločanje zvenečih soglasnikov na koncu besede ali zvočenje nezvenečih soglasnikov pred zvenečimi soglasniki. Vsak lahko uporablja izgovorjavo, ki mu najbolj ustreza. Tako sta :isv[Bog] :ipa[bɔk]  in :isv[prosba] :ipa[prɔzbɑ]  pravilna. Na splošno pa si zasluži priporočilo, da sledite izgovorjavi, ki je čim bližje načinu pisanja.
 
 ## Etimološke abecedne razširitve \{#etymological-alphabet-extensions}
 
-Poleg zgoraj navedene standardne abecede ima medslovanska latinica tudi nabor neobveznih znakov, ki v bistvu opravljajo dve stvari. Prvič, predstavljajo foneme, ki so se v slovanskih jezikih razvili v različne smeri, in drugič, navezujejo se neposredno na njihov praslovanski izvor. Na primer, samoglasnik `å` v :isv[kråva] „krava” nakazuje, da ta beseda izhaja iz praslovanskega :sla[korva], ki je v poljščini in lužiški srbščini postal :pl[krova], v vzhodnoslovanski :zle[korova] in :notr[krava] v češki, slovaški in južnoslovanski. Najbolj skrajni primer je nedvomno `đ` (iz praslovanščine `dj`), ki se je v različnih jezikih razvilo v :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  itd.
+Poleg zgoraj navedene standardne abecede ima medslovanska latinica tudi nabor neobveznih znakov, ki v bistvu opravljajo dve stvari. Prvič, predstavljajo foneme, ki so se v slovanskih jezikih razvili v različne smeri, in drugič, navezujejo se neposredno na njihov praslovanski izvor. Na primer, samoglasnik :isv[`å`] v :isv[kråva] „krava” nakazuje, da ta beseda izhaja iz praslovanskega :sla[korva], ki je v poljščini in lužiški srbščini postal :pl[krova], v vzhodnoslovanski :zle[korova] in :notr[krava] v češki, slovaški in južnoslovanski. Najbolj skrajni primer je nedvomno :isv[`đ`] (iz praslovanščine :isv[`dj`]), ki se je v različnih jezikih razvilo v :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  itd.
 
-Ti znaki pripadajo [etimološki abecedi][2]. V navadni medslovanski pisavi se ne uporabljajo, torej se pišejo, vendar brez diakritike (razen `ć` in `đ`, ki se pišeta `č` oziroma `dž`), in jih seveda lahko izgovorimo tudi kot takega. Vendar pa je mogoče poskusiti tudi s »povprečno« izgovorjavo, ki bolj ustreza slovanski večini. V primeru zgoraj omenjenega :isv[kråva] bi to na primer pomenilo zvok nekje med `a` in `o` (v IPA: :ipa[ɒ]).
+Ti znaki pripadajo [etimološki abecedi][2]. V navadni medslovanski pisavi se ne uporabljajo, torej se pišejo, vendar brez diakritike (razen :isv[`ć`] in :isv[`đ`], ki se pišeta :isv[`č`] oziroma :isv[`dž`]), in jih seveda lahko izgovorimo tudi kot takega. Vendar pa je mogoče poskusiti tudi s »povprečno« izgovorjavo, ki bolj ustreza slovanski večini. V primeru zgoraj omenjenega :isv[kråva] bi to na primer pomenilo zvok nekje med :isv[`a`] in :isv[`o`] (v IPA: :ipa[ɒ]).
 
 :::component{name="MDPronunciation2"}
 - kot `o` v :en[m**o**ther]
@@ -85,11 +85,11 @@ Ti znaki pripadajo [etimološki abecedi][2]. V navadni medslovanski pisavi se ne
 
 **Opombe:**
 
-1. Posebej zanimiv je znak `ę`. Za južnoslovanščino je značilna »trda« izgovorjava :ipa[ɛ], v preostalih jezikih pa se njena izgovorjava giblje med :ipa[ja], :ipa[jɛ]  in :ipa[jɔ̃]. Po večinskem pravilu bi bilo treba `e` izgovoriti trdo :ipa[ɛ], `ę` pa bolj kot :ipa[jæ]. To pomeni, da se `ę` obnaša kot `ě` in ne kot `e`, in tako kot `ě` lahko omehča predhodni soglasnik.
-2. Kljub ogonku se `ę` in `ų` ne izgovarjata kot nosna samoglasnika kot v poljščini!
-3. Mehki soglasniki `t́` `d́` `ś` `ź` `ŕ`  (v južnoslovanščini, deloma tudi v češčini in slovaščini) se realizirajo bodisi tako, da trdemu soglasniku sledi zvok, podoben `j`, bodisi z mehčanjem ali palatalizacijo.
-4. Kadar črka `ŕ` deluje kot mehka protivrednost zlogovnega `r`, lahko omehča predhodni soglasnik ali pa mu sledi :ipa[j]: _`mŕtvy`_ :ipa[mjǝrtvɪ].
-5. Mehka soglasnika `ľ` in `ń` se uporabljata za pisanje `lj` in `nj` pred `j`, kar povzroči določeno podaljšanje slednjega, na primer _`dělańje`_ :ipa[dʲɛɫanʲĭɛ].
+1. Posebej zanimiv je znak :isv[`ę`]. Za južnoslovanščino je značilna »trda« izgovorjava :ipa[ɛ], v preostalih jezikih pa se njena izgovorjava giblje med :ipa[ja], :ipa[jɛ]  in :ipa[jɔ̃]. Po večinskem pravilu bi bilo treba :isv[`e`] izgovoriti trdo :ipa[ɛ], :isv[`ę`] pa bolj kot :ipa[jæ]. To pomeni, da se :isv[`ę`] obnaša kot :isv[`ě`] in ne kot :isv[`e`], in tako kot :isv[`ě`] lahko omehča predhodni soglasnik.
+2. Kljub ogonku se :isv[`ę`] in :isv[`ų`] ne izgovarjata kot nosna samoglasnika kot v poljščini!
+3. Mehki soglasniki :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`]  (v južnoslovanščini, deloma tudi v češčini in slovaščini) se realizirajo bodisi tako, da trdemu soglasniku sledi zvok, podoben :isv[`j`], bodisi z mehčanjem ali palatalizacijo.
+4. Kadar črka :isv[`ŕ`] deluje kot mehka protivrednost zlogovnega :isv[`r`], lahko omehča predhodni soglasnik ali pa mu sledi :ipa[j]: :isv[mŕtvy] :ipa[mjǝrtvɪ].
+5. Mehka soglasnika :isv[`ľ`] in :isv[`ń`] se uporabljata za pisanje :isv[`lj`] in :isv[`nj`] pred :isv[`j`], kar povzroči določeno podaljšanje slednjega, na primer :isv[dělańje] :ipa[dʲɛɫanʲĭɛ].
 
 ## Stres \{#stress}
 

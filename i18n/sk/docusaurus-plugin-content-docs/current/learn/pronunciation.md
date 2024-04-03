@@ -48,23 +48,23 @@ Všetky písmená sa dajú vysloviť tak, ako sa vyslovujú v akejkoľvek slovan
 
 **Poznámky:**
 
-1. Vo výslovnosti samohlások má tendenciu existovať určitá variácia na stupnici otvorené/zatvorené a predné/zadné. Len `u` je vždy :ipa[u].
+1. Vo výslovnosti samohlások má tendenciu existovať určitá variácia na stupnici otvorené/zatvorené a predné/zadné. Len :isv[`u`] je vždy :ipa[u].
 2. Aby ste sa vyhli nejasnostiam, mali by ste sa vyhnúť akanje (vyslovovať neprízvučné samohlásky ako :ipa[ɑ] alebo :ipa[ə] v ruštine).
-3. Okrem `a` `e` `ě` `i` `o` `u` `y`,  môže byť samohláskou aj písmeno `r`. To je prípad, keď sa objavuje po spoluhláske a nenasleduje samohláska, čo vedie k takzvanému _slabičnému r_. Malo by sa pred ním vyslovovať schwa (viac-menej ako meno „Murphy“): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
+3. Okrem :isv[`a`] :isv[`e`] :isv[`ě`] :isv[`i`] :isv[`o`] :isv[`u`] :isv[`y`],  môže byť samohláskou aj písmeno :isv[`r`]. To je prípad, keď sa objavuje po spoluhláske a nenasleduje samohláska, čo vedie k takzvanému _slabičnému r_. Malo by sa pred ním vyslovovať schwa (viac-menej ako meno „Murphy“): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
 4. Pre uľahčenie výslovnosti je vždy možné vložiť schwa do nepohodlného zoskupenia spoluhlások: :isv[jesm] :ipa[jɛsǝm], :isv[himn] :ipa[ximǝn], :isv[vedl] :ipa[vɛdǝl].
 5. Ľudia, ktorí hovoria jazykmi ako angličtina a nemčina, by si mali byť vedomí toho, že sa treba vyhnúť akémukoľvek typu ašpirácie (ako v angličtine „bravčové mäso“ alebo nemčine „Tüte“).
-6. Keď `ě` nasleduje po zubnej/alveolárnej spoluhláske (`t` `d` `s` `z` `n` `l` `r`), táto spoluhláska sa vyslovuje ako mäkká (pozri [fonológiu][1]). Po ostatných spoluhláskach vytvára rovnaký zvuk ako `e`, ale predchádza mu `j`: :isv[dělo] znie ako :notr[ďelo], :isv[pěsok]  ako :notr[pjesok].
-7. Spoluhlásku pred `i` možno vysloviť aj mäkko, ale nie je to povinné.
-8. Podobne je spoluhláska prirodzene mäkká aj pred `j`, pokiaľ táto spoluhláska nie je súčasťou predpony: :isv[žitje] sa vyslovuje :notr[žiťje], ale v slove :isv[odjehati] zostáva `d` tvrdé.
-9. Na druhej strane, hoci praslovanská fonéma `e` zjemňuje predchádzajúcu spoluhlásku v poľštine a ruštine, je v tomto prípade lepšie ponechať tvrdú výslovnosť.
-10. Písmeno `l` je trochu zvláštny prípad. Pred `a` `o` `u` `y`, , ako aj slabika-koniec, to znie ako „hrubé“ `l` v :en[full]. Pred `e`, `ě`  a `i` má skôr tendenciu sledovať vzor výslovnosti `lj`: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] atď.
+6. Keď :isv[`ě`] nasleduje po zubnej/alveolárnej spoluhláske (:isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`n`] :isv[`l`] :isv[`r`]), táto spoluhláska sa vyslovuje ako mäkká (pozri [fonológiu][1]). Po ostatných spoluhláskach vytvára rovnaký zvuk ako :isv[`e`], ale predchádza mu :isv[`j`]: :isv[dělo] znie ako :notr[ďelo], :isv[pěsok]  ako :notr[pjesok].
+7. Spoluhlásku pred :isv[`i`] možno vysloviť aj mäkko, ale nie je to povinné.
+8. Podobne je spoluhláska prirodzene mäkká aj pred :isv[`j`], pokiaľ táto spoluhláska nie je súčasťou predpony: :isv[žitje] sa vyslovuje :notr[žiťje], ale v slove :isv[odjehati] zostáva :isv[`d`] tvrdé.
+9. Na druhej strane, hoci praslovanská fonéma :isv[`e`] zjemňuje predchádzajúcu spoluhlásku v poľštine a ruštine, je v tomto prípade lepšie ponechať tvrdú výslovnosť.
+10. Písmeno :isv[`l`] je trochu zvláštny prípad. Pred :isv[`a`] :isv[`o`] :isv[`u`] :isv[`y`], , ako aj slabika-koniec, to znie ako „hrubé“ :isv[`l`] v :en[full]. Pred :isv[`e`], :isv[`ě`]  a :isv[`i`] má skôr tendenciu sledovať vzor výslovnosti :isv[`lj`]: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] atď.
 11. Neexistujú žiadne prísne pravidlá pre vyraďovanie znelých spoluhlások na konci slova alebo vyslovenie neznelých spoluhlások pred znenými spoluhláskami. Každý môže použiť výslovnosť, ktorá mu najviac vyhovuje. Teda :isv[Bog] :ipa[bɔk]  a :isv[prosba] :ipa[prɔzbɑ]  sú obe správne. Vo všeobecnosti si však zaslúži odporúčanie dodržiavať výslovnosť, ktorá sa čo najviac približuje písaniu.
 
 ## Prípony etymologickej abecedy \{#etymological-alphabet-extensions}
 
-Okrem štandardnej abecedy uvedenej vyššie má medzislovanská latinka aj sadu voliteľných znakov, ktoré v zásade robia dve veci. V prvom rade predstavujú fonémy, ktoré sa v slovanských jazykoch vyvíjali rôznymi smermi, a v druhom rade priamo nadväzujú na ich praslovanský pôvod. Napríklad samohláska `å` v :isv[kråva] „krava“ naznačuje, že toto slovo pochádza z praslovanského :sla[korva], ktoré sa stalo :pl[krova] v poľštine a srbčine, :zle[korova] vo východoslovančine a :notr[krava] v český, slovenský a južnoslovanský. Najextrémnejším prípadom je nepochybne `đ` (z praslovanského `dj`), ktoré sa v rôznych jazykoch vyvinulo do :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  atď.
+Okrem štandardnej abecedy uvedenej vyššie má medzislovanská latinka aj sadu voliteľných znakov, ktoré v zásade robia dve veci. V prvom rade predstavujú fonémy, ktoré sa v slovanských jazykoch vyvíjali rôznymi smermi, a v druhom rade priamo nadväzujú na ich praslovanský pôvod. Napríklad samohláska :isv[`å`] v :isv[kråva] „krava“ naznačuje, že toto slovo pochádza z praslovanského :sla[korva], ktoré sa stalo :pl[krova] v poľštine a srbčine, :zle[korova] vo východoslovančine a :notr[krava] v český, slovenský a južnoslovanský. Najextrémnejším prípadom je nepochybne :isv[`đ`] (z praslovanského :isv[`dj`]), ktoré sa v rôznych jazykoch vyvinulo do :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  atď.
 
-Tieto znaky patria do [etymologickej abecedy][2]. Nepoužívajú sa v obyčajnom medzislovanskom písme, t. j. píšu sa, ale bez diakritiky (okrem `ć` a `đ`, ktoré sa píšu `č` a `dž`) a samozrejme sa dajú vysloviť aj ako taký. Je však možné pokúsiť sa aj o „priemernú“ výslovnosť, ktorá viac vyhovuje slovanskej väčšine. V prípade vyššie uvedeného :isv[kråva] by to napríklad znamenalo zvuk niekde medzi `a` a `o` (v IPA: :ipa[ɒ]).
+Tieto znaky patria do [etymologickej abecedy][2]. Nepoužívajú sa v obyčajnom medzislovanskom písme, t. j. píšu sa, ale bez diakritiky (okrem :isv[`ć`] a :isv[`đ`], ktoré sa píšu :isv[`č`] a :isv[`dž`]) a samozrejme sa dajú vysloviť aj ako taký. Je však možné pokúsiť sa aj o „priemernú“ výslovnosť, ktorá viac vyhovuje slovanskej väčšine. V prípade vyššie uvedeného :isv[kråva] by to napríklad znamenalo zvuk niekde medzi :isv[`a`] a :isv[`o`] (v IPA: :ipa[ɒ]).
 
 :::component{name="MDPronunciation2"}
 - ako `o` v :en[m**o**ther]
@@ -85,11 +85,11 @@ Tieto znaky patria do [etymologickej abecedy][2]. Nepoužívajú sa v obyčajnom
 
 **Poznámky:**
 
-1. Zvlášť zaujímavá je tu postava `ę`. „Tvrdá“ výslovnosť :ipa[ɛ] je charakteristická pre južnú slovančinu, ale v ostatných jazykoch sa jej výslovnosť pohybuje medzi :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Podľa pravidla väčšiny by sa `e` malo vyslovovať ako tvrdé :ipa[ɛ], ale `ę` skôr ako :ipa[jæ]. To znamená, že `ę` sa správa ako `ě` a nie `e` a ako `ě` môže zmäkčiť predchádzajúcu spoluhlásku.
-2. Napriek ogonku sa `ę` a `ų` nevyslovujú ako nosové samohlásky ako v poľštine!
-3. Mäkké spoluhlásky `t́` `d́` `ś` `ź` `ŕ`  (vyslovované tvrdo v južnoslovančine, čiastočne aj v češtine a slovenčine) sa realizujú buď tak, že po tvrdej spoluhláske nasleduje zvuk podobný `j`, alebo ich zmäkčovaním či palatalizáciou.
-4. Keď písmeno `ŕ` pôsobí ako mäkký náprotivok slabiky `r`, môže zmäkčiť predchádzajúcu spoluhlásku alebo za ňou môže nasledovať :ipa[j]: _`mŕtvy`_ :ipa[mjǝrtvɪ].
-5. Mäkké spoluhlásky `ľ` a `ń` sa používajú na písanie `lj` a `nj` pred `j`, čo má za následok určité predĺženie druhého, napríklad _`dělańje`_ :ipa[dʲɛɫanʲĭɛ].
+1. Zvlášť zaujímavá je tu postava :isv[`ę`]. „Tvrdá“ výslovnosť :ipa[ɛ] je charakteristická pre južnú slovančinu, ale v ostatných jazykoch sa jej výslovnosť pohybuje medzi :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Podľa pravidla väčšiny by sa :isv[`e`] malo vyslovovať ako tvrdé :ipa[ɛ], ale :isv[`ę`] skôr ako :ipa[jæ]. To znamená, že :isv[`ę`] sa správa ako :isv[`ě`] a nie :isv[`e`] a ako :isv[`ě`] môže zmäkčiť predchádzajúcu spoluhlásku.
+2. Napriek ogonku sa :isv[`ę`] a :isv[`ų`] nevyslovujú ako nosové samohlásky ako v poľštine!
+3. Mäkké spoluhlásky :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`]  (vyslovované tvrdo v južnoslovančine, čiastočne aj v češtine a slovenčine) sa realizujú buď tak, že po tvrdej spoluhláske nasleduje zvuk podobný :isv[`j`], alebo ich zmäkčovaním či palatalizáciou.
+4. Keď písmeno :isv[`ŕ`] pôsobí ako mäkký náprotivok slabiky :isv[`r`], môže zmäkčiť predchádzajúcu spoluhlásku alebo za ňou môže nasledovať :ipa[j]: :isv[mŕtvy] :ipa[mjǝrtvɪ].
+5. Mäkké spoluhlásky :isv[`ľ`] a :isv[`ń`] sa používajú na písanie :isv[`lj`] a :isv[`nj`] pred :isv[`j`], čo má za následok určité predĺženie druhého, napríklad :isv[dělańje] :ipa[dʲɛɫanʲĭɛ].
 
 ## Stres \{#stress}
 

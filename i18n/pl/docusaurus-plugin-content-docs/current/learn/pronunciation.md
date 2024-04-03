@@ -51,23 +51,23 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 
 **Uwagi:**
 
-1. W wymowie samogłosek występują pewne różnice w skali otwarte/zamknięte i przód/tył. Tylko `u` to zawsze :ipa[u].
+1. W wymowie samogłosek występują pewne różnice w skali otwarte/zamknięte i przód/tył. Tylko :isv[`u`] to zawsze :ipa[u].
 2. Aby uniknąć niewyraźności, należy unikać akanje (wymawianie nieakcentowanych samogłosek jako :ipa[ɑ] lub :ipa[ə] po rosyjsku).
-3. Oprócz `a` `e` `ě` `i` `o` `u` `y`,  samogłoską może być również litera `r`. Dzieje się tak, gdy pojawia się po spółgłosce i nie następuje po niej samogłoska, co daje tzw. _sylabiczne r_. Powinno się je wymawiać ze schwa przed nim (mniej więcej jak imię „Murphy”): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
+3. Oprócz :isv[`a`] :isv[`e`] :isv[`ě`] :isv[`i`] :isv[`o`] :isv[`u`] :isv[`y`],  samogłoską może być również litera :isv[`r`]. Dzieje się tak, gdy pojawia się po spółgłosce i nie następuje po niej samogłoska, co daje tzw. _sylabiczne r_. Powinno się je wymawiać ze schwa przed nim (mniej więcej jak imię „Murphy”): :isv[trg] :ipa[tərg], :isv[cukr] :ipa[ʦukər].
 4. Dla ułatwienia wymowy zawsze można wstawić schwa w niewygodnej grupie spółgłosek: :isv[jesm] :ipa[jɛsǝm], :isv[himn] :ipa[ximǝn], :isv[vedl] :ipa[vɛdǝl].
 5. Osoby posługujące się językami takimi jak angielski i niemiecki powinny mieć świadomość, że należy unikać wszelkiego rodzaju aspiracji (jak w angielskim „wieprzowina” lub niemieckim „Tüte”).
-6. Kiedy `ě` następuje po spółgłosce zębowej/zębodołowej (`t` `d` `s` `z` `n` `l` `r`), spółgłoskę tę wymawia się jako miękką (patrz [fonologia][1]). Po innych spółgłoskach wydaje taki sam dźwięk jak `e`, ale poprzedzony `j`: :isv[dělo] brzmi jak :notr[ďelo], :isv[pěsok]  jak :notr[pjesok].
-7. Spółgłoskę przed `i` można również wymawiać miękko, ale nie jest to obowiązkowe.
-8. Podobnie, spółgłoska jest z natury miękka również przed `j`, chyba że ta spółgłoska jest częścią przedrostka: :isv[žitje] wymawia się :notr[žiťje], ale w słowie :isv[odjehati] `d` pozostaje twarde.
-9. Z drugiej strony, choć prasłowiański fonem `e` zmiękcza poprzedzającą spółgłoskę w języku polskim i rosyjskim, to lepiej w tym przypadku zachować twardą wymowę.
-10. Litera `l` to nieco szczególny przypadek. Przed `a` `o` `u` `y`,  i na końcu sylaby brzmi jak „gruby” `l` w :en[full]. Przed `e`, `ě`  i `i` jest raczej zgodne ze wzorcem wymowy `lj`: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] itd.
+6. Kiedy :isv[`ě`] następuje po spółgłosce zębowej/zębodołowej (:isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`n`] :isv[`l`] :isv[`r`]), spółgłoskę tę wymawia się jako miękką (patrz [fonologia][1]). Po innych spółgłoskach wydaje taki sam dźwięk jak :isv[`e`], ale poprzedzony :isv[`j`]: :isv[dělo] brzmi jak :notr[ďelo], :isv[pěsok]  jak :notr[pjesok].
+7. Spółgłoskę przed :isv[`i`] można również wymawiać miękko, ale nie jest to obowiązkowe.
+8. Podobnie, spółgłoska jest z natury miękka również przed :isv[`j`], chyba że ta spółgłoska jest częścią przedrostka: :isv[žitje] wymawia się :notr[žiťje], ale w słowie :isv[odjehati] :isv[`d`] pozostaje twarde.
+9. Z drugiej strony, choć prasłowiański fonem :isv[`e`] zmiękcza poprzedzającą spółgłoskę w języku polskim i rosyjskim, to lepiej w tym przypadku zachować twardą wymowę.
+10. Litera :isv[`l`] to nieco szczególny przypadek. Przed :isv[`a`] :isv[`o`] :isv[`u`] :isv[`y`],  i na końcu sylaby brzmi jak „gruby” :isv[`l`] w :en[full]. Przed :isv[`e`], :isv[`ě`]  i :isv[`i`] jest raczej zgodne ze wzorcem wymowy :isv[`lj`]: :isv[lev] :ipa[lʲɛv]  \~ :ipa[ʎɛf] itd.
 11. Nie ma ścisłych zasad dotyczących ubezdźwięcznienia spółgłosek dźwięcznych na końcu wyrazu lub wymawiania spółgłosek bezdźwięcznych przed spółgłoskami dźwięcznymi. Każdy może użyć wymowy, z którą czuje się najlepiej. Zatem :isv[Bog] :ipa[bɔk]  i :isv[prosba] :ipa[prɔzbɑ]  są poprawne. Ogólnie rzecz biorąc, zaleca się jednak stosowanie wymowy, która jest jak najbardziej zbliżona do sposobu, w jaki jest pisana.
 
 ## Rozszerzenia alfabetu etymologicznego \{#etymological-alphabet-extensions}
 
-Oprócz standardowego alfabetu podanego powyżej, międzysłowiański alfabet łaciński ma również zestaw opcjonalnych znaków, które w zasadzie robią dwie rzeczy. Po pierwsze reprezentują one fonemy, które ewoluowały w różnych kierunkach w językach słowiańskich, po drugie nawiązują bezpośrednio do ich prasłowiańskiego pochodzenia. Na przykład samogłoska `å` w :isv[kråva] „krowa” wskazuje, że słowo to pochodzi od prasłowiańskiego :sla[korva], które w języku polskim i łużyckim stało się :pl[krova], w wschodniosłowiańskim :zle[korova], a w wschodniosłowiańskim :notr[krava] czeski, słowacki i południowosłowiański. Najbardziej skrajnym przypadkiem jest niewątpliwie `đ` (od prasłowiańskiego `dj`), które w różnych językach ewoluowało w :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  itd.
+Oprócz standardowego alfabetu podanego powyżej, międzysłowiański alfabet łaciński ma również zestaw opcjonalnych znaków, które w zasadzie robią dwie rzeczy. Po pierwsze reprezentują one fonemy, które ewoluowały w różnych kierunkach w językach słowiańskich, po drugie nawiązują bezpośrednio do ich prasłowiańskiego pochodzenia. Na przykład samogłoska :isv[`å`] w :isv[kråva] „krowa” wskazuje, że słowo to pochodzi od prasłowiańskiego :sla[korva], które w języku polskim i łużyckim stało się :pl[krova], w wschodniosłowiańskim :zle[korova], a w wschodniosłowiańskim :notr[krava] czeski, słowacki i południowosłowiański. Najbardziej skrajnym przypadkiem jest niewątpliwie :isv[`đ`] (od prasłowiańskiego :isv[`dj`]), które w różnych językach ewoluowało w :ipa[d͡z], :ipa[z], :ipa[ʒ], :ipa[ʒd], :ipa[j],  itd.
 
-Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykłym pisanym języku intersłowiańskim, tj. są pisane, ale bez znaków diakrytycznych (z wyjątkiem `ć` i `đ`, które są pisane odpowiednio `č` i `dž`) i oczywiście można je również wymawiać jako taki. Jednak można również spróbować „przeciętnej” wymowy, która bardziej odpowiada słowiańskiej większości. Na przykład w przypadku wspomnianego :isv[kråva] oznaczałoby to dźwięk gdzieś pomiędzy `a` a `o` (w IPA: :ipa[ɒ]).
+Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykłym pisanym języku intersłowiańskim, tj. są pisane, ale bez znaków diakrytycznych (z wyjątkiem :isv[`ć`] i :isv[`đ`], które są pisane odpowiednio :isv[`č`] i :isv[`dž`]) i oczywiście można je również wymawiać jako taki. Jednak można również spróbować „przeciętnej” wymowy, która bardziej odpowiada słowiańskiej większości. Na przykład w przypadku wspomnianego :isv[kråva] oznaczałoby to dźwięk gdzieś pomiędzy :isv[`a`] a :isv[`o`] (w IPA: :ipa[ɒ]).
 
 :::component{name="MDPronunciation2"}
 - jak `o` w :en[m**o**ther]
@@ -88,11 +88,11 @@ Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykł
 
 **Uwagi:**
 
-1. Szczególnie interesujący jest tutaj znak `ę`. Wymowa „twarda” :ipa[ɛ] jest charakterystyczna dla języka południowosłowiańskiego, ale w pozostałych językach jej wymowa waha się między :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Zgodnie z zasadą większości, `e` powinno być wymawiane jako twarde :ipa[ɛ], ale `ę` bardziej jak :ipa[jæ]. Oznacza to, że `ę` zachowuje się raczej jak `ě` niż `e` i podobnie jak `ě` może zmiękczyć poprzedzającą spółgłoskę.
-2. Pomimo ogonka, `ę` i `ų` nie wymawia się jak samogłoski nosowe jak w języku polskim!
-3. Miękkie spółgłoski `t́` `d́` `ś` `ź` `ŕ`  (wymawiane twardo w południowosłowiańskim, częściowo także w czeskim i słowackim) są realizowane albo przez twardą spółgłoskę, po której następuje dźwięk podobny do `j`, albo przez zmiękczenie lub palatalizację.
-4. Kiedy litera `ŕ` działa jako miękki odpowiednik sylabicznego `r`, może złagodzić poprzedzającą ją spółgłoskę lub mieć po niej :ipa[j]: _`mŕtvy`_ :ipa[mjǝrtvɪ].
-5. Miękkich spółgłosek `ľ` i `ń` używa się do zapisu `lj` i `nj` przed `j`, co skutkuje pewnym przedłużeniem tego ostatniego, np. _`dělańje`_ :ipa[dʲɛɫanʲĭɛ].
+1. Szczególnie interesujący jest tutaj znak :isv[`ę`]. Wymowa „twarda” :ipa[ɛ] jest charakterystyczna dla języka południowosłowiańskiego, ale w pozostałych językach jej wymowa waha się między :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Zgodnie z zasadą większości, :isv[`e`] powinno być wymawiane jako twarde :ipa[ɛ], ale :isv[`ę`] bardziej jak :ipa[jæ]. Oznacza to, że :isv[`ę`] zachowuje się raczej jak :isv[`ě`] niż :isv[`e`] i podobnie jak :isv[`ě`] może zmiękczyć poprzedzającą spółgłoskę.
+2. Pomimo ogonka, :isv[`ę`] i :isv[`ų`] nie wymawia się jak samogłoski nosowe jak w języku polskim!
+3. Miękkie spółgłoski :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`]  (wymawiane twardo w południowosłowiańskim, częściowo także w czeskim i słowackim) są realizowane albo przez twardą spółgłoskę, po której następuje dźwięk podobny do :isv[`j`], albo przez zmiękczenie lub palatalizację.
+4. Kiedy litera :isv[`ŕ`] działa jako miękki odpowiednik sylabicznego :isv[`r`], może złagodzić poprzedzającą ją spółgłoskę lub mieć po niej :ipa[j]: :isv[mŕtvy] :ipa[mjǝrtvɪ].
+5. Miękkich spółgłosek :isv[`ľ`] i :isv[`ń`] używa się do zapisu :isv[`lj`] i :isv[`nj`] przed :isv[`j`], co skutkuje pewnym przedłużeniem tego ostatniego, np. :isv[dělańje] :ipa[dʲɛɫanʲĭɛ].
 
 ## Stres \{#stress}
 
