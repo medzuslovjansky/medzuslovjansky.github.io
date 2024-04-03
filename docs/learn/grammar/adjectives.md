@@ -86,7 +86,7 @@ It is not impossible to use regular forms of these adjectives (like :isv[dobrěj
 
 The superlative is formed by adding the prefix :isv[`naj-`] to the comparative: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). This works for the analytic comparative, too: :isv[najvyše sintetičny] or :isv[najbolje sintetičny].
 
-As a means of simplification, this ending can also be added to the positive instead (which is how superlatives are made in Bulgarian and Macedonian): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
+As a means of simplification, this prefix can also be added to the positive instead (which is how superlatives are made in Bulgarian and Macedonian): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
 ### Additional forms
 
