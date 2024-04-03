@@ -63,7 +63,7 @@ Like all Slavic languages, Interslavic distinguishes between _hard_ and _soft_ c
 
 Softening is the process of adding :ipa[ʲ] to a consonant, resulting in a more palatal pronunciation.
 The number of soft equivalents of hard consonants in the phoneme inventory varies greatly from one language to another.
-In Interslavic only :isv[`lj`] and :isv[`nj`] are mandatory, the etymological alphabet also has :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`] (normally written :isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`r`]): the acute accent replaces Cyrillic :isv[`ь`], which nowadays is used as a softener but used to be a vowel in the old days: an ultrashort :isv[`ĭ`].
+In Interslavic only :isv[`lj`] and :isv[`nj`] are mandatory, the etymological alphabet also has :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`] (normally written :isv[`t`] :isv[`d`] :isv[`s`] :isv[`z`] :isv[`r`]): the acute accent replaces Cyrillic :sla[`ь`], which nowadays is used as a softener but used to be a vowel in the old days: an ultrashort :sla[`ĭ`].
 
 As can be seen from the table above, pronunciation of soft consonants varies.
 East Slavic speakers are likely to pronounce them as softened dental or alveolar consonants, West Slavic speakers rather as palatal consonants.
