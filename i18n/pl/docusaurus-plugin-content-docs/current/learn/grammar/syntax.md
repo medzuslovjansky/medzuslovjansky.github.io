@@ -22,7 +22,7 @@ Istnieją dwa rodzaje pytań:
     - :isv[Kupil li otec knigu?]
 - Pozostałe pytania zaczynają się od zaimka pytającego lub przysłówka, umieszczonego na początku zdania:
   - :isv[Koju knigu kupil otec?] „Jaką książkę kupił ojciec?”
-  - :isv[Gde otec kupil tu knigu?] „Gdzie ojciec kupił tę książkę?”
+  - :isv[Kde otec kupil tu knigu?] „Gdzie ojciec kupił tę książkę?”
   W tego typu zdaniach znaczenie jest zwykle wyjaśniane przez wielkość użytego przypadku:
   - :isv[Koja žena ljubi togo muža?] „Która kobieta kocha tego mężczyznę?” (kobieta = podmiot, mężczyzna = przedmiot)
   - :isv[Koju ženu ljubi toj muž?] „Którą kobietę kocha ten mężczyzna?” (mężczyzna = podmiot, kobieta = przedmiot)

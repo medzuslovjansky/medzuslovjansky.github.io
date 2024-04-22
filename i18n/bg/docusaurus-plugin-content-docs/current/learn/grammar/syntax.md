@@ -22,7 +22,7 @@ origin: http://steen.free.fr/interslavic/syntax.html
     - :isv[Kupil li otec knigu?]
 - Други въпроси започват с въпросително местоимение или наречие, поставено в началото на изречението:
   - :isv[Koju knigu kupil otec?] „Коя книга е купил бащата?“
-  - :isv[Gde otec kupil tu knigu?] „Откъде баща си купи тази книга?“
+  - :isv[Kde otec kupil tu knigu?] „Откъде баща си купи тази книга?“
   В този тип изречения значението обикновено се изяснява от използвания случай:
   - :isv[Koja žena ljubi togo muža?] „Коя жена обича този мъж?“ (жена = субект, мъж = обект)
   - :isv[Koju ženu ljubi toj muž?] „Коя жена обича този мъж?“ (мъж = субект, жена = обект)

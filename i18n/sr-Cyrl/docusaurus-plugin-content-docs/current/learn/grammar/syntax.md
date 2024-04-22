@@ -24,7 +24,7 @@ origin: http://steen.free.fr/interslavic/syntax.html
     - :isv[Kupil li otec knigu?]
 - Остала питања почињу упитном заменицом или прилогом, који се ставља на почетак реченице:
   - :isv[Koju knigu kupil otec?] „Коју књигу је отац купио?“
-  - :isv[Gde otec kupil tu knigu?] „Где је отац купио ту књигу?“
+  - :isv[Kde otec kupil tu knigu?] „Где је отац купио ту књигу?“
   У овој врсти реченица, значење се обично објашњава падежом који се користи:
   - :isv[Koja žena ljubi togo muža?] „Која жена воли тог човека?” (жена = субјект, мушкарац = објекат)
   - :isv[Koju ženu ljubi toj muž?] „Коју жену воли тај мушкарац?“ (мушкарац = субјект, жена = објекат)

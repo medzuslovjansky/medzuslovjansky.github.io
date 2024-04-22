@@ -22,7 +22,7 @@ Postoje dvije vrste pitanja:
     - :isv[Kupil li otec knigu?]
 - Ostala pitanja počinju upitnom zamjenicom ili prilogom na početku rečenice:
   - :isv[Koju knigu kupil otec?] „Koju knjigu je otac kupio?”
-  - :isv[Gde otec kupil tu knigu?] „Gde je otac kupio tu knjigu?“
+  - :isv[Kde otec kupil tu knigu?] „Gde je otac kupio tu knjigu?“
   U ovoj vrsti rečenica značenje se obično objašnjava padežom koji se koristi:
   - :isv[Koja žena ljubi togo muža?] „Koja žena voli tog muškarca?” (žena = subjekt, muškarac = objekat)
   - :isv[Koju ženu ljubi toj muž?] „Koju ženu voli taj muškarac?” (muškarac = subjekt, žena = objekat)
