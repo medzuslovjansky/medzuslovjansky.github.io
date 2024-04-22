@@ -24,7 +24,7 @@ There are two types of questions:
     - :isv[Kupil li otec knigu?]
 - Other questions start with an interrogative pronoun or adverb, placed at the beginning of the sentence:
   - :isv[Koju knigu kupil otec?] „Which book has father bought?”
-  - :isv[Gde otec kupil tu knigu?] „Where did father buy that book?”
+  - :isv[Kde otec kupil tu knigu?] „Where did father buy that book?”
   In this type of sentences, the meaning is usually made clear by the case that's been used:
   - :isv[Koja žena ljubi togo muža?] „Which woman loves that man?” (woman = subject, man = object)
   - :isv[Koju ženu ljubi toj muž?] „Which woman does that man love?” (man = subject, woman = object)
