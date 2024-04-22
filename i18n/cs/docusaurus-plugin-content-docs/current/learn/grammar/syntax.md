@@ -22,7 +22,7 @@ Existují dva typy otázek:
     - :isv[Kupil li otec knigu?]
 - Další otázky začínají tázacím zájmenem nebo příslovcem umístěným na začátku věty:
   - :isv[Koju knigu kupil otec?] „Jakou knihu koupil otec?“
-  - :isv[Gde otec kupil tu knigu?] „Kde otec koupil tu knihu?“
+  - :isv[Kde otec kupil tu knigu?] „Kde otec koupil tu knihu?“
   V tomto typu vět je význam obvykle objasněn případem, kdy byl použit:
   - :isv[Koja žena ljubi togo muža?] „Která žena toho muže miluje?“ (žena = subjekt, muž = objekt)
   - :isv[Koju ženu ljubi toj muž?] „Kterou ženu ten muž miluje?“ (muž = subjekt, žena = objekt)

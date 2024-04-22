@@ -22,7 +22,7 @@ origin: http://steen.free.fr/interslavic/syntax.html
     - :isv[Kupil li otec knigu?]
 - Другите прашања започнуваат со прашална заменка или прилог, ставена на почетокот на реченицата:
   - :isv[Koju knigu kupil otec?] „Која книга ја купи таткото?“
-  - :isv[Gde otec kupil tu knigu?] „Каде татко ја купи таа книга?“
+  - :isv[Kde otec kupil tu knigu?] „Каде татко ја купи таа книга?“
   Во овој тип реченици, значењето обично се разјаснува со случајот што се користи:
   - :isv[Koja žena ljubi togo muža?] „Која жена го сака тој маж?“ (жена = субјект, маж = предмет)
   - :isv[Koju ženu ljubi toj muž?] „Која жена ја сака тој маж?“ (маж = субјект, жена = предмет)

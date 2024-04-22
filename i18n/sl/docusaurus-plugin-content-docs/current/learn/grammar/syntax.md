@@ -22,7 +22,7 @@ Obstajata dve vrsti vprašanj:
     - :isv[Kupil li otec knigu?]
 - Druga vprašanja se začnejo z vprašalnim zaimkom ali prislovom na začetku stavka:
   - :isv[Koju knigu kupil otec?] "Katero knjigo je kupil oče?"
-  - :isv[Gde otec kupil tu knigu?] "Kje je oče kupil to knjigo?"
+  - :isv[Kde otec kupil tu knigu?] "Kje je oče kupil to knjigo?"
   V tej vrsti stavkov je pomen običajno razjasnjen s primerom, ki je bil uporabljen:
   - :isv[Koja žena ljubi togo muža?] "Katera ženska ljubi tega moškega?" (ženska = subjekt, moški = objekt)
   - :isv[Koju ženu ljubi toj muž?] "Katero žensko ljubi ta moški?" (moški = subjekt, ženska = objekt)
