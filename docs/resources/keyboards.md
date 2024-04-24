@@ -12,7 +12,7 @@ sidebar_position: 2
 
 TODO: add links
 
-### Linux \{#linux}
+### Linux and BSD \{#linux}
 
 - Extended MS Latin on international Latin keyboards (such as hrvatska in the unicodeus variant).
 - Full Cyrillic keyboard is on a standard Ukrainian keyboard.
@@ -29,7 +29,7 @@ For the **Interslavic Latin** alphabet:
 
 - Czech (standard, partially etymological)
 - Croatian (exempted)
-- Serbia (exonerated)
+- Serbian (exonerated)
 - Slovenian (exempted)
 
 For the **Interslavic Cyrillic** alphabet:
