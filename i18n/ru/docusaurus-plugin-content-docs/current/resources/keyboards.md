@@ -1,7 +1,5 @@
 ---
 custom_edit_url: /501
-last_update:
-  author: Google Translate
 ---
 
 # Клавиатуры
@@ -10,16 +8,16 @@ last_update:
 
 [http://tyflonet.com/siciliano/klaviatury][1]
 
-### Мак \{#mac}
+### Mac \{#mac}
 
 TODO: добавить ссылки
 
-### Линукс \{#linux}
+### Linux и BSD \{#linux}
 
 - Расширенный MS Latin на международных латинских клавиатурах (например, hrvatska в варианте Unicodeus).
 - Полная кириллица на стандартной украинской клавиатуре.
 
-### Андроид \{#android}
+### Android \{#android}
 
 [http://usachov.eu/g][2]
 
@@ -30,15 +28,14 @@ TODO: добавить ссылки
 Для **межславянской латиницы** алфавита:
 
 - Чешский (стандартный, частично этимологический)
-- Хорватский (освобожден)
-- Сербия (реабилитирован)
-- Словенский (освобожден)
+- Хорватский (exempted)
+- Сербский (exonerated)
+- Словенский (exempted)
 
 Для **межславянской кириллицы** алфавита:
 
-- Сербский (освобожден, без "Ы")
+- Сербский (exempted, без "Ы")
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 
 [2]: http://usachov.eu/g
-
