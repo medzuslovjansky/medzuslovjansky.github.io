@@ -111,7 +111,7 @@ last_update:
 
 - Міжслов'янський словник - [https://github.com/sonic16x/interslavic][27]
 - Міжслов'янська організація OSS - [https://github.com/medzuslovjansky][28]
-- Репозиторії про межслов'янську: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
+- Репозиторії навколо міжслов'янської мови: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
 
 ### Комікси
 
