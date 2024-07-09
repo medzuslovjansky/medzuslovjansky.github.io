@@ -4,6 +4,28 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {useBlogPost} from '@docusaurus/theme-common/internal';
 import {DiscussionEmbed} from 'disqus-react';
 
+const stripCyrl = (slug, locale) => {
+  if (!slug) return slug;
+
+  if (locale && slug.startsWith(`/${locale}/`)) {
+    slug = slug.slice(locale.length + 1);
+  }
+
+  return slug.replace(/-cyrl\b/, '');
+};
+
+const adaptLocale = (locale) => {
+  switch (locale) {
+    case 'bs':
+    case 'hr':
+      return 'sr-Latn';
+    case 'sr-Cyrl':
+      return 'sr';
+    default:
+      return locale;
+  }
+};
+
 export default function FooterWrapper(props) {
   const { siteConfig, i18n } = useDocusaurusContext();
   const { metadata } = useBlogPost();
@@ -14,10 +36,10 @@ export default function FooterWrapper(props) {
       <DiscussionEmbed
         shortname="interslavic-fun"
         config={{
-          url: siteConfig.url + metadata.permalink.replace('-cyrl', ''),
-          identifier: metadata.slug,
+          url: siteConfig.url + stripCyrl(metadata.permalink, i18n.currentLocale),
+          identifier: stripCyrl(metadata.slug),
           title: metadata.title,
-          language: i18n.currentLocale,
+          language: adaptLocale(i18n.currentLocale),
         }}
       />
     </>
