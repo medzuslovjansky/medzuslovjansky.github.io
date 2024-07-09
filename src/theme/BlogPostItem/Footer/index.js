@@ -14,7 +14,7 @@ export default function FooterWrapper(props) {
       <DiscussionEmbed
         shortname="interslavic-fun"
         config={{
-          url: siteConfig.url + metadata.permalink,
+          url: siteConfig.url + metadata.permalink.replace('-cyrl', ''),
           identifier: metadata.slug,
           title: metadata.title,
           language: i18n.currentLocale,

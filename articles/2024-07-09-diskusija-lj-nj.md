@@ -1,24 +1,25 @@
 ---
 authors: [noomorph, jvs]
-tags: [discussion,diskusija]
 ---
 
 # Asimetrija medžu `LJ`/`NJ` i `Љ`/`Њ`
 
 ## Motivacija
 
-Tutdenj medžuslovjansky pravopis imaje asimetriju medžu latiniceju i kiriliceju, čto se tyče prědavanja digrafov `lj` i `nj` na pismu.
+Už několiko sedmic Jan van Steenbergen jest mnogo zajety s prěvodženjem viki-interfejsa, da byhmo mogli potom spokojno početi rabotu nad MS Vikipedijeju. To jest spěšno dělo, ibo kratko poslě publikacije našego koda `ISO 639-3` uže pojavilo se prědloženje za MS Vikipediju MS projekt v Inkubatoru. Ne hočemo, aby ljudi počeli kopijovati teksty iz Medžuviki, čto jest narušenje avtorskyh prav. Vměsto togo, trěba bude kopirati cělo sodržanje Medžuviki v Inkubator – zajedno s historijeju. V Medžuviki jest avtomatičny transliterator, da by čitatelji mogli izbirati medžu latiniceju i kiriliceju. Očevidno, v Vikipediji on takože bude potrěbny. Tu jest jedin maly problem.
 
-### Fonetičny pogled
-
-Sut tri možne situacije iz pozicije fonetiky (priměry sut zapisane v tutdennom etimologičnom pravopisu):
+Tutdenj medžuslovjansky pravopis imaje asimetriju medžu latiniceju i kiriliceju, čto se tyče prědavanja digrafov `lj` i `nj` na pismu, i to jest objekt našej diskusije niže.
 
 <!-- truncate -->
 
+### Fonetičny pogled
+
+Sut 3 možne situacije iz pozicije fonetiky (priměry sut zapisane v tutdennom etimologičnom pravopisu):
+
 -   `lj` i `nj` označajut mekke `L` i `N`: `detalj` (`детаљ`), `konj` (`коњ`)
--   `lj` i `nj` označajut tvrde `L` i `N`, i poslě togo ide `J`: `injekcija`
-    (`инјекция`), `konjunkcija` (`конјункција`)
--   `lj` i `nj` označajut mekke `L` i `N`, i poslě togo ide `J`: `usiĺje` (`усильје`),
+-   `lj` i `nj` označajut tvrde `L` i `N`, i poslě togo ide samostojno `J`: `injekcija`
+    (`инјекција`), `konjunkcija` (`конјункција`)
+-   `lj` i `nj` označajut mekke `L` i `N`, i poslě togo ide samostojno `J`: `usiĺje` (`усильје`),
     `pisańje` (`писаньје`)
 
 Podolg standarda, v medžuslovjanskoj latinici vse tri situacije trěbujut pisati `lj` i `nj`.
@@ -45,7 +46,7 @@ _Jaroslav Sergějev_
 
 Imajemo dělo s 4 kategorijami:
 
--   osnovne (tvrde) suglasky, plus `c` i `j`: `#`
+-   osnovne (tvrde) suglasky, plus **c** i **j**: `#`
 -   smekčenje: `#ь` (napr. `konj`, `bolj`, `kosť`)
 -   jotacija tvrdoj suglasky: `#j` (napr.: `hot-jų` → `hoćų`, `hval-jeńje` → `hvaljeńje`)
 -   jotacija smekčenoj suglasky: `#ьj` (napr. `pisańje`, `usiĺje`)
@@ -76,7 +77,7 @@ Pišemo `siĺny` i `slovjańsky`, ale takože `cěljny` i `prijateljsky`, zatož
 3. Naš problem jest ta poslědnja kategorija (`ьј`). Tvoret ju sufiksy `-je`, `-ji` i končina `-jų`. Mnogo važno jest to, že te sufiksy možno jest razpoznati. I kromě togo, tamte sufiksy vnoset razliku v gramatiku (roditeljnik množiny `-ij`, napr.: `znańje` → `znanij` zaměsto `znanj`). Razlika so smekčenjem i jotacijeju takože jest važna, zatože slovjanske jezyky različno podhodet do tutogo pytanja: russky `-ие`/`-ье`, ukrajinsky `-ння`, bělorussky
 `-нне`, poljsky i slovačsky `-nie`, češsky `-ní`, slovensky `-nje`, srbohrvatsky i makedonsky `-nje` (`-ње`), bulgarsky `-не`.
 
-My jesmo izbrali slovenečsky (🇸🇮) model, ale ne zabezpametimo, že jest razlika medžu slovenskym i srbohrvatskym modelami. V BCMS jezykah proces byl taky: `-#ьје` → `-#^e` (polna jotacija), napr.: `*pitьje` → `piće`, `zdravьje` → `zdravlje*`. V slovenskom, iz drugoj strany, toj `ь` kakoby "blokuje" jotaciju, zato slovensky imaje `pitje`, `zdravje`.
+My jesmo izbrali slovenečsky (🇸🇮) model, ale ne zabezpametimo, že jest razlika medžu slovenskym i srbohrvatskym modelami. V `BCMS` jezykah proces byl taky: `-#ьје` → `-#^e` (polna jotacija), napr.: `*pitьje` → `piće`, `zdravьje` → `zdravlje*`. V slovenskom, iz drugoj strany, toj `ь` kakoby "blokuje" jotaciju, zato slovensky imaje `pitje`, `zdravje`.
 
 Etimologično najvyše čisto byl by taky zapis:
 
@@ -111,17 +112,20 @@ Iz analizy vyše viděli jesmo, že dobra simetrija medžu latiniceju i kirilice
 
 Kompromisno rěšenje koristati `Ĺ` i `Ń` samo v digrafah `ĹJ`/`ŃJ` dělaje standardny pravopis vyše komplikovanym, i zajedno s tym:
 
-- ne rěšaje problem asimetrije v slovah kako `конјункција`, `инјекција`.
-- pri učenju, trěbuje pametati dodatno o morfologiji i sufiksah: `učeń-je`, `usiĺ-je`.
+- pri učenju, trěbuje pametati dodatno o morfologiji i sufiksah: `učeń-je`, `usiĺ-je`, i zato je izbor:
+  - abo učeniki budut pametati kako sklanjajut se slova, napr: `polje` → `polj`, `učenje` → `učenij`;
+  - ili učeniki budut pametati kde trěba pisati črtky nad `LJ` i `NJ`, a kde ne, i od togo izvoditi formy roditeljnika;
+  - i prvo, i drugo trěbuje bliz podobno usilje dlja pameti, a zato imajemo pytanje "začto razširjati pravopis", kogdy jego možno ne razširjati?
 - ne jest polno podobno do južnyh jezykov, kde piše se, napr.: `учење` 🇷🇸, `знаење` 🇲🇰, `питане` 🇧🇬.
 - ne jest polno podobno do sěvěrnyh jezykov, kde piše se, napr.: `spanie` 🇵🇱 (a ne: `spańje`), `ученье` 🇷🇺 (a ne: `ученје`).
+
 
 Imenno zato najprosty variant by byl koristati samo ligatury `љ`/`њ` v kirilici:
 - izguba etimologičnoj informacije byla by ravna medžu alfabetami;
 - pytanje najvyše fonetično razumlivogo izgovora slova nikogdy ne može byti polno adresovano bez pogledanja na etimologičny zapis slova;
 - vizualno, zapis `знање` i `питање` ne zlo by koreloval s `знанье` 🇷🇺, `питання` 🇺🇦, `питане` 🇧🇬.
 
-Trěba takože pripomniti čitateljam **nemožnost polnogo programatičnogo rěšenja** problema s `љ`/`лј` i `њ`/`нј`, ktoro raněje proponovalo se kako alternativa vsakoj reformě jezyka. Na žalost, ne vsaky raz možno izjaviti s 100% uvěrjenostju čto znači někaka rěč – sut homonimy v medžuslovjanskom leksikonu, i v takoj situaciji, jedino algoritmy s umětnoju inteligencijeju (AI) budut smogti točno skazati čto to jest, napr: `usiljam` kako v `ja usiljam` (glagol s tvrdym `L`) abo `hvala usiĺjam` (imennik s mekkym L).
+Trěba takože pripomněti čitateljam **nemožnost polnogo programatičnogo rěšenja** problema s `љ`/`лј` i `њ`/`нј`, ktoro raněje proponovalo se kako alternativa vsakoj reformě jezyka. Na žalost, ne vsaky raz možno izjaviti s 100% uvěrjenostju čto znači někaka rěč – sut homonimy v medžuslovjanskom leksikonu, i v takoj situaciji, jedino algoritmy s umětnoju inteligencijeju (`AI`) budut smogti točno skazati čto to jest, napr: `usiljam` kako v `ja usiljam` (glagol s tvrdym `L`) abo `hvala usiĺjam` (imennik s mekkym L).
 
 _Jaroslav Sergějev_
 
