@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://interslavic.fun/ru/articles</id>
+    <title>Interslavic Blog</title>
+    <updated>2024-07-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://interslavic.fun/ru/articles"/>
+    <subtitle>Interslavic Blog</subtitle>
+    <icon>https://interslavic.fun/ru/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Асиметрија меджу LJ/NJ и Љ/Њ]]></title>
+        <id>https://interslavic.fun/ru/articles/2024/07/09/diskusija-lj-nj-cyrl</id>
+        <link href="https://interslavic.fun/ru/articles/2024/07/09/diskusija-lj-nj-cyrl"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Мотивација]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="мотивација">Мотивација<a href="#мотивација" class="hash-link" aria-label="Прямая ссылка на Мотивација" title="Прямая ссылка на Мотивација">​</a></h2>
+<p>Уж нєколико седмиц Јан ван Стеенберген јест много зајеты с прєводжењем вики-интерфејса, да быхмо могли потом спокојно почети работу над МС Википедијеју. То јест спєшно дєло, ибо кратко послє публикације нашего кода <code>ISO 639-3</code> уже појавило се прєдложење за МС Википедију МС пројект в Инкубатору. Не хочемо, абы људи почели копијовати тексты из Меджувики, что јест нарушење авторскых прав. Вмєсто того, трєба буде копирати цєло содржање Меджувики в Инкубатор – заједно с хисторијеју. В Меджувики јест автоматичны транслитератор, да бы читатељи могли избирати меджу латиницеју и кирилицеју. Очевидно, в Википедији он такоже буде потрєбны. Ту јест једин малы проблем.</p>
+<p>Тутдењ меджусловјанскы правопис имаје асиметрију меджу латиницеју и кирилицеју, что се тыче прєдавања диграфов <code>lj</code> и <code>nj</code> на писму, и то јест објект нашеј дискусије ниже.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="фонетичны-поглед">Фонетичны поглед<a href="#фонетичны-поглед" class="hash-link" aria-label="Прямая ссылка на Фонетичны поглед" title="Прямая ссылка на Фонетичны поглед">​</a></h3>
+<p>Сут 3 можне ситуације из позиције фонетикы (примєры сут записане в тутденном етимологичном правопису):</p>
+<ul>
+<li><code>lj</code> и <code>nj</code> означајут мекке <code>L</code> и <code>N</code>: <code>detalj</code> (<code>детаљ</code>), <code>konj</code> (<code>коњ</code>)</li>
+<li><code>lj</code> и <code>nj</code> означајут тврде <code>L</code> и <code>N</code>, и послє того иде самостојно <code>J</code>: <code>injekcija</code>
+(<code>инјекција</code>), <code>konjunkcija</code> (<code>конјункција</code>)</li>
+<li><code>lj</code> и <code>nj</code> означајут мекке <code>L</code> и <code>N</code>, и послє того иде самостојно <code>J</code>: <code>usiĺje</code> (<code>усильје</code>),
+<code>pisańje</code> (<code>писаньје</code>)</li>
+</ul>
+<p>Подолг стандарда, в меджусловјанској латиници все три ситуације трєбујут писати <code>lj</code> и <code>nj</code>.</p>
+<p>Једнакоже, в стандардној кирилици, прва ситуација записываје се с <code>љ</code> и <code>њ</code>, але в ситуацијах №2 и №3 пишемо: <code>лј</code> и <code>нј</code>.</p>
+<p>Тута асиметрија твори проблем, же при транслитеровању <code>љ</code>/<code>лј</code> и <code>њ</code>/<code>нј</code> из кирилице до латинице доставајемо: <code>lj</code>/<code>lj</code> и <code>nj</code>/<code>nj</code>. Затоже информација губи се, повторно транслитеровање до кирилице, саморазумно, уж даваје <code>љ</code>/<code>љ</code> и <code>њ</code>/<code>њ</code>.</p>
+<p>Парадокс је такы: теоретично кирилица дозваљаје записати все три ситуације без разширјења абецеды, користајучи  симболы уж доступне нам: <code>Ј</code>, <code>Л</code>, <code>Љ</code>, <code>Н</code>, <code>Њ</code>:</p>
+<ul>
+<li><code>детаљ</code>, <code>коњ</code></li>
+<li><code>инјекција</code>, <code>конјункција</code></li>
+<li><code>усиљје</code>, <code>писањје</code></li>
+</ul>
+<p>Але в латиници мы не можемо најдти простого разрєшења асиметрије без додатного означења меккости или тврдости букв <code>L</code> и <code>N</code> в диграфах <code>LJ</code> и <code>NJ</code>, напр.:</p>
+<ul>
+<li><code>detalj</code>, <code>konj</code></li>
+<li><code>in'jekcija</code>, <code>kon'junkcija</code></li>
+<li><code>usiĺje</code>, <code>pisańje</code></li>
+</ul>
+<p><em>Јарослав Сергєјев</em></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="етимологичны-поглед">Етимологичны поглед<a href="#етимологичны-поглед" class="hash-link" aria-label="Прямая ссылка на Етимологичны поглед" title="Прямая ссылка на Етимологичны поглед">​</a></h3>
+<p>Имајемо дєло с 4 категоријами:</p>
+<ul>
+<li>основне (тврде) сугласкы, плус <strong>ц</strong> и <strong>ј</strong>: <code>#</code></li>
+<li>смекчење: <code>#ь</code> (напр. <code>konj</code>, <code>bolj</code>, <code>kosť</code>)</li>
+<li>јотација тврдој сугласкы: <code>#j</code> (напр.: <code>hot-jų</code> → <code>hoćų</code>, <code>hval-jeńje</code> → <code>hvaljeńje</code>)</li>
+<li>јотација смекченој сугласкы: <code>#ьj</code> (напр. <code>pisańje</code>, <code>usiĺje</code>)</li>
+</ul>
+<p>Како то функционује, покажемо в табелє ниже:</p>
+<p><strong>Етимологичны правопис:</strong></p>
+<table><thead><tr><th><code>#</code></th><th><code>l</code></th><th><code>n</code></th><th><code>r</code></th><th><code>t</code></th><th><code>d</code></th><th><code>s</code></th><th><code>z</code></th><th><code>p</code></th><th><code>k</code></th><th><code>c</code></th><th><code>j</code></th></tr></thead><tbody><tr><td><code>#ь</code></td><td><code>ĺ</code>, <code>lj</code></td><td><code>ń</code>, <code>nj</code></td><td><code>ŕ</code></td><td><code>t́</code></td><td><code>d́</code></td><td><code>ś</code></td><td><code>ź</code></td><td><code>p</code></td><td><code>č</code></td><td><code>č</code></td><td><code>j</code></td></tr><tr><td><code>#j</code></td><td><code>lj</code></td><td><code>nj</code></td><td><code>rj</code></td><td><code>ć</code></td><td><code>đ</code></td><td><code>š</code></td><td><code>ž</code></td><td><code>pj</code></td><td><code>č</code></td><td><code>č</code></td><td><code>j</code></td></tr><tr><td><code>#ь</code></td><td><code>ĺ</code></td><td><code>ń</code></td><td><code>ŕ</code></td><td><code>t́j</code></td><td><code>d́j</code></td><td><code>ś</code></td><td><code>ź</code></td><td><code>pj</code></td><td><code>č</code></td><td><code>č</code></td><td>*<code>jj</code></td></tr></tbody></table>
+<p><strong>Стандардны правопис (лат./кир.):</strong></p>
+<table><thead><tr><th><code>#</code></th><th><code>l</code> <code>л</code></th><th><code>n</code> <code>н</code></th><th><code>r</code> <code>р</code></th><th><code>t</code> <code>т</code></th><th><code>d</code> <code>д</code></th><th><code>s</code> <code>с</code></th><th><code>z</code> <code>з</code></th><th><code>p</code> <code>п</code></th><th><code>k</code> <code>к</code></th><th><code>c</code> <code>ц</code></th><th><code>j</code> <code>ј</code></th></tr></thead><tbody><tr><td><code>#ь</code></td><td><code>lj</code> (<code>љ</code>)</td><td><code>nj</code> (<code>њ</code>)</td><td><code>r</code> (<code>р</code>)</td><td><code>t</code> (<code>т</code>)</td><td><code>d</code> (<code>д</code>)</td><td><code>s</code> (<code>с</code>)</td><td><code>z</code> (<code>з</code>)</td><td><code>p</code> (<code>п</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>j</code> (<code>ј</code>)</td></tr><tr><td><code>#j</code></td><td><code>lj</code> (<code>љ</code>)</td><td><code>nj</code> (<code>њ</code>)</td><td><code>rj</code> (<code>рј</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>dž</code> (<code>дж</code>)</td><td><code>š</code> (<code>ш</code>)</td><td><code>ž</code> (<code>ж</code>)</td><td><code>pj</code> (<code>пј</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>j</code> (<code>ј</code>)</td></tr><tr><td><code>#ь</code></td><td><code>lj</code> (<code>лј</code>)</td><td><code>ń</code> (<code>нј</code>)</td><td><code>rj</code> (<code>рј</code>)</td><td><code>tj</code> (<code>тј</code>)</td><td><code>dj</code> (<code>дј</code>)</td><td><code>sj</code> (<code>сј</code>)</td><td><code>zj</code> (<code>зј</code>)</td><td><code>pj</code> (<code>пј</code>)</td><td><code>č</code> (<code>чј</code>)</td><td><code>č</code> (<code>чј</code>)</td><td>*<code>jj</code> (*<code>јј</code>)</td></tr></tbody></table>
+<ol>
+<li>Зачто <code>lь</code>/<code>nь</code> могут стати и <code>ĺ</code>/<code>ń</code>, и <code>lj</code>/<code>nj</code>? Та разлика не јест етимологична, але морфологична.
+Пишемо <code>siĺny</code> и <code>slovjańsky</code>, але такоже <code>cěljny</code> и <code>prijateljsky</code>, затоже просто додавајемо до корења суфиксы <code>-ny</code>, <code>-sky</code>, и друге. Палатализујемо једино <code>k</code>/<code>g</code>/<code>h</code> – зато <code>sil-ny</code> → <code>siĺny</code>, але <code>rųk-ny</code> → <code>rųčny</code>. То јест мало нарушење етимологије.<!-- -->
+<ul>
+<li>Интересно, же ту имајемо аж 3 версије: <code>pȯlny</code> (в значењу: <em>не праздны</em>), <code>poĺny</code>
+(од именника <em>пол</em>), <code>poljny</code> (од именника <em>поље</em>).</li>
+</ul>
+</li>
+<li>Јест разлика меджу палатализацијеју (<code>ь</code>) и јотацију (<code>j</code>), але послє <code>l</code> и <code>n</code> оне сбєгајут се в <code>lj</code> и <code>nj</code>. Тако јест во всих словјанскых језыках. Једнакоже, ако хтєли быхмо играти највыше «чисто», трєба бы было писати <code>хвалју</code> и <code>хранјены</code> замєсто <code>хваљу</code> и <code>храњены</code>. Ну, але то не јест великы проблем.</li>
+<li>Наш проблем јест та послєдња категорија (<code>ьј</code>). Творет ју суфиксы <code>-je</code>, <code>-ji</code> и кончина <code>-jų</code>. Много важно јест то, же те суфиксы можно јест разпознати. И кромє того, тамте суфиксы вносет разлику в граматику (родитељник множины <code>-ij</code>, напр.: <code>znańje</code> → <code>znanij</code> замєсто <code>znanj</code>). Разлика со смекчењем и јотацијеју такоже јест важна, затоже словјанске језыкы различно подходет до тутого пытања: русскы <code>-ие</code>/<code>-ье</code>, украјинскы <code>-ння</code>, бєлорусскы
+<code>-нне</code>, пољскы и словачскы <code>-nie</code>, чешскы <code>-ní</code>, словенскы <code>-nje</code>, србохрватскы и македонскы <code>-nje</code> (<code>-ње</code>), булгарскы <code>-не</code>.</li>
+</ol>
+<p>Мы јесмо избрали словенечскы (🇸🇮) модел, але не забезпаметимо, же јест разлика меджу словенскым и србохрватскым моделами. В <code>BCMS</code> језыках процес был такы: <code>-#ьје</code> → <code>-#^e</code> (полна јотација), напр.: <code>*pitьje</code> → <code>piće</code>, <code>zdravьje</code> → <code>zdravlje*</code>. В словенском, из другој страны, тој <code>ь</code> какобы "блокује" јотацију, зато словенскы имаје <code>pitje</code>, <code>zdravje</code>.</p>
+<p>Етимологично највыше чисто был бы такы запис:</p>
+<ul>
+<li><code>pisańje</code> (<code>писањје</code>), или <code>pisaňje</code> (<code>писаньје</code>);</li>
+<li><code>usiĺje</code> (<code>усиљје</code>), или <code>usiľje</code> (<code>усильје</code>);</li>
+<li><code>piťje</code> (<code>питьје</code>), але стандардны правопис не имаје <code>ť</code>, зато пишемо <code>pitje</code> (<code>питје</code>).</li>
+</ul>
+<p>Тако разрєшење бы служило како добры компромис меджу <code>-#ije</code> (🇷🇺🇧🇬☦), <code>-#'e</code> (🇵🇱), <code>-#je</code> (🇸🇮) и <code>-#^e</code> (🇷🇸🇭🇷).</p>
+<p><em>Јан ван Стеенберген</em></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="пропозиције">Пропозиције<a href="#пропозиције" class="hash-link" aria-label="Прямая ссылка на Пропозиције" title="Прямая ссылка на Пропозиције">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-опционалне-диграфы-ĺj-и-ńj">1. Опционалне диграфы <code>ĹJ</code> и <code>ŃJ</code><a href="#1-опционалне-диграфы-ĺj-и-ńj" class="hash-link" aria-label="Прямая ссылка на 1-опционалне-диграфы-ĺj-и-ńj" title="Прямая ссылка на 1-опционалне-диграфы-ĺj-и-ńj">​</a></h3>
+<p>Додати <code>ń</code> (<code>ň</code>) и <code>ĺ</code> (<code>ľ</code>) како опционалне додаткы до стандардного правописања в ситуацији нејасности, когды <code>lj</code>/<code>nj</code> означајут јотоване мекке <code>L</code>/<code>N</code>, напр.: <code>pisańje</code>, <code>usiĺje</code>.</p>
+<p>В Меджувики то уже было сдєлано честично и функционује добро.
+Додаточна прєдност того разрєшења јест то, же уже не буде проблемов с деклинацијеју.</p>
+<p>Акцентују, же оно јест потрєбно само за транслитерацију: в нормалној комуникацији можно
+јест, очевидно, писати <code>pisanje</code> и <code>usilje</code> како прєдже.</p>
+<p><em>Јан ван Стеенберген</em></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2-минимално-рєшење">2. Минимално рєшење<a href="#2-минимално-рєшење" class="hash-link" aria-label="Прямая ссылка на 2. Минимално рєшење" title="Прямая ссылка на 2. Минимално рєшење">​</a></h3>
+<p>Из анализы выше видєли јесмо, же добра симетрија меджу латиницеју и кирилицеју трєбовала бы быти:</p>
+<ol>
+<li>или 3:3, что значи "имати латиничне аналогы" за: <code>љ</code>/<code>њ</code>, <code>љј</code>/<code>њј</code>, <code>лј</code>/<code>нј</code>.</li>
+<li>або 1:1 (<code>lj</code>-<code>љ</code>, <code>nj</code>-<code>њ</code>).</li>
+</ol>
+<p>Компромисно рєшење користати <code>Ĺ</code> и <code>Ń</code> само в диграфах <code>ĹJ</code>/<code>ŃJ</code> дєлаје стандардны правопис выше компликованым, и заједно с тым:</p>
+<ul>
+<li>не рєшаје проблем асиметрије в словах како <code>конјункција</code>, <code>инјекција</code>.</li>
+<li>при учењу, трєбује паметати додатно о морфологији и суфиксах: <code>učeń-je</code>, <code>usiĺ-je</code>.</li>
+<li>не јест полно подобно до јужных језыков, кде пише се, напр.: <code>учење</code> 🇷🇸, <code>знаење</code> 🇲🇰, <code>питане</code> 🇧🇬.</li>
+<li>не јест полно подобно до сєвєрных језыков, кде пише се, напр.: <code>spanie</code> 🇵🇱 (а не: <code>spańje</code>), <code>ученье</code> 🇷🇺 (а не: <code>ученје</code>).</li>
+</ul>
+<p>Именно зато најпросты вариант бы был користати само лигатуры <code>љ</code>/<code>њ</code> в кирилици:</p>
+<ul>
+<li>изгуба етимологичној информације была бы равна меджу алфабетами;</li>
+<li>пытање највыше фонетично разумливого изговора слова никогды не може быти полно адресовано без погледања на етимологичны запис слова;</li>
+<li>визуално, запис <code>знање</code> и <code>питање</code> не зло бы кореловал с <code>знанье</code> 🇷🇺, <code>питання</code> 🇺🇦, <code>питане</code> 🇧🇬.</li>
+</ul>
+<p>Трєба такоже припомнєти читатељам <strong>неможност полного програматичного рєшења</strong> проблема с <code>љ</code>/<code>лј</code> и <code>њ</code>/<code>нј</code>, кторо ранєје пропоновало се како алтернатива всакој реформє језыка. На жалост, не всакы раз можно изјавити с 100% увєрјеностју что значи нєкака рєч – сут хомонимы в меджусловјанском лексикону, и в такој ситуацији, једино алгоритмы с умєтноју интелигенцијеју (<code>AI</code>) будут смогти точно сказати что то јест, напр: <code>usiljam</code> како в <code>ja usiljam</code> (глагол с тврдым <code>L</code>) або <code>hvala usiĺjam</code> (именник с меккым Л).</p>
+<p><em>Јарослав Сергєјев</em></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="наступне-крокы">Наступне крокы<a href="#наступне-крокы" class="hash-link" aria-label="Прямая ссылка на Наступне крокы" title="Прямая ссылка на Наступне крокы">​</a></h2>
+<p>Прво, читатељ може јешче прочитати тутој документ, кде обговарјали се многе ине пропозиције и пытања около послєдиц разных реформ:</p>
+<p><a href="https://docs.google.com/document/d/1XihmB0ETegx2PxKG0EIGUY6Sm0Kz9t21KViRlt-zCus" target="_blank" rel="noopener noreferrer">Меджусловјанско Вєче (22.06.2024)</a></p>
+<p>Даље, трєбујемо обговорити с помочниками развоја меджусловјанского језыка аргументы и контраргументы всакој пропозиције в коментарах ниже .</p>
+<p>И, в концу, Меджусловјанска Језычна Комисија гласује за једин из вариантов.</p>]]></content>
+        <author>
+            <name>Jaroslav Sergějev</name>
+            <uri>https://github.com/noomorph</uri>
+        </author>
+        <author>
+            <name>Jan van Steenbergen</name>
+            <uri>https://steen.free.fr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asimetrija medžu LJ/NJ i Љ/Њ]]></title>
+        <id>https://interslavic.fun/ru/articles/2024/07/09/diskusija-lj-nj</id>
+        <link href="https://interslavic.fun/ru/articles/2024/07/09/diskusija-lj-nj"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motivacija]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="motivacija">Motivacija<a href="#motivacija" class="hash-link" aria-label="Прямая ссылка на Motivacija" title="Прямая ссылка на Motivacija">​</a></h2>
+<p>Už několiko sedmic Jan van Steenbergen jest mnogo zajety s prěvodženjem viki-interfejsa, da byhmo mogli potom spokojno početi rabotu nad MS Vikipedijeju. To jest spěšno dělo, ibo kratko poslě publikacije našego koda <code>ISO 639-3</code> uže pojavilo se prědloženje za MS Vikipediju MS projekt v Inkubatoru. Ne hočemo, aby ljudi počeli kopijovati teksty iz Medžuviki, čto jest narušenje avtorskyh prav. Vměsto togo, trěba bude kopirati cělo sodržanje Medžuviki v Inkubator – zajedno s historijeju. V Medžuviki jest avtomatičny transliterator, da by čitatelji mogli izbirati medžu latiniceju i kiriliceju. Očevidno, v Vikipediji on takože bude potrěbny. Tu jest jedin maly problem.</p>
+<p>Tutdenj medžuslovjansky pravopis imaje asimetriju medžu latiniceju i kiriliceju, čto se tyče prědavanja digrafov <code>lj</code> i <code>nj</code> na pismu, i to jest objekt našej diskusije niže.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="fonetičny-pogled">Fonetičny pogled<a href="#fonetičny-pogled" class="hash-link" aria-label="Прямая ссылка на Fonetičny pogled" title="Прямая ссылка на Fonetičny pogled">​</a></h3>
+<p>Sut 3 možne situacije iz pozicije fonetiky (priměry sut zapisane v tutdennom etimologičnom pravopisu):</p>
+<ul>
+<li><code>lj</code> i <code>nj</code> označajut mekke <code>L</code> i <code>N</code>: <code>detalj</code> (<code>детаљ</code>), <code>konj</code> (<code>коњ</code>)</li>
+<li><code>lj</code> i <code>nj</code> označajut tvrde <code>L</code> i <code>N</code>, i poslě togo ide samostojno <code>J</code>: <code>injekcija</code>
+(<code>инјекција</code>), <code>konjunkcija</code> (<code>конјункција</code>)</li>
+<li><code>lj</code> i <code>nj</code> označajut mekke <code>L</code> i <code>N</code>, i poslě togo ide samostojno <code>J</code>: <code>usiĺje</code> (<code>усильје</code>),
+<code>pisańje</code> (<code>писаньје</code>)</li>
+</ul>
+<p>Podolg standarda, v medžuslovjanskoj latinici vse tri situacije trěbujut pisati <code>lj</code> i <code>nj</code>.</p>
+<p>Jednakože, v standardnoj kirilici, prva situacija zapisyvaje se s <code>љ</code> i <code>њ</code>, ale v situacijah №2 i №3 pišemo: <code>лј</code> i <code>нј</code>.</p>
+<p>Tuta asimetrija tvori problem, že pri transliterovanju <code>љ</code>/<code>лј</code> i <code>њ</code>/<code>нј</code> iz kirilice do latinice dostavajemo: <code>lj</code>/<code>lj</code> i <code>nj</code>/<code>nj</code>. Zatože informacija gubi se, povtorno transliterovanje do kirilice, samorazumno, už davaje <code>љ</code>/<code>љ</code> i <code>њ</code>/<code>њ</code>.</p>
+<p>Paradoks je taky: teoretično kirilica dozvaljaje zapisati vse tri situacije bez razširjenja abecedy, koristajuči  simboly už dostupne nam: <code>Ј</code>, <code>Л</code>, <code>Љ</code>, <code>Н</code>, <code>Њ</code>:</p>
+<ul>
+<li><code>детаљ</code>, <code>коњ</code></li>
+<li><code>инјекција</code>, <code>конјункција</code></li>
+<li><code>усиљје</code>, <code>писањје</code></li>
+</ul>
+<p>Ale v latinici my ne možemo najdti prostogo razrěšenja asimetrije bez dodatnogo označenja mekkosti ili tvrdosti bukv <code>L</code> i <code>N</code> v digrafah <code>LJ</code> i <code>NJ</code>, napr.:</p>
+<ul>
+<li><code>detalj</code>, <code>konj</code></li>
+<li><code>in'jekcija</code>, <code>kon'junkcija</code></li>
+<li><code>usiĺje</code>, <code>pisańje</code></li>
+</ul>
+<p><em>Jaroslav Sergějev</em></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="etimologičny-pogled">Etimologičny pogled<a href="#etimologičny-pogled" class="hash-link" aria-label="Прямая ссылка на Etimologičny pogled" title="Прямая ссылка на Etimologičny pogled">​</a></h3>
+<p>Imajemo dělo s 4 kategorijami:</p>
+<ul>
+<li>osnovne (tvrde) suglasky, plus <strong>c</strong> i <strong>j</strong>: <code>#</code></li>
+<li>smekčenje: <code>#ь</code> (napr. <code>konj</code>, <code>bolj</code>, <code>kosť</code>)</li>
+<li>jotacija tvrdoj suglasky: <code>#j</code> (napr.: <code>hot-jų</code> → <code>hoćų</code>, <code>hval-jeńje</code> → <code>hvaljeńje</code>)</li>
+<li>jotacija smekčenoj suglasky: <code>#ьj</code> (napr. <code>pisańje</code>, <code>usiĺje</code>)</li>
+</ul>
+<p>Kako to funkcionuje, pokažemo v tabelě niže:</p>
+<p><strong>Etimologičny pravopis:</strong></p>
+<table><thead><tr><th><code>#</code></th><th><code>l</code></th><th><code>n</code></th><th><code>r</code></th><th><code>t</code></th><th><code>d</code></th><th><code>s</code></th><th><code>z</code></th><th><code>p</code></th><th><code>k</code></th><th><code>c</code></th><th><code>j</code></th></tr></thead><tbody><tr><td><code>#ь</code></td><td><code>ĺ</code>, <code>lj</code></td><td><code>ń</code>, <code>nj</code></td><td><code>ŕ</code></td><td><code>t́</code></td><td><code>d́</code></td><td><code>ś</code></td><td><code>ź</code></td><td><code>p</code></td><td><code>č</code></td><td><code>č</code></td><td><code>j</code></td></tr><tr><td><code>#j</code></td><td><code>lj</code></td><td><code>nj</code></td><td><code>rj</code></td><td><code>ć</code></td><td><code>đ</code></td><td><code>š</code></td><td><code>ž</code></td><td><code>pj</code></td><td><code>č</code></td><td><code>č</code></td><td><code>j</code></td></tr><tr><td><code>#ь</code></td><td><code>ĺ</code></td><td><code>ń</code></td><td><code>ŕ</code></td><td><code>t́j</code></td><td><code>d́j</code></td><td><code>ś</code></td><td><code>ź</code></td><td><code>pj</code></td><td><code>č</code></td><td><code>č</code></td><td>*<code>jj</code></td></tr></tbody></table>
+<p><strong>Standardny pravopis (lat./kir.):</strong></p>
+<table><thead><tr><th><code>#</code></th><th><code>l</code> <code>л</code></th><th><code>n</code> <code>н</code></th><th><code>r</code> <code>р</code></th><th><code>t</code> <code>т</code></th><th><code>d</code> <code>д</code></th><th><code>s</code> <code>с</code></th><th><code>z</code> <code>з</code></th><th><code>p</code> <code>п</code></th><th><code>k</code> <code>к</code></th><th><code>c</code> <code>ц</code></th><th><code>j</code> <code>ј</code></th></tr></thead><tbody><tr><td><code>#ь</code></td><td><code>lj</code> (<code>љ</code>)</td><td><code>nj</code> (<code>њ</code>)</td><td><code>r</code> (<code>р</code>)</td><td><code>t</code> (<code>т</code>)</td><td><code>d</code> (<code>д</code>)</td><td><code>s</code> (<code>с</code>)</td><td><code>z</code> (<code>з</code>)</td><td><code>p</code> (<code>п</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>j</code> (<code>ј</code>)</td></tr><tr><td><code>#j</code></td><td><code>lj</code> (<code>љ</code>)</td><td><code>nj</code> (<code>њ</code>)</td><td><code>rj</code> (<code>рј</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>dž</code> (<code>дж</code>)</td><td><code>š</code> (<code>ш</code>)</td><td><code>ž</code> (<code>ж</code>)</td><td><code>pj</code> (<code>пј</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>č</code> (<code>ч</code>)</td><td><code>j</code> (<code>ј</code>)</td></tr><tr><td><code>#ь</code></td><td><code>lj</code> (<code>лј</code>)</td><td><code>ń</code> (<code>нј</code>)</td><td><code>rj</code> (<code>рј</code>)</td><td><code>tj</code> (<code>тј</code>)</td><td><code>dj</code> (<code>дј</code>)</td><td><code>sj</code> (<code>сј</code>)</td><td><code>zj</code> (<code>зј</code>)</td><td><code>pj</code> (<code>пј</code>)</td><td><code>č</code> (<code>чј</code>)</td><td><code>č</code> (<code>чј</code>)</td><td>*<code>jj</code> (*<code>јј</code>)</td></tr></tbody></table>
+<ol>
+<li>Začto <code>lь</code>/<code>nь</code> mogut stati i <code>ĺ</code>/<code>ń</code>, i <code>lj</code>/<code>nj</code>? Ta razlika ne jest etimologična, ale morfologična.
+Pišemo <code>siĺny</code> i <code>slovjańsky</code>, ale takože <code>cěljny</code> i <code>prijateljsky</code>, zatože prosto dodavajemo do korenja sufiksy <code>-ny</code>, <code>-sky</code>, i druge. Palatalizujemo jedino <code>k</code>/<code>g</code>/<code>h</code> – zato <code>sil-ny</code> → <code>siĺny</code>, ale <code>rųk-ny</code> → <code>rųčny</code>. To jest malo narušenje etimologije.<!-- -->
+<ul>
+<li>Interesno, že tu imajemo až 3 versije: <code>pȯlny</code> (v značenju: <em>ne prazdny</em>), <code>poĺny</code>
+(od imennika <em>pol</em>), <code>poljny</code> (od imennika <em>polje</em>).</li>
+</ul>
+</li>
+<li>Jest razlika medžu palatalizacijeju (<code>ь</code>) i jotaciju (<code>j</code>), ale poslě <code>l</code> i <code>n</code> one sběgajut se v <code>lj</code> i <code>nj</code>. Tako jest vo vsih slovjanskyh jezykah. Jednakože, ako htěli byhmo igrati najvyše «čisto», trěba by bylo pisati <code>хвалју</code> i <code>хранјены</code> zaměsto <code>хваљу</code> i <code>храњены</code>. Nu, ale to ne jest veliky problem.</li>
+<li>Naš problem jest ta poslědnja kategorija (<code>ьј</code>). Tvoret ju sufiksy <code>-je</code>, <code>-ji</code> i končina <code>-jų</code>. Mnogo važno jest to, že te sufiksy možno jest razpoznati. I kromě togo, tamte sufiksy vnoset razliku v gramatiku (roditeljnik množiny <code>-ij</code>, napr.: <code>znańje</code> → <code>znanij</code> zaměsto <code>znanj</code>). Razlika so smekčenjem i jotacijeju takože jest važna, zatože slovjanske jezyky različno podhodet do tutogo pytanja: russky <code>-ие</code>/<code>-ье</code>, ukrajinsky <code>-ння</code>, bělorussky
+<code>-нне</code>, poljsky i slovačsky <code>-nie</code>, češsky <code>-ní</code>, slovensky <code>-nje</code>, srbohrvatsky i makedonsky <code>-nje</code> (<code>-ње</code>), bulgarsky <code>-не</code>.</li>
+</ol>
+<p>My jesmo izbrali slovenečsky (🇸🇮) model, ale ne zabezpametimo, že jest razlika medžu slovenskym i srbohrvatskym modelami. V <code>BCMS</code> jezykah proces byl taky: <code>-#ьје</code> → <code>-#^e</code> (polna jotacija), napr.: <code>*pitьje</code> → <code>piće</code>, <code>zdravьje</code> → <code>zdravlje*</code>. V slovenskom, iz drugoj strany, toj <code>ь</code> kakoby "blokuje" jotaciju, zato slovensky imaje <code>pitje</code>, <code>zdravje</code>.</p>
+<p>Etimologično najvyše čisto byl by taky zapis:</p>
+<ul>
+<li><code>pisańje</code> (<code>писањје</code>), ili <code>pisaňje</code> (<code>писаньје</code>);</li>
+<li><code>usiĺje</code> (<code>усиљје</code>), ili <code>usiľje</code> (<code>усильје</code>);</li>
+<li><code>piťje</code> (<code>питьје</code>), ale standardny pravopis ne imaje <code>ť</code>, zato pišemo <code>pitje</code> (<code>питје</code>).</li>
+</ul>
+<p>Tako razrěšenje by služilo kako dobry kompromis medžu <code>-#ije</code> (🇷🇺🇧🇬☦), <code>-#'e</code> (🇵🇱), <code>-#je</code> (🇸🇮) i <code>-#^e</code> (🇷🇸🇭🇷).</p>
+<p><em>Jan van Steenbergen</em></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="propozicije">Propozicije<a href="#propozicije" class="hash-link" aria-label="Прямая ссылка на Propozicije" title="Прямая ссылка на Propozicije">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1-opcionalne-digrafy-ĺj-i-ńj">1. Opcionalne digrafy <code>ĹJ</code> i <code>ŃJ</code><a href="#1-opcionalne-digrafy-ĺj-i-ńj" class="hash-link" aria-label="Прямая ссылка на 1-opcionalne-digrafy-ĺj-i-ńj" title="Прямая ссылка на 1-opcionalne-digrafy-ĺj-i-ńj">​</a></h3>
+<p>Dodati <code>ń</code> (<code>ň</code>) i <code>ĺ</code> (<code>ľ</code>) kako opcionalne dodatky do standardnogo pravopisanja v situaciji nejasnosti, kogdy <code>lj</code>/<code>nj</code> označajut jotovane mekke <code>L</code>/<code>N</code>, napr.: <code>pisańje</code>, <code>usiĺje</code>.</p>
+<p>V Medžuviki to uže bylo sdělano čestično i funkcionuje dobro.
+Dodatočna prědnost togo razrěšenja jest to, že uže ne bude problemov s deklinacijeju.</p>
+<p>Akcentuju, že ono jest potrěbno samo za transliteraciju: v normalnoj komunikaciji možno
+jest, očevidno, pisati <code>pisanje</code> i <code>usilje</code> kako prědže.</p>
+<p><em>Jan van Steenbergen</em></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2-minimalno-rěšenje">2. Minimalno rěšenje<a href="#2-minimalno-rěšenje" class="hash-link" aria-label="Прямая ссылка на 2. Minimalno rěšenje" title="Прямая ссылка на 2. Minimalno rěšenje">​</a></h3>
+<p>Iz analizy vyše viděli jesmo, že dobra simetrija medžu latiniceju i kiriliceju trěbovala by byti:</p>
+<ol>
+<li>ili 3:3, čto znači "imati latinične analogy" za: <code>љ</code>/<code>њ</code>, <code>љј</code>/<code>њј</code>, <code>лј</code>/<code>нј</code>.</li>
+<li>abo 1:1 (<code>lj</code>-<code>љ</code>, <code>nj</code>-<code>њ</code>).</li>
+</ol>
+<p>Kompromisno rěšenje koristati <code>Ĺ</code> i <code>Ń</code> samo v digrafah <code>ĹJ</code>/<code>ŃJ</code> dělaje standardny pravopis vyše komplikovanym, i zajedno s tym:</p>
+<ul>
+<li>ne rěšaje problem asimetrije v slovah kako <code>конјункција</code>, <code>инјекција</code>.</li>
+<li>pri učenju, trěbuje pametati dodatno o morfologiji i sufiksah: <code>učeń-je</code>, <code>usiĺ-je</code>.</li>
+<li>ne jest polno podobno do južnyh jezykov, kde piše se, napr.: <code>учење</code> 🇷🇸, <code>знаење</code> 🇲🇰, <code>питане</code> 🇧🇬.</li>
+<li>ne jest polno podobno do sěvěrnyh jezykov, kde piše se, napr.: <code>spanie</code> 🇵🇱 (a ne: <code>spańje</code>), <code>ученье</code> 🇷🇺 (a ne: <code>ученје</code>).</li>
+</ul>
+<p>Imenno zato najprosty variant by byl koristati samo ligatury <code>љ</code>/<code>њ</code> v kirilici:</p>
+<ul>
+<li>izguba etimologičnoj informacije byla by ravna medžu alfabetami;</li>
+<li>pytanje najvyše fonetično razumlivogo izgovora slova nikogdy ne može byti polno adresovano bez pogledanja na etimologičny zapis slova;</li>
+<li>vizualno, zapis <code>знање</code> i <code>питање</code> ne zlo by koreloval s <code>знанье</code> 🇷🇺, <code>питання</code> 🇺🇦, <code>питане</code> 🇧🇬.</li>
+</ul>
+<p>Trěba takože pripomněti čitateljam <strong>nemožnost polnogo programatičnogo rěšenja</strong> problema s <code>љ</code>/<code>лј</code> i <code>њ</code>/<code>нј</code>, ktoro raněje proponovalo se kako alternativa vsakoj reformě jezyka. Na žalost, ne vsaky raz možno izjaviti s 100% uvěrjenostju čto znači někaka rěč – sut homonimy v medžuslovjanskom leksikonu, i v takoj situaciji, jedino algoritmy s umětnoju inteligencijeju (<code>AI</code>) budut smogti točno skazati čto to jest, napr: <code>usiljam</code> kako v <code>ja usiljam</code> (glagol s tvrdym <code>L</code>) abo <code>hvala usiĺjam</code> (imennik s mekkym L).</p>
+<p><em>Jaroslav Sergějev</em></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="nastupne-kroky">Nastupne kroky<a href="#nastupne-kroky" class="hash-link" aria-label="Прямая ссылка на Nastupne kroky" title="Прямая ссылка на Nastupne kroky">​</a></h2>
+<p>Prvo, čitatelj može ješče pročitati tutoj dokument, kde obgovarjali se mnoge ine propozicije i pytanja okolo poslědic raznyh reform:</p>
+<p><a href="https://docs.google.com/document/d/1XihmB0ETegx2PxKG0EIGUY6Sm0Kz9t21KViRlt-zCus" target="_blank" rel="noopener noreferrer">Medžuslovjansko Věče (22.06.2024)</a></p>
+<p>Dalje, trěbujemo obgovoriti s pomočnikami razvoja medžuslovjanskogo jezyka argumenty i kontrargumenty vsakoj propozicije v komentarah niže .</p>
+<p>I, v koncu, Medžuslovjanska Jezyčna Komisija glasuje za jedin iz variantov.</p>]]></content>
+        <author>
+            <name>Jaroslav Sergějev</name>
+            <uri>https://github.com/noomorph</uri>
+        </author>
+        <author>
+            <name>Jan van Steenbergen</name>
+            <uri>https://steen.free.fr</uri>
+        </author>
+    </entry>
+</feed>
