@@ -91,8 +91,13 @@
 </ol>
 <p>Компромисно рєшење користати <code>Ĺ</code> и <code>Ń</code> само в диграфах <code>ĹJ</code>/<code>ŃJ</code> дєлаје стандардны правопис выше компликованым, и заједно с тым:</p>
 <ul>
-<li>не рєшаје проблем асиметрије в словах како <code>конјункција</code>, <code>инјекција</code>.</li>
-<li>при учењу, трєбује паметати додатно о морфологији и суфиксах: <code>učeń-je</code>, <code>usiĺ-je</code>.</li>
+<li>при учењу, трєбује паметати додатно о морфологији и суфиксах: <code>učeń-je</code>, <code>usiĺ-je</code>, и зато је избор:<!-- -->
+<ul>
+<li>або ученики будут паметати како склањајут се слова, напр: <code>polje</code> → <code>polj</code>, <code>učenje</code> → <code>učenij</code>;</li>
+<li>или ученики будут паметати кде трєба писати чрткы над <code>LJ</code> и <code>NJ</code>, а кде не, и од того изводити формы родитељника;</li>
+<li>и прво, и друго трєбује близ подобно усиље дља памети, а зато имајемо пытање "зачто разширјати правопис", когды јего можно не разширјати?</li>
+</ul>
+</li>
 <li>не јест полно подобно до јужных језыков, кде пише се, напр.: <code>учење</code> 🇷🇸, <code>знаење</code> 🇲🇰, <code>питане</code> 🇧🇬.</li>
 <li>не јест полно подобно до сєвєрных језыков, кде пише се, напр.: <code>spanie</code> 🇵🇱 (а не: <code>spańje</code>), <code>ученье</code> 🇷🇺 (а не: <code>ученје</code>).</li>
 </ul>
@@ -202,8 +207,13 @@ jest, očevidno, pisati <code>pisanje</code> i <code>usilje</code> kako prědže
 </ol>
 <p>Kompromisno rěšenje koristati <code>Ĺ</code> i <code>Ń</code> samo v digrafah <code>ĹJ</code>/<code>ŃJ</code> dělaje standardny pravopis vyše komplikovanym, i zajedno s tym:</p>
 <ul>
-<li>ne rěšaje problem asimetrije v slovah kako <code>конјункција</code>, <code>инјекција</code>.</li>
-<li>pri učenju, trěbuje pametati dodatno o morfologiji i sufiksah: <code>učeń-je</code>, <code>usiĺ-je</code>.</li>
+<li>pri učenju, trěbuje pametati dodatno o morfologiji i sufiksah: <code>učeń-je</code>, <code>usiĺ-je</code>, i zato je izbor:<!-- -->
+<ul>
+<li>abo učeniki budut pametati kako sklanjajut se slova, napr: <code>polje</code> → <code>polj</code>, <code>učenje</code> → <code>učenij</code>;</li>
+<li>ili učeniki budut pametati kde trěba pisati črtky nad <code>LJ</code> i <code>NJ</code>, a kde ne, i od togo izvoditi formy roditeljnika;</li>
+<li>i prvo, i drugo trěbuje bliz podobno usilje dlja pameti, a zato imajemo pytanje "začto razširjati pravopis", kogdy jego možno ne razširjati?</li>
+</ul>
+</li>
 <li>ne jest polno podobno do južnyh jezykov, kde piše se, napr.: <code>учење</code> 🇷🇸, <code>знаење</code> 🇲🇰, <code>питане</code> 🇧🇬.</li>
 <li>ne jest polno podobno do sěvěrnyh jezykov, kde piše se, napr.: <code>spanie</code> 🇵🇱 (a ne: <code>spańje</code>), <code>ученье</code> 🇷🇺 (a ne: <code>ученје</code>).</li>
 </ul>
