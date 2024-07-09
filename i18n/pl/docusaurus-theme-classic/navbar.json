@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Interslavic",
+    "message": "Międzysłowiański",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,15 +8,19 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Learn": {
-    "message": "Learn",
+    "message": "Ucz się",
     "description": "Navbar item with label Learn"
   },
+  "item.label.Articles": {
+    "message": "Artykuły",
+    "description": "Navbar item with label Articles"
+  },
   "item.label.Resources": {
-    "message": "Resources",
+    "message": "Zasoby",
     "description": "Navbar item with label Resources"
   },
   "item.label.Online Dictionary": {
-    "message": "Online Dictionary",
+    "message": "Słownik online",
     "description": "Navbar item with label Online Dictionary"
   }
 }

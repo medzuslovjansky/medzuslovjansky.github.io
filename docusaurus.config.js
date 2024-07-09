@@ -143,11 +143,11 @@ async function createConfig() {
               position: 'left',
               label: 'Resources',
             },
-            // {
-            //   to: '/articles',
-            //   label: 'Articles',
-            //   position: 'left'
-            // },
+            {
+              to: '/articles',
+              label: 'Articles',
+              position: 'left'
+            },
             {
               href: 'https://interslavic-dictionary.com',
               label: 'Online Dictionary',

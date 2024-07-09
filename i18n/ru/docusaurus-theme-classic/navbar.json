@@ -11,6 +11,10 @@
     "message": "Изучение",
     "description": "Navbar item with label Learn"
   },
+  "item.label.Articles": {
+    "message": "Статьи",
+    "description": "Navbar item with label Articles"
+  },
   "item.label.Resources": {
     "message": "Ресурсы",
     "description": "Navbar item with label Resources"
