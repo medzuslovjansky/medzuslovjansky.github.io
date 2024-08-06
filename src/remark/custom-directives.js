@@ -1,8 +1,7 @@
 const path = require('path');
-const visit = require('unist-util-visit');
 const i18n = require('./abbr-i18n');
 
-const plugin = (_options) => {
+const plugin = ({ visit }) => (_options) => {
   function directiveTransformer(ast, vfile) {
     const filePath = vfile.path.split(path.sep);
     const i18n = filePath.indexOf('i18n');
