@@ -118,6 +118,10 @@ async function createConfig() {
       ],
     },
 
+    markdown: {
+      format: 'mdx',
+    },
+
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
