@@ -108,8 +108,10 @@ async function createConfig() {
       locales: [
         'en',
         'be',
+        'bg',
         'cs',
         'hr',
+        'mk',
         'pl',
         'ru',
         'sl',
