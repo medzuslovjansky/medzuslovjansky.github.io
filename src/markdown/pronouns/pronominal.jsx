@@ -1,4 +1,5 @@
 import React from 'react';
+import {extractListItems} from "@site/src/utils";
 
 export default function Pronominal({children}) {
   const {
@@ -354,14 +355,6 @@ function childrenToColumnHeaders(children) {
       _else: 'else',
     }))
     .reduce(reduceEntriesToObject, {});
-}
-
-function extractListItems(children) {
-  if (!children) return [];
-
-  return React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
 }
 
 function translationsReducer(acc, translation, index) {

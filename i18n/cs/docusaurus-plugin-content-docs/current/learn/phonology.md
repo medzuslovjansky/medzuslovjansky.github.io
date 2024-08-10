@@ -213,4 +213,4 @@ Prchavé :isv[`o`] a :isv[`e`] (v etymologické abecedě označené tečkou: :is
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „obsahovat“,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „vstoupit“.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

@@ -107,6 +107,6 @@ Pokud jde o mluvení, je třeba mít vždy na paměti, že posluchač pravděpod
 
 Totéž, možná ještě více, platí, když oslovujete publikum. Mezislovanština byla zkonstruována tak, aby maximalizovala srozumitelnost, ale to neznamená, že každý Slovan rozumí každému jejímu slovu. Poslouchání interslovanštiny je otázkou neustálého vytváření spojení a konotací, a kdykoli člověk slyší slovo, kterému nerozumí – což je zcela nevyhnutelné – je pravděpodobné, že o tom začne přemýšlet a zbytek vaší věty mu unikne. Je nutné, abyste svému publiku vždy poskytli veškerý čas, který potřebuje, aby zpracovalo vaše informace, nechalo je vstřebat. Nemluvte tedy rychle, mluvte jasně, zhluboka se nadechněte mezi větami, používejte prozódii, jak nejlépe umíte, a tak dále...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

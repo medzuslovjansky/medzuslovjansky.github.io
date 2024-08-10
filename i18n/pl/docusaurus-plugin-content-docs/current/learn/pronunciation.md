@@ -110,6 +110,6 @@ Jeśli chodzi o mówienie, zawsze trzeba pamiętać, że słuchacz prawdopodobni
 
 To samo, a może nawet bardziej, dotyczy zwracania się do publiczności. Intersłowiański został skonstruowany tak, aby zmaksymalizować zrozumiałość, ale to nie znaczy, że każdy Słowianin może zrozumieć każde słowo. Słuchanie Interslavic polega na ciągłym wyszukiwaniu powiązań i konotacji, a kiedy ktoś usłyszy słowo, którego nie rozumie – co jest całkiem nieuniknione – istnieje prawdopodobieństwo, że zacznie się nad nim zastanawiać i przegapi resztę zdania. Konieczne jest, aby zawsze dawać słuchaczom tyle czasu, ile potrzeba na przetworzenie informacji, aby się przyswoiła. Nie mów więc szybko, mów wyraźnie, bierz głęboki oddech między zdaniami, używaj prozodii najlepiej jak potrafisz, i tak dalej...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

@@ -131,4 +131,4 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 - Ва ўсіх выпадках, калі з'яўляецца `-gda`, `-gdy` можна выкарыстоўваць узаемазаменна.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs

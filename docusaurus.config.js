@@ -41,6 +41,8 @@ const editUrl = GITHUB_PR_NUMBER
   : 'https://github.com/medzuslovjansky/medzuslovjansky.github.io/edit/main/';
 
 async function createConfig() {
+  const unist_util_visit = await import('unist-util-visit');
+
   /** @type {import('@docusaurus/types').Config} */
   return {
     title: 'Interslavic',
@@ -54,7 +56,7 @@ async function createConfig() {
     projectName: 'medzuslovjansky.github.io',
     deploymentBranch: 'gh-pages',
     plugins: [
-      '@noomorph/docusaurus-plugin-sass',
+      'docusaurus-plugin-sass',
       require.resolve('@noomorph/docusaurus-search-local'),
       require.resolve('./src/plugins/webpack.js'),
       ['@docusaurus/plugin-client-redirects', {
@@ -81,7 +83,7 @@ async function createConfig() {
             showLastUpdateAuthor: true,
             remarkPlugins: [
               require('./src/remark/mdx-before-after-plugin'),
-              require('./src/remark/custom-directives'),
+              require('./src/remark/custom-directives')(unist_util_visit),
             ],
           },
           blog: {
@@ -107,17 +109,19 @@ async function createConfig() {
         'en',
         'be',
         'bg',
-        'bs',
         'cs',
         'hr',
         'mk',
         'pl',
         'ru',
-        'sk',
         'sl',
         'sr-Cyrl',
         'uk',
       ],
+    },
+
+    markdown: {
+      format: 'mdx',
     },
 
     themeConfig:

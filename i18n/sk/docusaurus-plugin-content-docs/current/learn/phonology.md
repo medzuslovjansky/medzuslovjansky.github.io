@@ -212,4 +212,4 @@ Prchavé :isv[`o`] a :isv[`e`] (v etymologickej abecede označené bodkou: :isv[
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „obsahovať“,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „vstúpiť“.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

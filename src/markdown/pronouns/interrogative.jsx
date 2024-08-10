@@ -1,6 +1,7 @@
-import { Abbr } from "@site/src/components";
+import {Abbr} from "@site/src/components";
+import {extractListItems} from "@site/src/utils";
 
-import { Cell } from "./_td";
+import {Cell} from "./_td";
 import React from "react";
 
 export default function Interrogative({ children }) {
@@ -49,12 +50,4 @@ export default function Interrogative({ children }) {
       </tbody>
     </table>
   )
-}
-
-function extractListItems(children) {
-  if (!children) return [];
-
-  return React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
 }

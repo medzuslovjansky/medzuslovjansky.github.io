@@ -212,4 +212,4 @@ _Палатализация_ означает, что при определен�
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] «содержать»,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] «входить».
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

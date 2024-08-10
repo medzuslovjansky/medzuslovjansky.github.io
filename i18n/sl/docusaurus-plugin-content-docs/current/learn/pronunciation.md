@@ -107,6 +107,6 @@ Pri govorjenju se je treba vedno zavedati, da poslušalec najbrž ne pozna medsl
 
 Enako, morda še bolj, velja, ko nagovarjate občinstvo. Medslovanščina je bila zgrajena tako, da je čim bolj razumljiva, vendar to ne pomeni, da lahko vsak Slovan razume vsako njeno besedo. Poslušanje medslovanskega jezika je stvar nenehnega ustvarjanja povezav in konotacij, in kadarkoli človek sliši besedo, ki je ne razume – kar je povsem neizogibno – obstaja velika verjetnost, da začne razmišljati o njej in spregleda preostanek vašega stavka. Svojemu občinstvu morate vedno dati ves čas, ki ga potrebuje za obdelavo vaših informacij, da se potopijo vase. Zato ne govorite hitro, govorite jasno, globoko vdihnite med stavki, uporabljajte prozodijo čim bolje, in tako naprej...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

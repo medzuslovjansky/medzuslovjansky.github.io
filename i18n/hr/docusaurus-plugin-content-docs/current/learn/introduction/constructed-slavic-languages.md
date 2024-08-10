@@ -225,7 +225,7 @@ _Vidi: [Publikacije o međuslav.][55]_
 
 [45]: http://slovko.com/
 
-[46]: ./index.html
+[46]: http://steen.free.fr/interslavic/
 
 [47]: ../vocabulary/flavourisation.md
 

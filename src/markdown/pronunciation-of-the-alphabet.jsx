@@ -2,6 +2,7 @@ import React from 'react';
 import {IPA} from "@site/src/components";
 import {translate} from "@docusaurus/Translate";
 import {transliterate} from '@interslavic/utils';
+import {extractListItems} from "@site/src/utils/extractListItems";
 
 const alphabet = [
   { isv: 'A', ipa: <><IPA>ɑ</IPA> ~ <IPA>a</IPA></> },
@@ -37,9 +38,7 @@ const alphabet = [
 ];
 
 export default function PronunciationOfTheAlphabet({children}) {
-  const rows = React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
+  const rows = extractListItems(children);
 
   return (
     <table>

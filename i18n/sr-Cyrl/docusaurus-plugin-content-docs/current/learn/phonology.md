@@ -199,4 +199,4 @@ _Палатализација_  је језичка појава у којој �
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] (садржати),
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] (ући).
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

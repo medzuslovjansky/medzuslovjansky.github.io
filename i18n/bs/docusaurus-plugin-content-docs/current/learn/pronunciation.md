@@ -107,6 +107,6 @@ Kada je reč o govoru, uvek treba imati na umu da slušalac verovatno nije upozn
 
 Isto, možda čak i više, važi i kada se obraćate publici. Interslavenski je konstruisan da maksimizira razumljivost, ali to ne znači da svaki Sloven može razumjeti svaku njegovu riječ. Slušanje interslavenskog je stvar stalnog uspostavljanja veza i konotacija, i kad god osoba čuje riječ koju ne razumije – što je sasvim neizbježno – postoji velika vjerovatnoća da počne razmišljati o tome i propustiti ostatak rečenice. Neophodno je da svojoj publici date sve vreme koje joj je potrebno da obradi vaše informacije, da ih pustite. Zato nemojte govoriti brzo, govorite jasno, duboko udahnite između rečenica, koristite prozodiju koliko god možete, i tako dalje...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

@@ -212,4 +212,4 @@ _Палатализација_ значи дека под одредени ус�
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „да содржи“,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „да влезе“.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet
