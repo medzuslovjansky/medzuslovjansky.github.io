@@ -1,4 +1,5 @@
 import React from 'react';
+import {extractListItems} from "@site/src/utils";
 
 const alphabet = [
   'A',
@@ -35,9 +36,7 @@ const alphabet = [
 ];
 
 export default function SimplePhonology({children}) {
-  const rows = React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
+  const rows = extractListItems(children);
 
   return (
     <p className="text-3-col">

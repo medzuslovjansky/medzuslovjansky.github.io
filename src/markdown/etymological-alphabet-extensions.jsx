@@ -1,6 +1,7 @@
 import React from 'react';
 import {IPA} from "@site/src/components";
 import {translate} from "@docusaurus/Translate";
+import {extractListItems} from "@site/src/utils";
 
 const alphabet = [
   { isv: 'Å', ipa: <><IPA>ɑ</IPA> ~ <IPA>ɒ</IPA></> },
@@ -20,9 +21,7 @@ const alphabet = [
 ];
 
 export default function EtymologicalAlphabetExtensions({children}) {
-  const rows = React.Children.toArray(
-    React.Children.only(children).props.children
-  ).filter(item => item.type === 'li');
+  const rows = extractListItems(children);
 
   return (
     <table>
@@ -38,7 +37,7 @@ export default function EtymologicalAlphabetExtensions({children}) {
         <tr key={index}>
           <td lang="art-Latn-x-interslv">{letter.isv}</td>
           <td>{React.cloneElement(letter.ipa)}</td>
-          <td>{rows[index].props.children}</td>
+          <td>{rows[index]?.props.children}</td>
         </tr>
       ))}
       </tbody>
