@@ -214,4 +214,4 @@ Fleeting :isv[`o`] and :isv[`e`] (in the etymological alphabet marked with a dot
   - :isv[`s-`] + :isv[držati] ⇒ :isv[s**ȯ**držati] „to contain”,
   - :isv[`v-`] + :isv[idti] ⇒ :isv[v**ȯ**jdti] „to enter”.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

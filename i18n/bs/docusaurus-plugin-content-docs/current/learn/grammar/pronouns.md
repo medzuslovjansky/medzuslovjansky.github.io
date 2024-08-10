@@ -131,4 +131,4 @@ napomene:
 - U svim slučajevima kada se pojavi `-gda`, `-gdy` se može koristiti naizmenično.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs

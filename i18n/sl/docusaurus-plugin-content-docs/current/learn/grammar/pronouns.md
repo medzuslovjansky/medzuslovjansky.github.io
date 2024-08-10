@@ -131,4 +131,4 @@ Opombe:
 - V vseh primerih, ko se prikaže `-gda`, se lahko `-gdy` uporablja izmenično.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs

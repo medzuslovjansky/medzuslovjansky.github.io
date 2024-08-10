@@ -212,4 +212,4 @@ Prolazni :isv[`o`] i :isv[`e`] (u etimološkom alfabetu označenom tačkom: :isv
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „sadržati”,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „za ulazak”.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

@@ -212,4 +212,4 @@ Bežna :isv[`o`] in :isv[`e`] (v etimološki abecedi označena s piko: :isv[`ȯ`
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „vsebovati”,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „za vstop”.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

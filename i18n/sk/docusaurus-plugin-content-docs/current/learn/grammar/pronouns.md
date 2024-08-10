@@ -131,4 +131,4 @@ Poznámky:
 - Vo všetkých prípadoch, keď sa objaví `-gda`, `-gdy` možno použiť zameniteľne.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs

@@ -213,4 +213,4 @@ _Палаталізація_ означає, що за певних умов в�
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] «містити»,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „увійти”.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

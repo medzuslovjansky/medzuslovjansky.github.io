@@ -109,6 +109,6 @@ When it comes to speaking, one has always to remember that the listener is proba
 
 The same, perhaps even more so, goes when you are addressing an audience. Interslavic has been constructed to maximise intelligibility, but that does not mean every Slav can understand every word of it. Listening to Interslavic is a matter of constantly making connections and connotations, and whenever a person hears a word he doesn't understand—which is quite inevitable—the odds are that he starts pondering about it and misses the rest of your sentence. It is necessary that you always give your audience all the time it needs to process your information, to let it sink in. So don't speak fast, speak clearly, take a deep breath between sentences, use prosody as well as you can, and so on...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

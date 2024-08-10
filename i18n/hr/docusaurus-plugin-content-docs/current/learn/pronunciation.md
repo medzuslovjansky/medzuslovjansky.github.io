@@ -107,6 +107,6 @@ Kad je riječ o govoru, uvijek treba imati na umu da slušatelj vjerojatno nije 
 
 Isto, možda čak i više, vrijedi kada se obraćate publici. Međuslavenski je konstruiran kako bi se maksimizirala razumljivost, ali to ne znači da svaki Slaven može razumjeti svaku njegovu riječ. Slušanje međuslavenskog je stvar stalnog stvaranja poveznica i konotacija, i kad god osoba čuje riječ koju ne razumije - što je sasvim neizbježno - velika je vjerojatnost da počne razmišljati o tome i propusti ostatak vaše rečenice. Neophodno je da svojoj publici uvijek date svo vrijeme koje joj je potrebno da obradi vaše informacije, da im dopustite da potonu. Stoga nemojte govoriti brzo, govorite jasno, duboko udahnite između rečenica, koristite prozodiju što bolje možete, i tako dalje...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

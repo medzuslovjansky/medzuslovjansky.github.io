@@ -107,6 +107,6 @@ Zvýraznenie je bezplatné. Ak však chcete zostať na bezpečnej strane, zaslú
 
 To isté, možno ešte viac, platí, keď oslovujete publikum. Interslovančina bola skonštruovaná s cieľom maximalizovať zrozumiteľnosť, ale to neznamená, že každý Slovan rozumie každému jej slovu. Počúvanie interslovančiny je záležitosť neustáleho vytvárania spojení a konotácií, a kedykoľvek človek počuje slovo, ktorému nerozumie – čo je celkom nevyhnutné – je pravdepodobné, že o tom začne uvažovať a zvyšok vašej vety mu ujde. Je potrebné, aby ste svojmu publiku vždy poskytli všetok čas, ktorý potrebuje na spracovanie vašich informácií, aby ich nechali vstrebať. Nehovorte teda rýchlo, hovorte jasne, zhlboka sa nadýchnite medzi vetami, používajte prozódiu tak dobre, ako môžete, a tak ďalej...
 
-[1]: ./phonology.md#hard_and_soft
+[1]: ./phonology.md#hard-and-soft-consonants
 
-[2]: orthography.md#etymological_alphabet
+[2]: orthography.md#etymological-alphabet

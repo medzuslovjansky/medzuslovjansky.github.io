@@ -168,4 +168,4 @@ Ulotne :isv[`o`] i :isv[`e`] (w alfabecie etymologicznym oznaczone kropką: :isv
   _:isv[`s-`]_ + :isv[držati] > :isv[s**ȯ**držati] „zawierać”,
   _:isv[`v-`]_ + :isv[idti] > :isv[v**ȯ**jdti] „wejść”.
 
-[1]: orthography.md#etymological_alphabet
+[1]: orthography.md#etymological-alphabet

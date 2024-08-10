@@ -131,4 +131,4 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 - Во сите случаи кога се појавува `-gda`, `-gdy` може да се користи наизменично.
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs

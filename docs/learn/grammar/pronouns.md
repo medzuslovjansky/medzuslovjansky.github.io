@@ -136,4 +136,4 @@ One of Zamenhof's best inventions was his **table of correlatives**, a group of 
 :::
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
-[2]: #pronominal_adverbs
+[2]: #pronominal-adverbs
