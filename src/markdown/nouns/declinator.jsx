@@ -49,7 +49,7 @@ function Case({row: [singular, plural], title}) {
 
 function useRecommendedForm(athematic) {
   const regexp = athematic ? /^[^\/]*\/\s*/ : /\s*\/.*$/;
-  const processWord = (word) => transliterate(word.replace(regexp, ''), 'art-Latn-x-interslv');
+  const processWord = (word) => transliterate(word.replace(regexp, ''), 'isv-Latn');
 
   return (words) => words.map(processWord);
 }

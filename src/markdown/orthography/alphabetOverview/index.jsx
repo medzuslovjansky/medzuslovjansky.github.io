@@ -93,7 +93,7 @@ function Table({ script }) {
     return (
       <tr key={index}>
         {hideRow ? undefined : <td rowSpan={rowspanMap[item.name]} hidden={hideRow} lang={script}>{Ss}</td>}
-        <td lang="art-x-interslv-etymolog">{Ee}</td>
+        <td lang="isv-Latn-x-etymolog">{Ee}</td>
         <td>{ipa}</td>
       </tr>
     )
@@ -108,7 +108,7 @@ function Table({ script }) {
           <th className={styles.header}>{translate({ id: 'com.script.Pronunciation', message: 'Pronunciation' })}</th>
         </tr>
       </thead>
-      <tbody lang="art-x-interslv">
+      <tbody lang="isv">
         {result.map(row)}
       </tbody>
     </table>
@@ -119,10 +119,10 @@ export default function AlphabetOverview() {
   return (
     <Tabs>
       <TabItem value="latin" label={translate({id: 'com.script.Latin', message: 'Latin'})} default>
-        <Table script="art-Latn-x-interslv"/>
+        <Table script="isv-Latn"/>
       </TabItem>
       <TabItem value="cyrillic" label={translate({id: 'com.script.Cyrillic', message: 'Cyrillic'})}>
-        <Table script="art-Cyrl-x-interslv"/>
+        <Table script="isv-Cyrl"/>
       </TabItem>
     </Tabs>
   );

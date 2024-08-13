@@ -9,7 +9,7 @@ export function TransliteratorElement({ children }) {
   const isCyrillic = CYRILLIC_ALPHABET_LANGUAGES.has(i18n.currentLocale);
 
   const transliterateText = (text) => {
-    return transliterate(text, 'art-Cyrl-x-interslv-etym').replaceAll('Ѣ', 'Є').replaceAll('ѣ', 'є');
+    return transliterate(text, 'isv-Cyrl-x-etymolog').replaceAll('Ѣ', 'Є').replaceAll('ѣ', 'є');
   };
 
   const transliterateJSX = (jsxElement) => {
@@ -32,7 +32,7 @@ export function TransliteratorElement({ children }) {
   };
 
   return (
-    <span lang="art-x-interslv" translate="no" className="notranslate">
+    <span lang="isv" translate="no" className="notranslate">
       {isCyrillic
         ? React.Children.map(children, transliterateJSX)
         : children}

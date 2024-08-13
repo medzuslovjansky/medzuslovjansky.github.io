@@ -161,7 +161,7 @@ function remapTextRecursively(node, callback) {
 }
 
 function lang(node) {
-  const lang = node.name === 'isv' ? 'art-x-interslv' : node.name;
+  const lang = node.name === 'isv' ? 'isv' : node.name;
   prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
 }
 

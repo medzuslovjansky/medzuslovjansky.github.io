@@ -35,7 +35,7 @@ export default function EtymologicalAlphabetExtensions({children}) {
       <tbody>
       {alphabet.map((letter, index) => (
         <tr key={index}>
-          <td lang="art-Latn-x-interslv">{letter.isv}</td>
+          <td lang="isv-Latn">{letter.isv}</td>
           <td>{React.cloneElement(letter.ipa)}</td>
           <td>{rows[index]?.props.children}</td>
         </tr>

@@ -2368,12 +2368,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@interslavic/utils@npm:2.2.3-beta.9":
-  version: 2.2.3-beta.9
-  resolution: "@interslavic/utils@npm:2.2.3-beta.9"
+"@interslavic/utils@npm:3.3.0":
+  version: 3.3.0
+  resolution: "@interslavic/utils@npm:3.3.0"
   dependencies:
+    jest-allure2-reporter: "npm:^2.0.0-beta.14"
     tslib: "npm:^2.2.0"
-  checksum: 10c0/27c3752f9df20773df7eba02ed2f0e4741c1f7ceec57d33efa625f1c21419e00c77eaab5154bf5b600932be11fec231d8abfe8558669d8d46ff2609abad91106
+  checksum: 10c0/35fb9b15f2c43d6bf7746310ed281376cbee02c919d2a7ebc32e7595328ee53d347f1749b35f679185642c930d8cb9cc4f3ded315001ca122ded29b03fca2eb4
   languageName: node
   linkType: hard
 
@@ -8975,7 +8976,7 @@ __metadata:
     "@docusaurus/core": "npm:^3.4.0"
     "@docusaurus/plugin-client-redirects": "npm:^3.4.0"
     "@docusaurus/preset-classic": "npm:^3.4.0"
-    "@interslavic/utils": "npm:2.2.3-beta.9"
+    "@interslavic/utils": "npm:3.3.0"
     "@mdx-js/react": "npm:^2.3.0"
     "@noomorph/docusaurus-search-local": "npm:^1.1.1"
     "@svgr/webpack": "npm:^5.5.0"

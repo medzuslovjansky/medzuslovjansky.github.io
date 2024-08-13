@@ -160,7 +160,7 @@ const IntelligibilityEncoderPage = (props = {}) => {
         </tr>
         </thead>
         <LanguageGroupHeader title="Western Slavic Languages">
-          <InterslavicRow title="Etymological script" script="art-Latn-x-interslv-etym">{isv}</InterslavicRow>
+          <InterslavicRow title="Etymological script" script="isv-Latn-x-etymolog">{isv}</InterslavicRow>
         </LanguageGroupHeader>
         <tbody>
         <LanguageRow lang="pl" value={pl} setValue={set_pl}>{synsets.pl}</LanguageRow>
@@ -168,7 +168,7 @@ const IntelligibilityEncoderPage = (props = {}) => {
         <LanguageRow lang="sk" value={sk} setValue={set_sk}>{synsets.sk}</LanguageRow>
         </tbody>
         <LanguageGroupHeader title="South-Western Slavic Languages">
-          <InterslavicRow title="Standard script" script="art-Latn-x-interslv">{isv}</InterslavicRow>
+          <InterslavicRow title="Standard script" script="isv-Latn">{isv}</InterslavicRow>
         </LanguageGroupHeader>
         <tbody>
         <LanguageRow lang="sl" value={sl} setValue={set_sl}>{synsets.sl}</LanguageRow>
@@ -177,7 +177,7 @@ const IntelligibilityEncoderPage = (props = {}) => {
 
         </tbody>
         <LanguageGroupHeader title="South-Eastern Slavic Languages">
-          <InterslavicRow title="Cyrillic script" script="art-Cyrl-x-interslv">{isv}</InterslavicRow>
+          <InterslavicRow title="Cyrillic script" script="isv-Cyrl">{isv}</InterslavicRow>
         </LanguageGroupHeader>
         <tbody>
         <LanguageRow lang="mk" value={mk} setValue={set_mk}>{synsets.mk}</LanguageRow>
@@ -185,7 +185,7 @@ const IntelligibilityEncoderPage = (props = {}) => {
 
         </tbody>
         <LanguageGroupHeader title="East Slavic Languages">
-          <InterslavicRow title="Iotated Cyrillic" script="art-Cyrl-x-interslv-iotated-ext">{isv}</InterslavicRow>
+          <InterslavicRow title="Iotated Cyrillic" script="isv-Cyrl-x-iotated-ext">{isv}</InterslavicRow>
         </LanguageGroupHeader>
         <tbody>
         <LanguageRow lang="ru" value={ru} setValue={set_ru}>{synsets.ru}</LanguageRow>
