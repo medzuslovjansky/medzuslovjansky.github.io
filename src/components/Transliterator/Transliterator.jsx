@@ -37,6 +37,7 @@ const tertiary = {
   'MichalSwatPolishCyrillic': 'Polish → Cyrillic (Michał Swat)',
   'MichalSwatPolishGlagolitic': 'Polish → Glagolitic (Michał Swat)',
   'MichalSwatMsGlagolitic': 'Interslavic → Glagolitic (Michał Swat)',
+  'GlagoliticLatin': 'Glagolitic → Interslavic (Michał Swat)',
   'GorlatoffCyrillicLatin': 'Меджусловјанскы → Medžuslovjansky (Mihail Gorlatov)',
 };
 

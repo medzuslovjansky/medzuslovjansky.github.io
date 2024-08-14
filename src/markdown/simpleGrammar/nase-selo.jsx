@@ -10,7 +10,7 @@ export default function NaseSelo({ children }) {
   return (
     <Tabs>
       <TabItem value="isv" label="Interslavic">
-        <div lang="art-Latn-x-interslv">
+        <div lang="isv-Latn">
           <TextISV />
         </div>
       </TabItem>

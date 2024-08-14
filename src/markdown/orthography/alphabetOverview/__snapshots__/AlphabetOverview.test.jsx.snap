@@ -16,7 +16,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
   </thead>
   <tbody
-    lang="art-x-interslv"
+    lang="isv"
   >
     <tr>
       <td
@@ -35,7 +35,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɑ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -148,7 +148,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           t͡ʃ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -199,7 +199,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           dʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -250,7 +250,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           d͡ʒ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -277,7 +277,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -309,7 +309,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -398,7 +398,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           g
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -444,7 +444,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           i
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -509,7 +509,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           l
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -541,7 +541,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ʎ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -568,7 +568,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ʎ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -638,7 +638,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           n
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -665,7 +665,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           nʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -692,7 +692,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɔ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -724,7 +724,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ə
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -794,7 +794,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           rʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -845,7 +845,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -872,7 +872,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ʃ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -923,7 +923,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           tʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -974,7 +974,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           o
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1001,7 +1001,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           v
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1028,7 +1028,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           i
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1055,7 +1055,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1087,7 +1087,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           zʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1114,7 +1114,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
         >
           ʒ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1144,7 +1144,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
   </thead>
   <tbody
-    lang="art-x-interslv"
+    lang="isv"
   >
     <tr>
       <td
@@ -1163,7 +1163,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɑ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1276,7 +1276,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           t͡ʃ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1327,7 +1327,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           dʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1378,7 +1378,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           d͡ʒ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1405,7 +1405,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1437,7 +1437,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1526,7 +1526,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           g
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1572,7 +1572,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           i
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1637,7 +1637,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           l
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1669,7 +1669,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ʎ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1696,7 +1696,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ʎ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1766,7 +1766,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           n
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1793,7 +1793,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           nʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1820,7 +1820,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɔ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1852,7 +1852,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ə
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1922,7 +1922,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           rʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -1973,7 +1973,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2000,7 +2000,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ʃ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2051,7 +2051,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           tʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2102,7 +2102,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           o
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2129,7 +2129,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           v
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2156,7 +2156,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           i
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2183,7 +2183,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ɛ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2215,7 +2215,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           zʲ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"
@@ -2242,7 +2242,7 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
         >
           ʒ
         </span>
-         ~ 
+         ~
         <span
           className="notranslate"
           lang="art-fonipa"

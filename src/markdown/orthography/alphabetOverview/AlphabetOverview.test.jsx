@@ -4,12 +4,12 @@ import AlphabetOverview from "./AlphabetOverview";
 
 describe("AlphabetOverview", () => {
   it("matches DOM Snapshot for Latin alphabet", () => {
-    const domTree = renderer.create(<AlphabetOverview script="art-Latn-x-interslv" />).toJSON();
+    const domTree = renderer.create(<AlphabetOverview script="isv-Latn" />).toJSON();
     expect(domTree).toMatchSnapshot();
   });
 
   it("matches DOM Snapshot for Cyrillic alphabet", () => {
-    const domTree = renderer.create(<AlphabetOverview script="art-Cyrl-x-interslv" />).toJSON();
+    const domTree = renderer.create(<AlphabetOverview script="isv-Cyrl" />).toJSON();
     expect(domTree).toMatchSnapshot();
   });
 });

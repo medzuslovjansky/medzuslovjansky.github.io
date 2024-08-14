@@ -309,7 +309,7 @@ export default function Pronominal({children}) {
 
 function Cell(props) {
   const {children = '—'} = props;
-  return <td {...props} lang="art-x-interslv">{children}</td>
+  return <td {...props} lang="isv">{children}</td>
 }
 
 function childrenToRowHeaders(children) {

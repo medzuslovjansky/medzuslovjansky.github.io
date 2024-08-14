@@ -213,11 +213,11 @@ div[lang], span[lang] {
   }
 }
 
-th[lang*=interslv] {
+th[lang*=isv] {
   font-family: var(--fun-safe-sans);
 }
 
-td[lang*=interslv] {
+td[lang*=isv] {
   font-family: var(--fun-safe-sans);
   font-size: 0.8rem;
 }
@@ -300,6 +300,11 @@ table .noRight {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+
+  > * {
+    flex: 1 0;
+    min-width: 30ch;
+  }
 
   ul {
     list-style-type: none;

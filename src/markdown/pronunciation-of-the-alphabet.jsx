@@ -53,8 +53,8 @@ export default function PronunciationOfTheAlphabet({children}) {
       <tbody>
         {alphabet.map((letter, index) => (
           <tr key={index}>
-            <td lang="art-Latn-x-interslv">{letter.isv}</td>
-            <td lang="art-Cyrl-x-interslv">{transliterate(letter.isv, 'art-Cyrl-x-interslv')}</td>
+            <td lang="isv-Latn">{letter.isv}</td>
+            <td lang="isv-Cyrl">{transliterate(letter.isv, 'isv-Cyrl')}</td>
             <td>{React.cloneElement(letter.ipa)}</td>
             <td>{rows[index].props.children}</td>
           </tr>

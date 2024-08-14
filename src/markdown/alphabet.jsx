@@ -15,7 +15,7 @@ export default function Alphabet() {
           <th>Cyrillic</th>
         </tr>
       </thead>
-      <tbody lang="art-x-interslv">
+      <tbody lang="isv">
         <tr>
           <td rowspan="2">
             <b>A</b>
