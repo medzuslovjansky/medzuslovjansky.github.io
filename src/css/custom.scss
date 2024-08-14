@@ -301,6 +301,11 @@ table .noRight {
   flex-wrap: wrap;
   gap: 1rem;
 
+  > * {
+    flex: 1 0;
+    min-width: 30ch;
+  }
+
   ul {
     list-style-type: none;
     padding-left: 0;
