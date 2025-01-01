@@ -29,7 +29,7 @@ Wszystkie litery można wymawiać tak, jak wymawia się je w dowolnym alfabecie 
 - jak `g` w :pl[**g**ra]
 - jak `ch` lub `h` w :pl[**ch**usta]
 - jak `i` w :pl[W**i**ktoria]
-- jak `y` w :pl[m**y**sz]
+- jak `j` w :pl[**j**abłko]
 - jak `k` w :pl[**k**rąg]
 - jako `l` w :pl[**l**uksus]
 - jak `li` w :pl[mi**li**oner]
@@ -88,9 +88,9 @@ Znaki te należą do [alfabetu etymologicznego][2]. Nie używa się ich w zwykł
 
 **Uwagi:**
 
-1. Szczególnie interesujący jest tutaj znak :isv[`ę`]. Wymowa „twarda” :ipa[ɛ] jest charakterystyczna dla języka południowosłowiańskiego, ale w pozostałych językach jej wymowa waha się między :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Zgodnie z zasadą większości, :isv[`e`] powinno być wymawiane jako twarde :ipa[ɛ], ale :isv[`ę`] bardziej jak :ipa[jæ]. Oznacza to, że :isv[`ę`] zachowuje się raczej jak :isv[`ě`] niż :isv[`e`] i podobnie jak :isv[`ě`] może zmiękczyć poprzedzającą spółgłoskę.
+1. Szczególnie interesujący jest tutaj znak :isv[`ę`]. Wymowa „twarda” :ipa[ɛ] jest charakterystyczna dla języków południowosłowiańskich, ale w pozostałych językach jej wymowa waha się między :ipa[ja], :ipa[jɛ]  a :ipa[jɔ̃]. Zgodnie z zasadą większości, :isv[`e`] powinno być wymawiane jako twarde :ipa[ɛ], ale :isv[`ę`] bardziej jak :ipa[jæ]. Oznacza to, że :isv[`ę`] zachowuje się raczej jak :isv[`ě`] niż :isv[`e`] i podobnie jak :isv[`ě`] może zmiękczyć poprzedzającą spółgłoskę.
 2. Pomimo ogonka, :isv[`ę`] i :isv[`ų`] nie wymawia się jak samogłoski nosowe jak w języku polskim!
-3. Miękkie spółgłoski :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`]  (wymawiane twardo w południowosłowiańskim, częściowo także w czeskim i słowackim) są realizowane albo przez twardą spółgłoskę, po której następuje dźwięk podobny do :isv[`j`], albo przez zmiękczenie lub palatalizację.
+3. Miękkie spółgłoski :isv[`t́`] :isv[`d́`] :isv[`ś`] :isv[`ź`] :isv[`ŕ`]  (wymawiane twardo w południowosłowiańskich, częściowo także w czeskim i słowackim) są realizowane albo przez twardą spółgłoskę, po której następuje dźwięk podobny do :isv[`j`], albo przez zmiękczenie lub palatalizację.
 4. Kiedy litera :isv[`ŕ`] działa jako miękki odpowiednik sylabicznego :isv[`r`], może złagodzić poprzedzającą ją spółgłoskę lub mieć po niej :ipa[j]: :isv[mŕtvy] :ipa[mjǝrtvɪ].
 5. Miękkich spółgłosek :isv[`ľ`] i :isv[`ń`] używa się do zapisu :isv[`lj`] i :isv[`nj`] przed :isv[`j`], co skutkuje pewnym przedłużeniem tego ostatniego, np. :isv[dělańje] :ipa[dʲɛɫanʲĭɛ].
 
