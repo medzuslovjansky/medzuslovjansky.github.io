@@ -27,7 +27,7 @@ origin: http://steen.free.fr/interslavic/pronunciation.html
 - как `ch` на шотландском языке :en[lo**ch**]
 - как `ea` в :en[b**ea**t]
 - как `y` в :en[**y**ard]
-- как `k` по-английски, но без надрыва
+- как `k` по-английски, но без придыхания
 - как `l` на английском языке
 - как `li` в :en[mil**li**on]
 - как `m` в :en[**m**op]
