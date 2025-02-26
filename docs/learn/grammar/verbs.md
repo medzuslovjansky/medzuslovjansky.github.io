@@ -84,7 +84,7 @@ In the present tense, the endings for the two conjugations are the following:
 - First conjugation (stems ends in a consonant): **-`u`, -`eš`, -`e`, -`emo`, -`ete`, -`ut`**
 - Second conjugation (`i` conjugation): **-`ju`, -`iš`, -`i`, -`imo`, -`ite`, -`et`**
 
-Instead of `-u`/`-ju` in the first person singular, **-`em`/-`im`** can be used as well: :isv[nesem], :isv[hvalim]. The former are characteristic especially for East Slavic and Polish, the latter for Slovak and South Slavic.
+Instead of `-u`/`-ju` in the first person singular, **-`em`/-`im`** can be used as well: :isv[nesem], :isv[hvalim]. The former are characteristic especially for East Slavic and Czech, the latter for Polish, Slovak and South Slavic.
 
 The West and South Slavic languages also have a third conjugation, based on contraction of `-aje-` sequences, resulting in the endings: `-am, -aš, -a, -amo, -ate, -ajut`.
 
