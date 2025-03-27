@@ -46,6 +46,7 @@ Besides, endings are adapted in a predictable way to what is most common in the 
 - English `-ist` becomes `-ist`: :isv[komunist].
 - English `-sion` becomes `-zija`: :isv[televizija].
 - English `-ssion` becomes `-sija`: :isv[diskusija].
+- English `-nsion`, `-rsion` becomes `-nsija`, `-rsija`: :isv[pensija], :isv[versija].
 - English `-tion` becomes `-cija`: :isv[akcija].
 - Adjectives derived from these nouns have the ending `-ijny`: :isv[televizijny], :isv[tradicijny].
 - English adjectives in `-al` (Latin `-alis`) end in `-alny`: :isv[neutralny].
