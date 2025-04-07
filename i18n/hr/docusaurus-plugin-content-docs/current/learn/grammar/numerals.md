@@ -18,16 +18,16 @@ Brojevi 0-10 su:
 0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
 
 Tinejdžeri (11-19) nastaju dodavanjem `-nadset` (izgovara se _-`nacet`_) brojevima 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. @@ 27.
+11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
 
 „-veze” (20-90) se formiraju dodavanjem `-deset` brojevima 2-9:
 20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
 
 Stotice (100-900) se formiraju dodavanjem `-sto` brojevima 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. @@ 46
+100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
 
 Alternativno, stotice se također mogu formirati savijanjem riječi `sto`, što rezultira sljedećim skupom:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. @@ 56.
+100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
 
 Riječi za "tisuću", "milijun" i "milijardu" su: `tyseč` (1000), `milion` (106) i `miliard` (109). Baš kao u slučaju stotina, ove se riječi mogu ili ne moraju skloniti kao imenice. Iako to nije uobičajeno u slavenskim jezicima, u slučajevima kao što je `pet-tyseć` „5000” može se dodati crtica radi jasnoće.
 

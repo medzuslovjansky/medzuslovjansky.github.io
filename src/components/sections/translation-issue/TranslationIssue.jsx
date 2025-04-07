@@ -1,5 +1,5 @@
 import React from 'react';
-import {useDoc} from '@docusaurus/theme-common/internal';
+import {useDoc} from '@docusaurus/plugin-content-docs/client';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {AutoTranslation} from './AutoTranslation';
 import {MissingTranslation} from "./MissingTranslation";

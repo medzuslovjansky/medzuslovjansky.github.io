@@ -79,7 +79,7 @@ Gore navedena slova su samo neobavezna proširenja standardne latinične abecede
 
 Slova `ĺ` i `ń` pojavljuju se samo ispred suglasnika. Fonetski su identični `lj` i `nj`, s jedinom razlikom što se obično ne pišu na međuslavenskom.
 
-Imajte na umu da međuslavenska etimološka abeceda ne uključuje oznake dužine ili tona, niti uključuje posebna slova za posuđenice iz neslavenskih jezika (kao što su staroslavenski `ѳ` i `ѵ`, koji se koriste samo za grčke riječi, ili @@ 158 za njemačke ili francuske riječi).
+Imajte na umu da međuslavenska etimološka abeceda ne uključuje oznake dužine ili tona, niti uključuje posebna slova za posuđenice iz neslavenskih jezika (kao što su staroslavenski `ѳ` i `ѵ`, koji se koriste samo za grčke riječi, ili `ü` za njemačke ili francuske riječi).
 
 ### Obrazloženje \{#rationale}
 

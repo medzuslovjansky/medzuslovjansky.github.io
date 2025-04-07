@@ -79,7 +79,7 @@ Zgoraj omenjene črke so le neobvezne razširitve standardne latinice. Zato jih 
 
 Črki `ĺ` in `ń` se pojavita samo pred soglasnikom. Fonetično sta enaka `lj` in `nj`, razlika je le v tem, da običajno nista zapisana v medslovanščini.
 
-Upoštevajte, da medslovanska etimološka abeceda ne vključuje dolžinskih ali tonskih oznak, niti ne vključuje posebnih črk za izposojenke iz neslovanskih jezikov (kot sta stara cerkvena slovanščina `ѳ` in `ѵ`, ki se uporabljata samo za grške besede, ali @@ 158 za nemške ali francoske besede).
+Upoštevajte, da medslovanska etimološka abeceda ne vključuje dolžinskih ali tonskih oznak, niti ne vključuje posebnih črk za izposojenke iz neslovanskih jezikov (kot sta stara cerkvena slovanščina `ѳ` in `ѵ`, ki se uporabljata samo za grške besede, ali `ü` za nemške ali francoske besede).
 
 ### Utemeljitev \{#rationale}
 

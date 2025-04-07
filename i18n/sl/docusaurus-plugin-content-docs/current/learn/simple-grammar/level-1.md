@@ -79,9 +79,9 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 
 - Za razliko od samostalnikov osebni zaimki v :notr[Slovianto] razlikujejo med _nominativom_ (predmet stavka, agent) in _akuzativom_ (predmet, pacient).
 
-- Zadevni obrazci so: :isv[ja] „jaz”, :isv[ty] „ti (:abbr[sg.]), ti”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „midva”, @@ 56 „ti (:abbr[pl.])”, :isv[oni] „oni”.
+- Oblike za osebek so: :isv[ja] „jaz", :isv[ty] „ti (:abbr[sg.])", :isv[on] „on", :isv[ona] „ona", :isv[my] „mi", :isv[vy] „vi (:abbr[pl.])", :isv[oni] „oni".
 
-- Oblike predmeta so: :isv[mene] „jaz”, :isv[tebe] „ti (:abbr[sg.]), ti”, :isv[jego] „on”, :isv[ju] „ona”, :isv[nas] „mi”, @@ 65 „ti (:abbr[pl.])”, :isv[jih] „oni”.
+- Oblike za predmet so: :isv[mene] „mene", :isv[tebe] „tebe (:abbr[sg.])", :isv[jego] „njega", :isv[ju] „njo", :isv[nas] „nas", :isv[vas] „vas (:abbr[pl.])", :isv[jih] „njih".
 
 - Tako kot večina naravnih slovanskih jezikov ima medslovanski jezik razlikovanje T-V, tj. :isv[vy] in :isv[vas] se uporabljata ne le za drugo osebo množine, ampak tudi kot vljudnostni obliki v ednini. :isv[Ty]/:isv[tebe]  se uporabljajo za naslavljanje prijateljev, sorodnikov in otrok.
 

@@ -179,7 +179,7 @@ Prislovni sedanjik (znan tudi kot »prestopniški«) ima enako končnico, vendar
 
 **Pretekli trpni deležnik** nastane tako, da nedoločniku dodamo `-ny`, ko se slednji konča na samoglasnik, in `-eny`, ko se konča na soglasnik: :isv[dělany] „končano”, _`neseny`_ „ nosil«. Vendar:
 
-- Glagoli na `-iti` imajo `-jeny` namesto **\*-`iny`** (pri čemer **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postanejo **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -@@ 278**): _:isv[govoriti > govorjeny] „govorjeno”, :isv[ljubiti > ljubjeny] „ljubljeno”, `prositi > prošeny`_ „zahtevano”
+- Glagoli na `-iti` imajo `-jeny` namesto **\*-`iny`** (pri čemer **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postanejo **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „govorjeno”, :isv[ljubiti > ljubjeny] „ljubljeno”, `prositi > prošeny`_ „zahtevano”
 - pri glagolih na `-nuti` je končnica `-neny` namesto **\*-`nuny`**: _`tegnuti > tegneny`_ „potegnil”
 - vsa enozložna debla (razen tistih na `a`), tj. tista, ki imajo `-j-` v sedanjiku, imajo `-ty` namesto `-ny`: :isv[biti > bity] „zadeti”, :isv[čuti > čuty] „čutiti”, _ `podjeti > podjety`_ „zavzeto”
 

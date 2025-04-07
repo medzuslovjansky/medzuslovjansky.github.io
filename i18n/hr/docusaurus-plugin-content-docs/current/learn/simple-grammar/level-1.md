@@ -79,9 +79,9 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 
 - Za razliku od imenica, osobne zamjenice u :notr[Slovianto] razlikuju _nominativ_ (subjekt rečenice, agens) i _akuzativ_ (objekt, pacijent).
 
-- Oblici subjekta su: :isv[ja] „ja”, :isv[ty] „ti (:abbr[sg.]), ti”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „mi”, @@ 56 „vi (:abbr[pl.])”, :isv[oni] „oni”.
+- Oblici subjekta su: :isv[ja] „ja", :isv[ty] „ti (:abbr[sg.])", :isv[on] „on", :isv[ona] „ona", :isv[my] „mi", :isv[vy] „vi (:abbr[pl.])", :isv[oni] „oni".
 
-- Objektni oblici su: :isv[mene] „ja”, :isv[tebe] „ti (:abbr[sg.]), ti”, :isv[jego] „on”, :isv[ju] „ona”, :isv[nas] „nas”, @@ 65 „vi (:abbr[pl.])”, :isv[jih] „oni”.
+- Objektni oblici su: :isv[mene] „mene", :isv[tebe] „tebe (:abbr[sg.])", :isv[jego] „njega", :isv[ju] „nju", :isv[nas] „nas", :isv[vas] „vas (:abbr[pl.])", :isv[jih] „njih".
 
 - Kao i većina prirodnih slavenskih jezika, međuslavenski ima T-V razliku, tj. :isv[vy] i :isv[vas] koriste se ne samo za drugo lice množine, već i kao uljudni oblik u jednini. :isv[Ty]/:isv[tebe]  koriste se za obraćanje prijateljima, rodbini i djeci.
 

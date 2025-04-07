@@ -57,7 +57,7 @@ async function createConfig() {
     deploymentBranch: 'gh-pages',
     plugins: [
       'docusaurus-plugin-sass',
-      require.resolve('@noomorph/docusaurus-search-local'),
+      require.resolve('@easyops-cn/docusaurus-search-local'),
       require.resolve('./src/plugins/webpack.js'),
       ['@docusaurus/plugin-client-redirects', {
         createRedirects(existingPath) {

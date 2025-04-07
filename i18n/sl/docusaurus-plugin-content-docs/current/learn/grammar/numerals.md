@@ -18,16 +18,16 @@ O uvedbi kardinalnih števil je malo reči, zato pojdimo k oblikam:
 0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
 
 -najstniki (11-19) se oblikujejo tako, da se številkam 1-9 doda `-nadset` (izgovarja se _-`nacet`_):
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. @@ 27.
+11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
 
 „-veze” (20–90) nastanejo tako, da se številkam 2–9 doda `-deset`:
 20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
 
 Stotice (100–900) nastanejo tako, da se številkam 2–9 doda `-sto`:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. @@ 46
+100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
 
 Druga možnost je, da se stotice tvorijo tudi s sklanjanjem besede `sto`, kar ima za posledico naslednji niz:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. @@ 56.
+100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
 
 Besede za »tisoč«, »milijon« in »milijard« so: `tyseč` (1000), `milion` (106) in `miliard` (109). Tako kot v primeru stotic se lahko te besede sklanjajo kot samostalniki ali pa tudi ne. Čeprav v slovanskih jezikih to ni običajno, se lahko v primerih, kot je `pet-tyseć` „5000” zaradi jasnosti doda vezaj.
 

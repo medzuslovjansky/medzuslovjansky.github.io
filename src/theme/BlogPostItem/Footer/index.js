@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from '@theme-original/BlogPostItem/Footer';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import {useBlogPost} from '@docusaurus/theme-common/internal';
+import {useBlogPost} from '@docusaurus/plugin-content-blog/client';
 import {DiscussionEmbed} from 'disqus-react';
 
 const stripCyrl = (slug, locale) => {
@@ -28,20 +28,22 @@ const adaptLocale = (locale) => {
 
 export default function FooterWrapper(props) {
   const { siteConfig, i18n } = useDocusaurusContext();
-  const { metadata } = useBlogPost();
+  const { metadata, isBlogPostPage } = useBlogPost();
 
   return (
     <>
       <Footer {...props} />
-      <DiscussionEmbed
-        shortname="interslavic-fun"
-        config={{
-          url: siteConfig.url + stripCyrl(metadata.permalink, i18n.currentLocale),
-          identifier: stripCyrl(metadata.slug),
-          title: metadata.title,
-          language: adaptLocale(i18n.currentLocale),
-        }}
-      />
+      {isBlogPostPage && (
+        <DiscussionEmbed
+          shortname="interslavic-fun"
+          config={{
+            url: siteConfig.url + stripCyrl(metadata.permalink, i18n.currentLocale),
+            identifier: stripCyrl(metadata.slug),
+            title: metadata.title,
+            language: adaptLocale(i18n.currentLocale),
+          }}
+        />
+      )}
     </>
   );
 }

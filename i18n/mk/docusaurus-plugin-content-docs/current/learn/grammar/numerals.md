@@ -18,16 +18,16 @@ origin: http://steen.free.fr/interslavic/numerals.html
 0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
 
 Тинејџерите (11-19) се формираат со додавање на `-nadset` (се изговара _-`nacet`_) на броевите 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. @@ 27.
+11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
 
 „-врските“ (20-90) се формираат со додавање `-deset` на броевите 2-9:
 20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
 
 Стотките (100-900) се формираат со додавање `-sto` на броевите 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. @@ 46
+100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
 
 Алтернативно, стотиците може да се формираат и со флексија на зборот `sto`, што резултира со следново множество:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. @@ 56.
+100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
 
 Зборовите за „илјада“, „милион“ и „милиард“ се: `tyseč` (1000), `milion` (106) и `miliard` (109). Исто како и во случајот со стотиците, овие зборови може или не може да се наведнуваат како именки. Иако не е вообичаено во словенските јазици да се прави ова, во случаи како `pet-tyseć` „5000“ може да се додаде цртичка за јасност.
 

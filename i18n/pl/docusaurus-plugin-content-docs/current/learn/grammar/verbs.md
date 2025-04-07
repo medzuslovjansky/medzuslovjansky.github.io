@@ -179,7 +179,7 @@ Imiesłów czynny czasu teraźniejszego przysłówkowego (zwany także „transg
 
 **Imiesłów bierny czasu przeszłego** jest tworzony przez dodanie `-ny` do rdzenia bezokolicznika, gdy ten ostatni kończy się na samogłoskę, oraz `-eny`, gdy kończy się na spółgłoskę: :isv[dělany] „gotowe”, _`neseny`_ „ realizowane". Jednakże:
 
-- Czasowniki na `-iti` mają `-jeny` zamiast **\*-`iny`** (gdzie **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** stają się **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -@@ 278**): _:isv[govoriti > govorjeny] „mówione”, :isv[ljubiti > ljubjeny] „kochane”, `prositi > prošeny`_ „wymagane”
+- Czasowniki na `-iti` mają `-jeny` zamiast **\*-`iny`** (gdzie **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** stają się **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „mówione”, :isv[ljubiti > ljubjeny] „kochane”, `prositi > prošeny`_ „wymagane”
 - w przypadku czasowników na `-nuti` końcówka to `-neny` zamiast **\*-`nuny`**: _`tegnuti > tegneny`_ „pociągnął”
 - wszystkie rdzenie jednosylabowe (oprócz tych na `a`), czyli te, które mają `-j-` w czasie teraźniejszym, mają `-ty` zamiast `-ny`: :isv[biti > bity] „uderzenie”, :isv[čuti > čuty] „filc”, _ `podjeti > podjety`_ „podjęte”
 

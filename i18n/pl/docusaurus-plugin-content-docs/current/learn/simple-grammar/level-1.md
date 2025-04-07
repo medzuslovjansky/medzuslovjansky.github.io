@@ -79,9 +79,9 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
 - W przeciwieństwie do rzeczowników, zaimki osobowe w :notr[Slovianto] rozróżniają _mianownik_ (podmiot zdania, podmiot) i biernik_ (dopełnienie, pacjent).
 
-- Formy tematyczne to: :isv[ja] „ja”, :isv[ty] „ty (:abbr[sg.]), ty”, :isv[on] „on”, :isv[ona] „ona”, :isv[my] „my”, @@ 56 „ty (:abbr[pl.])”, :isv[oni] „oni”.
+- Formy mianownika to: :isv[ja] „ja", :isv[ty] „ty (:abbr[sg.])", :isv[on] „on", :isv[ona] „ona", :isv[my] „my", :isv[vy] „wy (:abbr[pl.])", :isv[oni] „oni".
 
-- Formy dopełnienia to: :isv[mene] „ja”, :isv[tebe] „ty (:abbr[sg.]), ty”, :isv[jego] „on”, :isv[ju] „ona”, :isv[nas] „nas”, @@ 65 „ty (:abbr[pl.])”, :isv[jih] „oni”.
+- Formy biernika to: :isv[mene] „mnie", :isv[tebe] „ciebie (:abbr[sg.])", :isv[jego] „jego", :isv[ju] „ją", :isv[nas] „nas", :isv[vas] „was (:abbr[pl.])", :isv[jih] „ich".
 
 - Podobnie jak większość naturalnych języków słowiańskich, język międzysłowiański ma rozróżnienie T-V, tj. :isv[vy] i :isv[vas] są używane nie tylko w odniesieniu do drugiej osoby liczby mnogiej, ale także jako forma grzecznościowa w liczbie pojedynczej. :isv[Ty]/:isv[tebe]  służy do zwracania się do przyjaciół, krewnych i dzieci.
 

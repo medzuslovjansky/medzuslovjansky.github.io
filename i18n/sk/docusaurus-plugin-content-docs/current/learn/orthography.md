@@ -79,7 +79,7 @@ Vyššie uvedené písmená sú len voliteľnými rozšíreniami štandardnej la
 
 Písmená `ĺ` a `ń` sa vyskytujú iba pred spoluhláskou. Foneticky sú totožné s `lj` a `nj`, len s tým rozdielom, že sa zvyčajne nepíšu v medzislovančine.
 
-Všimnite si, že medzislovanská etymologická abeceda nezahŕňa značky dĺžky alebo tónu, ani špeciálne písmená pre výpožičky z neslovanských jazykov (ako napríklad staroslovienčina `ѳ` a `ѵ`, ktorá sa používa len pre grécke slová alebo @@ 158 pre nemecké alebo francúzske slová).
+Všimnite si, že medzislovanská etymologická abeceda nezahŕňa značky dĺžky alebo tónu, ani špeciálne písmená pre výpožičky z neslovanských jazykov (ako napríklad staroslovienčina `ѳ` a `ѵ`, ktorá sa používa len pre grécke slová alebo `ü` pre nemecké alebo francúzske slová).
 
 ### Odôvodnenie \{#rationale}
 

@@ -179,7 +179,7 @@ Příslovečné příčestí přítomné činné (také známé jako „přestup
 
 **minulé trpné příčestí** se tvoří přidáním `-ny` k infinitivnímu kmeni, když infinitiv končí na samohlásku, a `-eny`, když končí na souhlásku: :isv[dělany] „hotovo“, _`neseny`_ „ nesený". Nicméně:
 
-- Slovesa na `-iti` mají `-jeny` místo **\*-`iny`** (přičemž **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** se změní na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -@@ 278**): _:isv[govoriti > govorjeny] „mluvený“, :isv[ljubiti > ljubjeny] „milovaný“, `prositi > prošeny`_ „povinný“
+- Slovesa na `-iti` mají `-jeny` místo **\*-`iny`** (přičemž **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** se změní na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „mluvený“, :isv[ljubiti > ljubjeny] „milovaný“, `prositi > prošeny`_ „povinný“
 - v případě sloves na `-nuti` je koncovka `-neny` místo **\*-`nuny`**: _`tegnuti > tegneny`_ „vytáhl“
 - všechny jednoslabičné kmeny (kromě těch na `a`), tedy ty, které mají `-j-` v přítomném čase, mají `-ty` místo `-ny`: :isv[biti > bity] „hitten“, :isv[čuti > čuty] „felt“, _ `podjeti > podjety`_ „provedeno“
 

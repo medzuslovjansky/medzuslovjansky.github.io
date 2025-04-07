@@ -79,9 +79,9 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 
 - Na rozdiel od podstatných mien osobné zámená v :notr[Slovianto] rozlišujú medzi _nominatívom_ (podmet vety, agens) a _akuzatívom_ (predmet, pacient).
 
-- Formy predmetu sú: :isv[ja] „ja“, :isv[ty] „ty (:abbr[sg.]), ty“, :isv[on] „on“, :isv[ona] „ona“, :isv[my] „my“, @@ 56 „vy (:abbr[pl.])“, :isv[oni] „oni“.
+- Formy predmetu sú: :isv[ja] „ja“, :isv[ty] „ty (:abbr[sg.]), ty“, :isv[on] „on“, :isv[ona] „ona“, :isv[my] „my“, :isv[vy] „vy (:abbr[pl.])“, :isv[oni] „oni“.
 
-- Formy objektu sú: :isv[mene] „ja“, :isv[tebe] „ty (:abbr[sg.]), ty“, :isv[jego] „on“, :isv[ju] „ona“, :isv[nas] „nás“, @@ 65 „vy (:abbr[pl.])“, :isv[jih] „oni“.
+- Formy objektu sú: :isv[mene] „ja“, :isv[tebe] „ty (:abbr[sg.]), ty“, :isv[jego] „on“, :isv[ju] „ona“, :isv[nas] „nás“, :isv[vas] „vy (:abbr[pl.])“, :isv[jih] „oni“.
 
 - Ako väčšina prirodzených slovanských jazykov, aj medzislovančina má rozlíšenie T-V, t.j. :isv[vy] a :isv[vas] sa používajú nielen pre druhú osobu množného čísla, ale aj ako zdvorilostnú formu v jednotnom čísle. :isv[Ty]/:isv[tebe]  sa používajú na oslovovanie priateľov, príbuzných a detí.
 

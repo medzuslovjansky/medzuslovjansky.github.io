@@ -1,6 +1,6 @@
 import React from 'react';
 import {RepublishLicense} from './RepublishLicense';
-import {useDoc} from '@docusaurus/theme-common/internal';
+import {useDoc} from '@docusaurus/plugin-content-docs/client';
 
 function useFrontMatter() {
   const {frontMatter} = useDoc();

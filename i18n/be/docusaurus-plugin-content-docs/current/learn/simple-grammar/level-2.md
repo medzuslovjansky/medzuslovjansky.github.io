@@ -88,7 +88,7 @@ import TabItem from '@theme/TabItem';
   - :isv[jego žena] «яго жонка»
   - :isv[jih prijatelji] «іх сябры»
 
-- Указальны займеннік :isv[toj] мае формы :isv[ta] (:abbr[f.]), :isv[to] (:abbr[n.]) і :isv[te] (:abbr[pl.]), замест _\*:isv[toja], \*@@ 83..._ (тое ж самае, вядома, для :isv[tutoj] і :isv[tamtoj]):
+- Указальны займеннік :isv[toj] мае формы :isv[ta] (:abbr[f.]), :isv[to] (:abbr[n.]) і :isv[te] (:abbr[pl.]), замест _\*:isv[toja], \*:isv[toje]..._ (тое ж самае, вядома, для :isv[tutoj] і :isv[tamtoj]):
   - :isv[toj muž] "гэты чалавек"
   - :isv[ta žena] "тая жанчына"
   - :isv[to děte] "гэты дзіця"

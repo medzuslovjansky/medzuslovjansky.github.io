@@ -18,16 +18,16 @@ origin: http://steen.free.fr/interslavic/numerals.html
 0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
 
 -teens (11-19) образуются путем прибавления `-nadset` (произносится как _-`nacet`_) к числам 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. @@ 27.
+11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
 
 «-ти» (20-90) образуются прибавлением `-deset` к числам 2-9:
 20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
 
 Сотни (100-900) образуются прибавлением `-sto` к числам 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. @@ 46
+100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
 
 В качестве альтернативы, сотни также могут быть образованы путем изменения слова `sto`, в результате чего получится следующий набор:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. @@ 56.
+100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
 
 Слова для «тысячи», «миллиона» и «миллиарда»: `tyseč` (1000), `milion` (106) и `miliard` (109). Как и в случае сотен, эти слова могут склоняться или не склоняться как существительные. Хотя в славянских языках это не принято, в случаях типа `pet-tyseć` «5000» для ясности может быть добавлен дефис.
 

@@ -179,7 +179,7 @@ Príslovkové prítomné činné príčastie (známe aj ako „prestupník“) m
 
 **minulé trpné príčastie** sa tvorí pridaním `-ny` k infinitívnemu kmeňu, keď sa infinitív končí na samohlásku, a `-eny`, keď končí na spoluhlásku: :isv[dělany] „hotovo“, _`neseny`_ „ nesené“. Avšak:
 
-- Slovesá na `-iti` majú `-jeny` namiesto **\*-`iny`** (pričom **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** sa zmení na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -@@ 278**): _:isv[govoriti > govorjeny] „hovorené“, :isv[ljubiti > ljubjeny] „milované“, `prositi > prošeny`_ „povinné“
+- Slovesá na `-iti` majú `-jeny` namiesto **\*-`iny`** (pričom **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** sa zmení na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „hovorené“, :isv[ljubiti > ljubjeny] „milované“, `prositi > prošeny`_ „povinné“
 - v prípade slovies na `-nuti` je koncovka `-neny` namiesto **\*-`nuny`**: _`tegnuti > tegneny`_ „vytiahol“
 - všetky jednoslabičné kmene (okrem tých na `a`), t.j. tie, ktoré majú v prítomnom čase `-j-`, majú `-ty` namiesto `-ny`: :isv[biti > bity] „zasiahnutý“, :isv[čuti > čuty] „pocit“, _ `podjeti > podjety`_ „vykonané“
 

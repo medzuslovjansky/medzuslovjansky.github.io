@@ -18,16 +18,16 @@ origin: http://steen.free.fr/interslavic/numerals.html
 0\. :isv[nula], 1. :isv[jedin] (:isv[jedna], :isv[jedno]), 2. :isv[dva] (:isv[dvě]), 3. :isv[tri], 4. :isv[četyri], 5. :isv[pet], 6. :isv[šest], 7. :isv[sedm], 8. :isv[osm], 9. :isv[devet], 10. :isv[deset].
 
 -teens (11-19) утворюються додаванням :isv[-nadset] (вимовляється _-:isv[nacet]_) до чисел 1-9:
-11\. :isv[jedinnadset], 12. :isv[dvanadset], 13. :isv[trinadset], 14. :isv[četyrinadset], 15. :isv[petnadset], 16. :isv[šestnadset], 17. :isv[sedmnadset], 18. :isv[osmnadset], 19. @@ 27.
+11\. :isv[jedinnadset], 12. :isv[dvanadset], 13. :isv[trinadset], 14. :isv[četyrinadset], 15. :isv[petnadset], 16. :isv[šestnadset], 17. :isv[sedmnadset], 18. :isv[osmnadset], 19. :isv[devetnadset] 27.
 
 «Зв’язки» (20-90) утворюються додаванням :isv[-deset] до чисел 2-9:
 20\. :isv[dvadeset], 30. :isv[trideset], 40. :isv[četyrideset], 50. :isv[petdeset], 60. :isv[šestdeset], 70. :isv[sedmdeset], 80. :isv[osmdeset], 90. :isv[devetdeset].
 
 Сотні (100-900) утворюються додаванням :isv[-sto] до чисел 2-9:
-100\. :isv[sto], 200. :isv[dvasto], 300. :isv[tristo], 400. :isv[četyristo], 500. :isv[petsto], 600. :isv[šeststo], 700. :isv[sedmsto], 800. :isv[osmsto], 900. @@ 46
+100\. :isv[sto], 200. :isv[dvasto], 300. :isv[tristo], 400. :isv[četyristo], 500. :isv[petsto], 600. :isv[šeststo], 700. :isv[sedmsto], 800. :isv[osmsto], 900. :isv[devetsto]
 
 Крім того, сотні також можна утворити відмінюванням слова :isv[sto], у результаті чого виходить наступний набір:
-100\. :isv[sto], 200. :isv[dvěstě], 300. :isv[trista], 400. :isv[četyrista], 500. :isv[petsot], 600. :isv[šestsot], 700. :isv[sedmsot], 800. :isv[osmsot], 900. @@ 56.
+100\. :isv[sto], 200. :isv[dvěstě], 300. :isv[trista], 400. :isv[četyrista], 500. :isv[petsot], 600. :isv[šestsot], 700. :isv[sedmsot], 800. :isv[osmsot], 900. :isv[devetsot]
 
 Слова для «тисячі», «мільйона» та «мільярда» такі: :isv[tyseč] (1000), :isv[milion] (106) та :isv[miliard] (109). Як і у випадку з сотнями, ці слова можуть відмінюватися або не відмінюватися як іменники. Хоча в слов’янських мовах це не прийнято робити, у таких випадках, як :isv[pet-tyseć] „5000” можна додати дефіс для ясності.
 

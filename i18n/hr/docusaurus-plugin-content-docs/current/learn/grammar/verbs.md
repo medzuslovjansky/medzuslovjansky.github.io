@@ -179,7 +179,7 @@ Priložni particip prezenta (poznat i kao „transgresivni”) ima isti završet
 
 **Past particip prošli** nastaje dodavanjem `-ny` infinitivu kada potonji završava na samoglasnik, i `-eny` kada završava na suglasnik: :isv[dělany] „gotovo”, _`neseny`_ „ nosio”. Međutim:
 
-- Glagoli na `-iti` imaju `-jeny` umjesto **\*-`iny`** (pri čemu **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postaju **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -@@ 278**): _:isv[govoriti > govorjeny] „izgovoreno”, :isv[ljubiti > ljubjeny] „voljeno”, `prositi > prošeny`_ „potrebno”
+- Glagoli na `-iti` imaju `-jeny` umjesto **\*-`iny`** (pri čemu **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postaju **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „izgovoreno”, :isv[ljubiti > ljubjeny] „voljeno”, `prositi > prošeny`_ „potrebno”
 - u slučaju glagola na `-nuti` završetak je `-neny` umjesto **\*-`nuny`**: _`tegnuti > tegneny`_ „povukao”
 - sve jednosložne osnove (osim onih na `a`), tj. one koje imaju `-j-` u prezentu, imaju `-ty` umjesto `-ny`: :isv[biti > bity] „udariti”, :isv[čuti > čuty] „osjećati”, _ `podjeti > podjety`_ „poduzeto”
 
