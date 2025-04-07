@@ -57,7 +57,21 @@ async function createConfig() {
     deploymentBranch: 'gh-pages',
     plugins: [
       'docusaurus-plugin-sass',
-      require.resolve('@easyops-cn/docusaurus-search-local'),
+      [
+        require.resolve('@easyops-cn/docusaurus-search-local'),
+        {
+          // Options for the plugin
+          hashed: true,
+          language: ['en', 'ru'],
+          indexDocs: true,
+          indexBlog: true,
+          docsRouteBasePath: '/',
+          blogRouteBasePath: '/articles',
+          blogDir: 'articles',
+          removeDefaultStopWordFilter: true,
+          removeDefaultStemmer: true,
+        },
+      ],
       require.resolve('./src/plugins/webpack.js'),
       ['@docusaurus/plugin-client-redirects', {
         createRedirects(existingPath) {
