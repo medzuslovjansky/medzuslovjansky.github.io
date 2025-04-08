@@ -12,7 +12,7 @@
     "description": "The label for category Grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Vocabulary": {
-    "message": "Слоўнік",
+    "message": "Лексікон",
     "description": "The label for category Vocabulary in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Simple grammar": {
@@ -20,7 +20,7 @@
     "description": "The label for category Simple grammar in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Miscellaneous": {
-    "message": "Змяшанае",
+    "message": "Рознае",
     "description": "The label for category Miscellaneous in sidebar learnSidebar"
   },
   "sidebar.learnSidebar.category.Граматыка": {

@@ -319,7 +319,7 @@ Když je první člen výpůjčkou z angličtiny, mohou být rozděleny pomlčko
 - `rok-muzika` „rocková hudba“
 - `veb-stranica` „webová stránka“
 
-[1]: @458
+[1]: ../orthography.md#etymological-alphabet
 
-[2]: @459
+[2]: ../grammar/verbs.md#participles-and-gerund
 

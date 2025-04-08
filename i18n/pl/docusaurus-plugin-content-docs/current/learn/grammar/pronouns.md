@@ -1,134 +1,140 @@
 ---
 sidebar_position: 3
+toc_max_heading_level: 2
 license: republish
 author: Jan van Steenbergen
-custom_edit_url: /501
-last_update:
-  author: Google Translate
 origin: http://steen.free.fr/interslavic/pronouns.html
+description: "Zbadaj użycie, odmianę i przykłady zaimków w języku międzysłowiańskim. Zapoznaj się z zaimkami osobowymi, zwrotnymi, dzierżawczymi, wskazującymi, względnymi, pytającymi i nieokreślonymi."
+tags: [międzysłowiański, zaimki, gramatyka, nauka języka]
+verified: true
 ---
 
 # Zaimki
 
 ## Zaimki osobowe i zwrotne \{#personal-and-reflexive-pronouns}
 
-Zaimki osobowe mają sześć przypadków - tak samo jak rzeczowniki, ale bez wołacza. Zaimek zwrotny `sebe` jest odmieniany jak **`ty`, `tebe`, ...**, z tą różnicą, że nie ma mianownika.
+Zaimki osobowe mają sześć przypadków — takie same, jak rzeczowniki, ale bez wołacza. Zaimek zwrotny :isv[sebe] odmienia się jak :isv[ty], :isv[tebe], ..., jedyna różnica polega na tym, że nie ma on mianownika.
 
-Formy między nawiasami są formami łechtaczkowymi, tj. są słabsze i zawsze nieakcentowane. `Se` występuje w czasownikach zwrotnych: :isv[Ja myju se] „Myję się”. Jeśli trzeba to podkreślić, stosuje się dłuższą formę: :isv[Ja myju jedino sebe] „Myję tylko siebie”. Po przyimku lepiej stosować dłuższe formy: :isv[k mně], _`za tebe`_.
+Formy w nawiasach są formami klitycznymi, czyli są słabsze i zawsze nieakcentowane. :isv[Se] używa się w czasownikach zwrotnych: :isv[Ja myju se] "Myję się". Jeśli trzeba podkreślić, używa się dłuższej formy: :isv[Ja myju jedino sebe] "Myję tylko siebie". Po przyimku lepiej używać dłuższych form: :isv[k mně], :isv[za tebe].
 
 :::component{name=MDPronouns1}
 :::
 
-Uwagi:
+:::note Uwagi
 
-1. Po przyimku wszystkie zaimki trzeciej osoby poprzedzone są `n-`: **`jego` > `do njego`**; **`jim` > `pri njim`** itd. (z tego powodu formy miejscownika _`jim`_, _`jej`_ i _`jih`_ nigdy nie występują, ponieważ miejscownik jest zawsze poprzedzony przyimkiem)
-2. Jeśli jesteś ciekawy, jak te formy mają się do języków słowiańskich, możesz zobaczyć ich porównanie [tutaj][1].
+Po przyimku wszystkie zaimki trzeciej osoby mają prefiks :isv[n-]: :isv[jego] > :isv[do njego]; :isv[jim] > :isv[pri njim], itd. (z tego powodu formy miejscownika :isv[jim], :isv[jej] i :isv[jih] nigdy nie są używane, ponieważ miejscownik zawsze poprzedza przyimek)
 
-Kilka uwag dotyczących użytkowania:
+Jeśli jesteście ciekawi, jak te formy odnoszą się do języków słowiańskich, możecie zobaczyć ich porównanie [tutaj][1].
 
-- Ponieważ nie wszystkie końcówki czasowników są równie oczywiste dla wszystkich użytkowników języków słowiańskich, pro-drop (tj. pomijanie zaimków osobowych, gdy są podmiotem zdania) nie jest zalecane. Lepiej powiedzieć _„`ja čitaju`”_ zamiast po prostu _„`čitaju`”_, choć to drugie zdecydowanie nie jest błędne.
-- Przyimki mogą rządzić każdym przypadkiem poza mianownikiem, w zależności od ich użycia w językach słowiańskich.
-- Zaimek `on` odnosi się do każdego rzeczownika rodzaju męskiego, a nie tylko do istot męskich. W ten sam sposób zaimek `ona` odnosi się do każdego rzeczownika rodzaju żeńskiego, a nie tylko do istot żeńskich.
-- Jak wszystkie naturalne języki słowiańskie, międzysłowiański ma rozróżnienie T-V, tzn. `vy` jest uniwersalnym zaimkiem drugiej osoby dla obu liczb, podczas gdy drugiej osoby liczby pojedynczej `ty` używa się tylko do zwracania się do przyjaciół, krewnych i dzieci.
-- Zaimek zwrotny może być również użyty jako zaimek odwrotny: _„`Oni bijut se`”_ może oznaczać „Oni biją się”, ale miałby raczej znaczenie: „Oni biją się nawzajem”. Aby dokładniej określić znaczenie „nawzajem”, możesz dodać formułę `jedin drugogo`: _„`Oni bijut se jedin drugogo`”_.
+:::
 
-## Zaimki dzierżawcze \{#possessive-pronouns}
+Kilka dodatkowych uwag dotyczących użycia:
 
-Zaimki dzierżawcze są odmieniane jak przymiotniki, z wyjątkiem zera kończącego się w rodzaju męskim liczby pojedynczej. Formularze to:
+- Ponieważ nie wszystkie końcówki czasowników są jednakowo oczywiste dla wszystkich użytkowników języków słowiańskich, nie zaleca się pomijania zaimków osobowych, gdy są one podmiotem zdania. Lepiej powiedzieć :isv[ja čitaju] niż tylko :isv[čitaju], chociaż to drugie również nie jest niepoprawne.
+- Przyimki mogą rządzić dowolnym przypadkiem oprócz mianownika, w zależności od ich użycia w językach słowiańskich.
+- Zaimek :isv[on] odnosi się do każdego rzeczownika rodzaju męskiego, a nie tylko do istot płci męskiej. Podobnie zaimek :isv[ona] odnosi się do każdego rzeczownika rodzaju żeńskiego, a nie tylko do istot płci żeńskiej.
+- Podobnie jak wszystkie naturalne języki słowiańskie, międzysłowiański posiada rozróżnienie T-V, co oznacza, że :isv[vy] jest uniwersalnym zaimkiem drugiej osoby dla obu liczb, podczas gdy druga osoba liczby pojedynczej :isv[ty] jest używana tylko do zwracania się do przyjaciół, krewnych i dzieci.
+- Zaimek zwrotny może być również używany jako zaimek wzajemny: :isv[Oni bijut se] może oznaczać "Oni biją się", ale częściej ma znaczenie: "Oni biją jeden drugiego". Aby jaśniej wyrazić znaczenie "jeden drugiego", można dodać formułę :isv[jedin drugogo], na przykład: :isv[Oni bijut se jedin drugogo].
 
-- `moj, moja, moje` „mój”
-- `tvoj, tvoja, tvoje` „twój, twój”
-- `naš, naša, naše` „nasz”
-- `vaš, vaša, vaše` „twój”
-- `svoj, svoja, svoje` „własny” (refleksyjny)
+## Zaimki dzierżawcze {#possessive-pronouns}
 
-W trzeciej osobie najczęściej stosuje się dopełniacz odpowiedniego zaimka osobowego: `jego, jej, jih`. Formy te nie są odmieniane. Alternatywnie można również użyć następujących form, które są odrzucane jak przymiotniki:
+Zaimki dzierżawcze odmieniają się jak przymiotniki, z wyjątkiem zerowej końcówki w rodzaju męskim liczby pojedynczej. Formy są następujące:
 
-- `jegov, jegova, jegovo` „jego”
-- `jejin, jejina, jejino` „jej”
-- `jihny, jihna, jihno` „ich”
+- :isv[moj], :isv[moja], :isv[moje] — mój, moja, moje
+- :isv[tvoj], :isv[tvoja], :isv[tvoje] — twój, twoja, twoje
+- :isv[naš], :isv[naša], :isv[naše] — nasz, nasza, nasze
+- :isv[vaš], :isv[vaša], :isv[vaše] — wasz, wasza, wasze
+- :isv[svoj], :isv[svoja], :isv[svoje] — swój, swoja, swoje
 
-Ilekroć podmiotem zdania jest także posiadacz, stosuje się zwrot `svoj`, niezależnie od tego, czy podmiot ten jest w trzeciej osobie, czy nie: _`Ja myju svoje avto`_ „Myję samochód”. Zwróć uwagę na różnicę w znaczeniu, gdy zaimek zwrotny odnosi się do podmiotu w trzeciej osobie:
+W trzeciej osobie najczęściej używa się dopełniacza odpowiedniego zaimka osobowego: :isv[jego], :isv[jej], :isv[jih]. Te formy się nie odmieniają. Alternatywnie można również używać następujących form, które odmieniają się jak przymiotniki:
 
-:isv[Pjotr dal Ivanu svoju knigu] „Pjotr dał Ivanowi swoją \[= książkę Pjotra]”
-:isv[Pjotr dal Ivanu jegovu knigu] „Pjotr dał Ivanowi swoją \[=Ivan's] książkę”.
+- :isv[jegov], :isv[jegova], :isv[jegovo] — jego
+- :isv[jejin], :isv[jejina], :isv[jejino] — jej
+- :isv[jihny], :isv[jihna], :isv[jihno] — ich
 
-Istnieją również zaimki dzierżawcze pytające, określone i nieokreślone: `čij` „czyj”, `ničij` „nikt”, `něčij` „ktoś” itp. Odmieniają się jak `moj`. Aby uzyskać więcej formularzy, zobacz sekcję o [korelacjach][2].
+Kiedy właściciel jest również podmiotem zdania, używa się zaimka zwrotnego :isv[svoj], niezależnie od tego, czy podmiot jest w trzeciej osobie czy nie: :isv[Ja myju svoje avto] "Myję swój samochód". Zwróć uwagę na różnicę w znaczeniu, gdy zaimek zwrotny odnosi się do podmiotu w trzeciej osobie:
 
-Podobnie jak przymiotniki, zaimki dzierżawcze odpowiadają rzeczownikowi, który modyfikują pod względem rodzaju, liczby i przypadku. Z wyjątkiem mianownika rodzaju męskiego i biernika liczby pojedynczej, ich deklinacja jest identyczna jak przymiotników (_`moj`_, :isv[tvoj], _`naš`_, _`vaš`_, :isv[svoj] i _`čij`_ jak :isv[svěži]; :isv[jegov], :isv[jejin] i :isv[jihny] jak _`dobry`_):
+* :isv[Pjotr dal Ivanu svoju knigu] — Piotr dał Iwanowi swoją [= Piotra] książkę
+* :isv[Pjotr dal Ivanu jegovu knigu] — Piotr dał Iwanowi jego [= Iwana] książkę
+
+Istnieją również pytające, określone i nieokreślone zaimki dzierżawcze: :isv[čij] (czyj), :isv[ničij] (niczyj), :isv[něčij] (czyjś) itd. Odmienia się je jak :isv[moj]. Aby poznać inne formy, zobacz rozdział o [wyrazach współzależnych][2].
+
+Podobnie jak przymiotniki, zaimki dzierżawcze zgadzają się z rzeczownikiem, który określają, w rodzaju, liczbie i przypadku. Z wyjątkiem rodzaju męskiego w mianowniku i bierniku liczby pojedynczej, ich odmiana jest identyczna z odmianą przymiotników: :isv[moj], :isv[tvoj], :isv[naš], :isv[vaš], :isv[svoj] i :isv[čij] — jak :isv[svěži]; :isv[jegov], :isv[jejin] i :isv[jihny] — jak :isv[dobry]):
 
 :::component{name=MDPronouns2}
 :::
 
 ## Zaimki wskazujące \{#demonstrative-pronouns}
 
-Podstawowym zaimkiem wskazującym jest `toj` „to, tamto” i należy go używać zawsze wtedy, gdy nie ma potrzeby wyraźnego rozróżnienia między :isv[this one over here] i _`that one over there`_.
+Podstawowym zaimkiem wskazującym jest :isv[toj] (ten, tamten), i należy go używać, gdy nie ma potrzeby wyraźnego rozróżniania "ten tutaj" i "tamten tam".
 
-Jeśli chcemy być bardziej precyzyjni, najprostszym rozwiązaniem jest użycie `tutoj` dla „tego” i `tamtoj` dla „tamtego”. Odrzuca się je w następujący sposób:
+Jeśli potrzebujemy być bardziej precyzyjni, najprostszym rozwiązaniem jest użycie :isv[tutoj] dla "ten" i :isv[tamtoj] dla "tamten, ów". Odmieniają się one w następujący sposób:
 
 :::component{name=MDPronouns3}
 :::
 
-Uwagi:
+### Uwagi
 
-1. Mniej proste, ale historycznie dokładniejsze, jest następujące trójstopniowe rozróżnienie: `sej` (f. `sa`, n. `se`) za „to”, `toj` za „tamto” i `onoj` dla „tam”. Należy jednak pamiętać, że `sej` praktycznie zniknął z większości współczesnych języków, z wyjątkiem kilku skamieniałych pozostałości. Dlatego nie zawsze może być jasne.
-2. Innym zaimkiem wskazującym jest `ov`, co oznacza to samo co `sej`. Jednak jego znaczenie jest bardzo różne we współczesnych językach.
-3. `Tutoj`, `tamtoj`, `ov` i `onoj` są odrzucane jak `toj`.
-4. Zamiast liczby mnogiej `tyh`, `tym` i `tymi` można czasem spotkać `těh`, `těm` i `těmi`.
+1. Mniej prostym, ale historycznie dokładniejszym jest następujące trzyskładowe rozróżnienie: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) dla "ten", :isv[toj] dla "tamten" i :isv[onoj] dla "tamten tam". Należy pamiętać jednak, że :isv[sej] praktycznie zniknął z większości współczesnych języków, z wyjątkiem kilku skamieniałych pozostałości. Dlatego może nie być zawsze zrozumiały.
+2. Inny zaimek wskazujący to :isv[ov], oznaczający to samo co :isv[sej]. Jednak jego znaczenie bardzo różni się w współczesnych językach.
+3. :isv[Tutoj], :isv[tamtoj], :isv[ov] i :isv[onoj] odmieniają się jak :isv[toj].
+4. Zamiast form liczby mnogiej :isv[tyh], :isv[tym] i :isv[tymi] czasami można spotkać :isv[těh], :isv[těm] i :isv[těmi].
 
 ## Zaimki względne \{#relative-pronouns}
 
-Najczęściej używanym zaimkiem względnym jest `ktory`. Jest odmieniany jak zwykły przymiotnik. Alternatywnie można również użyć południowosłowiańskiego `koj` (odmienianego jak `moj`). Ich znaczenie jest identyczne i można ich używać zamiennie.
+Najczęściej używanym zaimkiem względnym jest :isv[ktory]. Odmienia się on jak zwykły przymiotnik. Alternatywnie można używać południowosłowiańskiego :isv[koj] (odmienianego jak :isv[moj]). Ich znaczenia są identyczne i mogą być używane zamiennie.
 
-Trzecią opcją jest bardziej archaiczny `iže` – używany w mianowniku dla wszystkich rodzajów, zarówno w liczbie pojedynczej, jak i mnogiej; w innych przypadkach jest odmieniany jak forma zaimka osobowego `on/ona/ono` z sufiksem `-že`: :abbr[m.gen.sg.] `jegože`, :abbr[m.dat.sg.] `jemuže` itd.
+Trzecim wariantem jest bardziej archaiczne :isv[iže] – używane w mianowniku dla wszystkich rodzajów, zarówno w liczbie pojedynczej, jak i mnogiej; w innych przypadkach odmienia się jak forma zaimka osobowego :isv[on]/:isv[ona]/:isv[ono] z sufiksem :isv[-že]: :isv[jegože] (:abbr[m.gen.sg.]), :isv[jemuže] (:abbr[m.dat.sg.]) itd.
 
 ## Zaimki pytające \{#interrogative-pronouns}
 
-Zaimki pytające to `kto` „kto” i `čto` (lub `što`) „co”. Są one odmieniane w następujący sposób:
+Zaimkami pytającymi są :isv[kto] (kto) oraz :isv[čto] (lub :isv[što]) (co). Odmieniają się one następująco:
 
 :::component{name=MDPronouns4}
 * kto?
 * co?
 :::
 
-Określniki pytające to `koj` (odmieniane jak `moj`) „który” (zamiast tego można również użyć `ktory`), zaimek dzierżawczy `čij` „czyj” (patrz wyżej) i przymiotnik `kaky` „ jakiego rodzaju".
+Zaimki pytające - to :isv[koj] (odmienia się jak :isv[moj]) (jaki) (zamiast niego można również używać :isv[ktory]), zaimek dzierżawczy :isv[čij] (czyj) (patrz wyżej) oraz przymiotnik :isv[kaky] (jaki).
 
-## Zaimki nieokreślone \{#indefinite-pronouns}
+## Zaimki nieokreślone {#indefinite-pronouns}
 
-Jest to duża grupa zaimków i określników, z których większość pochodzi regularnie od zaimków pytających. Istnieje kilka kategorii:
+To duża grupa zaimków i określeń, większość z których jest regularnie tworzona od zaimków pytających. Istnieje kilka kategorii:
 
-Odnosząc się do wszystkich pozycji (uniwersalnych) (`vs-`): `vsi` lub `vsekto` „wszyscy, wszyscy”, `vse` lub `vsečto` „wszystko”; `ves` (f. `vsa`, rz. `vse` „cały, cały; wszystko”); `cěly` „cały, cały”; `vsaky` „każdy, każdy”; `vsekaky` „każdego rodzaju, wszelkiego rodzaju”; `vsečij` „wszystkich”.
+* Dotyczące wszystkich przedmiotów (uniwersalne) (:isv[vs-]): :isv[vsi] lub :isv[vsekto] (wszyscy, każdy), :isv[vse] lub :isv[vsečto] (wszystko); :isv[ves] (:abbr[f.] :isv[vsa], :abbr[n.] :isv[vse] (cały, wszystek; wszyscy)); :isv[cěly] (cały, wszystek); :isv[vsaky] (każdy, wszelki); :isv[vsekaky] (wszelkiego rodzaju, wszystkich rodzajów); :isv[vsečij] (należący do wszystkich).
 
-Odnoszące się do żadnych pozycji (negatywne) (`ni-`): `nikto` „nikt, nikt”, `ničto` „nic”, `nikoj`, `nijedin` i `nikaky` „ani jeden, żaden”, `ničij` „nikt ”.
+* Odnoszące się do braku przedmiotu (przeczące) (:isv[ni-]): :isv[nikto] (nikt), :isv[ničto] (nic), :isv[nikoj], :isv[nijedin] i :isv[nikaky] (żaden), :isv[ničij] (niczyj).
 
-Odnosząc się do pojedynczego nieokreślonego elementu (`ně-`): `někto` „ktoś, ktoś”, `něčto` „coś”, `někoj` „jakiś”, `někaky` „jakiś”, `něčij` „czyjś, czyjś ”.
+* Dotyczące jednego nieokreślonego przedmiotu (:isv[ně-]): :isv[někto] (ktoś), :isv[něčto] (coś), :isv[někoj] (jakiś), :isv[někaky] (jakiegoś rodzaju), :isv[něčij] (czyjś).
 
-Odnosząc się do kilku nieokreślonych pozycji (`poně–`): `poněkoj` „niektóre, kilka”, `poněkaky` „kilka rodzajów”.
+* Które dotyczą kilku nieokreślonych przedmiotów (:isv[poně–]): :isv[poněkoj] (pewne, kilka), :isv[poněkaky] (kilku rodzajów).
 
-Odnosząc się do dużej grupy pozycji: `mnogy` „dużo, dużo, dużo”.
+* Dotyczące dużej grupy przedmiotów: :isv[mnogy] (liczny, mnogie).
 
-Odnosząc się do dowolnego członka grupy (`-koli`, `-nebud`, `libo-`): `ktokoli`, `libokto`, `kto-nebud` „każdy, ktokolwiek”, `čtokoli`, `libočto`, `čto-nebud` „wszystko”; `kojkoli`, `libokoj`, `koj-nebud` „dowolne”, `kakykoli`, `libokaky`, `kaky-nebud` „dowolne”; `čijkoli`, `libočij`, `čij-nebud` „czyjegoś, czyjegoś”. Dla wskazania obojętności można użyć przysłówka `bylo`: `bylo kto` „nieważne kto, byle kto”, `bylo čto` „nieważne co” itp.
+* Dotyczące dowolnego członka grupy (:isv[-koli], :isv[-nebud], :isv[libo-]): :isv[ktokoli], :isv[libokto], :isv[kto-nebud] (ktokolwiek, ktoś), :isv[čtokoli], :isv[libočto], :isv[čto-nebud] (cokolwiek); :isv[kojkoli], :isv[libokoj], :isv[koj-nebud] (jakikolwiek), :isv[kakykoli], :isv[libokaky], :isv[kaky-nebud] (jakiegokolwiek rodzaju); :isv[čijkoli], :isv[libočij], :isv[čij-nebud] (czyjkolwiek). Do oznaczenia obojętności można użyć przysłówka :isv[bylo]: :isv[bylo kto] (ktokolwiek, obojętnie kto), :isv[bylo čto] (cokolwiek, obojętnie co) itd.
 
-Odnosząc się do innego elementu grupy (`in-`): `inokto` „ktoś inny”, `inočto` „coś innego”, `iny` „inny”, `inočij` „kogoś innego”.
+* Dotyczące innego przedmiotu grupy (:isv[in-]): :isv[inokto] (ktoś inny), :isv[inočto] (coś innego), :isv[iny] (inny), :isv[inočij] (czyjś inny).
 
-:isv[Vsekto], `nikto`, `něčto`, `čtokoli` itd. są odmieniane jak `kto` i `čto`. Podobnie, `nikoj`, `něčij` itd. są odmieniane jak `koj` i `čij` (a zatem jak `moj`). `Ves` jest odmieniane w następujący sposób:
+:isv[Vsekto], :isv[nikto], :isv[něčto], :isv[čtokoli] itp. odmieniają się jak :isv[kto] i :isv[čto]. Podobnie :isv[nikoj], :isv[něčij] itp. odmieniają się jak :isv[koj] i :isv[čij] (a więc jak :isv[moj]). :isv[Ves] (cały) odmienia się w następujący sposób:
 
 :::component{name=MDPronouns5}
 :::
 
 ## Przysłówki zaimkowe \{#pronominal-adverbs}
 
-Jednym z najlepszych wynalazków Zamenhofa była jego **tabela korelatów**, grupa powiązanych ze sobą zaimków, przymiotników i przysłówków. Tam słowa zostały zachowane tak regularnie, jak to możliwe, ale nie kosztem rozpoznawalności dla osób posługujących się językami słowiańskimi. Pominięto kilka praktycznie niemożliwych słów, a kilka innych regularnych form zastąpiono formami powszechnymi w językach naturalnych. Formy nieregularne (tj. nie wyglądające tak, jak powinny zgodnie z tabelą) są zaznaczone _**kursywą**_.
+Jednym z najlepszych wynalazków Zamenhofa była jego **tabela słów współzależnych**, grupa wzajemnie powiązanych zaimków, przymiotników i przysłówków. Słowa te zostały zachowane w jak najbardziej regularnej formie, ale nie kosztem rozpoznawalności dla osób mówiących językami słowiańskimi. Niektóre praktycznie niemożliwe słowa zostały pominięte, a niektóre inne regularne formy zostały zastąpione formami, które są powszechne w językach naturalnych. Nieregularne formy (czyli te, które nie wyglądają tak, jak powinny według tabeli) zaznaczone są _**kursywą**_.
 
 :::component{name=MDPronouns6}
-* pytanie; tutaj; tam; daleko; niektóre; kilka; jakikolwiek; żaden; każdy; inny;
-* który? kto? co? ile? czyj? jaki rodzaj? jak? gdzie? dokąd? kiedy? dokąd? skąd? po co (cel)? dlaczego (powód)?
+* pytanie; tutaj; tam; o tam; jakiś; kilka; dowolny; żaden; każdy; inny;
+* jaki? kto? co? ile? czyj? jaki? jak? gdzie? dokąd? kiedy? dokąd? skąd? po co (cel)? dlaczego (przyczyna)?
 :::
 
-Uwagi:
+:::note Uwagi
 
-- We wszystkich przypadkach, gdy pojawia się `koj`, `ktory` może być używane zamiennie.
-- We wszystkich przypadkach, gdy pojawia się `-gda`, `-gdy` może być używane zamiennie.
+- We wszystkich przypadkach, gdzie pojawia się :isv[koj], można używać :isv[ktory].
+- We wszystkich przypadkach, gdzie pojawia się :isv[-gda], można używać :isv[-gdy].
+
+:::
 
 [1]: http://steen.free.fr/interslavic/slavic_pronouns.html
 [2]: #pronominal-adverbs

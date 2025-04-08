@@ -2,141 +2,144 @@
 sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
-description: "Genders, numbers, cases, declensions and more"
 origin: http://steen.free.fr/interslavic/nouns.html
+description: "Naučte se o rodech, číslech, pádech a skloňování podstatných jmen v mezislovanštině. Pochopte nuance vzorů skloňování podstatných jmen a nepravidelnosti."
+tags: [mezislovanština, podstatná jména, gramatika, učení jazyka]
 ---
 
 # Podstatná jména
 
-Jako většina slovanských jazyků mají podstatná jména v mezislovanštině tři gramatické rody (mužský, ženský, střední), dvě čísla (jednotné, množné) a sedm pádů (nominativ, akuzativ, genitiv, dativ, instrumentál, lokativ, vokativ). Vokativ používaný k přímému oslovování osoby nebo předmětu ve skutečnosti není skutečným případem, protože se chová výrazně odlišně od ostatních případů: existuje pouze v jednotném čísle podstatných jmen mužského a ženského rodu, nikdy neovlivňuje přídavná jména ani zájmena a má nic společného se syntaktickou strukturou věty.
+Stejně jako většina slovanských jazyků mají podstatná jména v mezislovanštině tři gramatické rody (mužský, ženský, střední), dvě čísla (jednotné, množné) a sedm pádů (nominativ, akuzativ, genitiv, dativ, instrumentál, lokativ, vokativ). Vokativ, používaný pro přímé oslovení osoby nebo předmětu, není ve skutečnosti skutečným pádem, protože se chová výrazně odlišně od ostatních pádů: existuje pouze v jednotném čísle mužských a ženských podstatných jmen, nikdy neovlivňuje přídavná jména ani zájmena a nemá nic společného se syntaktickou strukturou věty.
 
-Je třeba se vyhnout dlouhým a komplikovaným paradigmatům, ale nemůžeme uniknout rozlišování mezi několika různými slovními druhy. Interslovanština má v zásadě tři deklinace:
+Dlouhým a složitým paradigmatům je třeba se vyhnout, ale nemůžeme se vyhnout rozlišování mezi několika různými slovními třídami. V zásadě má mezislovanština tři deklinace:
 
-- První deklinace zahrnuje všechna podstatná jména mužského rodu končící na souhlásku a také podstatná jména středního rodu končící na `-o` nebo `-e`.
-- Druhá deklinace zahrnuje všechna podstatná jména ženského rodu na `-a`.
+- První deklinace zahrnuje všechna podstatná jména mužského rodu končící na souhlásku a podstatná jména středního rodu končící na :isv[`-o`] nebo :isv[`-e`].
+- Druhá deklinace zahrnuje všechna podstatná jména ženského rodu na :isv[`-a`].
 - Třetí deklinace všechna podstatná jména ženského rodu na souhlásku.
-- Volitelná čtvrtá („atematická“) deklinace je diskutována [níže][1].
+- Volitelná čtvrtá („atematická") deklinace je probrána [níže][1].
 
-V rámci první deklinace rozlišujeme tři typy. Tento rozdíl se týká pouze nominativu, akuzativu a vokativu:
+Within the first declension, we distinguish between three types. This difference affects only the nominative, the accusative and the vocative:
 
-- Mužský rod živý (zvířata a osoby mužského pohlaví): akuzativ je vždy shodný s genitivem
-- Mužský rod neživotný (všechna zbývající podstatná jména mužského rodu): akuzativ je vždy totožný s nominativem
-- Neutr: nominativ, akuzativ a vokativ jsou vždy totožné
+- Masculine animate (animals and male persons): the accusative is always identical to the genitive
+- Masculine inanimate (all remaining masculine nouns): the accusative is always identical to the nominative
+- Neuter: the nominative, accusative and vocative are always identical
 
-Další rozlišení je mezi tvrdými a měkkými deklinačními vzory. Měkké stonky jsou stonky končící na `š`, `ž`, `č`, `c`, `j`, `lj`  nebo `nj`. Zpravidla se po měkkém kmeni `-o` a `-y` koncovky změní na `-e`, z `-ě` se stane `-i`.
+Another distinction is made between hard and soft declension patterns. Soft stems are stems ending in :isv[`š`], :isv[`ž`], :isv[`č`], :isv[`c`], :isv[`j`], :isv[`lj`] or :isv[`nj`]. As a rule, after a soft stem the :isv[`-o`] and :isv[`-y`] of the ending become :isv[`-e`], the :isv[`-ě`] becomes :isv[`-i`].
 
-Základní koncovky jsou zobrazeny v tabulkách níže. Formy mezi závorkami se používají po měkkých stonkách. Nulové konce jsou označeny `-Ø`:
+The basic endings are displayed in the tables below. The forms between brackets are used after soft stems. Zero endings are marked with `-Ø`:
 
-:::component{name="MDNouns1"}
+:::component{name=MDNouns1}
 :::
 
-Ve slovníku je uveden pouze rod slov. Z toho důvodu jsou níže uvedené příklady seskupeny podle pohlaví a nikoli podle skloňování.
+In the dictionary, only the gender of words is given. For that reason the examples below are grouped by gender and not by declension.
 
-## Skloňování podstatných jmen mužského rodu \{#masculine-declension}
+## Declension of masculine nouns \{#masculine-declension}
 
-Prakticky všechna podstatná jména mužského rodu končí na souhlásku. V zásadě existuje pouze jeden deklinační vzor pro podstatná jména mužského rodu, ale je třeba si zapamatovat několik věcí:
+Virtually all masculine nouns end in a consonant. Basically, there is only one declensional pattern for masculine nouns, but a few things need to be remembered:
 
-- U živých podstatných jmen (zvířata a osoby mužského pohlaví) je akuzativ vždy shodný s genitivem, u neživých předmětů je akuzativ shodný s nominativem.
-- Po měkké souhlásce se koncovky `-om`, `-ov`  a `-y` změní na `-em`, `-ev`, `-e`.
-- Živá podstatná jména mají `-i` u neživotných podstatných jmen místo koncovky `-y`/`-e`  nominativní množné číslo `-i`.
+- In the case of animate nouns (animals and male persons) the accusative is always identical to the genitive, while in the case of inanimate objects the accusative is identical to the nominative.
+- After a soft consonant, the endings :isv[`-om`], :isv[`-ov`] and :isv[`-y`] are changed to :isv[`-em`], :isv[`-ev`], :isv[`-e`].
+- Animate nouns have the nominative plural ending :isv[`-i`] instead of the ending :isv[`-y`]/:isv[`-e`] of inanimate nouns.
 
-Čtyři příklady: :isv[brat] „bratr“, :isv[dom] „dům“, :isv[muž] „muž“, :isv[kraj] „země“.
+Four examples: :isv[brat] „brother”, :isv[dom] „house”, :isv[muž] „man”, :isv[kraj] „country”.
 
-:::component{name="MDNouns2"}
+:::component{name=MDNouns2}
 :::
 
-Poznámky:
+:::note Notes
 
-- V lokativu jednotného čísla se slovanské jazyky liší nejvíce. Doporučená koncovka je `-u` (tj. stejná jako dativ), která se ve většině jazyků vyskytuje alespoň v některých případech. Alternativně je také možné použít `-ě` po tvrdých souhláskách a `-i` po měkkých souhláskách (např. :isv[bratě], :isv[muži]).
-- Ve vokativu se `k`, `g`  a `h` stávají `č`, `ž`  a `š` před `e`: :isv[člověk] → :isv[člověče], :isv[Bog]  → :isv[Bože].
-- Slova na `-ec` mají vokativní koncovku `-če` místo očekávaného `-cu`: :isv[otec] → :isv[otče].
-- Některá podstatná jména zakončená na tvrdou souhlásku mají ve vědeckém pravopisu souhlásku měkkou, kupř. :isv[gosť] „host“, :isv[lěkaŕ] „lékař, lékař“. Mohou sledovat tvrdý i měkký vzor skloňování: :abbr[gen.pl.] :isv[gostov]  nebo :isv[gostev].
-- Slova na `-anin` ztrácejí morfém `-in-` v množném čísle: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina],  ale: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.]  :isv[Slovjanov].
-- Na `-a` je několik slov označujících mužské osoby, jako :isv[sluga] „sluha“, :isv[kolega] „kolega“, :isv[sudja] „soudce“ atd. V množném čísle se skloňují jako :isv[brat] nebo :isv[muž], ale v jednotném čísle se řídí vzorem [druhá deklinace][2].
+- The locative singular is where the Slavic languages differ most. The recommended ending is :isv[`-u`] (i.e. the same as the dative), which in most languages occurs at least in some instances. Alternatively, it is also possible to use :isv[`-ě`] after hard consonants and :isv[`-i`] after soft consonants (e.g. :isv[bratě], :isv[muži]).
+- In the vocative, :isv[`k`], :isv[`g`] and :isv[`h`] become :isv[`č`], :isv[`ž`] and :isv[`š`] before :isv[`e`]: :isv[člověk] → :isv[člověče], :isv[Bog] → :isv[Bože].
+- Words on :isv[`-ec`] have the vocative ending :isv[`-če`] instead of the expected :isv[`-cu`]: :isv[otec] → :isv[otče].
+- Some nouns ending in a hard consonant have a soft consonant in scientific orthography, e.g. :isv[gosť] „guest”, :isv[lěkaŕ] „doctor, physician”. They can follow both the hard and the soft declension pattern: :abbr[gen.pl.] :isv[gostov] or :isv[gostev].
+- Words on :isv[`-anin`] lose the morpheme :isv[`-in-`] in the plural: :abbr[nom.sg.] :isv[Slovjanin], :abbr[gen.sg.] :isv[Slovjanina], but: :abbr[nom.pl.] :isv[Slovjani], :abbr[gen.pl.] :isv[Slovjanov].
+- There are a few words on :isv[`-a`] denoting male persons, such as :isv[sluga] „servant”, :isv[kolega] „colleague”, :isv[sudja] „judge”, etc. In the plural these are inflected like :isv[brat] or :isv[muž], but in the singular, they follow the pattern of the [second declension][2].
 
-## Skloňování středních podstatných jmen \{#neuter-declension}
-
-Neutrální podstatná jména končí na `-o` (tvrdé kmeny) nebo `-e` (měkké kmeny). S výjimkou nominativu/akuzativu a genitivu množného čísla je jejich skloňování shodné s [neživotnými podstatnými jmény mužského rodu][3]. Poznámka:
-
-- Akuzativ je vždy shodný s nominativem.
-- Nominativ/akuzativ a instrumentální jednotné číslo jsou ovlivněny [@@pravidlem 265][4].
-- Co se týče lokativu jednotného čísla, platí to, co pro podstatná jména mužského rodu, i pro podstatná jména středního rodu: místo `-u` je možné psát také `-ě` po tvrdé souhlásce nebo `-i` po měkké souhlásce.
-- Neutrální podstatná jména nemají vokativ oddělený od nominativu.
-- V genitivu množného čísla mají střední podstatná jména první deklinace nulovou koncovku `-Ø`. V případech, kdy to vede k nemožným shlukům souhlásek, se `-e-` vloží před `-j` nebo za měkkou souhlásku nebo `-o-` mezi tvrdé souhlásky: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
-
-Existuje také zvláštní skupina podstatných jmen středního rodu s koncovkou `-e` (ve vědeckém pravopisu: `-ę`), například :isv[ime] „jméno“ (kmen: `imen-`) a :isv[tele] „tele“ (kmen: `telęt-`). Obsahuje také několik slov na `-o`, například :isv[nebo] „nebe“ (kmen: `nebes-`). Ve staroslověnštině patřily ke zvláštní deklinaci, která dnes ve většině jazyků zanikla. Lze je skloňovat jako běžná střední podstatná jména (jako by jejich nominativy byly :isv[imeno] a :isv[teleto]), lze je také skloňovat podle archaičtějšího [atematického skloňování][1].
-
-Protože obvykle nerozlišujeme mezi `ę` a `e`, je užitečné si uvědomit, že podstatné jméno končící na `-e` je vždy středního rodu, a pokud před tímto `-e` předchází:
-
-- `m`, pak kořen je `-men-`: :isv[ime], gen. :isv[imena]
-- tvrdá souhláska, pak kořen je `-et-`: :isv[tele], :abbr[gen.] :isv[teleta]  (podstatné jméno této skupiny obvykle označuje děti nebo mláďata zvířat)
-- měkká souhláska, pak kořen je `-Ø-`: :isv[morje], :abbr[pl.] :isv[morja]  (jinými slovy, podstatné jméno `-o` ovlivněné pravidlem o/e)
-
-Ve zbytku je skloňování vždy pravidelné. Tři příklady: :isv[slovo] „slovo“, :isv[morje] „moře“, :isv[ime] „jméno“.
-
-:::component{name="MDNouns3"}
 :::
 
-## Skloňování podstatných jmen ženského rodu \{#feminine-declension}
+## Declension of neuter nouns \{#neuter-declension}
 
-Většina podstatných jmen ženského rodu má koncovku `-a`, a proto patří do druhé deklinace. Opět rozlišujeme stonky tvrdé a měkké. V případě podstatných jmen ženského rodu nejsou rozdíly mezi tvrdým a měkkým skloňováním pouze záležitostí aplikace pravidla o/e. Z koncovek `-y` a `-ě` po tvrdé souhlásce se zpravidla stávají `-e` a `-i` po měkké souhlásce (jinými slovy jsou „obráceny“).
+Neuter nouns end in :isv[`-o`] (hard stems) or :isv[`-e`] (soft stems). Except for the nominative/accusative and the genitive plural, their inflection is identical to that of [inanimate masculine nouns][3]. Please note:
 
-Stejně jako v případě středních podstatných jmen může nulová koncovka v genitivu množného čísla vyžadovat vložení epentetické samohlásky `-e-` nebo `-o-`.
+- The accusative is always identical to the nominative.
+- The nominative/accusative and instrumental singular are affected by the [:isv[`o`]/:isv[`e`] rule][4].
+- As for the locative singular, what goes for masculine nouns goes also for neuter nouns: instead of :isv[`-u`], it is also possible to write :isv[`-ě`] after a hard consonant or :isv[`-i`] after a soft consonant.
+- Neuter nouns do not have a vocative separate from the nominative.
+- In the genitive plural, neuter nouns of the first declension have a zero ending `-Ø`. In cases when this leads to impossible consonant clusters, an :isv[`-e-`] is inserted before :isv[`-j`] or after a soft consonant, or an :isv[`-o-`] between hard consonants: :isv[okn**o**] → :isv[ok**o**n], :isv[morj**e**] → :isv[mor**e**j].
 
-Do této skupiny patří také několik slov na `-i` (například :isv[pani], které se skloňuje, jako by nominativ jednotného čísla byl \*:isv[panja]).
+There is also special group of neuter nouns with the ending :isv[`-e`] (in scientific orthography: :isv[`-ę`]), for example :isv[ime] „name” (stem: :isv[`imen-`]) and :isv[tele] „calf” (stem: :isv[`telęt-`]). It also includes a few words on :isv[`-o`], for example :isv[nebo] „heaven” (stem: :isv[`nebes-`]). In Old Church Slavonic they belonged to a special declension, which nowadays has vanished in most languages. They can be inflected as ordinary neuter nouns (as if their nominatives were :isv[imeno] and :isv[teleto]), they can also be declined according to the more archaic [athematic declension][1].
 
-Skloňování `-a` také zahrnuje řadu podstatných jmen mužského rodu s koncovkou `-a` odkazující na mužské osoby, jako :isv[sluga] „sluha“ a :isv[sudja] „soudce“. Skloňují se jako :isv[žena] nebo :isv[zemja] v jednotném čísle, ale v množném čísle se řídí vzorem živých podstatných jmen mužského rodu: :abbr[nom.sg.] :isv[sluga], :abbr[gen.sg.] :isv[slugy], :abbr[nom.pl.] :isv[slugi], :abbr[gen.pl.] :isv[slugov],  atd.
+Because we usually do not distinguish between :isv[`ę`] and :isv[`e`], it is useful to remember that a noun ending in :isv[`-e`] is always neuter, and as a rule of thumb, when this :isv[`-e`] is preceded by:
 
-Další skupinou ženských podstatných jmen jsou ta, která končí na souhlásku. Tvoří třetí deklinaci. Většina podstatných jmen této kategorie končí na `-ost`.
+- :isv[`m`], then the root is :isv[`-men-`]: :isv[ime], gen. :isv[imena]
+- a hard consonant, then the root is :isv[`-et-`]: :isv[tele], :abbr[gen.] :isv[teleta] (noun of this group usually refer to children or young animals)
+- a soft consonant, then the root is `-Ø-`: :isv[morje], :abbr[pl.] :isv[morja] (in other words, an :isv[`-o`] noun affected by the [:isv[`o`]/:isv[`e`] rule][4])
 
-Příklady: :isv[žena] „žena“, :isv[zemja] „země“, :isv[kost] „kost“.
+For the rest, declension is always regular. Three examples: :isv[slovo] „word”, :isv[morje] „sea”, :isv[ime] „name”.
 
-:::component{name="MDNouns4"}
+:::component{name=MDNouns3}
 :::
 
-## Atematické skloňování \{#athematic-declension}
+## Declension of feminine nouns \{#feminine-declension}
 
-Kromě výše uvedených pravidelných deklinací měla staroslověnština i jiný typ deklinace, tzv. **atematické deklinace**. Podstatná jména tohoto typu prošla v moderních slovanských jazycích různými cestami, většinou se spojila do jednoho nebo více typů pravidelného skloňování. Mezislovanské projekty volí k této skupině různé přístupy, některé ji však zachovávají.
+Most feminine nouns have the ending :isv[`-a`] and therefore belong to the second declension. Again, we distinguish between hard and soft stems. In the case of feminine nouns the differences between hard and soft declension are not merely a matter of applying the [:isv[`o`]/:isv[`e`] rule][4]. As a rule, the endings :isv[`-y`] and :isv[`-ě`] after a hard consonant become :isv[`-e`] and :isv[`-i`] after a soft consonant (in other words, they are „reversed”).
 
-Tento typ deklinace zahrnuje podstatná jména všech tří rodů, ale nejpočetnější z nich jsou podstatná jména středního rodu. Lze rozlišit následující podtypy:
+Just like in the case of neuter nouns, the zero ending in the genitive plural may require the insertion of a epenthetic vowel :isv[`-e-`] or :isv[`-o-`].
 
-- podstatná jména mužského rodu na `-en`, malá skupina zahrnující např. :isv[kamen] „kámen“ a :isv[koren] „kořen“
-- podstatná jména středního rodu na `-me`/`-men`- obsahující četná podstatná jména jako :isv[ime] „jméno“, :isv[rame] „rameno“, :isv[brěme] „zátěž“
-- podstatná jména středního rodu na `-e`/`-et`-, označující děti a mláďata zvířat, např. :isv[tele] „tele“, :isv[prase] „prasátko“
-- podstatná jména středního rodu na `-o`/`-es`-, skupina pouze několika slov, např. :isv[nebo] „nebe“
-- podstatná jména ženského rodu na `-ov`, např. :isv[crkov] „kostel“, :isv[mrkov] „mrkev“
-- podstatná jména ženského rodu na `-i`/`-er`-, obsahující pouze dvě podstatná jména: :isv[mati] „matka“ a :isv[doči] „dcera“
+A few words on :isv[`-i`] belong to this group as well (for example :isv[pani], which is inflected as if the nominative singular were :isv[*panja]).
 
-:::component{name="MDNouns5"}
+The :isv[`-a`] declension also includes a number of masculine nouns with the ending :isv[`-a`] referring to male persons, like :isv[sluga] „servant” and :isv[sudja] „judge”. They are inflected like :isv[žena] or :isv[zemja] in the singular, but in the plural they follow the pattern of masculine animate nouns: :abbr[nom.sg.] :isv[sluga], :abbr[gen.sg.] :isv[slugy], :abbr[nom.pl.] :isv[slugi], :abbr[gen.pl.] :isv[slugov], etc.
+
+Another group of feminine nouns are those ending in a consonant. They form the third declension. Most nouns of this category end in :isv[`-ost`].
+
+Examples: :isv[žena] „woman”, :isv[zemja] „earth”, :isv[kost] „bone”.
+
+:::component{name=MDNouns4}
 :::
 
-Celému atematickému skloňování se lze vyhnout skloňováním těchto slov podle běžných deklinací, jak to dělá většina ostatních slovanských jazyků. V tom případě:
+## Athematic declension \{#athematic-declension}
 
-- :isv[kamenj] se skloňuje jako běžné podstatné jméno mužského rodu (:abbr[gen.] :isv[kamenja], :abbr[dat.] :isv[kamenju])
-- :isv[ime] a :isv[tele] se skloňují jako :isv[slovo], jako by jejich nominativy byly :isv[imeno] a :isv[teleto]: :abbr[gen.] :isv[imena], :isv[teleta], :abbr[dat.] :isv[imenu], :isv[teletu]
-- :isv[nebo] se skloňuje také jako :isv[slovo] (:abbr[gen.] :isv[neba], :abbr[dat.] :isv[nebu])
-- :isv[crkov] se skloňuje jako :isv[kost] (:abbr[gen.] :isv[crkvi]); místo :isv[crkov] je také možné použít tvar :isv[crkva], který se skloňuje lke :isv[žena] (:abbr[gen.] :isv[crkvy], :abbr[dat.] :isv[crkvě])
-- :isv[mati] se skloňuje jako :isv[kost]: :abbr[gen.]/:abbr[dat.] :isv[materi]
+Except for the regular declensions listed above, Old Church Slavonic also had another declension type, the so-called **athematic declension**. Nouns of this type have gone various ways in the modern Slavic languages, mostly merging into one or more of the regular declension types. Interslavic projects choose various approaches to this group, but some of them preserve it.
 
-## Nepravidelná podstatná jména \{#irregular-nouns}
+This declension type includes nouns of all three genders, but most numerous among them are neuter nouns. The following subtypes can be distinguished:
 
-Mezislovanština je udržována co nejpravidelnější, ale několika případům nepravidelnosti se nelze vyhnout, aniž bychom se vzpírali naturalismu. Následující podstatná jména mají nepravidelné množné číslo (všechna čtyři se skloňují jako podstatné jméno ženského rodu typu `kost`):
+- masculine nouns on :isv[`-en`], a tiny group including e.g. :isv[kamen] „stone” and :isv[koren] „root”
+- neuter nouns on :isv[`-me`]/:isv[`-men`]-, containing numerous nouns like :isv[ime] „name”, :isv[rame] „shoulder”, :isv[brěme] „burden”
+- neuter nouns on :isv[`-e`]/:isv[`-et`]-, referring to children and young animals, e.g. :isv[tele] „calf”, :isv[prase] „piglet”
+- neuter nouns on :isv[`-o`]/:isv[`-es`]-, a group of only a few words, e.g. :isv[nebo] „heaven”
+- feminine nouns on :isv[`-ov`], e.g. :isv[crkov] „church”, :isv[mrkov] „carrot”
+- feminine nouns on :isv[`-i`]/:isv[`-er`]-, containing only two nouns: :isv[mati] „mother” and :isv[doči] „daughter”
 
-- :isv[člověk] (:abbr[m.]) „člověk, člověk“, :abbr[pl.] :isv[ljudi]  „lidé“
-- :isv[děte] (:abbr[gen.] :isv[děteta]  nebo :isv[dětete]) (:abbr[n.]) „dítě“, :abbr[pl.] :isv[děti]  „děti“
-- :isv[oko] (:abbr[n.]) „oko“, :abbr[pl.] :isv[oči]  „oči“
-- :isv[uho] (:abbr[n.]) „ucho“, :abbr[pl.] :isv[uši]  „uši“
+:::component{name=MDNouns5}
+:::
 
-Lze použít i běžná množná čísla (:isv[člověki], :isv[oka]  atd.), ale některá znějí slovanskému uchu velmi zvláštně, i když jim bude rozumět tak jako tak.
+The entire athematic declension can be avoided by inflecting these words according to the regular declensions, as most other Slavic languages do. In that case:
 
-## Nesklonná podstatná jména \{#indeclinable-nouns}
+- :isv[kamenj] is inflected like an ordinary masculine noun (:abbr[gen.] :isv[kamenja], :abbr[dat.] :isv[kamenju])
+- :isv[ime] and :isv[tele] are inflected like :isv[slovo], as if their nominatives were :isv[imeno] and :isv[teleto]: :abbr[gen.] :isv[imena], :isv[teleta], :abbr[dat.] :isv[imenu], :isv[teletu]
+- :isv[nebo] is inflected like :isv[slovo] too (:abbr[gen.] :isv[neba], :abbr[dat.] :isv[nebu])
+- :isv[crkov] is inflected like :isv[kost] (:abbr[gen.] :isv[crkvi]); instead of :isv[crkov], it is also possible to use the form :isv[crkva], which is inflected lke :isv[žena] (:abbr[gen.] :isv[crkvy], :abbr[dat.] :isv[crkvě])
+- :isv[mati] is inflected like :isv[kost]: :abbr[gen.]/:abbr[dat.] :isv[materi]
 
-Vypůjčená mezinárodní slovní zásoba končící na `-e`, `-i`  nebo `-u` (např. :isv[alibi], :isv[hobi], :isv[intervju], :isv[kafe], :isv[kakao], :isv[kliše], :isv[menju], :isv[tabu], :isv[taksi]) a zkratky jsou nesklonné. Stejně není nemožné přidat koncovky pádů, ale v tom případě je nejlepší je oddělit od podstatného jména apostrofem: :isv[togo alibi’a], :isv[te intervju’y], :isv[tyh taksi’ov],  atd.
+## Irregular nouns \{#irregular-nouns}
 
-[1]: \#athematic-declension
+Interslavic is kept as regular as possible, but a few cases of irregularity cannot be avoided without defying naturalism. The following nouns have an irregular plural (all four inflected like a feminine noun of the :isv[`kost`] type):
 
-[2]: \#feminine-declension
+- :isv[člověk] (:abbr[m.]) „human being, person”, :abbr[pl.] :isv[ljudi] „people”
+- :isv[děte] (:abbr[gen.] :isv[děteta] or :isv[dětete]) (:abbr[n.]) „child”, :abbr[pl.] :isv[děti] „children”
+- :isv[oko] (:abbr[n.]) „eye”, :abbr[pl.] :isv[oči] „eyes”
+- :isv[uho] (:abbr[n.]) „ear”, :abbr[pl.] :isv[uši] „ears”
 
-[3]: \#masculine-declension
+Regular plurals (:isv[člověki], :isv[oka] etc.) can be used as well, but some of them sound very strange to the Slavic ear, even though they will be understood anyway.
+
+## Indeclinable nouns \{#indeclinable-nouns}
+
+Borrowed international vocabulary ending in :isv[`-e`], :isv[`-i`] or :isv[`-u`] (e.g. :isv[alibi], :isv[hobi], :isv[intervju], :isv[kafe], :isv[kakao], :isv[kliše], :isv[menju], :isv[tabu], :isv[taksi]) and abbreviations are indeclinable. It is not impossible to add case endings anyway, but in that case, it is best to separate them from the noun with an apostrophe: :isv[togo alibi’a], :isv[te intervju’y], :isv[tyh taksi’ov], etc.
+
+[1]: #athematic-declension
+
+[2]: #feminine-declension
+
+[3]: #masculine-declension
 
 [4]: ../phonology.md#o--e

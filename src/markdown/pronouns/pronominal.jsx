@@ -1,5 +1,6 @@
 import React from 'react';
 import {extractListItems} from "@site/src/utils";
+import {TransliteratorElement} from "@site/src/components";
 
 export default function Pronominal({children}) {
   const {
@@ -309,7 +310,7 @@ export default function Pronominal({children}) {
 
 function Cell(props) {
   const {children = '—'} = props;
-  return <td {...props} lang="isv">{children}</td>
+  return <td {...props} lang="isv"><TransliteratorElement>{children}</TransliteratorElement></td>
 }
 
 function childrenToRowHeaders(children) {
