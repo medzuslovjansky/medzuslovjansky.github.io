@@ -35,7 +35,10 @@ There is little that can be said to introduce the cardinal numbers, so let's mov
 
 The words for „thousand”, „million” and „milliard” are: :isv[tyseč] (1000), :isv[milion] (10⁶) and :isv[miliard] (10⁹). Just like in the case of the hundreds, these words may or may not be inflected as nouns. Although it is not customary in the Slavic languages to do this, in cases like :isv[pet-tyseć] „5000” a hyphen may be added for clarity.
 
-Combinations of these are always made from high to low: thousands – hundreds – tens – ones. Between the tens and the ones, the word :isv[i] „and” may be inserted. For example: :isv[tri-tyseč četyristo petdeset (i) šest] „3,456”.
+Combinations of these are always made from high to low: thousands – hundreds – tens – ones. Between the tens and the ones, the word :isv[i] „and” may be inserted. For example: :isv[tri-tyseč četyristo petdeset (i) šest] „3,456”. You can see more examples in the converter below.
+
+:::component{name=MDNumeralsConverter}
+:::
 
 Because the primary purpose of Interslavic is to be maximally understood by Slavic speakers, it deserves recommendation to write digits instead of number words.
 
