@@ -9,7 +9,7 @@ import DocCardList from '@theme/DocCardList';
 
 # Gramatyka
 
-Międzysłowiański jest językiem naturalistycznym i bardzo dobrze zrozumiałym dla Słowian. W całości opiera się na formach wspólnych dla języków słowiańskich, a w przypadku braku form wspólnych na rozwiązaniach większościowych. Ma rodzaj gramatyczny, sześć przypadków plus opcjonalny wołacz, aspekt werbalny i pełną koniugację – rzeczy, które zna praktycznie każdy Słowianin. Ponadto zawiera również materiał, którego nie ma w większości języków słowiańskich, ale którego znajomość może być bardzo pomocna w zrozumieniu języków, które go używają.
+Międzysłowiański jest językiem naturalistycznym i bardzo dobrze zrozumiałym dla Słowian. W całości opiera się na formach wspólnych dla języków słowiańskich, a w przypadku braku form wspólnych na rozwiązaniach większościowych. Ma rodzaj gramatyczny, sześć przypadków plus opcjonalny wołacz, aspekt werbalny i pełną koniugację – rzeczy, które zna praktycznie każdy Słowianin. Ponadto zawiera również struktury, których nie ma w większości języków słowiańskich, ale których znajomość może być bardzo pomocna w zrozumieniu języków, które ich używają.
 
 W porównaniu z naturalnymi językami słowiańskimi ten model gramatyczny jest nadal dość prosty i regularny. Wyjątki są rzadkie, a większość nieprawidłowości jest eliminowana środkami, jakie zapewniają same języki słowiańskie, bez wprowadzania sztuczności.
 
