@@ -142,7 +142,7 @@ Interslavic is not a form of Pan-Slavism and does not endorse any political stan
 [8]: http://steen.free.fr/interslavic/maly_princ.html
 [9]: https://youtube.com/playlist?list=PLN7FF06VmIkkpWsnaRKitfJMx0Ngr8h-g
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
-[11]: ./introduction/language-comparison.md
+[11]: ./misc/language-comparison.md
 [12]: ./grammar/index.md
 [13]: ./simple-grammar/index.md
 [14]: ./orthography.md#representation-of-problematic-characters

@@ -50,5 +50,5 @@ Osim toga, završeci su na predvidljiv način prilagođeni onome što je najče�
 
 Problematičnije su riječi posuđenice iz engleskog. Kod pisanja latiničnim pismom možemo zadržati izvorni način pisanja (_bypass_, _nokaut_, _jazz_, _tinejdžer_). Međutim, mnogi su tekstovi na međuslavenskom pisani ćirilicom ili u oba pravopisa paralelno, često uz pomoć programa za transliteraciju, te naravno treba izbjegavati pisanje _bypass_ ili _knockout_ ćirilicom! U većini slučajeva radije bismo primijenili fonetski pristup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
-[1]: ../introduction/design-criteria.md#vocabulary
+[1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md

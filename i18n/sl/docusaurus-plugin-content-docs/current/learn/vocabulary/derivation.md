@@ -50,5 +50,5 @@ Poleg tega so končnice na predvidljiv način prilagojene temu, kar je najpogost
 
 Bolj problematične so besede, prevzete iz angleščine. Pri pisanju v latinici lahko ohranimo prvotni zapis (_bypass_, _knockout_, _jazz_, _teenager_). Veliko besedil v medslovanščini pa je napisanih v cirilici ali v obeh pravopisih vzporedno, pogosto s pomočjo programa za prečrkovanje, zato se je seveda treba izogibati pisanju _быпасс_ ali _кноцкоут_ v cirilici! V večini primerov bi zato raje uporabili bolj fonetični pristop: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
-[1]: ../introduction/design-criteria.md#vocabulary
+[1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md

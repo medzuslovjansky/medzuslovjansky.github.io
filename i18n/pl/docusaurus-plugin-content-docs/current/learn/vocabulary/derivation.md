@@ -50,5 +50,5 @@ Poza tym końcówki dostosowane są w przewidywalny sposób do tego, co najczę�
 
 Bardziej problematyczne są słowa zapożyczone z języka angielskiego. Pisząc alfabetem łacińskim możemy zachować oryginalną pisownię (_bypass_, _knockout_, _jazz_, _teenager_). Jednak wiele tekstów w języku starosłowiańskim jest pisanych cyrylicą lub w obu ortografiach równolegle, często z pomocą programu do transliteracji, i oczywiście należy unikać pisania _быпасс_ lub _кноцкоут_ w cyrylicy! W większości przypadków wolelibyśmy zatem raczej zastosować podejście fonetyczne: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ itd.
 
-[1]: ../introduction/design-criteria.md#vocabulary
+[1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md

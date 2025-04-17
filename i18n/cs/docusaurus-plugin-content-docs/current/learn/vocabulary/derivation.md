@@ -50,5 +50,5 @@ Kromě toho jsou koncovky přizpůsobeny předvídatelným způsobem tomu, co je
 
 Problematičtější jsou slova přejatá z angličtiny. Při psaní latinkou můžeme zachovat původní pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnoho textů v interslovanštině je však psáno v azbuce nebo v obou pravopisech souběžně, často s pomocí transliteračního programu, a samozřejmě je třeba se vyhnout psaní _быпасс_ nebo _кноцкоут_ v azbuce! Ve většině případů bychom proto raději použili fonetičtější přístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ atd.
 
-[1]: ../introduction/design-criteria.md#vocabulary
+[1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md

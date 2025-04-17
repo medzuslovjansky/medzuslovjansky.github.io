@@ -153,7 +153,7 @@ Medslovanščina ni oblika panslavizma in ne zagovarja nobene politične drže. 
 
 [10]: https://youtube.com/playlist?list=PL--S_Qi-XfGTs4Hpnukm4VyiymJJ5VZqF
 
-[11]: ./introduction/language-comparison.md
+[11]: ./misc/language-comparison.md
 
 [12]: ./grammar/index.md
 

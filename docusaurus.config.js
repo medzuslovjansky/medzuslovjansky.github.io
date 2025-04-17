@@ -79,6 +79,20 @@ async function createConfig() {
             return [existingPath.replace('/faq', '/introduction/faq')];
           }
 
+          // Add redirects for files moved from Introduction to Miscellaneous
+          if (existingPath.includes('/learn/misc/history')) {
+            return [existingPath.replace('/learn/misc/history', '/learn/introduction/history')];
+          }
+          if (existingPath.includes('/learn/misc/design-criteria')) {
+            return [existingPath.replace('/learn/misc/design-criteria', '/learn/introduction/design-criteria')];
+          }
+          if (existingPath.includes('/learn/misc/constructed-slavic-languages')) {
+            return [existingPath.replace('/learn/misc/constructed-slavic-languages', '/learn/introduction/constructed-slavic-languages')];
+          }
+          if (existingPath.includes('/learn/misc/language-comparison')) {
+            return [existingPath.replace('/learn/misc/language-comparison', '/learn/introduction/language-comparison')];
+          }
+
           return undefined;
         },
       }],

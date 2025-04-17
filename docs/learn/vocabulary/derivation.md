@@ -56,5 +56,5 @@ Besides, endings are adapted in a predictable way to what is most common in the 
 
 More problematic are words borrowed from English. When writing in the Latin alphabet, we can keep the original spelling („bypass”, „knockout”, „jazz”, „teenager”). However, many texts in Interslavic are written in Cyrillic or in both orthographies parallelly, often with the help of a transliteration program, and one should of course avoid writing `быпасс` or `кноцкоут` in Cyrillic! In most cases, we would therefore rather apply a more phonetical approach: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], :isv[koktejl], etc.
 
-[1]: ../introduction/design-criteria.md#vocabulary
+[1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md
