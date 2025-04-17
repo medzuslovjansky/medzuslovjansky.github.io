@@ -1,0 +1,22 @@
+.numerals-demo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+  border-radius: 2px;
+
+  &__input {
+    font: inherit;
+    padding: 0 0 0 0.5rem;
+  }
+
+  &__output {
+    flex: 1;
+    border: 1px dashed #ccc;
+    padding: 0.25rem 0.5rem;
+  }
+
+  i {
+    opacity: 0.5;
+  }
+} 

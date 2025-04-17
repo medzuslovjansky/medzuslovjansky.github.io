@@ -25,6 +25,7 @@ import MDPronouns5 from "@site/src/markdown/pronouns/indefinite";
 import MDPronouns6 from "@site/src/markdown/pronouns/pronominal";
 import MDNumerals1 from "@site/src/markdown/numerals/2-4";
 import MDNumerals2 from "@site/src/markdown/numerals/5-30";
+import MDNumeralsConverter from "@site/src/markdown/numerals/converter";
 import MDVerbs1 from "@site/src/markdown/verbs/motion";
 import MDVerbs2 from "@site/src/markdown/verbs/presentTense";
 import MDVerbs3 from "@site/src/markdown/verbs/pastTense";
@@ -90,6 +91,7 @@ export default {
   MDPronouns6,
   MDNumerals1,
   MDNumerals2,
+  MDNumeralsConverter,
   MDVerbs1,
   MDVerbs2,
   MDVerbs3,
