@@ -7,64 +7,64 @@ description: "Explore the personal pronouns in the Slavic languages, including n
 tags: [interslavic, grammar, language learning, linguistics, comparative, personal pronouns, pronouns, slavic languages]
 ---
 
-# Personal pronouns in the Slavic languages
+# Zaimki osobowe w językach Słowiańskich
 
-Interslavic is entirely based on the natural Slavic languages, and the forms have been picked on the basis of both comparison and logic. This page demonstrates how this has been done in the case of personal pronouns:
+Międzysłowiański jest w całości bazowany na naturalnych językach Słowiańskich i jego formy zostały dobrane na podstawie zarówno porównywania jak i logiki. Ta strona demonstruje jak zostało to wykonane w przypadku zaimków osobowych:
 
-## First person singular
+## Pierwsza osoba liczby pojedynczej
 
 :::component{name=MDPersonalPronouns1}
 :::
 
 :::note
 
-- All West and South Slavic languages have special short forms in the accusative, genitive and dative. We have adopted them in Interslavic, seeing that it won't hurt intelligibility, and certainly adds some expressivity.
-- The genitive is generally the same as the accusative.
-- The locative is often very similar or identical to the dative.
-- The genitive is never identical to the dative.
-- The accusative :isv[mene] in Interslavic is based on counting (discounting the smaller languages): 7 `men-` vs. 3 `mn-`; 8 `-e` vs. 2 `-ja`.
+- Wszystkie języki zachodnio- i południowosłowiańskie mają specjalne krótkie formy w bierniku, dopełniaczu i celowniku. Zaadaptowaliśmy je w języku Międzysłowiańskim, uważając, że nie zaszkodzi to zrozumiałości, a na pewno doda trochę wyrazistości.
+- Dopełniacz jest generalnie taki sam jak biernik.
+- Miejscownik jest zazwyczaj bardzo podobny lub identyczny z celownikiem.
+- Dopełniacz nigdy nie jest identyczny z celownikiem.
+- Biernik :isv[mene] w języku międzysłowiańskim opiera się na liczeniu (pomijając mniejsze języki): 7 `men-` vs. 3 `mn-`; 8 `-e` vs. 2 `-ja`.
 
 :::
 
-## Second person singular
+## Druga osoba liczby pojedynczej
 
 :::component{name=MDPersonalPronouns2}
 :::
 
 :::note
 
-The majority solution for the dative would be :isv[tebě], but we want to keep it separate from the genitive/accusative, therefore :isv[tobě].
+Większościowym rozwiązaniem dla celownika byłoby :isv[tebě], ale chcemy jednak oddzielić go od dopełniacza/biernika dlatego :isv[tobě].
 
 :::
 
-## Third person singular, masculine and neuter
+## Trzecia osoba liczby pojedynczej, rodzaju męskiego i nijakiego
 
 :::component{name=MDPersonalPronouns3}
 :::
 
 :::note
 
-- The forms themselves are established easily.
-- For all forms on `je-` or `i-` goes that they can be preceded by `n-` after a preposition: :isv[jego] > :isv[bez njego], :isv[jim] > :isv[pri njim]. The same goes for the other genders and the plural.
-
+- Formy same w sobie są łatwe do ustalenia
+- Dla wszystkich form mających `je-` oraz `i-` mogą one być poprzedzone `n-` po przyimku: :isv[jego] > :isv[bez njego], :isv[jim] > :isv[pri njim]. To samo dotyczy innych rodzajów i liczby mnogiej.
+  
 :::
 
-## Third person singular, feminine
+## Trzecia osoba liczby pojedynczej, rodzaju żeńskiego
 
 :::component{name=MDPersonalPronouns4}
 :::
 
-## First person plural
+## Pierwsza osoba liczby mnogiej
 
 :::component{name=MDPersonalPronouns5}
 :::
 
-## Second person plural
+## Druga osoba liczby mnogiej
 
 :::component{name=MDPersonalPronouns6}
 :::
 
-## Third person plural
+## Trzecia osoba liczby mnogiej
 
 :::component{name=MDPersonalPronouns7}
 :::
