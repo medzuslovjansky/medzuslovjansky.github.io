@@ -43,7 +43,7 @@ const mappings = {
   "ɪ": "Near-close_near-front_unrounded_vowel",
   "ɲ": "Palatal_nasal",
   "ʂ": "Voiceless_retroflex_fricative",
-  "ʃ": "Voiceless_dorso-palatal_velar_fricative",
+  "ʃ": "Voiceless_palato-alveolar_sibilant",
   "ʊ": "Near-close_near-back_rounded_vowel",
   "ʋ": "Labiodental_approximant",
   "ʌ": "Open-mid_back_unrounded_vowel",
