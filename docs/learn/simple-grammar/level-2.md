@@ -73,7 +73,7 @@ Not only nouns have gender, the same goes for adjectives and similar modifiers, 
 
 - For all genders the plural ending is `-e`:
   - :isv[dobre muži] „good men”
-  - :isv[dobre ženi] „good woman”
+  - :isv[dobre ženi] „good women”
   - :isv[dobre děta] „good children”
 
 The same thing that goes for adjectives, goes also for possessive, demonstrative, relative, indefinite pronouns, as well as for numbers.
