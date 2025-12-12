@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkinterslavic_fun=globalThis.webpackChunkinterslavic_fun||[]).push([[7123],{296:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/cs/articles","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

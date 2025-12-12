@@ -1,0 +1,1 @@
+(globalThis.webpackChunkinterslavic_fun=globalThis.webpackChunkinterslavic_fun||[]).push([[5741],{5741:()=>{}}]);
