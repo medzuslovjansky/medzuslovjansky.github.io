@@ -1,0 +1,14 @@
+{
+  "lemma": "pojdti",
+  "upos": "VERB",
+  "misc": { "Aspect": "Perf", "Motion": "Dir" },
+  "forms": [
+    { "form": "pojd*ti*", "feats": { "VerbForm": "Inf" } },
+    { "form": "pojd*u*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Sing", "Tense": "Fut" } },
+    { "form": "pojd*eš*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Sing", "Tense": "Fut" } },
+    { "form": "pojd*e*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Sing", "Tense": "Fut" } },
+    { "form": "pojd*emo*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Plur", "Tense": "Fut" } },
+    { "form": "pojd*ete*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Plur", "Tense": "Fut" } },
+    { "form": "pojd*ut*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Plur", "Tense": "Fut" } }
+  ]
+}

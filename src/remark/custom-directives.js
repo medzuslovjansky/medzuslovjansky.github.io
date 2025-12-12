@@ -23,7 +23,7 @@ const plugin = ({ visit }) => (_options) => {
         case 'stress':
           return stress(node);
         case 'abbr':
-          return abbr(node, docLang);
+          return abbr(node);
         case 'notr':
           return notr(node);
         case 'isv':
@@ -101,7 +101,8 @@ function kbd(node) {
 }
 
 function isv(node) {
-  namedComponent(node, 'TransliteratorElement');
+  // Use unified Lang component with lang="isv"
+  namedComponent(node, 'Lang', { lang: 'isv' });
   remapTextRecursively(node, (text) => text.replaceAll('t́', 'ť'));
 }
 
@@ -117,18 +118,19 @@ function ipa(node) {
   prepareNode(node).data.hName = 'IPA';
 }
 
-function abbr(node, lang = 'en') {
+function abbr(node) {
   const content = getShallowText(node);
-  const [text, title] = i18n[content]?.[lang] ?? [content, node.attributes?.title ?? content];
 
+  // Use Abbr React component - it handles i18n lookup at runtime
   Object.assign(prepareNode(node).data, {
-    hName: 'abbr',
+    hName: 'Abbr',
     hProperties: {
-      title,
+      title: node.attributes?.title,  // custom title override if any
     },
   });
 
-  node.children = [{ type: 'text', value: text }];
+  // Pass original key as children - Abbr does the lookup
+  node.children = [{ type: 'text', value: content }];
 }
 
 function getShallowText(node) {
@@ -161,8 +163,8 @@ function remapTextRecursively(node, callback) {
 }
 
 function lang(node) {
-  const lang = node.name === 'isv' ? 'isv' : node.name;
-  prepareNode(node).data.hProperties = { className: 'notranslate', translate: 'no', lang };
+  // Use unified Lang component for all language directives
+  namedComponent(node, 'Lang', { lang: node.name });
 }
 
 function component(node) {

@@ -1,0 +1,22 @@
+{
+  "columns": [
+    { "key": "meaning", "i18n": true },
+    { "key": "nonDirectional", "i18n": true, "isv": true },
+    { "key": "directionalImpf", "i18n": true, "isv": true },
+    { "key": "perfective", "i18n": true, "isv": true }
+  ],
+  "rows": [
+    { "id": "go_foot", "nonDirectional": "hoditi", "directionalImpf": "idti", "perfective": "pojdti" },
+    { "id": "go_transport", "nonDirectional": "jezditi", "directionalImpf": "jehati", "perfective": "pojehati" },
+    { "id": "fly", "nonDirectional": "lětati", "directionalImpf": "letiti", "perfective": "poletiti" },
+    { "id": "run", "nonDirectional": "běgati", "directionalImpf": "běgti", "perfective": "poběgti" },
+    { "id": "climb", "nonDirectional": "laziti", "directionalImpf": "lězti", "perfective": "polězti" },
+    { "id": "crawl", "nonDirectional": "polzati", "directionalImpf": "polzti", "perfective": "popolzti" },
+    { "id": "swim", "nonDirectional": "plavati", "directionalImpf": "plyvti", "perfective": "poplyvti" },
+    { "id": "sail", "nonDirectional": "plavati", "directionalImpf": "pluti", "perfective": "popluti" },
+    { "id": "fall", "nonDirectional": "padati", "directionalImpf": "pasti", "perfective": "upasti" },
+    { "id": "carry", "nonDirectional": "nositi", "directionalImpf": "nesti", "perfective": "ponesti" },
+    { "id": "transport", "nonDirectional": "voziti", "directionalImpf": "vezti", "perfective": "povezti" },
+    { "id": "lead", "nonDirectional": "voditi", "directionalImpf": "vesti", "perfective": "povesti" }
+  ]
+}

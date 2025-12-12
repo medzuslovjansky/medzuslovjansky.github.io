@@ -2,176 +2,188 @@
 
 ## What This Project Is
 
-This is **interslavic.fun** — a Docusaurus 3 rewrite of Jan van Steenbergen's legacy Interslavic grammar site (`steen.free.fr/interslavic`). The legacy site was 77 hand-coded HTML pages with no templating, no build process, and content duplicated across Latin/Cyrillic columns.
-
-**The core insight**: Linguistic rules belong in code, not in static tables. Authors write content once; the system handles script conversion, localization, and rendering.
-
-## The Architecture in One Sentence
-
-MDX content + custom directives (`:isv[]`, `:abbr[]`) + JSX components + `@interslavic/utils` library = grammar that adapts to reader preferences.
+**interslavic.fun** — Docusaurus 3 site for Interslavic grammar. Content once, rendered everywhere (Latin/Cyrillic, 13 locales).
 
 ## Commands
 
 ```bash
-yarn                  # Install dependencies (Yarn 4)
 yarn start            # Dev server
 yarn build            # Build all locales
-DOCUSAURUS_LOCALE=en yarn build  # Build single locale (faster)
-yarn test             # Unit tests
-yarn write-translations  # Generate i18n files
+DOCUSAURUS_LOCALE=en yarn build  # Single locale (faster)
+yarn test             # Unit tests (node:test)
 ```
 
-## The Linguistic Engine: `@interslavic/utils`
+## Core Principle: Data First, Not Components First
 
-This npm package is the brain. Before writing any grammar component, check what it provides:
+**Wrong approach**: "I need a MotionVerbsTable component" → create MotionVerbsTable.jsx, MotionVerbsTable.data.json, MotionVerbsTable.i18n.json...
 
+**Right approach**: "I need to display motion verbs" → use existing `@lemma/` data + `flatten()` + `buildTable()` → thin React wrapper.
+
+## The Pipeline
+
+```
+@lemma/*.json → flatten() → buildTable(config) → TableStructure → React renders
+```
+
+### Lemma Data (`@lemma/`)
+
+Each lemma is a CoNLL-U style JSON in `src/data/lemma/`:
+
+```json
+{
+  "lemma": "hoditi",
+  "upos": "VERB",
+  "forms": [
+    { "form": "hodi*ti*", "feats": { "VerbForm": "Inf" } },
+    { "form": "hož*u*", "feats": { "Person": "1", "Number": "Sing", "Tense": "Pres" } }
+  ]
+}
+```
+
+Import: `import hoditi from '@lemma/hoditi.json'`
+
+### Functions, Not Config Objects
+
+**Wrong** - passing config objects around:
 ```js
-import {
-  declensionNoun,      // Generate noun declension tables
-  declensionAdjective, // Generate adjective declension tables
-  conjugationVerb,     // Generate verb conjugation tables
-  transliterate        // Convert between scripts
-} from '@interslavic/utils';
+const motionConfig = { rows: 'lemma', columns: 'misc.Motion' };
+const table = buildTable(tokens, motionConfig);
 ```
 
-**Rule**: If `@interslavic/utils` can compute it, don't hardcode it. Fix the rule once in the library, every table updates.
-
-## Converting Legacy HTML Pages
-
-Source: `medzuslovjansky/steen-legacy` repo (mirror of `steen.free.fr/interslavic/`)
-
-### Workflow
-
-1. **Compare** legacy HTML with existing `docs/` MDX — check what's already converted
-2. **Identify tables** — can they be generated via `@interslavic/utils`, or must be static?
-3. **Apply directives** to ALL Interslavic text (see table below)
-4. **Create JSX components** for complex tables in `src/markdown/{topic}/`
-5. **Register components** in `src/theme/MDXContent/MDXComponents.js`
-6. **Reference in MDX** via `:::component{name=MDComponentName}:::`
-
-### Directive Conversion (EVERY word matters)
-
-| Legacy HTML | MDX Directive | Example |
-|-------------|---------------|---------|
-| `<i>slovo</i>` or `<b>slovo</b>` | `:isv[slovo]` | Any Interslavic word |
-| `<b>-ati</b>` (ending) | `:isv[\`-ati\`]` | Grammatical suffixes |
-| `<i>klad-</i>` (stem) | `:isv[\`klad-\`]` | Word stems |
-| `(impf.)`, `(pf.)` | `:abbr[impf.]`, `:abbr[pf.]` | Aspect markers |
-| `m.`, `f.`, `n.` | `:abbr[m.]`, `:abbr[f.]`, `:abbr[n.]` | Gender markers |
-| `nom.`, `gen.`, `dat.` | `:abbr[nom.]`, `:abbr[gen.]`, `:abbr[dat.]` | Case markers |
-| `sg.`, `pl.` | `:abbr[sg.]`, `:abbr[pl.]` | Number markers |
-| `lit.` | `:abbr[lit.]` | "literally" |
-
-The `:abbr[]` directive provides **localized tooltips** — readers see explanations in their UI language.
-
-### JSX Component Rules
-
-**CRITICAL**: Always wrap Interslavic text in `<TransliteratorElement>`:
-
-```jsx
-// WRONG - no transliteration support
-<td>dělati</td>
-
-// RIGHT - respects user's script preference
-<td><TransliteratorElement>dělati</TransliteratorElement></td>
-```
-
-**Pattern for computed tables** (preferred):
-
-```jsx
-import { declensionNoun } from '@interslavic/utils';
-import { TransliteratorElement } from '@site/src/components';
-
-export default function NounTable({ lemma, gender, animate }) {
-  const forms = declensionNoun(lemma, '', gender, animate);
-  return (
-    <table>
-      {/* Map over forms, wrap each in TransliteratorElement */}
-    </table>
+**Right** - self-contained functions:
+```js
+export function buildMotionVerbsTable() {
+  return buildTable(
+    [...flatten(hoditi), ...flatten(idti), ...flatten(pojdti)],
+    { rows: 'lemma', columns: 'misc.Motion', filter: { include: { 'feats.VerbForm': 'Inf' } } }
   );
 }
 ```
 
-**Pattern for static tables** (when no util function exists):
+Functions encapsulate **both** the lemma imports AND the config. They're testable units.
 
-```jsx
-import { TransliteratorElement } from '@site/src/components';
+## File Organization: Consolidate by Topic
 
-export default function MotionVerbs() {
-  return (
-    <table>
-      <tr>
-        <td><TransliteratorElement>hoditi</TransliteratorElement></td>
-        {/* ... */}
-      </tr>
-    </table>
-  );
+**Wrong** - one file per table:
+```
+src/markdown/verbs/
+  MotionVerbsTable.logic.ts
+  MotionVerbsTable.i18n.json
+  PresentTenseTable.logic.ts
+  PresentTenseTable.i18n.json
+  ... (40+ files)
+```
+
+**Right** - one file per topic:
+```
+src/markdown/verbs/
+  index.jsx         # All verb table components
+  verbs.logic.ts    # All build functions: buildMotionVerbsTable(), buildPresentTenseTable()...
+  verbs.i18n.json   # All verb-related translations
+  verbs.test.ts     # Snapshot tests for each function
+```
+
+### Example Structure
+
+```ts
+// verbs.logic.ts
+import { flatten } from '@site/src/utils/inflection/flatten';
+import { buildTable } from '@site/src/utils/inflection/buildTable';
+import hoditi from '@lemma/hoditi.json';
+import idti from '@lemma/idti.json';
+
+export function buildMotionVerbsTable() {
+  return buildTable([...flatten(hoditi), ...flatten(idti)], {
+    rows: 'lemma',
+    columns: 'misc.Motion',
+  });
+}
+
+export function buildPresentTenseTable() {
+  return buildTable([...flatten(delati)], {
+    rows: 'feats.Person',
+    columns: 'feats.Number',
+    filter: { include: { 'feats.Tense': 'Pres' } },
+  });
 }
 ```
 
-Use `<Tabs>` from `@theme/Tabs` for variants (singular/plural, hard/soft, conjugation classes).
+```jsx
+// index.jsx
+import { buildMotionVerbsTable, buildPresentTenseTable } from './verbs.logic';
+import { InflectionTable } from '@site/src/components';
 
-## Directory Structure
+export function MotionVerbsTable() {
+  return <InflectionTable table={buildMotionVerbsTable()} />;
+}
 
-```
-docs/                          # English MDX source (authoritative)
-i18n/{locale}/docusaurus-plugin-content-docs/  # Translations
-src/
-  components/
-    Transliterator/            # User-facing script converter tool
-    TransliteratorElement/     # Inline transliteration wrapper
-    IPA/                       # Phonetic symbols with audio
-    Abbr/                      # Abbreviation tooltips
-  markdown/                    # JSX components for MDX embedding
-    nouns/                     # Noun declension tables
-    verbs/                     # Verb conjugation tables
-    adjectives/                # Adjective tables
-    numerals/                  # Numeral tables + converter
-    ...
-  remark/                      # MDX preprocessing plugins
-    custom-directives.js       # :isv[], :abbr[], :ipa[], etc.
-    abbr-i18n.js              # Abbreviation translations
-  utils/                       # Site-specific utilities
-  theme/MDXContent/MDXComponents.js  # Component registration
+export function PresentTenseTable() {
+  return <InflectionTable table={buildPresentTenseTable()} />;
+}
 ```
 
-## Component Naming Convention
-
-Components are numbered per topic for sequential use in MDX:
-
-- `MDNouns1` - basic endings table
-- `MDNouns2` - masculine declension examples
-- `MDNouns3` - neuter declension examples
-- etc.
-
-This allows referencing specific tables: `:::component{name=MDNouns2}:::`
-
-## i18n
-
-- Default locale: `en`
-- Locales: be, bg, bs, cs, hr, mk, pl, ru, sk, sl, sr-Cyrl, uk
-- UI strings: `i18n/{locale}/` JSON files
-- Doc translations: `i18n/{locale}/docusaurus-plugin-content-docs/current/`
-
-Build auto-detects changed locale from `git-changes.log` for CI optimization.
-
-## Known Technical Debt
-
-1. **Verb components don't use `conjugationVerb()`** — they're hardcoded tables that should be refactored to use the util function
-2. **Missing `TransliteratorElement`** in some JSX components — audit needed
-3. **Inconsistent component patterns** — some use Tabs, some don't; some compute, some hardcode
-
-## Testing
-
-```bash
-yarn test                              # Unit tests (Jest + jsdom)
-yarn start & yarn test --config e2e/jest.config.js  # Visual regression
+```ts
+// verbs.test.ts
+it('buildMotionVerbsTable', (t) => t.assert.snapshot(buildMotionVerbsTable()));
+it('buildPresentTenseTable', (t) => t.assert.snapshot(buildPresentTenseTable()));
 ```
 
-## Before You Start Any Task
+## Utilities (`src/utils/inflection/`)
 
-1. **Read the legacy HTML** in `steen-legacy` repo if converting a page
-2. **Check `@interslavic/utils`** for existing functions before hardcoding
-3. **Check existing components** in `src/markdown/` — similar ones may exist
-4. **Wrap ALL Interslavic text** in directives (`:isv[]`) or `TransliteratorElement`
-5. **Test with script toggle** — content must work in both Latin and Cyrillic
+| Function | Purpose |
+|----------|---------|
+| `flatten(paradigm)` | Paradigm JSON → Token[] |
+| `buildTable(tokens, config)` | Token[] → TableStructure |
+| `buildTableGroups(tokens, config)` | Split into multiple tables (tabs) |
+| `renderForm(form)` | Markup (`*ending*`, `~aux~`) → HTML |
+
+### Form Markup
+
+- `*...*` → emphasized ending: `děla*ti*`
+- `~...~` → grayed auxiliary: `~budu~ děla*ti*`
+
+## Language Components (`src/components/Lang/`)
+
+| Component | Usage |
+|-----------|-------|
+| `<Lang lang="isv">` | Base component, reads script pref from localStorage |
+| `<Isv>` | Shorthand for `<Lang lang="isv">` |
+| `TransliteratorElement` | Deprecated alias for `<Isv>` |
+
+Script preference stored in `localStorage.interslavic-script-pref` as `Latn` or `Cyrl`.
+
+Remark directives (`:isv[]`, `:sr[]`, `:ru[]`) all render to `<Lang lang="...">`.
+
+## Common Patterns
+
+### Locale
+```js
+const { i18n } = useDocusaurusContext();
+const locale = i18n.currentLocale;
+```
+**Never** parse URL. Always `useDocusaurusContext()`.
+
+### ISV Text in JSX
+```jsx
+import { Isv } from '@site/src/components';
+<Isv>dělati</Isv>
+```
+
+### ISV Text in MDX
+```md
+:isv[dělati]
+```
+
+Both render to `<Lang lang="isv">` which reads user's script preference from localStorage.
+
+### Abbreviations
+`:abbr[m.]` → uses `src/remark/abbr-i18n.js` (supports composition: `m.sg.` = masculine + singular)
+
+## Before Any Task
+
+1. **Start from data** — What lemmas do I need? Do they exist in `@lemma/`?
+2. **Use existing utilities** — `flatten()`, `buildTable()` do the heavy lifting
+3. **Write functions** — Each function = lemmas + config, fully testable
+4. **Consolidate** — One `.logic.ts` per topic, not per table
+5. **Snapshot test** — Test the `TableStructure`, not rendered HTML
+6. **Explore first** — Run `grep`, read files. Don't reinvent.

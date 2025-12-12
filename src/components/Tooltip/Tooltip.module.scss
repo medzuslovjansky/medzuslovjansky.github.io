@@ -1,0 +1,101 @@
+// Trigger element (inline with content)
+.trigger {
+  cursor: help;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+
+  &:focus {
+    outline: 2px solid var(--ifm-color-primary);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+// Portal tooltip (rendered to document.body)
+.tooltipPortal {
+  position: fixed;
+  z-index: 9999;
+  padding: 0.5em 0.75em;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  max-width: 300px;
+  text-align: center;
+  pointer-events: none;
+
+  // Hidden by default
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(4px);
+  transition:
+    opacity 0.15s ease-out,
+    visibility 0.15s ease-out,
+    transform 0.15s ease-out;
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+// Arrow pointing down
+.arrow {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-bottom: none;
+}
+
+// Variant: default (neutral)
+.default.tooltipPortal {
+  background: var(--ifm-color-emphasis-800);
+  color: var(--ifm-color-emphasis-100);
+
+  .arrow {
+    border-top-color: var(--ifm-color-emphasis-800);
+  }
+}
+
+// Variant: info (blue)
+.info.tooltipPortal {
+  background: var(--ifm-color-info-dark);
+  color: white;
+
+  .arrow {
+    border-top-color: var(--ifm-color-info-dark);
+  }
+}
+
+// Variant: caution (yellow/orange)
+.caution.tooltipPortal {
+  background: var(--ifm-color-warning-dark);
+  color: white;
+
+  .arrow {
+    border-top-color: var(--ifm-color-warning-dark);
+  }
+}
+
+// Variant: warning (red)
+.warning.tooltipPortal {
+  background: var(--ifm-color-danger-dark);
+  color: white;
+
+  .arrow {
+    border-top-color: var(--ifm-color-danger-dark);
+  }
+}
+
+// Variant: tip (green)
+.tip.tooltipPortal {
+  background: var(--ifm-color-success-dark);
+  color: white;
+
+  .arrow {
+    border-top-color: var(--ifm-color-success-dark);
+  }
+}

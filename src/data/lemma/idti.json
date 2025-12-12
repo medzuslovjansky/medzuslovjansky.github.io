@@ -1,0 +1,14 @@
+{
+  "lemma": "idti",
+  "upos": "VERB",
+  "misc": { "Aspect": "Imp", "Motion": "Dir" },
+  "forms": [
+    { "form": "id*ti*", "feats": { "VerbForm": "Inf" } },
+    { "form": "id*u*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "id*eš*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "id*e*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "id*emo*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Plur", "Tense": "Pres" } },
+    { "form": "id*ete*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Plur", "Tense": "Pres" } },
+    { "form": "id*ut*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Plur", "Tense": "Pres" } }
+  ]
+}

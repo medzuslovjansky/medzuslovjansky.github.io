@@ -1,0 +1,14 @@
+{
+  "lemma": "hoditi",
+  "upos": "VERB",
+  "misc": { "Aspect": "Imp", "Motion": "NonDir" },
+  "forms": [
+    { "form": "hodi*ti*", "feats": { "VerbForm": "Inf" } },
+    { "form": "hož*u*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "hod*iš*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "hod*i*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Sing", "Tense": "Pres" } },
+    { "form": "hod*imo*", "feats": { "VerbForm": "Fin", "Person": "1", "Number": "Plur", "Tense": "Pres" } },
+    { "form": "hod*ite*", "feats": { "VerbForm": "Fin", "Person": "2", "Number": "Plur", "Tense": "Pres" } },
+    { "form": "hod*ęt*", "feats": { "VerbForm": "Fin", "Person": "3", "Number": "Plur", "Tense": "Pres" } }
+  ]
+}

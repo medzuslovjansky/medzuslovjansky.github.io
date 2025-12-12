@@ -1,8 +1,16 @@
+const path = require('path');
+
 function webpackConfigurePlugin(context, options) {
   return {
     name: 'docusaurus-webpack-plugin',
     configureWebpack(config, isServer, utils, content) {
-        config.devtool = 'source-map';
+      return {
+        resolve: {
+          alias: {
+            '@lemma': path.resolve(__dirname, '../data/lemma'),
+          },
+        },
+      };
     }
   }
 }

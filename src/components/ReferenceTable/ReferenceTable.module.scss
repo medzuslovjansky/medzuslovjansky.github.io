@@ -1,0 +1,19 @@
+.referenceTable {
+  border-collapse: collapse;
+  width: 100%;
+
+  th, td {
+    border: 1px solid var(--ifm-table-border-color);
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+  }
+
+  th {
+    background: var(--ifm-table-head-background);
+    font-weight: var(--ifm-font-weight-bold);
+  }
+
+  tbody tr:nth-child(even) {
+    background: var(--ifm-table-stripe-background);
+  }
+}

@@ -1,9 +1,11 @@
 import MDXComponents from "@theme-original/MDXComponents";
 import DocCardList from "@theme/DocCardList";
 import {
+  Abbr,
   CustomBeforeSection,
   CustomAfterSection,
   IPA,
+  Lang,
   Transliterator,
   TransliteratorElement,
 } from "@site/src/components";
@@ -69,11 +71,13 @@ import IntelligibilityBuilder from "@site/src/components/IntelligibilityBuilder/
 
 export default {
   ...MDXComponents,
+  Abbr,
   CustomAfterSection,
   CustomBeforeSection,
   DocCardList,
   IPA,
   IntelligibilityBuilder,
+  Lang,
   MDPronunciation1,
   MDPronunciation2,
   MDNouns1,
