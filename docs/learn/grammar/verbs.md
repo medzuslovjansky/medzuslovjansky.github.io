@@ -211,6 +211,11 @@ The only truly irregular verb is :isv[byti] „to be”. It is conjugated as fol
 :::component{name=MDVerbs10}
 :::
 
+**Full conjugation table (new):**
+
+:::component{name=MDVerbsByti}
+:::
+
 ### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 The verbs :isv[dati] „to give”, :isv[jesti] „to eat” and :isv[věděti] „to know” have an irregular present tense. Like :isv[byti], they belong to the so-called _athematic conjugation_, meaning that they have their root ending in a vowel. In the present tense, they are inflected as follows:

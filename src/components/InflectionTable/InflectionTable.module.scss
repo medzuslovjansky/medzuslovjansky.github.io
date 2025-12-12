@@ -1,0 +1,54 @@
+.inflectionTable {
+  border-collapse: collapse;
+
+  th, td {
+    border: 1px solid var(--ifm-table-border-color);
+    padding: 0.5rem;
+    text-align: center;
+  }
+
+  th {
+    background: var(--ifm-table-head-background);
+    font-weight: bold;
+  }
+
+  // Vertical text for Number headers etc.
+  .vertical {
+    position: relative;
+
+    > * {
+      writing-mode: vertical-rl;
+      text-orientation: mixed;
+      white-space: nowrap;
+
+      // Center within cell
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: rotate(180deg) translate(50%, 50%);
+    }
+  }
+
+  // Auxiliary verbs (grayed out)
+  :global(.aux) {
+    color: var(--ifm-color-secondary-darker);
+    font-weight: normal;
+  }
+
+  // Emphasized endings
+  strong {
+    font-weight: bold;
+  }
+
+  // Variant forms (clitics, short forms)
+  .variant {
+    font-size: 0.9em;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+
+  // Empty cells
+  .empty {
+    color: var(--ifm-color-secondary);
+  }
+}

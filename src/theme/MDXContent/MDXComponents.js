@@ -37,6 +37,7 @@ import MDVerbs8 from "@site/src/markdown/verbs/participlesAndGerund";
 import MDVerbs9 from "@site/src/markdown/verbs/byti1";
 import MDVerbs10 from "@site/src/markdown/verbs/byti2";
 import MDVerbs11 from "@site/src/markdown/verbs/irregularExamples";
+import MDVerbsByti from "@site/src/markdown/verbs/bytiNew";
 import MDPhonology1 from "@site/src/markdown/phonology/phonology-ipa";
 import MDPhonology2 from "@site/src/markdown/phonology/consonants";
 import MDPhonology3 from "@site/src/markdown/phonology/phonologyOverview";
@@ -103,6 +104,7 @@ export default {
   MDVerbs9,
   MDVerbs10,
   MDVerbs11,
+  MDVerbsByti,
   MDPhonology1,
   MDPhonology2,
   MDPhonology3,

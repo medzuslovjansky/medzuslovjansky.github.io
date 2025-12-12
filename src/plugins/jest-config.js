@@ -1,6 +1,6 @@
-const { load } = require("@docusaurus/core/lib/server");
-const { applyConfigureWebpack } = require("@docusaurus/core/lib/webpack/utils");
-const createClientConfig = require("@docusaurus/core/lib/webpack/client").default;
+const { loadSite } = require("@docusaurus/core/lib/server/site");
+const { applyConfigureWebpack } = require("@docusaurus/core/lib/webpack/configure");
+const { createBuildClientConfig } = require("@docusaurus/core/lib/webpack/client");
 
 process.stdout.write("Using Jest config for Docusaurus...\n");
 
@@ -36,12 +36,13 @@ const applyConfig = async (inputConfig) => {
 };
 
 const makeConfig = async (localPath = process.cwd()) => {
-    const props = await load({
+    const site = await loadSite({
         siteDir: process.cwd(),
     });
+    const props = site.props;
     // Load up the Docusaurus client Webpack config,
     // so we can extract its aliases
-    let webpackConfig = await createClientConfig(props);
+    let webpackConfig = await createBuildClientConfig({ props });
     // Allow plugins to make any final tweaks to the config
     props.plugins
         .filter((plugin) => "configureWebpack" in plugin)

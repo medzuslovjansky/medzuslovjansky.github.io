@@ -1,0 +1,24 @@
+{
+  "description": "Header tokens for verb conjugation tables",
+  "tokens": [
+    { "form": "ja", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "1", "Lang": "isv" }, "feats": { "Number": "Sing" } },
+    { "form": "ty", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "2", "Lang": "isv" }, "feats": { "Number": "Sing" } },
+    { "form": "on", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "3m", "Lang": "isv" }, "feats": { "Number": "Sing" } },
+    { "form": "ona", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "3f", "Lang": "isv" }, "feats": { "Number": "Sing" } },
+    { "form": "ono", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "3n", "Lang": "isv" }, "feats": { "Number": "Sing" } },
+    { "form": "my", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "1", "Lang": "isv" }, "feats": { "Number": "Plur" } },
+    { "form": "vy", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "2", "Lang": "isv" }, "feats": { "Number": "Plur" } },
+    { "form": "oni", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "3m", "Lang": "isv" }, "feats": { "Number": "Plur" } },
+    { "form": "one", "lemma": "_header", "misc": { "HeaderFor": "misc.PersonRow", "PersonRow": "3f", "Lang": "isv" }, "feats": { "Number": "Plur" } },
+
+    { "form": "singular", "lemma": "_header", "feats": { "Number": "Sing" }, "misc": { "HeaderFor": "feats.Number", "I18n": "Yes", "Class": "vertical" } },
+    { "form": "plural", "lemma": "_header", "feats": { "Number": "Plur" }, "misc": { "HeaderFor": "feats.Number", "I18n": "Yes", "Class": "vertical" } },
+
+    { "form": "present", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "Present", "I18n": "Yes" } },
+    { "form": "simple past", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "SimplePast", "I18n": "Yes", "Tooltip": "Rarely used. Most Slavs won't understand these forms. Avoid in communication with Poles, Russians, etc." } },
+    { "form": "compound past", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "CompoundPast", "I18n": "Yes", "Tooltip": "The standard past tense form, understood by all Slavs." } },
+    { "form": "future", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "Future", "I18n": "Yes" } },
+    { "form": "conditional", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "Conditional", "I18n": "Yes" } },
+    { "form": "imperative", "lemma": "_header", "misc": { "HeaderFor": "misc.TenseCol", "TenseCol": "Imperative", "I18n": "Yes" } }
+  ]
+}
