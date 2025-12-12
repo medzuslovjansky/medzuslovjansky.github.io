@@ -50,7 +50,6 @@ async function createConfig() {
     baseUrl: '/',
     trailingSlash: true,
     onBrokenLinks: 'warn',
-    onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'medzuslovjansky',
     projectName: 'medzuslovjansky.github.io',
@@ -150,6 +149,9 @@ async function createConfig() {
 
     markdown: {
       format: 'mdx',
+      hooks: {
+        onBrokenMarkdownLinks: 'warn',
+      },
     },
 
     themeConfig:
