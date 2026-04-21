@@ -161,7 +161,7 @@ _Войтех Мерунка_ і _Ян ван Стенберген_, голов�
 
 [14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ./../resources/keyboards.md
+[15]: ./../resources/keyboards/index.md
 
 [16]: ./../resources/index.md
 last_update:

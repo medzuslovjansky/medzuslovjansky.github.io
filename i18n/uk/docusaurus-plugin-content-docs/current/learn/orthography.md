@@ -131,7 +131,7 @@ Interslavic використовує літеру `ј` із сербської �
   - Звертаючись до представників певної слов’янської нації (наприклад, коли ви подорожуєте), ви можете подумати [флаворизувати свою міжслов’янську][4]. Однак не використовуйте ароматизацію в мультислов’янських середовищах.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

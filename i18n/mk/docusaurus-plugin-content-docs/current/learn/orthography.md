@@ -130,7 +130,7 @@ Interslavic ја користи буквата `ј` од српската и м�
 - Кога им се обраќате на припадниците на одредена словенска нација (на пример, кога патувате), може да размислите за [да го вкусите вашиот меѓусловенски јазик][4]. Сепак, не користете ароматизација во мултисловенски средини.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

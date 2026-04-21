@@ -130,7 +130,7 @@ origin: http://steen.free.fr/interslavic/orthography.html
 - Звяртаючыся да прадстаўнікоў пэўнай славянскай нацыі (напрыклад, калі вы падарожнічаеце), вы можаце падумаць пра тое, каб [прыкарыстаць сваю міжславянскую][4]. Аднак не выкарыстоўвайце флаварызацыю ў поліславянскім асяроддзі.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

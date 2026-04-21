@@ -164,6 +164,6 @@ _Војтјех Мерунка_ и _Јан ван Стеенберген_, гл�
 
 [14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ./../resources/keyboards.md
+[15]: ./../resources/keyboards/index.md
 
 [16]: ./../resources/index.md

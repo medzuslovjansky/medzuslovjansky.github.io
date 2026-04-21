@@ -1,0 +1,51 @@
+---
+sidebar_position: 2
+title: Keyboards
+description: Keyboard layouts for typing Interslavic in Latin and Cyrillic scripts.
+---
+
+import { KeyboardCard, KeyboardCardGrid } from "@site/src/components";
+
+# Keyboards
+
+Physical keyboard layouts for writing Interslavic. Pick the script you prefer — each layout covers all Slavic diacritics on <kbd>AltGr</kbd>.
+
+## Interslavic-specific layouts \{#interslavic-layouts}
+
+<KeyboardCardGrid>
+  <KeyboardCard
+    layoutId="isv-Latn"
+    title="Interslavic Latin"
+    description="QWERTY base preserved; š, đ, č, ć, ž sit on the right-side keys (Croatian/Slovenian style). Etymological ě, ę, ų, å and the rest of Slavic diacritics live on AltGr."
+    href="/resources/keyboards/kbdmslat"
+  />
+  <KeyboardCard
+    layoutId="isv-Cyrl"
+    title="Interslavic Cyrillic"
+    description="Based on Ukrainian ЙЦУКЕН: Ј replaces Й; ы, ӑ, ъ, ѧ, ѫ take the Ukrainian-only slots (і, щ, ї, я, ю). Љ, Њ and etymological letters on AltGr."
+    href="/resources/keyboards/kbdmscyr"
+  />
+</KeyboardCardGrid>
+
+## Built-in national layouts \{#national-layouts}
+
+If no Interslavic-specific layout is installed, these native layouts already cover most Slavic glyphs.
+
+<KeyboardCardGrid>
+  <KeyboardCard
+    title="Interslavic ABC"
+    description="The standard US English (ABC) keyboard, used as-is. Type Interslavic using only the base Latin letters — no diacritics. Universally available; good for chat, URLs and quick notes."
+  />
+  <KeyboardCard
+    title="QWERTZ (Czech)"
+    description="Czech national layout. Y and Z are swapped; the top number row yields ěščřžýáíé instead of digits. Covers Slovak and Croatian glyphs too."
+  />
+  <KeyboardCard
+    title="ЙЦУКЕН (Russian)"
+    description="Standard Russian Cyrillic layout. Covers the shared ЙЦУКЕН layer but lacks ј, љ, њ, ћ, ђ, ѣ."
+  />
+  <KeyboardCard
+    title="ЙЦУКЕН (Ukrainian)"
+    description="Standard Ukrainian Cyrillic layout — same ЙЦУКЕН base with і, ї, є, ґ. Closest built-in match for Interslavic Cyrillic."
+  />
+</KeyboardCardGrid>

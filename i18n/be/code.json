@@ -452,5 +452,57 @@
   "com.grammar.other": {
     "message": "іншае",
     "description": "other"
+  },
+  "com.keyboard.layer.default": {
+    "message": "Default",
+    "description": "Keyboard preview: default modifier layer"
+  },
+  "com.keyboard.layer.shift": {
+    "message": "Shift",
+    "description": "Keyboard preview: Shift modifier layer"
+  },
+  "com.keyboard.layer.alt": {
+    "message": "AltGr",
+    "description": "Keyboard preview: AltGr modifier layer"
+  },
+  "com.keyboard.layer.altShift": {
+    "message": "AltGr + Shift",
+    "description": "Keyboard preview: AltGr + Shift modifier layer"
+  },
+  "com.keyboard.layerGroup.label": {
+    "message": "Keyboard modifier layer",
+    "description": "Keyboard preview: modifier layer group aria-label"
+  },
+  "com.keyboard.region.label": {
+    "message": "Interactive keyboard preview",
+    "description": "Keyboard preview: focus region aria-label"
+  },
+  "com.keyboard.tryItHint": {
+    "message": "Click to focus, then press keys to highlight them.",
+    "description": "Keyboard preview: usage hint"
+  },
+  "com.keyboard.unknownLayout": {
+    "message": "Unknown keyboard layout: {layoutId}",
+    "description": "Keyboard preview: fallback when layoutId is not registered"
+  },
+  "com.os.Windows": {
+    "message": "Windows",
+    "description": "Operating system: Windows"
+  },
+  "com.os.macOS": {
+    "message": "macOS",
+    "description": "Operating system: macOS"
+  },
+  "com.os.Linux": {
+    "message": "Linux",
+    "description": "Operating system: Linux"
+  },
+  "com.os.Debian": {
+    "message": "Debian / Ubuntu",
+    "description": "Operating system: Debian/Ubuntu"
+  },
+  "com.os.Fedora": {
+    "message": "Fedora / RHEL",
+    "description": "Operating system: Fedora/RHEL"
   }
 }

@@ -130,7 +130,7 @@ Naslednja tabela prikazuje ujemanja med zgoraj omenjenimi črkami (predlagana al
 - Ko nagovarjate pripadnike določenega slovanskega naroda (na primer, ko ste na potovanju), lahko razmislite o tem, da [okusite svojo medslovanščino][4]. Vendar pa aromatiziranja ne uporabljajte v večslovanskih okoljih.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

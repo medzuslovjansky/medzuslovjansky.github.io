@@ -1,0 +1,112 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+
+  @media (max-width: 480px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background: var(--ifm-card-background-color, var(--ifm-background-surface-color));
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+
+  &:hover {
+    border-color: var(--ifm-color-primary-lighter);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+}
+
+.previewLink {
+  display: block;
+  padding: 0.75rem 0.75rem 0.25rem;
+  background: var(--ifm-color-emphasis-100);
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.preview {
+  display: block;
+  max-width: 100%;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem 1rem;
+  flex: 1;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.titleLink {
+  color: var(--ifm-heading-color);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--ifm-color-primary);
+    text-decoration: none;
+  }
+}
+
+.description {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.45;
+  flex: 1;
+}
+
+.platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.25rem 0 0;
+}
+
+.platformItem {
+  margin: 0;
+  display: inline-flex;
+}
+
+.platformLink {
+  display: inline-flex;
+  padding: 4px;
+  border-radius: 6px;
+  transition: background-color 120ms ease, transform 120ms ease;
+
+  &:hover,
+  &:focus-visible {
+    background: var(--ifm-color-emphasis-100);
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--ifm-color-primary);
+    outline-offset: 2px;
+  }
+}
+
+.platformIcon {
+  width: auto;
+  // ~3 lines of body text (0.9rem line-height 1.45)
+  height: calc(0.9rem * 1.45 * 3);
+}

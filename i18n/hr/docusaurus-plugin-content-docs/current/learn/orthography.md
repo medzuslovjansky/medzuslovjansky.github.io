@@ -130,7 +130,7 @@ Ukratko, postoji nekoliko mogućnosti za pisanje iste riječi. Opća smjernica j
 - Kada se obraćate pripadnicima određenog slavenskog naroda (na primjer, kada putujete), razmislite o [aromatiziranju svog međuslavenskog][4]. Međutim, nemojte koristiti aromatizaciju u višeslavenskim sredinama.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

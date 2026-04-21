@@ -1,0 +1,66 @@
+---
+sidebar_position: 1
+title: Interslavic Latin (kbdmslat)
+description: Download, installation and usage of the Interslavic Latin keyboard layout.
+---
+
+import { KeyboardPreview, PlatformDownloads } from "@site/src/components";
+
+# Interslavic Latin keyboard
+
+This is the recommended keyboard layout for all Slavic languages and dialects using the Latin script — from Polish and Czech to less familiar regional and endangered varieties.
+
+<KeyboardPreview layoutId="isv-Latn" />
+
+## Key features \{#features}
+
+- **Inclusivity.** Built on the standard English keyboard, the layout provides every Latin-script letter used in Slavic orthographies, plus diacritical marks and typographical symbols.
+- **Accessibility.** Special characters are reachable via <kbd>AltGr</kbd> combinations or via dead keys on the top row.
+- **Compatibility.** Works on Windows XP through the latest releases; macOS and Linux packages are listed below.
+- **Customisability.** The Windows archive ships a Microsoft Keyboard Layout Creator source file so you can tweak bindings.
+
+## Downloads \{#downloads}
+
+<PlatformDownloads
+  downloads={[
+    {
+      platform: "windows",
+      href: "https://tyflonet.com/siciliano/kbdmslat.zip",
+      fileName: "kbdmslat.zip",
+    },
+    {
+      platform: "mac",
+      href: "https://github.com/medzuslovjansky/keyboards/tree/main/mac",
+      fileName: "interslavic-kbd.pkg",
+    },
+  ]}
+/>
+
+## Installation \{#installation}
+
+### Windows \{#windows}
+
+The keyboard works on Windows XP, Vista, 7, 8, 10 and 11.
+Unpack the archive and run `KBDMSLAT.exe`.
+When the installer finishes, a dialogue appears with a **Close** button.
+You can switch to the layout by pressing <kbd>Alt</kbd>+<kbd>Shift</kbd>, or (if the Slovenian base layout is already selected) <kbd>Ctrl</kbd>+<kbd>Shift</kbd> — the keyboard installs under the Slovenian language slot (SLO, matching the first letters of *Slavic*).
+To uninstall, run the installer again and click **Finish**.
+
+The archive also contains a `.klc` source file for the Microsoft Keyboard Layout Creator, so you can modify the layout if you wish.
+
+### macOS \{#mac}
+
+Download the `.bundle` or `.pkg` from the [community repository](https://github.com/medzuslovjansky/keyboards/tree/main/mac) and follow the repository's install notes.
+After installation, add the layout from **System Settings → Keyboard → Input Sources**.
+
+### Debian / Ubuntu \{#deb}
+
+No pre-built `.deb` package is available yet.
+Use one of the built-in layouts that already covers most Interslavic glyphs — see the [Built-in national layouts][builtins] section on the keyboards index page.
+
+### Fedora / RHEL \{#rpm}
+
+No pre-built `.rpm` package is available yet.
+Use one of the built-in layouts that already covers most Interslavic glyphs — see the [Built-in national layouts][builtins] section on the keyboards index page.
+
+[builtins]: /resources/keyboards/#national-layouts

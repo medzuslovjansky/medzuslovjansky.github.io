@@ -6,6 +6,13 @@ last_update:
 
 # Клавиатури
 
+:::component{name=KeyboardPreview layoutId=isv-Latn}
+:::
+
+:::component{name=DocCardList}
+:::
+
+
 ## :notr[Windows] \{#windows}
 
 [http://tyflonet.com/siciliano/klaviatury][1]

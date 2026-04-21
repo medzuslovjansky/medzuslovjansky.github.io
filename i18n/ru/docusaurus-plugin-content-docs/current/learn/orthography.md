@@ -131,7 +131,7 @@ last_update:
 - Обращаясь к представителям определенной славянской нации (например, когда вы путешествуете), вы можете подумать о [ароматизации своего межславянского языка][4]. Однако не используйте ароматизацию в мультиславянских средах.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

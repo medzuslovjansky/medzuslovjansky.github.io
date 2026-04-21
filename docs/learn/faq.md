@@ -146,5 +146,5 @@ Interslavic is not a form of Pan-Slavism and does not endorse any political stan
 [12]: ./grammar/index.md
 [13]: ./simple-grammar/index.md
 [14]: ./orthography.md#representation-of-problematic-characters
-[15]: ./../resources/keyboards.md
+[15]: ./../resources/keyboards/index.md
 [16]: ./../resources/index.md

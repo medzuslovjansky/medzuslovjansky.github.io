@@ -1,0 +1,24 @@
+.icon {
+  display: inline-block;
+  width: 49px;
+  height: 40px;
+  flex: 0 0 auto;
+}
+
+.frame {
+  fill: var(--isv-laptop-frame, #4c587b);
+}
+
+.base {
+  stroke: var(--isv-laptop-frame, #4c587b);
+  fill: none;
+}
+
+.screen path {
+  fill: var(--isv-laptop-screen, #dde9fb);
+}
+
+.strokeScreen path {
+  stroke: var(--isv-laptop-screen, #dde9fb);
+  fill: none;
+}
