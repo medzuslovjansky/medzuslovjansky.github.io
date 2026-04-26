@@ -10,8 +10,8 @@ export default function PhonologyOverview() {
       <TabItem value="dental/alveolar" label="Dental/alveolar">
         <DentalAlveolar />
       </TabItem>
-      <TabItem value="velar/palata" label="Velar/palatar">
-        <VelarPalatar />
+      <TabItem value="velar/palatal" label="Velar/palatal">
+        <VelarPalatal />
       </TabItem>
       <TabItem value="clusters" label="Clusters">
         <Clusters />
@@ -141,7 +141,7 @@ function DentalAlveolar() {
   )
 }
 
-function VelarPalatar() {
+function VelarPalatal() {
   return (
     <table className="table_sticky">
       <tbody>
