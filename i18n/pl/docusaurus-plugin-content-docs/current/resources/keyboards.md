@@ -6,37 +6,37 @@ last_update:
 
 # Klawiatury
 
-### Windows \{#windows}
+## :notr[Windows] \{#windows}
 
 [http://tyflonet.com/siciliano/klaviatury][1]
 
-### Mac \{#mac}
+## :notr[Mac] \{#mac}
 
 TODO: dodać linki
 
-### Linux \{#linux}
+## :notr[Linux] i :notr[BSD] \{#linux}
 
-- Rozszerzona łacina MS na międzynarodowych klawiaturach łacińskich (takich jak hrvatska w wariancie unicodeus).
+- Rozszerzona łacina MS na międzynarodowych klawiaturach łacińskich (takich jak :notr[hrvatska] w wariancie :notr[unicodeus]).
 - Pełna cyrylica na standardowej klawiaturze ukraińskiej.
 
-### Android \{#android}
+## :notr[Android] \{#android}
 
 [http://usachov.eu/g][2]
 
-### Inne platformy \{#other-platforms}
+## Inne platformy \{#other-platforms}
 
 Jeżeli dla Twojej platformy nie ma klawiatury, możesz spróbować skorzystać z wbudowanych układów klawiatury:
 
 Dla **międzysłowiańskiego alfabetu łacińskiego**:
 
 - Czeski (standardowy, cześciowo etymologiczny)
-- Chorwacki (exempted)
-- Serbski (exonerated)
-- Słoweński (exempted)
+- Chorwacki (z wyjątkami)
+- Serbski (z wyjątkami)
+- Słoweński (z wyjątkami)
 
 Dla **międzysłowiańskiej cyrylicy**:
 
-- Serbski (exempted, bez "Ы")
+- Serbski (z wyjątkami, bez `Ы`)
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 

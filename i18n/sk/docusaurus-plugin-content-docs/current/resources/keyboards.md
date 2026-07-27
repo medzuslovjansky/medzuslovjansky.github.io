@@ -6,37 +6,37 @@ last_update:
 
 # Klávesnice
 
-### Windows \{#windows}
+## :notr[Windows] \{#windows}
 
 [http://tyflonet.com/siciliano/klaviatury][1]
 
-### Mac \{#mac}
+## :notr[Mac] \{#mac}
 
 TODO: pridať odkazy
 
-### Linux \{#linux}
+## :notr[Linux] a :notr[BSD] \{#linux}
 
-- Rozšírená MS latinka na medzinárodných latinských klávesniciach (napríklad hrvatska vo variante unicodeus).
+- Rozšírená MS latinka na medzinárodných latinských klávesniciach (napríklad :notr[hrvatska] vo variante :notr[unicodeus]).
 - Plná cyrilická klávesnica je na štandardnej ukrajinskej klávesnici.
 
-### Android \{#android}
+## :notr[Android] \{#android}
 
 [http://usachov.eu/g][2]
 
-### Iné platformy \{#other-platforms}
+## Iné platformy \{#other-platforms}
 
 Ak pre vašu platformu neexistuje žiadna klávesnica, môžete skúsiť použiť niektoré vstavané rozloženia klávesnice:
 
 Pre **medzislovanskú latinskú** abecedu:
 
 - čeština (štandardná, čiastočne etymologická)
-- chorvátčina (vyňatá)
-- Srbsko (ospravedlnené)
-- slovenčina (vyňatá)
+- chorvátčina (s výnimkami)
+- srbčina (s výnimkami)
+- slovinčina (s výnimkami)
 
 Pre **medzislovanskú azbuku**:
 
-- srbčina (vyňatá, bez "Ы")
+- srbčina (s výnimkami, bez `Ы`)
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 

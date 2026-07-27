@@ -6,37 +6,37 @@ last_update:
 
 # Tastature
 
-### Windows \{#windows}
+## :notr[Windows] \{#windows}
 
 [http://tyflonet.com/siciliano/klaviatury][1]
 
-### Mac \{#mac}
+## :notr[Mac] \{#mac}
 
 TODO: dodajte linkove
 
-### Linux \{#linux}
+## :notr[Linux] i :notr[BSD] \{#linux}
 
-- Proširena MS latinica na međunarodnim latiničnim tipkovnicama (kao što je hrvatska u varijanti unicodeus).
+- Proširena MS latinica na međunarodnim latiničnim tipkovnicama (kao što je :notr[hrvatska] u varijanti :notr[unicodeus]).
 - Potpuno ćirilična tastatura je na standardnoj ukrajinskoj tastaturi.
 
-### Android \{#android}
+## :notr[Android] \{#android}
 
 [http://usachov.eu/g][2]
 
-### Ostale platforme \{#other-platforms}
+## Ostale platforme \{#other-platforms}
 
 Ako ne postoji tastatura za vašu platformu, možete pokušati koristiti neke ugrađene rasporede tipkovnice:
 
 Za **međuslavensku latinicu** pismo:
 
 - češki (standardni, djelimično etimološki)
-- hrvatski (izuzeto)
-- Srbija (oslobođen)
-- slovenski (izuzeto)
+- hrvatski (uz izuzetke)
+- srpski (uz izuzetke)
+- slovenski (uz izuzetke)
 
 Za **međuslavensku ćirilicu** pismo:
 
-- srpski (izuzeto, bez "Y")
+- srpski (uz izuzetke, bez `Ы`)
 
 [1]: http://tyflonet.com/siciliano/klaviatury
 
