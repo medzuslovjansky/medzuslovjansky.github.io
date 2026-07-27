@@ -161,7 +161,7 @@ Interslavenstvo nije oblik panslavizma i ne podržava nikakav politički stav. T
 
 [14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ./../resources/keyboards.md
+[15]: ./../resources/keyboards/index.md
 
 [16]: ./../resources/index.md
 last_update:

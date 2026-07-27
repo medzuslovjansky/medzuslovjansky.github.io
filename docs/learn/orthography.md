@@ -130,7 +130,7 @@ To summarise, there are several possibilities for writing the same word. The gen
 - When addressing a members of a particular Slavic nation (for example, when you are travelling), you might consider [flavourising your Interslavic][4]. However, do not use flavorisation in multi-Slavic environments.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

@@ -130,7 +130,7 @@ Interslavic използва буквата `ј` от сръбската и ма
 - Когато се обръщате към членове на конкретна славянска нация (например, когато пътувате), може да обмислите [овкусяване на междуславянския] [4]. Не използвайте обаче овкусяване в многославянски среди.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html

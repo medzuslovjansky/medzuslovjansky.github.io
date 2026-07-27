@@ -166,6 +166,6 @@ _Войцех Мэрунка_ і _Ян ван Стэнберген_ — гало
 
 [14]: ./orthography.md#representation-of-problematic-characters
 
-[15]: ./../resources/keyboards.md
+[15]: ./../resources/keyboards/index.md
 
 [16]: ./../resources/index.md

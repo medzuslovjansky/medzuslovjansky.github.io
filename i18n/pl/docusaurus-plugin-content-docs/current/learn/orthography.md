@@ -130,7 +130,7 @@ Podsumowując, istnieje kilka możliwości napisania tego samego słowa. Ogólna
 - Zwracając się do członków określonego narodu słowiańskiego (na przykład podczas podróży), możesz rozważyć [flaworyzowanie swojego języka międzysłowiańskiego][4]. Nie stosuj jednak flaworyzowania w środowiskach wielosłowiańskich.
 
 [1]: #representation-of-problematic-characters
-[2]: ../resources/keyboards.md
+[2]: ../resources/keyboards/index.md
 [3]: https://web.archive.org/web/20230201091637/http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html
 [4]: vocabulary/flavourisation.md
 [5]: http://steen.free.fr/interslavic/transliterator.html
