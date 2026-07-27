@@ -15,30 +15,30 @@ Na [**Poziomie 1**][1] nauczyłeś się szeregu form, dzięki którym możesz by
 
 **Poziom 2** różni się od **Poziomu 1** pod dwoma względami:
 
-1. O rodzaju płci w języku słowiańskim i jego zastosowaniu dowiesz się w :notr[Slovianto],
+1. Dowiesz się o rodzaju gramatycznym w języku słowiańskim i o tym, jak go używać w :notr[Slovianto],
 2. Nauczysz się odmieniać czasowniki.
 
-## Płeć
+## Rodzaj gramatyczny (płeć)
 
 Większość języków europejskich ma rodzaj gramatyczny – angielski jest jednym z nielicznych wyjątków. Jest niczym więcej niż logicznym, że słowa oznaczające osoby płci męskiej są zawsze rodzaju męskiego, a słowa oznaczające osoby żeńskie są zawsze żeńskie. Idea rodzaju gramatycznego jest jednak taka, że _każdy_ rzeczownik ma rodzaj, nawet jeśli nie ma żadnego logicznego związku pomiędzy tym rodzajem a znaczeniem tego słowa. Na przykład w języku francuskim :fr[l**e** vin] „wino” jest rodzaju męskiego, a :fr[l**a** bière] „piwo” jest rodzaju żeńskiego. W języku niemieckim :de[**der** Wein] „wino” jest również rodzaju męskiego, ale :de[**das** Bier] „piwo” jest rodzaju nijakiego. Rodzaj rzeczownika wpływa nie tylko na rodzajnik, ale także na przymiotniki, zaimki dzierżawcze i inne słowa modyfikujące ten rzeczownik. Francuski ma :fr[un bon vin froid] „jedno dobre zimne wino”, ale :fr[un**e** bon**ne** bière froid**e**] „jedno dobre zimne piwo”.
 
-Wszystkie języki słowiańskie mają trzy rodzaje: męski, żeński i nijaki. Na pierwszym poziomie :notr[Slovianto] płeć nie odgrywa roli, ponieważ nie jest niezbędna do komunikacji na najbardziej podstawowym poziomie. Małe dzieci często popełniają błędy związane z płcią, ale nadal można je zrozumieć. Co nie zmienia faktu, że :isv[dobry žena] „dobra kobieta” brzmi nieporadnie, bo :isv[žena] jest żeńskie, a końcówka `-y` jest męska. Możesz sprawić, że Twój :notr[Slovianto] będzie wyglądał i brzmiał o wiele bardziej naturalnie, jeśli uwzględnisz także płeć. Ustalenie rodzaju rzeczownika nie jest wcale trudne, ponieważ niemal we wszystkich przypadkach samo spojrzenie na słowo wystarczy, aby poznać jego rodzaj, co oznacza, że nie ma potrzeby poznawania rodzaju osobno.
+Wszystkie języki słowiańskie mają trzy rodzaje: męski, żeński i nijaki. Na pierwszym poziomie :notr[Slovianto] płeć nie odgrywa roli, ponieważ nie jest niezbędna do komunikacji na najbardziej podstawowym poziomie. Małe dzieci często popełniają błędy związane z płcią, ale nadal można je zrozumieć. Co nie zmienia faktu, że :isv[dobry žena] „dobry kobieta” brzmi nieporadnie, bo :isv[žena] jest żeńskie, a końcówka `-y` jest męska — dokładnie tak jak w języku polskim. Możesz sprawić, że Twój :notr[Slovianto] będzie wyglądał i brzmiał o wiele bardziej naturalnie, jeśli uwzględnisz także płeć. Ustalenie rodzaju rzeczownika nie jest wcale trudne, ponieważ niemal we wszystkich przypadkach samo spojrzenie na słowo wystarczy, aby poznać jego rodzaj, co oznacza, że nie ma potrzeby poznawania rodzajów osobno.
 
 ### Rzeczowniki
 
 Aby dowiedzieć się, czy dane słowo jest rodzaju męskiego, żeńskiego czy nijakiego, wystarczy spojrzeć na końcówkę:
 
 - Wyrazy rodzaju męskiego zawsze kończą się spółgłoską:
-  - :isv[muž] „człowiek”
+  - :isv[muž] „mąż, mężczyzna”
   - :isv[syn] „syn”
   - :isv[dom] „dom”
 
-- Słowa na `-a` są rodzaju żeńskiego:
-  - :isv[žena] „kobieta, żona”
+- Słowa z `-a` na końcu są rodzaju żeńskiego:
+  - :isv[žena] „żona, kobieta”
   - :isv[duša] „dusza”
   - :isv[voda] „woda”
 
-- Słowa w `-o` i `-e` są nijakie:
+- Słowa kończące się na `-o` i `-e` są nijakie:
   - :isv[slovo] „słowo”
   - :isv[děte] „dziecko”
   - :isv[morje] „morze”
@@ -57,11 +57,11 @@ Na pierwszym poziomie nauczyłeś się, że końcówka liczby mnogiej to `-i`. D
 
 ### Przymiotniki
 
-Rodzaj ma nie tylko rzeczowniki, to samo dotyczy przymiotników i podobnych modyfikatorów. Podobnie jak we francuskim i niemieckim, języki słowiańskie mają _zgodność płci_. Oznacza to, że gdy rzeczownikowi rodzaju męskiego towarzyszy przymiotnik, to przymiotnik ten przyjmuje formę męską, rzeczownik żeński przyjmuje formę żeńską przymiotnika itd. :isv[Dobry žena] wygląda trochę dziecinnie i nieporadnie, bo łączy rzeczownik żeński z przymiotnik rodzaju męskiego. Pamiętaj więc o następujących rzeczach:
+Rodzaj ma nie tylko rzeczowniki, to samo dotyczy przymiotników i przydawek. Podobnie jak we francuskim i niemieckim, języki słowiańskie mają _zgodność płci_. Oznacza to, że gdy rzeczownikowi rodzaju męskiego towarzyszy przymiotnik, to przymiotnik ten przyjmuje formę męską, rzeczownik żeński przyjmuje formę żeńską przymiotnika itd. :isv[Dobry žena] wygląda trochę dziecinnie i nieporadnie, bo łączy rzeczownik żeński z przymiotnik rodzaju męskiego. Pamiętaj więc o następujących rzeczach:
 
 - Końcówka męska to `-y` lub `-i`. Oto forma podana w słowniku:
 
-  :isv[dobry muž] „dobry człowiek”
+  :isv[dobry muž] „dobry mężczyzna”
 
 - Końcówka żeńska to `-a`:
 
@@ -72,24 +72,24 @@ Rodzaj ma nie tylko rzeczowniki, to samo dotyczy przymiotników i podobnych mody
   :isv[dobre děte] „dobre dziecko”
 
 - Dla wszystkich płci końcówka liczby mnogiej to `-e`:
-  - :isv[dobre muži] „dobrzy ludzie”
-  - :isv[dobre ženi] „dobra kobieta”
+  - :isv[dobre muži] „dobrzy mężczyźni”
+  - :isv[dobre ženi] „dobre kobiety”
   - :isv[dobre děta] „dobre dzieci”
 
 To samo dotyczy przymiotników, dotyczy to także zaimków dzierżawczych, wskazujących, względnych, nieokreślonych, a także liczb.
 
-- Zaimki dzierżawcze :isv[moj] „mój”, :isv[tvoj] „twój, twój”, :isv[naš] „nasz”, :isv[vaš] „twój (:abbr[pl.])”, :isv[svoj] „własny” i :isv[čij] „czyj” ma tę samą końcówkę co przymiotniki (z wyjątkiem rodzaju męskiego): :isv[moj] (:abbr[m.]), :isv[moja] (:abbr[f.]), :isv[moje] (:abbr[n.]), :isv[moje] (:abbr[pl.] ). To samo dotyczy zaimka pytającego :isv[koj] „który”:
+- Zaimki dzierżawcze :isv[moj] „mój”, :isv[tvoj] „twój”, :isv[naš] „nasz”, :isv[vaš] „wasz (:abbr[pl.])”, :isv[svoj] „swój” i :isv[čij] „czyj” ma tę samą końcówkę co przymiotniki (z wyjątkiem rodzaju męskiego): :isv[moj] (:abbr[m.]), :isv[moja] (:abbr[f.]), :isv[moje] (:abbr[n.]), :isv[moje] (:abbr[pl.] ). To samo dotyczy zaimka pytającego :isv[koj] „który”:
   - :isv[moj muž] „mój mąż”
   - :isv[tvoja žena] „twoja żona”
   - :isv[naše děte] „nasze dziecko”
   - :isv[koje prijatelji] „którzy przyjaciele”
 
-- Zaimki dzierżawcze trzeciej osoby (:isv[jego] „jego, jego”, :isv[jej] „her”, :isv[jih] „ich”) nie zmieniają się (dzieje się tak, ponieważ te słowa nie są zaimkami ściśle dzierżawczymi, ale dosłownie coś znaczą) jak „o nim” itp.):
+- Zaimki dzierżawcze trzeciej osoby (:isv[jego] „jego”, :isv[jej] „jej”, :isv[jih] „ich”) nie zmieniają się (dzieje się tak, ponieważ te słowa nie są zaimkami ściśle dzierżawczymi, ale dosłownie coś znaczą, jak „o nim” itp.):
   - :isv[jego žena] „jego żona”
   - :isv[jih prijatelji] „ich przyjaciele”
 
-- Zaimek wskazujący :isv[toj] ma formy :isv[ta] (:abbr[f.]), :isv[to] (:abbr[n.]) i :isv[te] (:abbr[pl.]), zamiast _\*:isv[toja], \*@@ 83..._ (to samo oczywiście dotyczy :isv[tutoj] i :isv[tamtoj]):
-  - :isv[toj muž] „ten człowiek”
+- Zaimek wskazujący :isv[toj] ma formy :isv[ta] (:abbr[f.]), :isv[to] (:abbr[n.]) i :isv[te] (:abbr[pl.]), zamiast _\*:isv[toja], \*:isv[toje]..._ (to samo oczywiście dotyczy :isv[tutoj] i :isv[tamtoj]):
+  - :isv[toj muž] „ten mężczyzna”
   - :isv[ta žena] „ta kobieta”
   - :isv[to děte] „to dziecko”
   - :isv[te prijatelji] „ci przyjaciele”
@@ -99,9 +99,9 @@ To samo dotyczy przymiotników, dotyczy to także zaimków dzierżawczych, wskaz
   - :isv[děte, ktore ja viděl] „dziecko, które widziałem”
 
 - Liczba :isv[jedin] „jeden” ma postać :isv[jedna] (:abbr[f.]) i :isv[jedno] (:abbr[n.]):
-  - :isv[jedin muž] „jeden człowiek”
+  - :isv[jedin muž] „jeden mężczyzna”
   - :isv[jedna žena] „jedna kobieta”
-  - :isv[jedno děte] „to dziecko”
+  - :isv[jedno děte] „jedno dziecko”
 
 ## Czasowniki
 
@@ -110,9 +110,9 @@ To samo dotyczy przymiotników, dotyczy to także zaimków dzierżawczych, wskaz
 :::component{name="MDSimpleGrammar1"}
 :::
 
-Na poziomie 1 :notr[Slovianto] nauczyłeś się, że czas teraźniejszy tworzy się przez dodanie końcówki `-(e)t` do rdzenia: :isv[ja děla-t] „Ja”, :isv[vy prosi-t] „pytasz”, :isv[oni nes-et] „oni niosą”. Jednak dla słowiańskiego ucha brzmi to nienaturalnie, ponieważ wszystkie języki słowiańskie odmieniają swoje czasowniki na rzecz osoby i liczby. Aby zrobić lepsze wrażenie, można wiele zyskać, poznając także niektóre z tych osobistych zakończeń.
+Na poziomie 1 :notr[Slovianto] nauczyłeś się, że czas teraźniejszy tworzy się przez dodanie końcówki `-(e)t` do rdzenia: :isv[ja děla-t] „ja robię”, :isv[vy prosi-t] „wy prosicie”, :isv[oni nes-et] „oni niosą”. Jednak dla słowiańskiego ucha brzmi to nienaturalnie, ponieważ wszystkie języki słowiańskie odmieniają swoje czasowniki na rzecz osoby i liczby. Aby zrobić lepsze wrażenie, można wiele zyskać, poznając także niektóre z tych osobowych zakończeń.
 
-Czas więc zapomnieć o zakończeniu `-t`! Zamiast tego pamiętaj o następujących zakończeniach: `-m`, `-š`, `-Ø`  (bez końcówki) w pierwszej, drugiej i trzeciej osobie liczby pojedynczej oraz `-mo`, `-te`, `-ut`  w pierwszej, drugiej i trzeciej osobie liczby mnogiej. Jeśli rdzeń kończy się samogłoską, wstaw `-j-` przed końcówką `-ut`. Gdy rdzeń kończy się spółgłoską, wstaw `-e-` przed pozostałymi końcówkami. Kilka przykładów znajdziesz w tabeli po prawej stronie.
+Czas więc zapomnieć o zakończeniu `-t`! Zamiast tego pamiętaj o następujących zakończeniach: `-m`, `-š`, `-Ø`  (bez końcówki) w pierwszej, drugiej i trzeciej osobie liczby pojedynczej oraz `-mo`, `-te`, `-ut`  w pierwszej, drugiej i trzeciej osobie liczby mnogiej. Jeśli rdzeń kończy się samogłoską, wstaw `-j-` przed końcówką `-ut`. Gdy rdzeń kończy się spółgłoską, wstaw `-e-` przed pozostałymi końcówkami. Kilka przykładów znajdziesz w tabeli powyżej.
 
 Końcówki `-š` i zaimka osobowego :isv[ty] należy używać wyłącznie w odniesieniu do rodziny, przyjaciół, dzieci itp. W pozostałych przypadkach zwracaj się do osób w drugiej osobie liczby mnogiej (:isv[vy], `-te`).
 
@@ -121,24 +121,24 @@ Końcówki `-š` i zaimka osobowego :isv[ty] należy używać wyłącznie w odni
 :::component{name="MDSimpleGrammar2"}
 :::
 
-W czasie przeszłym czasowniki nie są odmieniane przez osobę. Jednakże są one sprzężone ze względu na płeć. Może się to wydawać dziwne, ale wyjaśnienie jest dość proste: forma :isv[dělal] jest w rzeczywistości imiesłowem, oznaczającym coś w rodzaju „zrobił” i dlatego zgadza się z podmiotem pod względem rodzaju i liczby, ale nie osobiście. Formularze są pokazane w tabeli po prawej stronie.
+W czasie przeszłym czasowniki nie są odmieniane przez osobę. Jednakże są one sprzężone ze względu na płeć. Może się to wydawać dziwne, ale wyjaśnienie jest dość proste: forma :isv[dělal] jest w rzeczywistości imiesłowem, oznaczającym coś w rodzaju „zrobiwszy” i dlatego zgadza się z podmiotem pod względem rodzaju i liczby, ale nie pod względem osoby. Formy są pokazane w tabeli powyżej.
 
 ### Czas przyszły
 
-Czas przyszły powstaje poprzez połączenie czasu przyszłego czasownika :isv[byti] „być” z bezokolicznikiem. Formy są takie same, jak gdyby czasownik :isv[*bud-ti] był koniugowany w czasie teraźniejszym: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  itd.
+Czas przyszły powstaje poprzez połączenie czasownika :isv[byti] „być” w czasie przyszłym z bezokolicznikiem. Formy są takie same, jak gdyby czasownik :isv[*bud-ti] był koniugowany w czasie teraźniejszym: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  itd.
 
-### Warunkowy
+### Tryb przypuszczający
 
-Tryb warunkowy tworzy się przez dodanie partykuły :isv[by] do czasu przeszłego, a zatem podlega uzgodnieniu płci: :isv[ja by dělal] „Ja (:abbr[m.]) zrobiłbym / zrobiłbym”, :isv[ty by dělala] „ty (:abbr[f.]) zrobilibyśmy/zrobilibyśmy”, :isv[my by dělali] „zrobilibyśmy/zrobiliśmy”.
+Tryb przypuszczający tworzy się przez dodanie partykuły :isv[by] do czasu przeszłego, a zatem podlega związkowi zgody (kongruencji): :isv[ja by dělal] „Ja (:abbr[m.]) zrobiłbym”, :isv[ty by dělala] „ty (:abbr[f.]) zrobiłabyś”, :isv[my by dělali] „my zrobilibyśmy”.
 
-### Pilny
+### Tryb rozkazujący
 
 :::component{name="MDSimpleGrammar3"}
 :::
 
-Oprócz formy rozkazującej, którą już poznałeś (2. osoba liczby mnogiej), istnieją także formy rozkazujące dla 2. osoby liczby pojedynczej i 1. osoby liczby mnogiej. Końcówki to `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) i `-jte` (:abbr[2 pl.]) po samogłosce oraz `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) i `-ite` (:abbr[2 pl.]) po spółgłosce. Zatem :isv[dělajte] oznacza „zrób!” i może być skierowane do większej liczby osób na raz, ale może służyć także jako bardziej uprzejma forma liczby pojedynczej, natomiast :isv[dělaj] powinno być używane tylko w odniesieniu do przyjaciół, rodziny i dzieci. :isv[Dělajmo] oznacza: „Zróbmy”.
+Oprócz formy rozkazującej, którą już poznałeś (w 2. osobie liczby mnogiej), istnieją także formy rozkazujące dla 2. osoby liczby pojedynczej i 1. osoby liczby mnogiej. Końcówki to `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) i `-jte` (:abbr[2 pl.]) po samogłosce oraz `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) i `-ite` (:abbr[2 pl.]) po spółgłosce. Zatem :isv[dělajte] oznacza „zróbcie!” i może być skierowane do większej liczby osób na raz, ale może służyć także jako bardziej uprzejma forma liczby pojedynczej, natomiast :isv[dělaj] powinno być używane tylko w odniesieniu do przyjaciół, rodziny i dzieci. :isv[Dělajmo] oznacza: „Zróbmy”.
 
-### Czasownik być"
+### Czasownik „być”
 
 :::component{name="MDSimpleGrammar4"}
 :::
