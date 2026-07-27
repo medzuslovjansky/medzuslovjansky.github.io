@@ -38,7 +38,7 @@ Kilka dodatkowych uwag dotyczących użycia:
 - Podobnie jak wszystkie naturalne języki słowiańskie, międzysłowiański posiada rozróżnienie T-V, co oznacza, że :isv[vy] jest uniwersalnym zaimkiem drugiej osoby dla obu liczb, podczas gdy druga osoba liczby pojedynczej :isv[ty] jest używana tylko do zwracania się do przyjaciół, krewnych i dzieci.
 - Zaimek zwrotny może być również używany jako zaimek wzajemny: :isv[Oni bijut se] może oznaczać "Oni biją się", ale częściej ma znaczenie: "Oni biją jeden drugiego". Aby jaśniej wyrazić znaczenie "jeden drugiego", można dodać formułę :isv[jedin drugogo], na przykład: :isv[Oni bijut se jedin drugogo].
 
-## Zaimki dzierżawcze {#possessive-pronouns}
+## Zaimki dzierżawcze \{#possessive-pronouns}
 
 Zaimki dzierżawcze odmieniają się jak przymiotniki, z wyjątkiem zerowej końcówki w rodzaju męskim liczby pojedynczej. Formy są następujące:
 
@@ -99,7 +99,7 @@ Zaimkami pytającymi są :isv[kto] (kto) oraz :isv[čto] (lub :isv[što]) (co). 
 
 Zaimki pytające - to :isv[koj] (odmienia się jak :isv[moj]) (jaki) (zamiast niego można również używać :isv[ktory]), zaimek dzierżawczy :isv[čij] (czyj) (patrz wyżej) oraz przymiotnik :isv[kaky] (jaki).
 
-## Zaimki nieokreślone {#indefinite-pronouns}
+## Zaimki nieokreślone \{#indefinite-pronouns}
 
 To duża grupa zaimków i określeń, większość z których jest regularnie tworzona od zaimków pytających. Istnieje kilka kategorii:
 

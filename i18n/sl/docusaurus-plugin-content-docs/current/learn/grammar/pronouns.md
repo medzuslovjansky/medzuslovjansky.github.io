@@ -122,7 +122,7 @@ To je velika skupina zaimkov in pridevniških zaimkov, ki se večinoma redno tvo
 :::component{name=MDPronouns5}
 :::
 
-## Zaimkovni prislovi {#pronominal-adverbs}
+## Zaimkovni prislovi \{#pronominal-adverbs}
 
 Eden izmed najboljših Zamenhofovih izumov je bila njegova **tabela korelativnih besed**, skupina medsebojno povezanih zaimkov, pridevnikov in prislovov. Te besede so bile ohranjene čim bolj pravilne, vendar ne na račun prepoznavnosti za govorce slovanskih jezikov. Nekatere praktično nemogoče besede so bile izpuščene, nekatere druge redne oblike pa so bile nadomeščene z oblikami, ki so pogoste v naravnih jezikih. Nepravilne oblike (tj. tiste, ki ne izgledajo tako, kot bi morale glede na tabelo) so prikazane v _**poševnem tisku**_.
 

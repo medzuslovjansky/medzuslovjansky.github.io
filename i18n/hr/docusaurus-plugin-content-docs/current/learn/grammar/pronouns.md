@@ -122,7 +122,7 @@ Ovo je velika skupina zamjenica i atributa, većina kojih se redovito tvori od u
 :::component{name=MDPronouns5}
 :::
 
-## Zamjeničke priloge {#pronominal-adverbs}
+## Zamjeničke priloge \{#pronominal-adverbs}
 
 Jedan od najboljih Zamenhofovih izuma bila je njegova **tablica korelativnih riječi**, grupa međusobno povezanih zamjenica, pridjeva i priloga. Te riječi su zadržane što pravilnijima, ali ne na štetu prepoznatljivosti za govornike slavenskih jezika. Neke praktički nemoguće riječi su izostavljene, a neki drugi pravilni oblici zamijenjeni su oblicima koji su uobičajeni u prirodnim jezicima. Nepravilni oblici (tj. oni koji ne izgledaju kako bi trebali prema tablici) prikazani su _**kurzivom**_.
 

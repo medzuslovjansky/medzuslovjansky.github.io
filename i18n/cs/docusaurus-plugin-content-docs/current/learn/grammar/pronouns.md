@@ -122,7 +122,7 @@ To je velká skupina zájmen a přívlastků, většina z nichž se pravidelně 
 :::component{name=MDPronouns5}
 :::
 
-## Zájmenná příslovce {#pronominal-adverbs}
+## Zájmenná příslovce \{#pronominal-adverbs}
 
 Jedním z nejlepších Zamenhofových vynálezů byla jeho **tabulka korelativních slov**, skupina vzájemně propojených zájmen, přídavných jmen a příslovcí. Tato slova byla zachována co nejpravidelnější, ale ne na úkor rozpoznatelnosti pro mluvčí slovanských jazyků. Některá prakticky nemožná slova byla vynechána a některé další pravidelné formy byly nahrazeny formami, které jsou běžné v přirozených jazycích. Nepravidelné formy (tj. ty, které nevypadají tak, jak by podle tabulky měly) jsou zobrazeny _**kurzívou**_.
 
