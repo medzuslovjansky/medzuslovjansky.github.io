@@ -69,7 +69,7 @@ Přípony začínající na `-o-` se změní na `-e-`, když následují měkké
   `kovati` „kovat“ > `kovač` „kovář“, `krojiti` „řezat“ > `krojač` „na míru“, `pekti` „péct“ > `pekar` „pekař“
 - Ukazatel místa `-išče` lze použít také se slovesy (často na základě L-příčestí):\
   `igrati` „hrát“ > `igrališče` „hřiště“, `žiti` „bydlet“ > `žilišče` „bydliště, místo pobytu“
-- Samotný akt je reprezentován slovesným podstatným jménem (gerundium), které končí na `-nje`, někdy `-tje`
+- Samotný akt je reprezentován slovesným podstatným jménem (gerundium), které končí na `-nje`, někdy `-tje`:\
   `dělati` „dělat, dělat“ > `dělanje` „dělat, dělat“, `žiti` „žít“ > `žitje` „život“
 
 #### Přídavné jméno k přídavnému jménu \{#adjective-to-adjective}
@@ -264,7 +264,7 @@ Pro úpravu významu slova lze použít jednu nebo více z následujících pře
 
 - spolu s: `svezati` „spojit, propojit“, `sozvati` „svolat spolu“, `sobrati` „shromáždit, shromáždit“
 - dolů z: `sojdti` „jít, sestoupit“, `snesti` „snést dolů“
-- úplně, hotovo, dolů: `srězati` „vykácet“, `sdělati` „udělat hotovo“ `sbriti` „zcela oholit“, `svariti` „zcela uvařit“, `sbudovati` „zcela postavit“
+- úplně, hotovo, dolů: `srězati` „vykácet“, `sdělati` „udělat hotovo“, `sbriti` „zcela oholit“, `svariti` „zcela uvařit“, `sbudovati` „zcela postavit“
 
 `su-`
 
@@ -288,11 +288,11 @@ Pro úpravu významu slova lze použít jednu nebo více z následujících pře
 
 - nahoru, nahoru, nahoru: `vozletěti` „letět nahoru“, `vozidti` „jít do kopce“
 - začít náhle dělat něco intenzivně: `vozvyti` „začít náhle plakat“, `vozbuditi` „podněcovat, rozproudit“
-- zpět, znovu, znovu-: `vozvratiti se` „vrať se“, `vozživiti` „oživit“>
+- zpět, znovu, znovu-: `vozvratiti se` „vrať se“, `vozživiti` „oživit“
 
 `vy-`
 
-(místo vy- Jihoslované používají iz- ve všech případech)
+(místo `vy-` Jihoslované používají `iz-` ve všech případech)
 
 - ven, mimo, na (se slovesy pohybu): `vyjdti (iz)` „vyjít (z)“, `vynesti (iz)` „starat se“
 - dělat něco úplně, úplně: `vyvariti` „zcela vařit“, `vysušiti` „zcela vyschnout, vyschnout“
@@ -300,10 +300,10 @@ Pro úpravu významu slova lze použít jednu nebo více z následujících pře
 
 `za-`
 
-- za, pod: `zajdti` „jít pozadu“, `zametnuti` „zapomenout, zapomenout; zaryti "zasadit, strčit pod co."
+- za, pod: `zajdti` „jít pozadu“, `zametnuti` „zapomenout, zapomenout“; `zaryti` „zasadit, strčit pod co.“
 - zavřít, zavřít, pevně: `zatvoriti` „zavřít“, `zavinuti` „pevně zašroubovat, zkroutit“, `zašiti` „zašít (pevně)“, `zapakovati` „zabalit (zavřít)“
 - začít dělat něco: `zapěvati` „začít zpívat“, `zaplakati` „začít plakat“
-  stard dělá intenzivně (s `se`): `zagledati se, zasmotriti se` „dívat se dopředu, dívat se neustále, dívat se do hloubky“
+- stard dělá intenzivně (s `se`): `zagledati se, zasmotriti se` „dívat se dopředu, dívat se neustále, dívat se do hloubky“
 
 ## Složená slova \{#compound-words}
 
@@ -319,7 +319,7 @@ Když je první člen výpůjčkou z angličtiny, mohou být rozděleny pomlčko
 - `rok-muzika` „rocková hudba“
 - `veb-stranica` „webová stránka“
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund
 

@@ -69,7 +69,7 @@ Przyrostki rozpoczynające się od `-o-` zmieniają się na `-e-`, gdy następuj
   `kovati` „kuć” > `kovač` „kowal”, `krojiti` „kroić” > `krojač` „krawiec”, `pekti` „piec” > `pekar` „piekarz”
 - Wskaźnik miejsca `-išče` może być również używany z czasownikami (często w oparciu o imiesłów przymiotnikowy):\
   `igrati` „grać” > `igrališče` „plac zabaw”, `žiti` „mieszkać” > `žilišče` „miejsce zamieszkania”
-- Samo działanie jest reprezentowane przez rzeczownik odczasownikowy (gerundium), kończący się na `-nje`, czasem `-tje`
+- Samo działanie jest reprezentowane przez rzeczownik odczasownikowy (gerundium), kończący się na `-nje`, czasem `-tje`:\
   `dělati` „robić” > `dělanje` „robienie”, `žiti` „żyć” > `žitje` „życie”
 
 #### Przymiotnik z przymiotnikiem \{#adjective-to-adjective}
@@ -264,7 +264,7 @@ Do modyfikacji znaczenia słowa można użyć jednego lub więcej z poniższych 
 
 - razem, z: `svezati` „złączyć”, `sozvati` „zwoływać”, `sobrati` „zbierać”
 - z góry: `sojdti` „zejść”, `snesti` „sprowadzić”
-- całkowicie, gotowy: `srězati` „ściąć”, `sdělati` „zrobić” `sbriti` „zgolić”, `svariti` „ugotować”, `sbudovati` „zbudować”
+- całkowicie, gotowy: `srězati` „ściąć”, `sdělati` „zrobić”, `sbriti` „zgolić”, `svariti` „ugotować”, `sbudovati` „zbudować”
 
 `su-`
 
@@ -292,7 +292,7 @@ Do modyfikacji znaczenia słowa można użyć jednego lub więcej z poniższych 
 
 `vy-`
 
-(zamiast vy- Słowianie Południowi używają iz- we wszystkich przypadkach)
+(zamiast `vy-` Słowianie Południowi używają `iz-` we wszystkich przypadkach)
 
 - na zewnątrz (z czasownikami ruchu): `vyjdti (iz)` „wyjść (z)”, `vynesti (iz)` „wynieść (z)”
 - zrobić coś całkowicie: `vyvariti` „całkowicie się zagotować”, `vysušiti` „wysuszyć”
@@ -319,7 +319,7 @@ Gdy pierwszy człon jest zapożyczeniem z języka angielskiego, można je podzie
 - `rok-muzika` „muzyka rockowa”
 - `veb-stranica` „strona internetowa”
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund
 

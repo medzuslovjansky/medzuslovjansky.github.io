@@ -9,6 +9,8 @@ tags: [interslavic, grammar, language learning, linguistics, comparative, word f
 
 # Word formation
 
+Every language has mechanisms to derive words from other words. In Interslavic, this is done mostly by using affixes. This page gives an overview of the most common prefixes and suffixes. For each learner of the language it is of critical importance to learn them well. They are instrumental in understanding written and spoken texts, and besides, they can be used for building words that are not in the dictionary.
+
 ## Suffixes \{#suffixes}
 
 Below follows a list of suffixes. Please note that if the stem ends in a particular consonant, it is changed before the suffixes `-ji`, `-ka`, `-ko`, `-nik`, `-ny`, `-ok`, `-sky` and `-stvo`, as follows:
@@ -74,7 +76,7 @@ Suffixes starting with `-o-` change to `-e-` when following a soft consonant:
   :isv[kovati] „to forge” > :isv[kovač] „blacksmith”, :isv[krojiti] „to cut” > :isv[krojač] „tailor”, :isv[pekti] „to bake” > :isv[pekar] „baker”
 - The place indicator `-išče` can be used with verbs, too (often based on the L-participle):
   :isv[igrati] „to play” > :isv[igrališče] „playground”, :isv[žiti] „to live” > :isv[žilišče] „domicile, dwelling place”
-- The act itself is represented by the verbal noun (gerund), ending on `-nje`, sometimes `-tje`
+- The act itself is represented by the verbal noun (gerund), ending on `-nje`, sometimes `-tje` _(see: [verbs][2])_:
   :isv[dělati] „to do, to make” > :isv[dělanje] „doing, making”, :isv[žiti] „to live” > :isv[žitje] „life”
 
 #### Adjective to adjective \{#adjective-to-adjective}
@@ -120,7 +122,7 @@ Suffixes starting with `-o-` change to `-e-` when following a soft consonant:
 #### Noun to verb \{#noun-to-verb}
 
 - The simplest way of deriving a verb from a noun is using the suffix `-ovati`:
-  :isv[malpa]  „ape, monkey” > :isv[malpovati] „to behave/act like a monkey”, :isv[noč] „night” > :isv[nočevati] „to spend the night”
+  :isv[malpa] „ape, monkey” > :isv[malpovati] „to behave/act like a monkey”, :isv[noč] „night” > :isv[nočevati] „to spend the night”
 - For the act of making someone/something undergo treatment with something, the prefix `o-` and the ending `-iti` are used together:
   :isv[kamenj] „stone” > :isv[okameniti] „to stone”, :isv[světlo] „light” > :isv[osvětliti] „to illuminate, to lighten up”, :isv[svoboda] „freedom” > :isv[osvoboditi] „to set free”
 - To rid or devoid someone/something, the prefix `obez-` is used with the ending `-iti`:
@@ -129,7 +131,7 @@ Suffixes starting with `-o-` change to `-e-` when following a soft consonant:
 #### Adjective to verb \{#adjective-to-verb}
 
 - The process of becoming is expressed by the ending `-ěti`:
-  :isv[běly] „white” > :isv[bělěti] „to turn white”, :isv[bogaty] „rich” > :isv[bogatěti] „to grown rich”, :isv[hvory] „sick, ill” > :isv[hvorěti] „to be or become sick/ill”
+  :isv[běly] „white” > :isv[bělěti] „to turn white”, :isv[bogaty] „rich” > :isv[bogatěti] „to grow rich”, :isv[hvory] „sick, ill” > :isv[hvorěti] „to be or become sick/ill”
 - To make someone/something have the characteristics expressed by an adjective, the prefix `o-` and the ending `-iti` are used together:
   :isv[črny] „black” > :isv[očrniti] „to blacken, to make black”
 - To make someone/something have more of the characteristics expressed by an adjective (often a comparative), the prefix `u-` is combined with the ending `-iti`:
@@ -153,7 +155,7 @@ Suffixes starting with `-o-` change to `-e-` when following a soft consonant:
 
 - An adjective is adverbialised by using the ending `-o`:
   :isv[dobry] „good” > :isv[dobro] „well”
-- The comparitive `-(ěj)ši` is adverbialised by replacing it with `-(ě)je`:
+- The comparative `-(ěj)ši` is adverbialised by replacing it with `-(ě)je`:
   :isv[slabějši] „weaker” > :isv[slaběje] „weaklier”
 
 ## Prefixes \{#prefixes}
@@ -253,7 +255,7 @@ One or more of the followings prefixes can be used to modify the meaning of word
 `pro-`
 
 - through(out): :isv[probiti] „to break out, to penetrate”, :isv[protěkti] „to flow through”, :isv[progrějati] „to heat through”
-- to miss, past to: :isv[projehati mimo] „to miss sth.”, :isv[promašiti], :isv[promahnuti] „to to miss the mark”
+- to miss, past to: :isv[projehati mimo] „to miss sth.”, :isv[promašiti], :isv[promahnuti] „to miss the mark”
 - through the whole time: :isv[prorabotati ves denj] „to work through the whole day”
 - to lose all: :isv[protratiti penezy] „to lose all the money”, :isv[proigrati igru] „to lose the game”
 
@@ -269,7 +271,7 @@ One or more of the followings prefixes can be used to modify the meaning of word
 
 - together, with: :isv[svezati] „to bind together, interconnect”, :isv[sozvati] „to call together”, :isv[sobrati] „to collect, to gather”
 - down from: :isv[sojdti] „to go, come down”, :isv[snesti] „to bring down”
-- entirely, done, down: :isv[srězati] „to cut down”, :isv[sdělati] „to make done” :isv[sbriti] „to shave entirely”, :isv[svariti] „to cook entirely”, :isv[sbudovati] „to build entirely”
+- entirely, done, down: :isv[srězati] „to cut down”, :isv[sdělati] „to make done”, :isv[sbriti] „to shave entirely”, :isv[svariti] „to cook entirely”, :isv[sbudovati] „to build entirely”
 
 `su-`
 
@@ -280,7 +282,7 @@ One or more of the followings prefixes can be used to modify the meaning of word
 
 (often used as a perfective marker)
 
-- away: :isv[uletěti] „to fly away (so that somebody misses his flight”), :isv[uběgti] „to run away”
+- away: :isv[uletěti] „to fly away (so that somebody misses his flight)”, :isv[uběgti] „to run away”
 - totally (often negatively): :isv[ubiti] „to kill” (:abbr[lit.] beat completely), :isv[uginuti] „to die off”, :isv[usohnuti] „to dry up”
 - (based on an adjective) to make more: :isv[ulěpšiti] „to improve, to make better”, :isv[umenšiti] „to diminish, to reduce, to make less”
 
@@ -293,22 +295,22 @@ One or more of the followings prefixes can be used to modify the meaning of word
 
 - up, aloft, upstairs: :isv[vozletěti] „to fly up”, :isv[vozidti] „to go uphill”
 - to start sudden to do sth. intensively: :isv[vozvyti] „to start to cry suddenly”, :isv[vozbuditi] „to stimulate, to stir up”
-- back, again, re-: :isv[vozvratiti se] „come back”, :isv[vozživiti] „to reanimate”>
+- back, again, re-: :isv[vozvratiti se] „come back”, :isv[vozživiti] „to reanimate”
 
 `vy-`
 
-(instead of vy- Southslavs use iz- in all cases)
+(instead of `vy-` Southslavs use `iz-` in all cases)
 
-- out, afield, onto (woth verbs of motion): :isv[vyjdti (iz)] „to go out (of)”, :isv[vynesti (iz)] „to care out”
-- do sth. completely, entirely: :isv[vyvariti] „to boil comletely”, :isv[vysušiti] „to dry completely, dry out”
+- out, afield, onto (with verbs of motion): :isv[vyjdti (iz)] „to go out (of)”, :isv[vynesti (iz)] „to carry out”
+- do sth. completely, entirely: :isv[vyvariti] „to boil completely”, :isv[vysušiti] „to dry completely, dry out”
 - well, long, around: :isv[vyležati se] „to lie around”
 
 `za-`
 
-- behind, under: :isv[zajdti] „to go behind”, :isv[zametnuti] „to put behind, forget; zaryti „to plant, thrust under sth.”
+- behind, under: :isv[zajdti] „to go behind”, :isv[zametnuti] „to put behind, forget”; :isv[zaryti] „to plant, thrust under sth.”
 - make closed, shut, tightly: :isv[zatvoriti] „to shut”, :isv[zavinuti] „to screw tightly, twist”, :isv[zašiti] „to sew up (tightly)”, :isv[zapakovati] „to pack (make shut)”
 - start doing sth.: :isv[zapěvati] „to start singing”, :isv[zaplakati] „to start crying”
-  stard doing intensive (with `se`): :isv[zagledati se], :isv[zasmotriti se] „to look ahead, look constantly, look deeply”
+- start doing intensive (with `se`): :isv[zagledati se], :isv[zasmotriti se] „to look ahead, look constantly, look deeply”
 
 ## Compound words \{#compound-words}
 
@@ -324,6 +326,6 @@ When the first member is a borrowing from English, they may be divided by a hyph
 - :isv[rok-muzika] „rock music”
 - :isv[veb-stranica] „web page”
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund

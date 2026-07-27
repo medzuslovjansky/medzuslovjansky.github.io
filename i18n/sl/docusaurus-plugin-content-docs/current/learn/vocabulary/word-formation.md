@@ -69,7 +69,7 @@ Pripone, ki se začnejo z `-o-`, se spremenijo v `-e-`, ko sledijo mehkemu sogla
   `kovati` „kovati” > `kovač` „kovač”, `krojiti` „rezati” > `krojač` „krojač”, `pekti` „peči” > `pekar` „pek”
 - Indikator mesta `-išče` se lahko uporablja tudi z glagoli (pogosto temeljijo na L-delniku):\
   `igrati` „igrati se” > `igrališče` „igrišče”, `žiti` „živeti” > `žilišče` „domicil, bivališče”
-- Samo dejanje je predstavljeno z besednim samostalnikom (gerund), ki se konča na `-nje`, včasih `-tje`
+- Samo dejanje je predstavljeno z besednim samostalnikom (gerund), ki se konča na `-nje`, včasih `-tje`:\
   `dělati` „delati, ustvarjati” > `dělanje` „delati, ustvarjati”, `žiti` „živeti” > `žitje` „življenje”
 
 #### Pridevnik k pridevniku \{#adjective-to-adjective}
@@ -264,7 +264,7 @@ Za spreminjanje pomena besede je mogoče uporabiti eno ali več naslednjih predp
 
 - skupaj, z: `svezati` „povezati skupaj, medsebojno povezati”, `sozvati` „sklicati skupaj”, `sobrati` „zbrati, zbrati”
 - navzdol od: `sojdti` „iti, priti dol”, `snesti` „spustiti dol”
-- v celoti, končano, dol: `srězati` „posekati”, `sdělati` „opraviti” `sbriti` „popolnoma obriti”, `svariti` „skuhati v celoti”, `sbudovati` „v celoti zgraditi”
+- v celoti, končano, dol: `srězati` „posekati”, `sdělati` „opraviti”, `sbriti` „popolnoma obriti”, `svariti` „skuhati v celoti”, `sbudovati` „v celoti zgraditi”
 
 `su-`
 
@@ -288,11 +288,11 @@ Za spreminjanje pomena besede je mogoče uporabiti eno ali več naslednjih predp
 
 - gor, visoko, zgoraj: `vozletěti` „leteti navzgor”, `vozidti` „iti navzgor”
 - začeti nenadno narediti kaj. intenzivno: `vozvyti` „nenadoma začeti jokati”, `vozbuditi` „spodbuditi, razburiti”
-- nazaj, znova, ponovno: `vozvratiti se` „pridi nazaj”, `vozživiti` „oživiti”>
+- nazaj, znova, ponovno: `vozvratiti se` „pridi nazaj”, `vozživiti` „oživiti”
 
 `vy-`
 
-(namesto vy- Južni Slovani uporabljajo iz- v vseh primerih)
+(namesto `vy-` Južni Slovani uporabljajo `iz-` v vseh primerih)
 
 - out, afield, onto (z glagoli gibanja): `vyjdti (iz)` „iti ven (iz)”, `vynesti (iz)` „skrbeti”
 - narediti kaj. popolnoma, v celoti: `vyvariti` „popolnoma zavreti”, `vysušiti` „popolnoma se posušiti, izsušiti”
@@ -300,10 +300,10 @@ Za spreminjanje pomena besede je mogoče uporabiti eno ali več naslednjih predp
 
 `za-`
 
-- za, pod: `zajdti` „iti zadaj”, `zametnuti` „dati zadaj, pozabiti; zaryti "zasaditi, potisniti pod kaj."
+- za, pod: `zajdti` „iti zadaj”, `zametnuti` „dati zadaj, pozabiti”; `zaryti` „zasaditi, potisniti pod kaj.”
 - narediti zaprto, zaprto, tesno: `zatvoriti` „zapreti”, `zavinuti` „močno priviti, zasukati”, `zašiti` „zašiti (tesno)”, `zapakovati` „zapakirati (zapreti)”
 - začni delati kaj: `zapěvati` „začeti peti”, `zaplakati` „začeti jokati”
-  zvezda, ki izvaja intenzivno (z `se`): `zagledati se, zasmotriti se` „gledati naprej, gledati nenehno, gledati globoko”
+- zvezda, ki izvaja intenzivno (z `se`): `zagledati se, zasmotriti se` „gledati naprej, gledati nenehno, gledati globoko”
 
 ## Zloženke \{#compound-words}
 
@@ -319,7 +319,7 @@ Kadar je prvi člen izposojen iz angleščine, jih lahko ločimo z vezajem (defi
 - `rok-muzika` „rock glasba”
 - `veb-stranica` „spletna stran”
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund
 

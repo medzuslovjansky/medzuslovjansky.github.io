@@ -69,7 +69,7 @@ Prípony začínajúce na `-o-` sa pri mäkkej spoluhláske zmenia na `-e-`:
   `kovati` „kovať“ > `kovač` „kováč“, `krojiti` „strihať“ > `krojač` „krajčír“, `pekti` „piecť“ > `pekar` „pekár“
 - Indikátor miesta `-išče` možno použiť aj so slovesami (často založený na L-časti):\
   `igrati` „hrať sa“ > `igrališče` „ihrisko“, `žiti` „žiť“ > `žilišče` „bydlisko, bydlisko“
-- Samotný akt je reprezentovaný slovesným podstatným menom (gerundium), ktoré končí na `-nje`, niekedy `-tje`
+- Samotný akt je reprezentovaný slovesným podstatným menom (gerundium), ktoré končí na `-nje`, niekedy `-tje`:\
   `dělati` „robiť, robiť“ > `dělanje` „robiť, robiť“, `žiti` „žiť“ > `žitje` „život“
 
 #### Prídavné meno k prídavnému menu \{#adjective-to-adjective}
@@ -264,7 +264,7 @@ Na úpravu významu slova možno použiť jednu alebo viacero z nasledujúcich p
 
 - spolu s: `svezati` „zviazať, prepojiť“, `sozvati` „zvolať spolu“, `sobrati` „zhromaždiť, zhromaždiť“
 - dole z: `sojdti` „ísť, zísť dole“, `snesti` „zniesť dole“
-- úplne, hotovo, dole: `srězati` „zrežať“, `sdělati` „urobiť“ `sbriti` „oholiť úplne“, `svariti` „uvariť úplne“, `sbudovati` „úplne postaviť“
+- úplne, hotovo, dole: `srězati` „zrežať“, `sdělati` „urobiť“, `sbriti` „oholiť úplne“, `svariti` „uvariť úplne“, `sbudovati` „úplne postaviť“
 
 `su-`
 
@@ -288,11 +288,11 @@ Na úpravu významu slova možno použiť jednu alebo viacero z nasledujúcich p
 
 - hore, hore, hore: `vozletěti` „letieť hore“, `vozidti` „ísť do kopca“
 - náhle začať robiť niečo. intenzívne: `vozvyti` „náhle začať plakať“, `vozbuditi` „podnecovať, rozprúdiť“
-- späť, znova, znova: `vozvratiti se` „vráť sa“, `vozživiti` „oživiť“>
+- späť, znova, znova: `vozvratiti se` „vráť sa“, `vozživiti` „oživiť“
 
 `vy-`
 
-(namiesto vy- Juhoslovania používajú iz- vo všetkých prípadoch)
+(namiesto `vy-` Juhoslovania používajú `iz-` vo všetkých prípadoch)
 
 - von, mimo, na (so slovesami pohybu): `vyjdti (iz)` „vyjsť (z)“, `vynesti (iz)` „starať sa“
 - robiť niečo úplne, úplne: `vyvariti` „úplne zovrieť“, `vysušiti` „úplne vyschnúť, vyschnúť“
@@ -300,10 +300,10 @@ Na úpravu významu slova možno použiť jednu alebo viacero z nasledujúcich p
 
 `za-`
 
-- za, pod: `zajdti` „ísť za“, `zametnuti` „zadať, zabudnúť; zaryti "zasadiť, strčiť pod niečo."
+- za, pod: `zajdti` „ísť za“, `zametnuti` „zadať, zabudnúť“; `zaryti` „zasadiť, strčiť pod niečo.“
 - zavrieť, zavrieť, pevne: `zatvoriti` „zavrieť“, `zavinuti` „priskrutkovať, skrútiť“, `zašiti` „prišiť (pevne)“, `zapakovati` „zabaliť (zavrieť)“
 - začať robiť niečo: `zapěvati` „začať spievať“, `zaplakati` „začať plakať“
-  stard robí intenzívne (s `se`): `zagledati se, zasmotriti se` „dívať sa dopredu, pozerať sa neustále, pozerať sa hlboko“
+- stard robí intenzívne (s `se`): `zagledati se, zasmotriti se` „dívať sa dopredu, pozerať sa neustále, pozerať sa hlboko“
 
 ## Zložené slová \{#compound-words}
 
@@ -319,7 +319,7 @@ Ak je prvým členom výpožička z angličtiny, môžu byť oddelené pomlčkou
 - `rok-muzika` „rocková hudba“
 - `veb-stranica` „webová stránka“
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund
 

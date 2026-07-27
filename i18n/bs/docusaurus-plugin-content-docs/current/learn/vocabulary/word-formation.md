@@ -69,7 +69,7 @@ Sufiksi koji počinju sa `-o-` mijenjaju se u `-e-` kada slijede meki suglasnik:
   `kovati` „kovati” > `kovač` „kovač”, `krojiti` „rezati” > `krojač` „krojati”, `pekti` „peći” > `pekar` „pekar”
 - Indikator mjesta `-išče` se također može koristiti sa glagolima (često zasnovano na L-participu):\
   `igrati` „igrati se” > `igrališče` „igralište”, `žiti` „živjeti” > `žilišče` „prebivalište, stan”
-- Sam čin je predstavljen verbalnom imenicom (gerund), koja se završava na `-nje`, ponekad `-tje`
+- Sam čin je predstavljen verbalnom imenicom (gerund), koja se završava na `-nje`, ponekad `-tje`:\
   `dělati` „raditi, stvarati” > `dělanje` „raditi, stvarati”, `žiti` „živjeti” > `žitje` „život”
 
 #### Pridjev na pridjev \{#adjective-to-adjective}
@@ -264,7 +264,7 @@ Jedan ili više sljedećih prefiksa može se koristiti za promjenu značenja rij
 
 - zajedno, sa: `svezati` „spojiti, povezati”, `sozvati` „pozvati zajedno”, `sobrati` „sakupiti, okupiti”
 - dolje sa: `sojdti` „ići, sići”, `snesti` „srušiti”
-- u potpunosti, gotovo, dolje: `srězati` „izrezati”, `sdělati` „uraditi” `sbriti` „u potpunosti se obrijati”, `svariti` „u potpunosti kuhati”, `sbudovati` „u potpunosti izgraditi”
+- u potpunosti, gotovo, dolje: `srězati` „izrezati”, `sdělati` „uraditi”, `sbriti` „u potpunosti se obrijati”, `svariti` „u potpunosti kuhati”, `sbudovati` „u potpunosti izgraditi”
 
 `su-`
 
@@ -288,11 +288,11 @@ Jedan ili više sljedećih prefiksa može se koristiti za promjenu značenja rij
 
 - gore, gore, gore: `vozletěti` „letjeti gore”, `vozidti` „ići uzbrdo”
 - početi iznenada raditi sth. intenzivno: `vozvyti` „naglo početi plakati”, `vozbuditi` „stimulirati, uzburkati”
-- nazad, opet, ponovno: `vozvratiti se` „vrati se”, `vozživiti` „reanimirati”>
+- nazad, opet, ponovno: `vozvratiti se` „vrati se”, `vozživiti` „reanimirati”
 
 `vy-`
 
-(umjesto vy- Južni Slaveni koriste iz- u svim slučajevima)
+(umjesto `vy-` Južni Slaveni koriste `iz-` u svim slučajevima)
 
 - van, napolju, na (sa glagolima kretanja): `vyjdti (iz)` „izaći (iz)”, `vynesti (iz)` „brinuti se”
 - učiniti sth. potpuno, potpuno: `vyvariti` „potpuno prokuhati”, `vysušiti` „potpuno osušiti, osušiti”
@@ -300,10 +300,10 @@ Jedan ili više sljedećih prefiksa može se koristiti za promjenu značenja rij
 
 `za-`
 
-- iza, ispod: `zajdti` „ići iza”, `zametnuti` „ostaviti iza, zaboraviti; zaryti „posaditi, gurnuti pod što.”
+- iza, ispod: `zajdti` „ići iza”, `zametnuti` „ostaviti iza, zaboraviti”; `zaryti` „posaditi, gurnuti pod što.”
 - zatvoriti, zatvoriti, čvrsto: `zatvoriti` „zatvoriti”, `zavinuti` „čvrsto zašrafiti, uvrnuti”, `zašiti` „zašiti (čvrsto)”, `zapakovati` „pakirati (zatvoriti)”
 - počni da radiš sth.: `zapěvati` „da počneš pjevati”, `zaplakati` „da počneš plakati”
-  zvijezda radi intenzivno (sa `se`): `zagledati se, zasmotriti se` „gledati naprijed, gledati stalno, gledati duboko”
+- zvijezda radi intenzivno (sa `se`): `zagledati se, zasmotriti se` „gledati naprijed, gledati stalno, gledati duboko”
 
 ## Složene riječi \{#compound-words}
 
@@ -319,7 +319,7 @@ Kada je prvi član posuđenica iz engleskog, mogu se podijeliti crticom (defis):
 - `rok-muzika` „rok muzika”
 - `veb-stranica` „web stranica”
 
-[1]: ../orthography.md#etymological-alphabet
+[1]: ../grammar/adjectives.md#degrees-of-comparison
 
 [2]: ../grammar/verbs.md#participles-and-gerund
 
