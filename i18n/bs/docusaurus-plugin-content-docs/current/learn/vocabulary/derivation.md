@@ -19,36 +19,36 @@ Sloveni ne žive na ostrvu, a tokom vekova njihovi jezici su posuđivali i mnoge
 
 Druga kategorija je međunarodni vokabular, uglavnom iz latinskog i grčkog, ali kasnije i iz francuskog i nedavno engleskog. Riječi ovog tipa obično su slične širom Evrope i drugih dijelova svijeta. Oni su sastavni dio svakog slovenskog jezika i mogu biti od velike pomoći u postizanju međusobne razumljivosti, posebno među obrazovanijima. Međunarodne riječi su praktički identične u svim jezicima i jedva da postoje varijacije u značenju. Kada posuđujemo internacionalni vokabular, ostajemo što je moguće bliže pravopisu izvorne riječi, prilagođavajući ga samo onoliko koliko pravopis zahtijeva. Međutim, posebno za grčko-latinski vokabular ide sljedeće:
 
-- Izbjegavaju se geminirani suglasnici: _gramofon_, _grupa_.
-- Grčki suglasnici `th` i `ph` su pojednostavljeni na `t` i `f`: _`teatr, fenomen`_
-- Grčki `y` je napisan `i`, što je bliže i pravopisu i izgovoru u većini slovenskih jezika: _`sistem, fizika`_
-- Zvuk :ipa[k] je uvijek napisan `k` a nikada `c`: _`kontakt`_
-- Zvuk :ipa[x] (često predstavljen sa `ch`) je napisan `h`: _`psiholog`_.
-- Zvuk :ipa[y] (na njemačkom napisano `ü`, na francuskom `u`) postaje `ju`: _`bjuro`_.
-- Između samoglasnika, zvuk :ipa[z] (napisan `-s-`) postaje `z`: _`baza`_.
-- Između samoglasnika, zvuk :ipa[s] (napisan `-ss-`) postaje `s`: _`masa`_.
+- Izbjegavaju se geminirani suglasnici: :isv[gramofon], :isv[grupa].
+- Grčki suglasnici `th` i `ph` su pojednostavljeni na `t` i `f`: :isv[teatr], :isv[fenomen].
+- Grčki `y` je napisan `i`, što je bliže i pravopisu i izgovoru u većini slovenskih jezika: :isv[sistem], :isv[fizika].
+- Zvuk :ipa[k] je uvijek napisan `k` a nikada `c`: :isv[kontakt].
+- Zvuk :ipa[x] (često predstavljen sa `ch`) je napisan `h`: :isv[psiholog].
+- Zvuk :ipa[y] (na njemačkom napisano `ü`, na francuskom `u`) postaje `ju`: :isv[bjuro].
+- Između samoglasnika, zvuk :ipa[z] (napisan `-s-`) postaje `z`: :isv[baza].
+- Između samoglasnika, zvuk :ipa[s] (napisan `-ss-`) postaje `s`: :isv[masa].
 
 Osim toga, završeci su prilagođeni na predvidljiv način onome što je najčešće u slovenskim jezicima:
 
-- Glagoli latinskog porijekla (često _**-`ate`, -`fy`, -`ise`/-`ize`**_ na engleskom, _`-ieren`_ na njemačkom) imaju `-ovati`: :isv[organizovati] , _`komunikovati`_.
-- Latinica _`-ia`_ (prevedeno na engleskom kao _`-ia`_ ili _`-y`_) postaje `-ija`: _`ekonomija`_.
-- Engleski _`-sis`_ (od grčkog) postaje `-za`: _`kriza`_.
-- Imena hemijskih elemenata itd. na _`-ium`_ postaju `-ij`: _`helij, kriterij`_.
-- Riječi na _`-um`_ i _`-us`_ općenito zadržavaju ove završetke: _`forum, korpus`_.
-- Engleski _`-ty`_ (latinica _**-`tas`, -`tatis`**_) postaje `-tet`: _`universitet`_.
-- Engleski _`-ics`_ postaje `-ika`: _`ekonomika`_.
-- Engleski _`-ism`_ postaje `-izm`: _`komunizm`_.
-- Engleski _`-ist`_ postaje `-ist`: _`komunist`_.
-- Engleski _`-sion`_ postaje `-zija`: _`televizija`_.
-- Engleski _`-ssion`_ postaje `-sija`: _`diskusija`_.
-- Engleski _`-tion`_ postaje `-cija`: _`akcija`_.
-- Pridjevi izvedeni od ovih imenica imaju završetak `-ijny`: :isv[televizijny], _`tradicijny`_.
-- Engleski pridevi na _`-al`_ (latinski _`-alis`_) završavaju se na `-alny`: _`neutralny`_.
-- Engleski pridevi u _**-`ic`, -`ical`**_ (latinski _`-icus`_) imaju završetak `-ičny`: :isv[specifičny], _`komičny`_.
-- Engleski pridevi u _`-ive`_ (latinski _`-ivus`_) imaju završetak `-ivny`: _`pozitivny`_.
-- Engleski pridevi u _`-ous`_ (latinski _`-osus`_) imaju završetak `-ozny`: _`seriozny`_.
+- Glagoli latinskog porijekla (često `-ate`, `-fy`, `-ise`/`-ize` na engleskom, `-ieren` na njemačkom) imaju `-ovati`: :isv[organizovati], :isv[komunikovati].
+- Latinica `-ia` (prevedeno na engleskom kao `-ia` ili `-y`) postaje `-ija`: :isv[ekonomija].
+- Engleski `-sis` (od grčkog) postaje `-za`: :isv[kriza].
+- Imena hemijskih elemenata itd. na `-ium` postaju `-ij`: :isv[helij], :isv[kriterij].
+- Riječi na `-um` i `-us` općenito zadržavaju ove završetke: :isv[forum], :isv[korpus].
+- Engleski `-ty` (latinica `-tas`, `-tatis`) postaje `-tet`: :isv[universitet].
+- Engleski `-ics` postaje `-ika`: :isv[ekonomika].
+- Engleski `-ism` postaje `-izm`: :isv[komunizm].
+- Engleski `-ist` postaje `-ist`: :isv[komunist].
+- Engleski `-ssion` postaje `-sija`: :isv[diskusija].
+- Engleski `-sion` postaje `-zija`: :isv[televizija].
+- Engleski `-tion` postaje `-cija`: :isv[akcija].
+- Pridjevi izvedeni od ovih imenica imaju završetak `-ijny`: :isv[televizijny], :isv[tradicijny].
+- Engleski pridevi na `-al` (latinski `-alis`) završavaju se na `-alny`: :isv[neutralny].
+- Engleski pridevi u `-ic`, `-ical` (latinski `-icus`) imaju završetak `-ičny`: :isv[specifičny], :isv[komičny].
+- Engleski pridevi u `-ive` (latinski `-ivus`) imaju završetak `-ivny`: :isv[pozitivny].
+- Engleski pridevi u `-ous` (latinski `-osus`) imaju završetak `-ozny`: :isv[seriozny].
 
-Problematičnije su riječi posuđene iz engleskog. Kada pišemo latiničnim pismom, možemo zadržati originalni pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Međutim, mnogi tekstovi na međuslavenskom jeziku su pisani ćirilicom ili u oba pravopisa paralelno, često uz pomoć programa za transliteraciju, i naravno treba izbjegavati pisanje _bypass_ ili _knockout_ ćirilicom! U većini slučajeva, radije bismo primijenili fonetički pristup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_, itd.
+Problematičnije su riječi posuđene iz engleskog. Kada pišemo latiničnim pismom, možemo zadržati originalni pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Međutim, mnogi tekstovi na međuslavenskom jeziku su pisani ćirilicom ili u oba pravopisa paralelno, često uz pomoć programa za transliteraciju, i naravno treba izbjegavati pisanje _быпасс_ ili _кноцкоут_ ćirilicom! U većini slučajeva, radije bismo primijenili fonetički pristup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], :isv[koktejl], itd.
 
 [1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md

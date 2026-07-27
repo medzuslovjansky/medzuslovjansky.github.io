@@ -19,36 +19,36 @@ Slované nežijí na ostrově a v průběhu staletí si jejich jazyky vypůjčil
 
 Další kategorií je mezinárodní slovní zásoba, většinou z latiny a řečtiny, ale později i z francouzštiny a nověji angličtiny. Slova tohoto typu bývají podobná v celé Evropě a dalších částech světa. Tvoří nedílnou součást každého slovanského jazyka a mohou velmi pomoci k dosažení vzájemné srozumitelnosti, zejména mezi vzdělanějšími. Mezinárodní slova jsou prakticky totožná v každém jazyce a téměř neexistují žádné rozdíly ve významu. Když si půjčujeme mezinárodní slovní zásobu, držíme se co nejblíže pravopisu původního slova a přizpůsobujeme jej pouze tak, jak to vyžaduje pravopis. Zejména pro řecko-latinskou slovní zásobu však platí následující:
 
-- Vyhýbají se zdvojené souhlásky: _gramofon_, _grupa_.
-- Řecké souhlásky `th` a `ph` jsou zjednodušeny na `t` a `f`: _`teatr, fenomen`_
-- Řecké `y` se píše `i`, což je ve většině slovanských jazyků bližší jak pravopisu, tak výslovnosti: _`sistem, fizika`_
-- Zvuk :ipa[k] je vždy zapsán `k` a nikdy `c`: _`kontakt`_
-- Zvuk :ipa[x] (často reprezentovaný `ch`) se zapisuje `h`: _`psiholog`_.
-- Zvuk :ipa[y] (německy psaný `ü`, francouzsky `u`) se změní na `ju`: _`bjuro`_.
-- Mezi samohláskami se zvuk :ipa[z] (zapsaný `-s-`) změní na `z`: _`baza`_.
-- Mezi samohláskami se zvuk :ipa[s] (zapsaný `-ss-`) změní na `s`: _`masa`_.
+- Vyhýbají se zdvojené souhlásky: :isv[gramofon], :isv[grupa].
+- Řecké souhlásky `th` a `ph` jsou zjednodušeny na `t` a `f`: :isv[teatr], :isv[fenomen].
+- Řecké `y` se píše `i`, což je ve většině slovanských jazyků bližší jak pravopisu, tak výslovnosti: :isv[sistem], :isv[fizika].
+- Zvuk :ipa[k] je vždy zapsán `k` a nikdy `c`: :isv[kontakt].
+- Zvuk :ipa[x] (často reprezentovaný `ch`) se zapisuje `h`: :isv[psiholog].
+- Zvuk :ipa[y] (německy psaný `ü`, francouzsky `u`) se změní na `ju`: :isv[bjuro].
+- Mezi samohláskami se zvuk :ipa[z] (zapsaný `-s-`) změní na `z`: :isv[baza].
+- Mezi samohláskami se zvuk :ipa[s] (zapsaný `-ss-`) změní na `s`: :isv[masa].
 
 Kromě toho jsou koncovky přizpůsobeny předvídatelným způsobem tomu, co je nejběžnější ve slovanských jazycích:
 
-- Slovesa latinského původu (často _**-`ate`, -`fy`, -`ise`/-`ize`**_ v angličtině, _`-ieren`_ v němčině) mají `-ovati`: :isv[organizovati] , _`komunikovati`_.
-- Latinské _`-ia`_ (přenesené v angličtině jako _`-ia`_ nebo _`-y`_) se změní na `-ija`: _`ekonomija`_.
-- Angličtina _`-sis`_ (z řečtiny) se změní na `-za`: _`kriza`_.
-- Názvy chemických prvků atd. na _`-ium`_ se stanou `-ij`: _`helij, kriterij`_.
-- Slova na _`-um`_ a _`-us`_ mají obvykle tyto koncovky: _`forum, korpus`_.
-- Angličtina _`-ty`_ (latinsky _**-`tas`, -`tatis`**_) se změní na `-tet`: _`universitet`_.
-- Z anglického _`-ics`_ se stane `-ika`: _`ekonomika`_.
-- Z anglického _`-ism`_ se stane `-izm`: _`komunizm`_.
-- Z anglického _`-ist`_ se stane `-ist`: _`komunist`_.
-- Z anglického _`-sion`_ se stane `-zija`: _`televizija`_.
-- Z anglického _`-ssion`_ se stane `-sija`: _`diskusija`_.
-- Z anglického _`-tion`_ se stane `-cija`: _`akcija`_.
-- Přídavná jména odvozená od těchto podstatných jmen mají koncovku `-ijny`: :isv[televizijny], _`tradicijny`_.
-- Anglická přídavná jména v _`-al`_ (latinsky _`-alis`_) končí na `-alny`: _`neutralny`_.
-- Anglická přídavná jména v _**-`ic`, -`ical`**_ (latinsky _`-icus`_) mají koncovku `-ičny`: :isv[specifičny], _`komičny`_.
-- Anglická přídavná jména v _`-ive`_ (latinsky _`-ivus`_) mají koncovku `-ivny`: _`pozitivny`_.
-- Anglická přídavná jména v _`-ous`_ (latinsky _`-osus`_) mají koncovku `-ozny`: _`seriozny`_.
+- Slovesa latinského původu (často `-ate`, `-fy`, `-ise`/`-ize` v angličtině, `-ieren` v němčině) mají `-ovati`: :isv[organizovati], :isv[komunikovati].
+- Latinské `-ia` (přenesené v angličtině jako `-ia` nebo `-y`) se změní na `-ija`: :isv[ekonomija].
+- Angličtina `-sis` (z řečtiny) se změní na `-za`: :isv[kriza].
+- Názvy chemických prvků atd. na `-ium` se stanou `-ij`: :isv[helij], :isv[kriterij].
+- Slova na `-um` a `-us` mají obvykle tyto koncovky: :isv[forum], :isv[korpus].
+- Angličtina `-ty` (latinsky `-tas`, `-tatis`) se změní na `-tet`: :isv[universitet].
+- Z anglického `-ics` se stane `-ika`: :isv[ekonomika].
+- Z anglického `-ism` se stane `-izm`: :isv[komunizm].
+- Z anglického `-ist` se stane `-ist`: :isv[komunist].
+- Z anglického `-ssion` se stane `-sija`: :isv[diskusija].
+- Z anglického `-sion` se stane `-zija`: :isv[televizija].
+- Z anglického `-tion` se stane `-cija`: :isv[akcija].
+- Přídavná jména odvozená od těchto podstatných jmen mají koncovku `-ijny`: :isv[televizijny], :isv[tradicijny].
+- Anglická přídavná jména v `-al` (latinsky `-alis`) končí na `-alny`: :isv[neutralny].
+- Anglická přídavná jména v `-ic`, `-ical` (latinsky `-icus`) mají koncovku `-ičny`: :isv[specifičny], :isv[komičny].
+- Anglická přídavná jména v `-ive` (latinsky `-ivus`) mají koncovku `-ivny`: :isv[pozitivny].
+- Anglická přídavná jména v `-ous` (latinsky `-osus`) mají koncovku `-ozny`: :isv[seriozny].
 
-Problematičtější jsou slova přejatá z angličtiny. Při psaní latinkou můžeme zachovat původní pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnoho textů v interslovanštině je však psáno v azbuce nebo v obou pravopisech souběžně, často s pomocí transliteračního programu, a samozřejmě je třeba se vyhnout psaní _быпасс_ nebo _кноцкоут_ v azbuce! Ve většině případů bychom proto raději použili fonetičtější přístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], _`koktejl`_ atd.
+Problematičtější jsou slova přejatá z angličtiny. Při psaní latinkou můžeme zachovat původní pravopis (_bypass_, _knockout_, _jazz_, _teenager_). Mnoho textů v interslovanštině je však psáno v azbuce nebo v obou pravopisech souběžně, často s pomocí transliteračního programu, a samozřejmě je třeba se vyhnout psaní _быпасс_ nebo _кноцкоут_ v azbuce! Ve většině případů bychom proto raději použili fonetičtější přístup: :isv[bajpas], :isv[nokaut], :isv[džaz], :isv[tinejdžer], :isv[budžet], :isv[biznes], :isv[mjuzikl], :isv[futbol], :isv[koktejl] atd.
 
 [1]: ../misc/design-criteria.md#vocabulary
 [2]: flavourisation.md
