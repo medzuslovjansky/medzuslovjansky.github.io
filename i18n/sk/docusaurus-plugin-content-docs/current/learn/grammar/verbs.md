@@ -21,7 +21,7 @@ Slovesá bez predpony sú takmer z definície nedokonavé. Väčšina nedokonav�
 :isv[čistiti] (impf.) > :isv[izčistiti] (pf.) „čistiť“
 :isv[pisati] (impf.) > :isv[napisati] (pf.) „napísať“
 
-Vo všeobecnosti však platí, že účelom umiestnenia predpony pred sloveso je upraviť jeho význam. Zatiaľ čo v prípade :isv[pisati] sa predpona _`na-`_ jednoducho zmení na dokonavé sloveso, možno použiť aj iné predpony, napríklad _`za-`_ v :isv[zapisati] „zaznamenať, zaregistrovať“ alebo _@ @15_ v _`podpisati`_ „podpísať, prihlásiť sa“. Pretože výsledné sloveso je vždy dokonavé, je potrebné „vedľajšie“ nedokonavé sloveso, ktoré vychádza z jeho dokonavého ekvivalentu. Tieto nedokonavé slovesá sa tvoria takto:
+Vo všeobecnosti však platí, že účelom umiestnenia predpony pred sloveso je upraviť jeho význam. Zatiaľ čo v prípade :isv[pisati] sa predpona _`na-`_ jednoducho zmení na dokonavé sloveso, možno použiť aj iné predpony, napríklad _`za-`_ v :isv[zapisati] „zaznamenať, zaregistrovať“ alebo _`pod-`_ v _`podpisati`_ „podpísať, prihlásiť sa“. Pretože výsledné sloveso je vždy dokonavé, je potrebné „vedľajšie“ nedokonavé sloveso, ktoré vychádza z jeho dokonavého ekvivalentu. Tieto nedokonavé slovesá sa tvoria takto:
 
 - keď sa dokonavé sloveso končí na `-ati`, nedokonavé sloveso má koncovku `-yvati` (po mäkkej spoluhláske `-ivati`): :isv[dokazati] (pf.) > :isv[dokazyvati] (impf.) „dokázať“, _poddržati_ (pf.) > _`poddrživati`_ (impf.) „udržať“
 - keď sa dokonavé sloveso končí na `-iti`, nedokonavé sloveso má koncovku `-jati` (pričom z `sj/zj/tj/dj/stj/zdj` sa stáva `š/ž/č/dž/šč/ždž`). Predchádzajúca samohláska je predĺžená (napríklad `o` > `a`): :isv[napraviti] (pf.) > :isv[napravjati] (impf.) „smerovať“, :isv[pozvoliti] (pf.) > :isv[pozvaljati] (impf. .) „povoliť“, :isv[oprostiti] (pf.) > _`opraščati`_ (impf.) „zjednodušiť“
@@ -70,7 +70,7 @@ _Kmeň prítomného času_ (používaný pre prítomný čas, rozkazovací spôs
 
 - Prvá konjugácia:
   - keď sa infinitívne kmene končia na spoluhlásku, kmeň prítomného času je s ňou zhodný: _`nesti > nes-`_, _`vezti > vez-`_, _`klasti (< klad-ti) > klad-`_
-  - slovesá na `-ati`, jednoslabičné kmene končiace na samohlásku a viaceré slovesá na `-ěti` majú k infinitívnemu kmeňu pridané `-j-`: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _@ @103_
+  - slovesá na `-ati`, jednoslabičné kmene končiace na samohlásku a viaceré slovesá na `-ěti` majú k infinitívnemu kmeňu pridané `-j-`: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _`čuti > čuj-`_
   - slovesá na `-ovati` majú kmeň prítomného času `-uj-`: _`kovati > kuj-`_, _`organizovati > organizuj-`_
   - slovesá na `-nuti` majú kmeň prítomného času `-n-`: _`tegnuti > tegn-`_, _`dvignuti > dvign-`_
 - Druhá konjugácia:
@@ -99,7 +99,7 @@ Poznámky:
 
 ### Minulý čas \{#past-tense}
 
-V zásade existujú dva rôzne spôsoby, ako sa vysporiadať s minulým časom. Najčastejšie sa používa zložená minulosť, ktorá vzniká spojením prítomného času slovesa `byti` „byť“ s takzvaným _`L-participle`_. Toto príčastie má podobný význam ako „byť v stave, keď som niečo urobil“ a tvorí sa pridaním koncovky `-l` (mužský rod jednotného čísla), `-la` (ženský rod v singuláru), `-lo` (stredný rod jednotného čísla) alebo @ @179 (univerzálne množné číslo) k infinitívnemu kmeňu.
+V zásade existujú dva rôzne spôsoby, ako sa vysporiadať s minulým časom. Najčastejšie sa používa zložená minulosť, ktorá vzniká spojením prítomného času slovesa `byti` „byť“ s takzvaným _`L-participle`_. Toto príčastie má podobný význam ako „byť v stave, keď som niečo urobil“ a tvorí sa pridaním koncovky `-l` (mužský rod jednotného čísla), `-la` (ženský rod v singuláru), `-lo` (stredný rod jednotného čísla) alebo `-li` (univerzálne množné číslo) k infinitívnemu kmeňu.
 
 V tretej osobe sa tvary `byti` (_`je, jest, sut`_) zvyčajne vynechávajú, hoci to nie je povinné.
 
@@ -162,7 +162,7 @@ Rozkazovací spôsob má tvary pre 2. osobu jednotného čísla, 1. osobu množn
 :::component{name=MDVerbs7}
 :::
 
-Interslovančina nemá žiadne imperatívy v tretej osobe. Keď je takýto tvar potrebný, použije sa optatívna častica `nehaj`: :isv[Nehaj umre!] „Nechaj ho zomrieť!“ _`Nehaj žive dolgo!`_ "Nech žije dlho!"
+Interslovančina nemá žiadne imperatívy v tretej osobe. Keď je takýto tvar potrebný, použije sa optatívna častica `nehaj`: :isv[Nehaj umre!] „Nechaj ho zomrieť!“ _`Nehaj žive dolgo!`_ „Nech žije dlho!“
 
 Na rozlíšenie imperatívu od indikatívu si zaslúži odporúčanie presunúť prízvuk na koncovku. Platí to najmä pre slovesá s rozkazovacím spôsobom zakončeným `-i/-imo/-ite`: :isv[prósi] „pýta sa“, _`prosí`_ „pýta sa!“
 
@@ -171,19 +171,21 @@ Na rozlíšenie imperatívu od indikatívu si zaslúži odporúčanie presunúť
 Okrem spomínaného L-príčastia existujú v medzislovančine štyri príčastia: prítomný aktívny, prítomný pasívny, minulý aktívny, minulý pasívny.
 
 **prítomné aktívne príčastie** je odvodené od kmeňa prítomného času nedokonavého slovesa, pričom v prvej konjugácii sa pridáva `-uči` a v druhej `-eči`. Inými slovami, je vytvorený nahradením koncovky `-t` v 3. osobe množného čísla za `-či`. Napríklad: :isv[dělati > dělajuči] „robiť“, :isv[hvaliti > hvaleči] „chváliť“. Skloňuje sa ako prídavné meno mäkkého typu: :isv[běgajuči muž] „bežiaci muž“, _`ljubeča mati`_ „milujúca matka“.
+
 Príslovkové prítomné činné príčastie (známe aj ako „prestupník“) má rovnakú koncovku, ale neskloňuje sa pre rod: _`Iduči do raboty, ona vsegda dymi cigaretoju`_ „Keď ide do práce, vždy fajčí cigaretu“.
 
 **minulé aktívne príčastie** je založené na infinitívnom kmeni dokonavého slovesa, za ktorým nasleduje `-vši`, ak sa končí na samohlásku, alebo `-ši`, ak sa končí na spoluhlásku. Napríklad: :isv[sdělati > sdělavši] „urobiť“, _`ukrasti (< ukrad-ti) > ukradši`_ „ukradnúť“. Rovnako ako prítomné aktívne príčastie môže byť prídavné aj príslovkové, ale jeho použitie ako prídavného mena je veľmi zriedkavé. Všimnite si, že minulé aktívne príčastie je veľmi knižná forma, ktorá existuje vo väčšine slovanských jazykov, ale v hovorenej slovančine sa takmer nikdy nepoužíva.
 
 **prítomné trpné príčastie** je tiež odvodené od kmeňa prítomného času pridaním `-omy` (`-emy` po mäkkej spoluhláske) v prvej konjugácii a `-imy` v druhej: :isv[dělajemy] „being done“ . Malo by byť zrejmé, že vo väčšine slovanských jazykov sa toto príčastie vôbec nepoužíva, zatiaľ čo jeho zvyšky môžu mať mierne odlišný význam, napríklad _`vidimy`_ znamená „viditeľný“ a nie „byť videný“.
 
-**minulé trpné príčastie** sa tvorí pridaním `-ny` k infinitívnemu kmeňu, keď sa infinitív končí na samohlásku, a `-eny`, keď končí na spoluhlásku: :isv[dělany] „hotovo“, _`neseny`_ „ nesené“. Avšak:
+**minulé trpné príčastie** sa tvorí pridaním `-ny` k infinitívnemu kmeňu, keď sa infinitív končí na samohlásku, a `-eny`, keď končí na spoluhlásku: :isv[dělany] „hotovo“, _`neseny`_ „nesené“. Avšak:
 
-- Slovesá na `-iti` majú `-jeny` namiesto **\*-`iny`** (pričom **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** sa zmení na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „hovorené“, :isv[ljubiti > ljubjeny] „milované“, `prositi > prošeny`_ „povinné“
+- Slovesá na `-iti` majú `-jeny` namiesto **\*-`iny`** (pričom **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** sa zmení na **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): :isv[govoriti > govorjeny] „hovorené“, :isv[ljubiti > ljubjeny] „milované“, _`prositi > prošeny`_ „povinné“
 - v prípade slovies na `-nuti` je koncovka `-neny` namiesto **\*-`nuny`**: _`tegnuti > tegneny`_ „vytiahol“
-- všetky jednoslabičné kmene (okrem tých na `a`), t.j. tie, ktoré majú v prítomnom čase `-j-`, majú `-ty` namiesto `-ny`: :isv[biti > bity] „zasiahnutý“, :isv[čuti > čuty] „pocit“, _ `podjeti > podjety`_ „vykonané“
+- všetky jednoslabičné kmene (okrem tých na `a`), t.j. tie, ktoré majú v prítomnom čase `-j-`, majú `-ty` namiesto `-ny`: :isv[biti > bity] „zasiahnutý“, :isv[čuti > čuty] „pocit“, _`podjeti > podjety`_ „vykonané“
 
 Sloveso možno veľmi jednoducho premeniť na podstatné meno (_gerundium, slovesné podstatné meno_) nahradením koncovky `-ny` dokonalého minulého príčastia za `-nje` (alebo `-ty` za `tje`). Príklady: :isv[dělanje] „činenie“, _`pitje`_ „pitie“.
+
 Príklady:
 
 :::component{name=MDVerbs8}
@@ -196,14 +198,14 @@ Trpný rod vzniká spojením tvaru slovesa `byti` „byť“ s trpným príčast
 - :isv[ja jesm neseny] ≈ _`ja jesm nesomy`_ „Nesú ma“
 - :isv[ja byl neseny] ≈ _`ja byl nesomy`_ „Bol som nesený, bol som nesený“
 - _`ja budu neseny`_ „Nechám sa nosiť“
-- _`ja byh neseny`_ „Nesli by ma
+- _`ja byh neseny`_ „Nesli by ma“
 - _`ja byl byh neseny`_ „Bol by som unesený“
 
 ---
 
 ## Nepravidelné slovesá \{#irregular-verbs}
 
-### `Byti` \{#byti}
+### :isv[Byti] \{#byti}
 
 Jediné skutočne nepravidelné sloveso je `byti` „byť“. Konjuguje sa takto:
 
@@ -212,7 +214,7 @@ Jediné skutočne nepravidelné sloveso je `byti` „byť“. Konjuguje sa takto
 :::component{name=MDVerbs10}
 :::
 
-### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
+### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 Slovesá `dati` „dať“, `jesti` „jesť“ a `věděti` „vedieť“ majú nepravidelný prítomný čas. Podobne ako `byti` patria medzi takzvané _`athematic conjugation`_, čo znamená, že ich koreň sa končí na samohlásku. V prítomnom čase sa skloňujú takto:
 
@@ -221,7 +223,7 @@ Slovesá `dati` „dať“, `jesti` „jesť“ a `věděti` „vedieť“ majú
 
 Všetky ostatné tvary týchto troch slovies sa tvoria pravidelne.
 
-### `Idti` \{#idti}
+### :isv[Idti] \{#idti}
 
 Sloveso `idti` „ísť“ sa konjuguje pravidelne, okrem L-príčastia `šel` (d. `šla`, č. `šlo`) a (príbuzného) minulého aktívneho príčastia `šedši`. Niekedy sa pred týmito tvarmi uvádza `i-`: _`išel, išla`_ atď.
 

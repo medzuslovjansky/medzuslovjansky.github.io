@@ -21,7 +21,7 @@ Czasowniki bez przedrostka są niedokonane prawie z definicji. Większość czas
 :isv[čistiti] (impf.) > :isv[izčistiti] (pf.) „czyścić”
 :isv[pisati] (impf.) > :isv[napisati] (pf.) „pisać”
 
-Ogólnie jednak celem umieszczenia przedrostka przed czasownikiem jest modyfikacja jego znaczenia. Podczas gdy w przypadku :isv[pisati] przedrostek _`na-`_ po prostu zamienia go w czasownik dokonany, można użyć również innych przedrostków, na przykład _`za-`_ w :isv[zapisati] „zapisywać, rejestrować” lub _@ @15_ in _`podpisati`_ „podpisać, zaprenumerować”. Ponieważ wynikowy czasownik jest zawsze dokonany, potrzebny jest czasownik niedokonany „wtórny”, oparty na jego dokonanym odpowiedniku. Te czasowniki niedokonane są tworzone w następujący sposób:
+Ogólnie jednak celem umieszczenia przedrostka przed czasownikiem jest modyfikacja jego znaczenia. Podczas gdy w przypadku :isv[pisati] przedrostek _`na-`_ po prostu zamienia go w czasownik dokonany, można użyć również innych przedrostków, na przykład _`za-`_ w :isv[zapisati] „zapisywać, rejestrować” lub _`pod-`_ in _`podpisati`_ „podpisać, zaprenumerować”. Ponieważ wynikowy czasownik jest zawsze dokonany, potrzebny jest czasownik niedokonany „wtórny”, oparty na jego dokonanym odpowiedniku. Te czasowniki niedokonane są tworzone w następujący sposób:
 
 - gdy czasownik dokonany kończy się na `-ati`, czasownik niedokonany ma końcówkę `-yvati` (po miękkiej spółgłosce `-ivati`): :isv[dokazati] (pf.) > :isv[dokazyvati] (impf.) „dowieść”, _poddržati_ (pf.) > _`poddrživati`_ (impf.) „utrzymywać”
 - kiedy czasownik dokonany kończy się na `-iti`, czasownik niedokonany ma zakończenie `-jati` (gdzie `sj/zj/tj/dj/stj/zdj` staje się `š/ž/č/dž/šč/ždž`). Poprzednia samogłoska jest wydłużona (np. `o` > `a`): :isv[napraviti] (imp.) > :isv[napravjati] (impf.) „kierować”, :isv[pozvoliti] (pf.) > :isv[pozvaljati] (impf.) .) „pozwolić”, :isv[oprostiti] (pf.) > _`opraščati`_ (impf.) „uprościć”
@@ -70,7 +70,7 @@ Zazwyczaj _rdzeń czasu teraźniejszego_ (używany dla czasu teraźniejszego, tr
 
 - Pierwsza koniugacja:
   - gdy temat bezokolicznika kończy się na spółgłoskę, temat czasu teraźniejszego jest z nim identyczny: _`nesti > nes-`_, _`vezti > vez-`_, _`klasti (< klad-ti) > klad-`_
-  - czasowniki na `-ati`, rdzenie jednosylabowe zakończone samogłoską, a wiele czasowników na `-ěti` ma `-j-` dodane do tematu bezokolicznika: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _@ @103_
+  - czasowniki na `-ati`, rdzenie jednosylabowe zakończone samogłoską, a wiele czasowników na `-ěti` ma `-j-` dodane do tematu bezokolicznika: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _`čuti > čuj-`_
   - czasowniki na `-ovati` mają rdzeń w czasie teraźniejszym `-uj-`: _`kovati > kuj-`_, _`organizovati > organizuj-`_
   - czasowniki na `-nuti` mają rdzeń w czasie teraźniejszym `-n-`: _`tegnuti > tegn-`_, _`dvignuti > dvign-`_
 - Druga koniugacja:
@@ -99,7 +99,7 @@ Uwagi:
 
 ### Czas przeszły \{#past-tense}
 
-Zasadniczo istnieją dwie różne metody radzenia sobie z czasem przeszłym. Najczęściej używany jest czas przeszły złożony, powstały z połączenia czasu teraźniejszego czasownika `byti` „być” z tzw. _`L-participle`_. Imiesłów ten ma znaczenie podobne do „bycia w stanie zrobienia czegoś” i jest tworzony przez dodanie końcówki `-l` (liczba męska l.), `-la` (liczba żeńska l.), `-lo` (liczba nijaka) lub @ @179 (uniwersalna liczba mnoga) do rdzenia bezokolicznika.
+Zasadniczo istnieją dwie różne metody radzenia sobie z czasem przeszłym. Najczęściej używany jest czas przeszły złożony, powstały z połączenia czasu teraźniejszego czasownika `byti` „być” z tzw. _`L-participle`_. Imiesłów ten ma znaczenie podobne do „bycia w stanie zrobienia czegoś” i jest tworzony przez dodanie końcówki `-l` (liczba męska l.), `-la` (liczba żeńska l.), `-lo` (liczba nijaka) lub `-li` (uniwersalna liczba mnoga) do rdzenia bezokolicznika.
 
 W trzeciej osobie zwykle pomija się formy `byti` (_`je, jest, sut`_), chociaż nie jest to obowiązkowe.
 
@@ -118,7 +118,7 @@ Słowo ostrzeżenia jest jednak na miejscu. Dla zdecydowanej większości Słowi
 
 **Czas przeszły prosty**
 
-\__`simple past`_ oznacza czynność, która miała miejsce gdzieś w przeszłości. Pełni rolę czasu niedokonanego i powstaje poprzez dodanie do tematu bezokolicznika następujących końcówek:
+_`simple past`_ oznacza czynność, która miała miejsce gdzieś w przeszłości. Pełni rolę czasu niedokonanego i powstaje poprzez dodanie do tematu bezokolicznika następujących końcówek:
 
 - Jeśli rdzeń kończy się na samogłoskę: **-`h`, -`še`, -`še`, -`hmo`, -`ste`, -`hu`**
 - Jeśli rdzeń kończy się na spółgłoskę: **-`eh`, -`eše`, -`eše`, -`ehmo`, -`este`, -`ehu`**
@@ -171,19 +171,21 @@ Dla odróżnienia trybu rozkazującego od trybu oznajmującego, zaleca się prze
 Oprócz wspomnianego imiesłowu L, w języku starosłowiańskim istnieją cztery imiesłowy: teraźniejszy czynny, teraźniejszy bierny, przeszły czynny, przeszły bierny.
 
 **Imiesłów czynny czasu teraźniejszego** wywodzi się z tematu czasu teraźniejszego czasownika niedokonanego, dodając `-uči` w pierwszej koniugacji i `-eči` w drugiej. Innymi słowy, jest budowany poprzez zastąpienie końcówki `-t` trzeciej osoby liczby mnogiej przez `-či`. Na przykład: :isv[dělati > dělajuči] „robienie”, :isv[hvaliti > hvaleči] „chwalenie”. Odmienia się jak przymiotnik typu miękkiego: :isv[běgajuči muž] „biegnący mężczyzna”, _`ljubeča mati`_ „kochająca matka”.
+
 Imiesłów czynny czasu teraźniejszego przysłówkowego (zwany także „transgresywny”) ma tę samą końcówkę, ale nie jest odmieniany dla rodzaju: _`Iduči do raboty, ona vsegda dymi cigaretoju`_ „Idąc do pracy, zawsze pali papierosa”.
 
 **Imiesłów czynny czasu przeszłego** jest oparty na rdzeniu bezokolicznika czasownika dokonanego, po którym następuje `-vši`, jeśli kończy się na samogłoskę lub `-ši`, jeśli kończy się na spółgłoskę. Na przykład: :isv[sdělati > sdělavši] „zrobiłem”, _`ukrasti (< ukrad-ti) > ukradši`_ „ukradłem”. Podobnie jak imiesłów czynny teraźniejszy, może być zarówno przymiotnikiem, jak i przysłówkiem, ale jego użycie jako przymiotnika jest bardzo rzadkie. Zwróć uwagę, że imiesłów czynny czasu przeszłego jest bardzo książkową formą, która istnieje w większości języków słowiańskich, ale prawie nigdy nie jest używana w mówionym języku słowiańskim.
 
 **Imiesłów bierny czasu teraźniejszego** również wywodzi się z tematu czasu teraźniejszego, dodając `-omy` (`-emy` po miękkiej spółgłosce) w pierwszej koniugacji i `-imy` w drugiej: :isv[dělajemy] „wykonane” . Należy rozumieć, że w większości języków słowiańskich imiesłów ten nie jest w ogóle używany, natomiast jego pozostałości mogą mieć nieco inne znaczenie, np. _`vidimy`_ oznacza raczej „widzialny” niż „być widzianym”.
 
-**Imiesłów bierny czasu przeszłego** jest tworzony przez dodanie `-ny` do rdzenia bezokolicznika, gdy ten ostatni kończy się na samogłoskę, oraz `-eny`, gdy kończy się na spółgłoskę: :isv[dělany] „gotowe”, _`neseny`_ „ realizowane". Jednakże:
+**Imiesłów bierny czasu przeszłego** jest tworzony przez dodanie `-ny` do rdzenia bezokolicznika, gdy ten ostatni kończy się na samogłoskę, oraz `-eny`, gdy kończy się na spółgłoskę: :isv[dělany] „gotowe”, _`neseny`_ „realizowane”. Jednakże:
 
-- Czasowniki na `-iti` mają `-jeny` zamiast **\*-`iny`** (gdzie **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** stają się **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „mówione”, :isv[ljubiti > ljubjeny] „kochane”, `prositi > prošeny`_ „wymagane”
+- Czasowniki na `-iti` mają `-jeny` zamiast **\*-`iny`** (gdzie **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** stają się **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): :isv[govoriti > govorjeny] „mówione”, :isv[ljubiti > ljubjeny] „kochane”, _`prositi > prošeny`_ „wymagane”
 - w przypadku czasowników na `-nuti` końcówka to `-neny` zamiast **\*-`nuny`**: _`tegnuti > tegneny`_ „pociągnął”
-- wszystkie rdzenie jednosylabowe (oprócz tych na `a`), czyli te, które mają `-j-` w czasie teraźniejszym, mają `-ty` zamiast `-ny`: :isv[biti > bity] „uderzenie”, :isv[čuti > čuty] „filc”, _ `podjeti > podjety`_ „podjęte”
+- wszystkie rdzenie jednosylabowe (oprócz tych na `a`), czyli te, które mają `-j-` w czasie teraźniejszym, mają `-ty` zamiast `-ny`: :isv[biti > bity] „uderzenie”, :isv[čuti > čuty] „filc”, _`podjeti > podjety`_ „podjęte”
 
 Czasownik można bardzo łatwo zamienić na rzeczownik (_gerund, rzeczownik odsłowny_) poprzez zastąpienie końcówki `-ny` imiesłowu czasu przeszłego dokonanego przez `-nje` (lub `-ty` przez `tje`). Przykłady: :isv[dělanje] „(akt) robienia”, _`pitje`_ „picia”.
+
 Przykłady:
 
 :::component{name=MDVerbs8}
@@ -196,14 +198,14 @@ Stronę bierną tworzy się przez połączenie formy czasownika `byti` „być�
 - :isv[ja jesm neseny] ≈ _`ja jesm nesomy`_ „Jestem niesiony”
 - :isv[ja byl neseny] ≈ _`ja byl nesomy`_ „Byłem niesiony, niesiony”
 - _`ja budu neseny`_ „Będę niesiony”
-- _`ja byh neseny`_ „Będę niósł
-- \__`ja byl byh neseny`_ „Poniósłbym”
+- _`ja byh neseny`_ „Będę niósł”
+- _`ja byl byh neseny`_ „Poniósłbym”
 
 ---
 
 ## Czasowniki nieregularne \{#irregular-verbs}
 
-### `Byti` \{#byti}
+### :isv[Byti] \{#byti}
 
 Jedynym prawdziwie nieregularnym czasownikiem jest `byti` „być”. Jest sprzężony w następujący sposób:
 
@@ -212,7 +214,7 @@ Jedynym prawdziwie nieregularnym czasownikiem jest `byti` „być”. Jest sprz�
 :::component{name=MDVerbs10}
 :::
 
-### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
+### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 Czasowniki `dati` „dawać”, `jesti` „jeść” i `věděti` „wiedzieć” mają nieregularny czas teraźniejszy. Podobnie jak `byti` należą do tzw. _`athematic conjugation`_, co oznacza, że ich rdzeń kończy się na samogłoskę. W czasie teraźniejszym są one odmieniane w następujący sposób:
 
@@ -221,7 +223,7 @@ Czasowniki `dati` „dawać”, `jesti` „jeść” i `věděti` „wiedzieć�
 
 Wszystkie inne formy tych trzech czasowników powstają regularnie.
 
-### `Idti` \{#idti}
+### :isv[Idti] \{#idti}
 
 Czasownik `idti` „iść” odmienia się regularnie, z wyjątkiem imiesłowu L `šel` (f. `šla`, rz. `šlo`) i (spokrewnionego) imiesłowu czynnego czasu przeszłego `šedši`. Czasami formy te poprzedzone są `i-`: _`išel, išla`_ itd.
 

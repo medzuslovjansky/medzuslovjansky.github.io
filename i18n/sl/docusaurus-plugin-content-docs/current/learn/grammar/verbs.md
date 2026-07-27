@@ -14,14 +14,14 @@ origin: http://steen.free.fr/interslavic/verbs.html
 
 Ena največjih nočnih mor ljudi, ki se učijo slovanskih jezikov, so glagoli, za katere je značilno veliko različnih spregatev, izjem in izjem na izjemah. Morda se je Neslovanom najtežje navaditi na leksikalni vidik: večina glagolov obstaja v dveh različnih oblikah (»vidikih«), dovršnem in nedovršnem. Večina dovršnih glagolov ima nedovršni protistavek in obratno. Običajno se jih je treba učiti ločeno. Čeprav je to za tujce morda zapleteno, je zelo značilna lastnost slovanščine, vseprisotna v vseh slovanskih jezikih, zato se ji v medslovanščini ni mogoče izogniti. Vse, kar lahko storimo, je, da sistem naredimo čim bolj pregleden in pravilen. Kljub temu sta obe obliki, dovršnik in nedovršnik, v slovarju navedeni ločeno.
 
-Skratka, popolni vidik se osredotoča na rezultat dejanja in ne na dejanje samo. Odvisno od časa pomeni, da je dejanje že končano ali da bo nekoč končano. Nedovršni vidik pa se osredotoča na samo dejanje; označuje, da se na referenčni točki dejanje dogaja ali se je dogajalo. Izraža lahko tudi trajajoč proces, navado ali ponavljajoče se dejanje: :isv[ja čital jesm knigu] (dovršnik) pomeni "Bral sem knjigo" ali "Bral sem knjigo", :isv[ja pročital jesm knigu] (dovršnik) pomeni "Bral sem knjigo" prebral knjigo (in jo dokončal)«.
+Skratka, popolni vidik se osredotoča na rezultat dejanja in ne na dejanje samo. Odvisno od časa pomeni, da je dejanje že končano ali da bo nekoč končano. Nedovršni vidik pa se osredotoča na samo dejanje; označuje, da se na referenčni točki dejanje dogaja ali se je dogajalo. Izraža lahko tudi trajajoč proces, navado ali ponavljajoče se dejanje: :isv[ja čital jesm knigu] (dovršnik) pomeni "Bral sem knjigo" ali "Bral sem knjigo", :isv[ja pročital jesm knigu] (dovršnik) pomeni "Bral sem knjigo" prebral knjigo (in jo dokončal)".
 
 Glagoli brez predpone so skoraj po definiciji nedovršni. Večina nedovršnih glagolov ima dovršni ustreznik, ki pomeni popolnoma isto stvar, le da se osredotoča na rezultat dejanja. Na splošno je ta popolna različica oblikovana z dodajanjem predpone:
 :isv[dělati] (impf.) > :isv[sdělati] (pf.) „narediti”
 :isv[čistiti] (impf.) > :isv[izčistiti] (pf.) „čistiti”
 :isv[pisati] (impf.) > :isv[napisati] (pf.) „pisati”
 
-Na splošno pa je namen postavitve predpone pred glagol spremeniti njegov pomen. Medtem ko v primeru :isv[pisati] predpona _`na-`_ preprosto spremeni v dovršni glagol, se lahko uporabljajo tudi druge predpone, na primer _`za-`_ v :isv[zapisati] „snemati, registrirati” ali _@ @15_ v _`podpisati`_ „podpisati, naročiti”. Ker je nastali glagol vedno dovršni, je potreben »sekundarni« nedovršni glagol, ki temelji na njegovem dovršnem ustrezniku. Ti nedovršni glagoli so tvorjeni takole:
+Na splošno pa je namen postavitve predpone pred glagol spremeniti njegov pomen. Medtem ko v primeru :isv[pisati] predpona _`na-`_ preprosto spremeni v dovršni glagol, se lahko uporabljajo tudi druge predpone, na primer _`za-`_ v :isv[zapisati] „snemati, registrirati” ali _`pod-`_ v _`podpisati`_ „podpisati, naročiti”. Ker je nastali glagol vedno dovršni, je potreben »sekundarni« nedovršni glagol, ki temelji na njegovem dovršnem ustrezniku. Ti nedovršni glagoli so tvorjeni takole:
 
 - kadar se dovršni glagol konča na `-ati`, ima nedovršni glagol končnico `-yvati` (za mehkim soglasnikom `-ivati`): :isv[dokazati] (pf.) > :isv[dokazyvati] (impf.) „dokazati”, _poddržati_ (pf.) > _`poddrživati`_ (impf.) „vzdrževati”
 - ko se dovršni glagol konča na `-iti`, ima nedovršni glagol končnico `-jati` (pri čemer `sj/zj/tj/dj/stj/zdj` postane `š/ž/č/dž/šč/ždž`). Predhodni samoglasnik se podaljša (na primer `o` > `a`): :isv[napraviti] (pf.) > :isv[napravjati] (impf.) „usmerjati”, :isv[pozvoliti] (pf.) > :isv[pozvaljati] (impf.) .) „dovoliti”, :isv[oprostiti] (pf.) > _`opraščati`_ (impf.) „poenostaviti”
@@ -70,7 +70,7 @@ Običajno lahko _sedanjikovo deblo_ (uporablja se za sedanjik, velelnik in sedan
 
 - Prva konjugacija:
   - kadar se nedoločniška debla končajo na soglasnik, je sedanjikovo deblo enako temu: _`nesti > nes-`_, _`vezti > vez-`_, _`klasti (< klad-ti) > klad-`_
-  - glagoli na `-ati`, enozložna debla, ki se končajo na samoglasnik, in številni glagoli na `-ěti` imajo nedoločniku dodan `-j-`: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _@ @103_
+  - glagoli na `-ati`, enozložna debla, ki se končajo na samoglasnik, in številni glagoli na `-ěti` imajo nedoločniku dodan `-j-`: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _`čuti > čuj-`_
   - glagoli na `-ovati` imajo sedanjikovo deblo `-uj-`: _`kovati > kuj-`_, _`organizovati > organizuj-`_
   - glagoli na `-nuti` imajo sedanjikovo deblo `-n-`: _`tegnuti > tegn-`_, _`dvignuti > dvign-`_
 - Druga konjugacija:
@@ -99,7 +99,7 @@ Opombe:
 
 ### Pretekli čas \{#past-tense}
 
-V bistvu obstajata dve različni metodi za obravnavo preteklega časa. Najpogosteje uporabljen je sestavljeni preteklik, ki nastane z združitvijo sedanjika glagola `byti` „biti” s tako imenovanim _`L-participle`_. Ta deležnik ima pomen, podoben "biti v stanju, ko je nekaj naredil", in nastane z dodajanjem končnice `-l` (moški rod ednine), `-la` (ženski rod ednine), `-lo` (srednji rod ednine) ali @ @179 (univerzalna množina) na nedoločniško deblo.
+V bistvu obstajata dve različni metodi za obravnavo preteklega časa. Najpogosteje uporabljen je sestavljeni preteklik, ki nastane z združitvijo sedanjika glagola `byti` „biti” s tako imenovanim _`L-participle`_. Ta deležnik ima pomen, podoben "biti v stanju, ko je nekaj naredil", in nastane z dodajanjem končnice `-l` (moški rod ednine), `-la` (ženski rod ednine), `-lo` (srednji rod ednine) ali `-li` (univerzalna množina) na nedoločniško deblo.
 
 V tretji osebi so oblike `byti` (_`je, jest, sut`_) običajno izpuščene, čeprav to ni obvezno.
 
@@ -162,7 +162,7 @@ Velilnik ima oblike za 2. osebo ednine, 1. osebo množine in 2. osebo množine: 
 :::component{name=MDVerbs7}
 :::
 
-Medslovanščina nima imperativa v tretji osebi. Kadar je potrebna taka oblika, se uporabi optativ `nehaj`: :isv[Nehaj umre!] »Naj umre!« _`Nehaj žive dolgo!`_ "Naj še dolgo živi!"
+Medslovanščina nima imperativa v tretji osebi. Kadar je potrebna taka oblika, se uporabi optativ `nehaj`: :isv[Nehaj umre!] »Naj umre!« _`Nehaj žive dolgo!`_ »Naj še dolgo živi!«
 
 Za razlikovanje imperativa od indikativa je vredno priporočiti, da naglas premaknete na končnico. To še posebej velja za glagole z velelno končnico `-i/-imo/-ite`: :isv[prósi] „sprašuje”, _`prosí`_ „vprašaj!”
 
@@ -171,19 +171,21 @@ Za razlikovanje imperativa od indikativa je vredno priporočiti, da naglas prema
 Razen prej omenjenega deležnika L so v medslovanščini štirje deležniki: sedanjik aktiv, sedanjik trpni, pretekli aktiv, pretekli pasiv.
 
 **Sedanjiški aktivni deležnik** je izpeljan iz sedanjiškega debla nedovršnega glagola z dodajanjem `-uči` v prvi spregatvi in `-eči` v drugi. Z drugimi besedami, sestavljen je tako, da se končnica `-t` 3. osebe množine zamenja z `-či`. Na primer: :isv[dělati > dělajuči] „delati”, :isv[hvaliti > hvaleči] „hvaliti”. Sklanja se kot pridevnik mehkega tipa: :isv[běgajuči muž] „tečeči človek”, _`ljubeča mati`_ „ljubeča mati”.
+
 Prislovni sedanjik (znan tudi kot »prestopniški«) ima enako končnico, vendar se ne sklanja glede na spol: _`Iduči do raboty, ona vsegda dymi cigaretoju`_ »Ko gre v službo, vedno pokadi cigareto«.
 
 **Pretekli aktivni deležnik** temelji na nedoločniškem deblu dovršnega glagola, ki mu sledi `-vši`, če se konča na samoglasnik, ali `-ši`, če se konča na soglasnik. Na primer: :isv[sdělati > sdělavši] „naredil”, _`ukrasti (< ukrad-ti) > ukradši`_ „ukradel”. Tako kot sedanjik je lahko pridevnik in prislov, vendar je njegova uporaba kot pridevnik zelo redka. Upoštevajte, da je aktivni delček preteklosti zelo knjižna oblika, ki obstaja v večini slovanskih jezikov, vendar se v govorjeni slovanščini skoraj nikoli ne uporablja.
 
 **Sedanjikov pasivni deležnik** je prav tako izpeljan iz sedanjikovega debla, pri čemer je dodal `-omy` (`-emy` za mehkim soglasnikom) v prvi spregatvi in `-imy` v drugi: :isv[dělajemy] "se dela" . Treba je razumeti, da se v večini slovanskih jezikov ta deležnik sploh ne uporablja, medtem ko imajo lahko njegovi ostanki nekoliko drugačne pomene, na primer _`vidimy`_ pomeni »viden« in ne »biti viden«.
 
-**Pretekli trpni deležnik** nastane tako, da nedoločniku dodamo `-ny`, ko se slednji konča na samoglasnik, in `-eny`, ko se konča na soglasnik: :isv[dělany] „končano”, _`neseny`_ „ nosil«. Vendar:
+**Pretekli trpni deležnik** nastane tako, da nedoločniku dodamo `-ny`, ko se slednji konča na samoglasnik, in `-eny`, ko se konča na soglasnik: :isv[dělany] „končano”, _`neseny`_ „nosil”. Vendar:
 
-- Glagoli na `-iti` imajo `-jeny` namesto **\*-`iny`** (pri čemer **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postanejo **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „govorjeno”, :isv[ljubiti > ljubjeny] „ljubljeno”, `prositi > prošeny`_ „zahtevano”
+- Glagoli na `-iti` imajo `-jeny` namesto **\*-`iny`** (pri čemer **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postanejo **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): :isv[govoriti > govorjeny] „govorjeno”, :isv[ljubiti > ljubjeny] „ljubljeno”, _`prositi > prošeny`_ „zahtevano”
 - pri glagolih na `-nuti` je končnica `-neny` namesto **\*-`nuny`**: _`tegnuti > tegneny`_ „potegnil”
-- vsa enozložna debla (razen tistih na `a`), tj. tista, ki imajo `-j-` v sedanjiku, imajo `-ty` namesto `-ny`: :isv[biti > bity] „zadeti”, :isv[čuti > čuty] „čutiti”, _ `podjeti > podjety`_ „zavzeto”
+- vsa enozložna debla (razen tistih na `a`), tj. tista, ki imajo `-j-` v sedanjiku, imajo `-ty` namesto `-ny`: :isv[biti > bity] „zadeti”, :isv[čuti > čuty] „čutiti”, _`podjeti > podjety`_ „zavzeto”
 
 Glagol lahko zelo preprosto pretvorite v samostalnik (_gerund, verbalni samostalnik_) tako, da zamenjate končnico `-ny` dovršnega preteklika z `-nje` (ali `-ty` z `tje`). Primeri: :isv[dělanje] „(dejanje) početja”, _`pitje`_ „pitje”.
+
 Primeri:
 
 :::component{name=MDVerbs8}
@@ -196,23 +198,23 @@ Trpni glas je ustvarjen z združitvijo oblike glagola `byti` „biti” s trpnim
 - :isv[ja jesm neseny] ≈ _`ja jesm nesomy`_ „Nosijo me”
 - :isv[ja byl neseny] ≈ _`ja byl nesomy`_ „Nosili so me, nosili so me”
 - _`ja budu neseny`_ „Nosili me bodo”
-- _`ja byh neseny`_ „Mene bi nosili
+- _`ja byh neseny`_ „Mene bi nosili”
 - _`ja byl byh neseny`_ „Nesli bi me”
 
 ---
 
 ## Nepravilni glagoli \{#irregular-verbs}
 
-### `Byti` \{#byti}
+### :isv[Byti] \{#byti}
 
-Edini zares nepravilni glagol je `byti` "biti". Konjugiran je na naslednji način:
+Edini zares nepravilni glagol je `byti` „biti”. Konjugiran je na naslednji način:
 
 :::component{name=MDVerbs9}
 :::
 :::component{name=MDVerbs10}
 :::
 
-### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
+### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 Glagoli `dati` „dati”, `jesti` „jesti” in `věděti` „vedeti” imajo nepravilen sedanjik. Tako kot `byti` spadajo v tako imenovani _`athematic conjugation`_, kar pomeni, da se njihov koren konča na samoglasnik. V sedanjiku se sklanjajo takole:
 
@@ -221,7 +223,7 @@ Glagoli `dati` „dati”, `jesti` „jesti” in `věděti` „vedeti” imajo 
 
 Vse druge oblike teh treh glagolov so pravilno tvorjene.
 
-### `Idti` \{#idti}
+### :isv[Idti] \{#idti}
 
 Glagol `idti` „iti” se sprega redno, razen L-deležnika `šel` (f. `šla`, n. `šlo`) in (sorodnega) preteklega aktivnega deležnika `šedši`. Včasih je pred temi oblikami `i-`: _`išel, išla`_ itd.
 

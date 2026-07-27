@@ -21,7 +21,7 @@ Glagoli bez prefiksa gotovo su po definiciji nesvršeni. Većina nesvršenih gla
 :isv[čistiti] (impf.) > :isv[izčistiti] (pf.) „čistiti”
 :isv[pisati] (impf.) > :isv[napisati] (pf.) „pisati”
 
-Općenito, međutim, svrha stavljanja prefiksa ispred glagola je modificiranje njegovog značenja. Dok u slučaju :isv[pisati] prefiks _`na-`_ jednostavno pretvara u svršeni glagol, mogu se koristiti i drugi prefiksi, na primjer _`za-`_ u :isv[zapisati] „snimiti, registrirati” ili _@ @15_ u _`podpisati`_ „potpisati, pretplatiti se”. Budući da je rezultirajući glagol uvijek svršen, potreban je „sekundarni” nesvršeni glagol koji se temelji na njegovom svršenom ekvivalentu. Ovi nesvršeni glagoli tvore se na sljedeći način:
+Općenito, međutim, svrha stavljanja prefiksa ispred glagola je modificiranje njegovog značenja. Dok u slučaju :isv[pisati] prefiks _`na-`_ jednostavno pretvara u svršeni glagol, mogu se koristiti i drugi prefiksi, na primjer _`za-`_ u :isv[zapisati] „snimiti, registrirati” ili _`pod-`_ u _`podpisati`_ „potpisati, pretplatiti se”. Budući da je rezultirajući glagol uvijek svršen, potreban je „sekundarni” nesvršeni glagol koji se temelji na njegovom svršenom ekvivalentu. Ovi nesvršeni glagoli tvore se na sljedeći način:
 
 - kada svršeni glagol završava na `-ati`, nesvršeni glagol ima završetak `-yvati` (nakon mekog suglasnika `-ivati`): :isv[dokazati] (pf.) > :isv[dokazyvati] (impf.) „dokazati”, _poddržati_ (pf.) > _`poddrživati`_ (impf.) „održavati”
 - kada svršeni glagol završava na `-iti`, nesvršeni glagol ima završetak `-jati` (pri čemu `sj/zj/tj/dj/stj/zdj` postaje `š/ž/č/dž/šč/ždž`). Prethodni samoglasnik je produljen (na primjer `o` > `a`): :isv[napraviti] (pf.) > :isv[napravjati] (impf.) „usmjeriti”, :isv[pozvoliti] (pf.) > :isv[pozvaljati] (impf .) „dopustiti”, :isv[oprostiti] (pf.) > _`opraščati`_ (impf.) „pojednostaviti”
@@ -70,7 +70,7 @@ Obično se _osnova sadašnjeg vremena_ (koristi se za sadašnje vrijeme, imperat
 
 - Prva konjugacija:
   - kada infinitiv završava na suglasnik, prezent mu je identičan: _`nesti > nes-`_, _`vezti > vez-`_, _`klasti (< klad-ti) > klad-`_
-  - glagoli na `-ati`, jednosložne osnove koje završavaju na samoglasnik, a niz glagola na `-ěti` ima `-j-` dodan u infinitivnu osnovu: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _@ @103_
+  - glagoli na `-ati`, jednosložne osnove koje završavaju na samoglasnik, a niz glagola na `-ěti` ima `-j-` dodan u infinitivnu osnovu: _`dělati > dělaj-`_, _`uměti > uměj-`_, _`biti > bij-`_, _`čuti > čuj-`_
   - glagoli na `-ovati` imaju osnovu sadašnjeg vremena `-uj-`: _`kovati > kuj-`_, _`organizovati > organizuj-`_
   - glagoli na `-nuti` imaju osnovu sadašnjeg vremena `-n-`: _`tegnuti > tegn-`_, _`dvignuti > dvign-`_
 - Druga konjugacija:
@@ -99,7 +99,7 @@ Bilješke:
 
 ### Prošlo vrijeme \{#past-tense}
 
-U osnovi, postoje dvije različite metode za suočavanje s prošlim vremenom. Najčešće se koristi složena prošlost, nastala kombinacijom sadašnjeg vremena glagola `byti` „biti” s takozvanim _`L-participle`_. Ovaj particip ima značenje slično „biti u stanju da ste nešto učinili”, a formira se dodavanjem završetka `-l` (jednina muškog roda), `-la` (jednina ženskog roda), `-lo` (jednina srednjeg roda) ili @ @179 (univerzalna množina) na infinitivnu osnovu.
+U osnovi, postoje dvije različite metode za suočavanje s prošlim vremenom. Najčešće se koristi složena prošlost, nastala kombinacijom sadašnjeg vremena glagola `byti` „biti” s takozvanim _`L-participle`_. Ovaj particip ima značenje slično „biti u stanju da ste nešto učinili”, a formira se dodavanjem završetka `-l` (jednina muškog roda), `-la` (jednina ženskog roda), `-lo` (jednina srednjeg roda) ili `-li` (univerzalna množina) na infinitivnu osnovu.
 
 U trećem licu, oblici `byti` (_`je, jest, sut`_) obično se izostavljaju, iako to nije obavezno.
 
@@ -171,19 +171,21 @@ Za razlikovanje imperativa od indikativa zaslužuje preporuku da se akcentuacija
 Osim spomenutog L-participa, u međuslavenskom postoje četiri participa: prezent aktiv, prezent pasiv, prošli aktiv, prošli pasiv.
 
 **Aktivni particip sadašnji** izveden je iz osnove sadašnjeg vremena nesvršenog glagola, dodavanjem `-uči` u prvoj konjugaciji i `-eči` u drugoj. Drugim riječima, gradi se zamjenom završetka `-t` u 3. licu množine s `-či`. Na primjer: :isv[dělati > dělajuči] „raditi”, :isv[hvaliti > hvaleči] „hvaliti”. Sklanja se kao pridjev mekog tipa: :isv[běgajuči muž] „čovjek koji trči”, _`ljubeča mati`_ „majka puna ljubavi”.
+
 Priložni particip prezenta (poznat i kao „transgresivni”) ima isti završetak, ali se ne sklanja prema rodu: _`Iduči do raboty, ona vsegda dymi cigaretoju`_ „Dok ide na posao, uvijek popuši cigaretu”.
 
 **Prošli aktivni particip** temelji se na infinitivnoj osnovi svršenog glagola, nakon čega slijedi `-vši` ako završava na samoglasnik ili `-ši` ako završava na suglasnik. Na primjer: :isv[sdělati > sdělavši] „učinio sam”, _`ukrasti (< ukrad-ti) > ukradši`_ „ukrao”. Poput aktivnog participa sadašnjeg, može biti i priložni i priložni, ali je njegova upotreba kao pridjeva vrlo rijetka. Imajte na umu da je aktivna čestica prošlosti vrlo knjiški oblik koji postoji u većini slavenskih jezika, ali se rijetko koristi u govornom slavenskom jeziku.
 
 **Pasivni particip sadašnjeg** također je izveden iz osnove sadašnjeg vremena, dodavanjem `-omy` (`-emy` nakon mekog suglasnika) u prvoj konjugaciji i `-imy` u drugoj: :isv[dělajemy] „u tijeku” . Treba imati na umu da se u većini slavenskih jezika ovaj particip uopće ne koristi, dok njegovi ostaci mogu imati malo drugačija značenja, na primjer _`vidimy`_ znači „vidljiv” umjesto „biti viđen”.
 
-**Past particip prošli** nastaje dodavanjem `-ny` infinitivu kada potonji završava na samoglasnik, i `-eny` kada završava na suglasnik: :isv[dělany] „gotovo”, _`neseny`_ „ nosio”. Međutim:
+**Past particip prošli** nastaje dodavanjem `-ny` infinitivu kada potonji završava na samoglasnik, i `-eny` kada završava na suglasnik: :isv[dělany] „gotovo”, _`neseny`_ „nosio”. Međutim:
 
-- Glagoli na `-iti` imaju `-jeny` umjesto **\*-`iny`** (pri čemu **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postaju **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): _:isv[govoriti > govorjeny] „izgovoreno”, :isv[ljubiti > ljubjeny] „voljeno”, `prositi > prošeny`_ „potrebno”
+- Glagoli na `-iti` imaju `-jeny` umjesto **\*-`iny`** (pri čemu **\*-`sjeny`, \*-`zjeny`, \*-`tjeny`, \*- `djeny`, \*-`stjeny`, \*-`zdjeny`** postaju **-`šeny`, -`ženy`, -`čeny`, -`dženy`, -`ščeny`, -`ždženy`**): :isv[govoriti > govorjeny] „izgovoreno”, :isv[ljubiti > ljubjeny] „voljeno”, _`prositi > prošeny`_ „potrebno”
 - u slučaju glagola na `-nuti` završetak je `-neny` umjesto **\*-`nuny`**: _`tegnuti > tegneny`_ „povukao”
-- sve jednosložne osnove (osim onih na `a`), tj. one koje imaju `-j-` u prezentu, imaju `-ty` umjesto `-ny`: :isv[biti > bity] „udariti”, :isv[čuti > čuty] „osjećati”, _ `podjeti > podjety`_ „poduzeto”
+- sve jednosložne osnove (osim onih na `a`), tj. one koje imaju `-j-` u prezentu, imaju `-ty` umjesto `-ny`: :isv[biti > bity] „udariti”, :isv[čuti > čuty] „osjećati”, _`podjeti > podjety`_ „poduzeto”
 
 Glagol se može vrlo jednostavno pretvoriti u imenicu (_gerund, verbalna imenica_) zamjenom završetka `-ny` savršenog participa prošlosti s `-nje` (ili `-ty` s `tje`). Primjeri: :isv[dělanje] „(čin) činjenja”, _`pitje`_ „pijenje”.
+
 Primjeri:
 
 :::component{name=MDVerbs8}
@@ -196,14 +198,14 @@ Pasiv se stvara kombinacijom oblika glagola `byti` „biti” s participom pasiv
 - :isv[ja jesm neseny] ≈ _`ja jesm nesomy`_ „Nose me”
 - :isv[ja byl neseny] ≈ _`ja byl nesomy`_ „Nosili su me, nosili su me”
 - _`ja budu neseny`_ „Bit ću nošen”
-- _`ja byh neseny`_ „Mene bi nosili
+- _`ja byh neseny`_ „Mene bi nosili”
 - _`ja byl byh neseny`_ „Bio bih nošen”
 
 ---
 
 ## Nepravilni glagoli \{#irregular-verbs}
 
-### `Byti` \{#byti}
+### :isv[Byti] \{#byti}
 
 Jedini istinski nepravilan glagol je `byti` „biti”. Konjugiran je na sljedeći način:
 
@@ -212,7 +214,7 @@ Jedini istinski nepravilan glagol je `byti` „biti”. Konjugiran je na sljede�
 :::component{name=MDVerbs10}
 :::
 
-### `Dati`, `jesti`, `věděti` \{#dati-jesti-věděti}
+### :isv[Dati], :isv[jesti], :isv[věděti] \{#dati-jesti-věděti}
 
 Glagoli `dati` „dati”, `jesti` „jesti” i `věděti` „znati” imaju nepravilan prezent. Kao i `byti`, oni pripadaju takozvanom _`athematic conjugation`_, što znači da im korijen završava na samoglasnik. U sadašnjem vremenu se mijenjaju na sljedeći način:
 
@@ -221,7 +223,7 @@ Glagoli `dati` „dati”, `jesti` „jesti” i `věděti` „znati” imaju ne
 
 Svi ostali oblici ova tri glagola tvore se pravilno.
 
-### `Idti` \{#idti}
+### :isv[Idti] \{#idti}
 
 Glagol `idti` „ići” redovito se konjugira, osim L-participa `šel` (f. `šla`, n. `šlo`) i (srodnog) prošlog aktivnog participa `šedši`. Ponekad ovim oblicima prethodi `i-`: _`išel, išla`_ itd.
 
