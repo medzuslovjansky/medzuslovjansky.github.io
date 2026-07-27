@@ -8,5 +8,7 @@ tags: [interslavic, numbers, grammar, language learning, linguistics, comparativ
 
 # The Numbers 1-10 in Slavic Languages
 
+This page contains the numbers 1-10 in as many Slavic languages as I could gather, including various constructed Slavic auxiliary language projects and fictional Slavic languages. For comparison:
+
 :::component{name=MDNumbers1}
 :::
