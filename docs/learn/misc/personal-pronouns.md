@@ -11,7 +11,7 @@ tags: [interslavic, grammar, language learning, linguistics, comparative, person
 
 Interslavic is entirely based on the natural Slavic languages, and the forms have been picked on the basis of both comparison and logic. This page demonstrates how this has been done in the case of personal pronouns:
 
-## First person singular
+## First person singular \{#first-person-singular}
 
 :::component{name=MDPersonalPronouns1}
 :::
@@ -26,7 +26,7 @@ Interslavic is entirely based on the natural Slavic languages, and the forms hav
 
 :::
 
-## Second person singular
+## Second person singular \{#second-person-singular}
 
 :::component{name=MDPersonalPronouns2}
 :::
@@ -37,7 +37,7 @@ The majority solution for the dative would be :isv[tebě], but we want to keep i
 
 :::
 
-## Third person singular, masculine and neuter
+## Third person singular, masculine and neuter \{#third-person-singular-masculine-and-neuter}
 
 :::component{name=MDPersonalPronouns3}
 :::
@@ -49,22 +49,22 @@ The majority solution for the dative would be :isv[tebě], but we want to keep i
 
 :::
 
-## Third person singular, feminine
+## Third person singular, feminine \{#third-person-singular-feminine}
 
 :::component{name=MDPersonalPronouns4}
 :::
 
-## First person plural
+## First person plural \{#first-person-plural}
 
 :::component{name=MDPersonalPronouns5}
 :::
 
-## Second person plural
+## Second person plural \{#second-person-plural}
 
 :::component{name=MDPersonalPronouns6}
 :::
 
-## Third person plural
+## Third person plural \{#third-person-plural}
 
 :::component{name=MDPersonalPronouns7}
 :::
