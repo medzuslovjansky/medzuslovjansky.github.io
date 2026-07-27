@@ -10,6 +10,8 @@ import {translate} from "@docusaurus/Translate";
 
 ## Mezislovanské dialekty \{#interslavic-dialects}
 
+_:isv[Medžuslovjanske narěčja]_
+
 Interslovanština má být co nejvíce středobodem slovanských jazyků a my se snažíme nabízet řešení, která jsou nejlepší pro všechny Slovany dohromady, aniž by převažovaly vlastnosti konkrétních podskupin. Tato řešení však nejsou vždy ideální pro komunikaci mezi _podmnožinou_ slovanských mluvčích: co je nejlepší v Bulharsku nebo Chorvatsku, nemusí být nutně nejlepší v Polsku nebo Rusku. Interslavic by měl být dostatečně flexibilní, aby nabízel řešení pro všechny tyto různé typy komunikace. To lze realizovat na čtyřech různých úrovních:
 
 - Na lexikální úrovni. Mezislovanská slova byla vybrána pro maximální srozumitelnost mezi co nejvyšším počtem Slovanů, ale ne vždy se podaří najít slovo srozumitelné všem. Je zřejmé, že slovo, které je běžně srozumitelné pro západní a východní Slovany, ale neznámé pro jižní Slovany, nebude příliš užitečné v komunikaci se Srby nebo Bulhary. Z tohoto důvodu slovník někdy nabízí synonyma, kdy jedno slovo pokrývá jednu část slovanského území a druhé slovo druhou, což umožňuje uživatelům vybrat slova srozumitelná zejména pro jednu podskupinu.
@@ -23,7 +25,7 @@ Popisovat všechny možné ochucené formy mezislovanštiny by zašlo příliš 
 
 ## Ochucování ve výslovnosti \{#flavourisation-in-pronunciation}
 
-_`Flavorizacija v izgovoru`_
+_:isv[Flavorizacija v izgovoru]_
 
 Základem pro manipulaci s interslovanštinou je [etymologická abeceda][1], sada volitelných písmen, která ve skutečnosti nemají vlastní výslovnost, ale místo toho představují fonémy, jejichž výslovnost se v jednotlivých jazycích liší. V mezislovanštině mohou být použity k předávání dalších etymologických informací, ale mohou být také použity k jinému účelu: jejich napsáním a/nebo jejich vyslovováním jiným (nestandardním) způsobem lze upravit text tak, aby byl lépe srozumitelný. mluvčími určité skupiny jazyků.
 
@@ -45,24 +47,24 @@ Když `r` nebo `ŕ` předchází souhláska a nenásleduje samohláska, tvoří 
 
 Souhláska `g` se v ukrajinštině, běloruštině, češtině, slovenštině a hornolužické srbštině vyslovuje spíše jako aspirovaná `h`.
 
-Zatímco standardní mezislovanština má dvě změkčené souhlásky (`lj` a `nj`), etymologická abeceda jich má sedm: `ĺ ń ŕ t́ d́ ś ź` (všimněte si, že `lj` a `nj` jsou totožné s `ĺ` a `ń`). Zbývajících pět z velké části chybí v jihoslovanštině, **`ś` `ź`** také v češtině a slovenštině a `ŕ` ve slovenštině a běloruštině. Chcete-li dodat textu více severoslovanský vzhled a dojem, zaslouží si doporučení zahrnout je všechny. V tom případě by bylo samozřejmě logické, kdyby se všechny změkčené souhlásky označovaly stejně: měkkým znakem `ь` v azbuce, akutem nebo karonem (háčkem) v latinském pravopisu. Místo použití `ľ` nebo `ĺ` (oba se vyskytují pouze ve slovenštině) je také možné použít `l` pro měkké :ipa[ʎ] a `ł` pro tvrdé :ipa[l]. Tato metoda se používá v polštině, srbštině a některých formách běloruštiny `Łacinka` a ukrajinštiny `Latynka`.
+Zatímco standardní mezislovanština má dvě změkčené souhlásky (`lj` a `nj`), etymologická abeceda jich má sedm: `ĺ` `ń` `ŕ` `t́` `d́` `ś` `ź` (všimněte si, že `lj` a `nj` jsou totožné s `ĺ` a `ń`). Zbývajících pět z velké části chybí v jihoslovanštině, `ś` `ź` také v češtině a slovenštině a `ŕ` ve slovenštině a běloruštině. Chcete-li dodat textu více severoslovanský vzhled a dojem, zaslouží si doporučení zahrnout je všechny. V tom případě by bylo samozřejmě logické, kdyby se všechny změkčené souhlásky označovaly stejně: měkkým znakem `ь` v azbuce, akutem nebo karonem (háčkem) v latinském pravopisu. Místo použití `ľ` nebo `ĺ` (oba se vyskytují pouze ve slovenštině) je také možné použít `l` pro měkké :ipa[ʎ] a `ł` pro tvrdé :ipa[l]. Tato metoda se používá v polštině, srbštině a některých formách běloruštiny `Łacinka` a ukrajinštiny `Latynka`.
 
 Písmena `ć` a `đ` se obvykle vykreslují jako `č` a `dž`, ale ve více jihoslovanském ochucení mohou být zachována (psána `ћ` a `ђ` v azbuce). Nikdy však nepoužívejte `ћ` a `ђ` pro `ть` a `дь`, protože se jedná o samostatné etymologické entity!
 
 Konečně, sekvence `šč` (cyrilice: `шч`) může být ochucena `št` v jihoslovanštině. V azbuce může být také napsáno `щ`.
 
-#### Sever a Jih \{#north-and-south}
+### Sever a Jih \{#north-and-south}
 
 Opět platí, že počet možných kombinací mezi jazyky je téměř nekonečný a popisovat všechny možné ochucené formy interslovanštiny by zašlo příliš daleko. Nejzřetelnější rozdíly mezi slovanskými jazyky lze pokrýt dvěma různými modely ochucení (kromě „standardní“ mezislovanštiny): severněji orientovaným (se zaměřením na ruštinu, běloruštinu, polštinu a srbštinu, se sekundárním zaměřením na češtinu, slovenštinu). a ukrajinský) a jižněji orientovaný (soustředěný kolem jihoslovanštiny, rovněž se sekundárním zaměřením na češtinu, slovenštinu a ukrajinštinu). Na základě předchozího odstavce by mohly vypadat následovně (žlutá pole jsou ta, kde se ochucená forma liší od standardní formy):
 
 :::component{name=MDFlavourisation1}
 :::
 
-Navíc v infinitivech severního ochucování končí na `-ť` místo `-ti`, nominativ/akuzativ singuláru adjektiv by měl být `-e` místo `-o` (:notr[dobre detja] místo jižního :notr[dobro děte]). Severní ochucení upřednostňuje vztažné zájmeno :isv[ktory], zatímco jižní ochucení upřednostňuje :isv[koj]. Stejně tak v případě předpony **`vy`-/`iz`-** je první orientován na sever, druhý na jih. V jižním ochucení by měla být předložka :isv[dlja] „pro“ nahrazena _`za`_.
+Navíc v infinitivech severního ochucování končí na `-ť` místo `-ti`, nominativ/akuzativ singuláru adjektiv by měl být `-e` místo `-o` (:isv[dobre detja] místo jižního :isv[dobro děte]). Severní ochucení upřednostňuje vztažné zájmeno :isv[ktory], zatímco jižní ochucení upřednostňuje :isv[koj]. Stejně tak v případě předpony `vy-`/`iz-` je první orientován na sever, druhý na jih. V jižním ochucení by měla být předložka :isv[dlja] „pro“ nahrazena :isv[za].
 
 ## Ochucení v pravopisu \{#flavourisation-in-spelling}
 
-_`Flavorizacija v pravopisanju`_
+_:isv[Flavorizacija v pravopisanju]_
 
 Interslovanština může být také zpřístupněna určitým skupinám manipulací se způsobem, jakým je napsána. Standardní latinská abeceda je většinou založena na slovinské abecedě s přidáním `y` (ze západoslovanštiny) a `ě` (z češtiny a lužickosrbského jazyka). Tato abeceda se však podstatně liší od polské abecedy a polští mluvčí nemusí okamžitě rozumět písmenům jako `ě` nebo `š`. Aby to pro ně bylo jednodušší, lze například nahradit `v`, `č`, `š`, `ž` a `ě` za `w`, `cz`, `sz`, `ż` a `ie`. Polákům by také pomohlo přijetí `ę` a `ų` z etymologické abecedy, reprezentované jako `ię` a `ą`. Podobné úpravy lze provést i pro mluvčí jiných jazyků:
 
@@ -76,7 +78,7 @@ Standardní cyrilice je založena na srbské/makedonské cyrilici s přidáním 
 
 ## Příklady \{#examples}
 
-_`Priměry`_
+_:isv[Priměry]_
 
 <Tabs>
   <TabItem value="etymological-alphabet" label={translate({id: "alphabet.orthography.examples.etymological", message: "Etymological alphabet"})} default>

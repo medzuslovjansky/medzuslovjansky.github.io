@@ -6,9 +6,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {translate} from "@docusaurus/Translate";
 
-#Aromatizacija
+# Aromatizacija
 
 ## Medslovanska narečja \{#interslavic-dialects}
+
+_:isv[Medžuslovjanske narěčja]_
 
 Medslovanščina naj bi bila čim bolj v središču slovanskih jezikov, zato se trudimo ponuditi rešitve, ki so najboljše za vse Slovane skupaj, pri čemer se izogibamo prevladovanju značilnosti posameznih podskupin. Te rešitve pa niso vedno idealne za komunikacijo med _podmnožico_ slovanskih govorcev: kar je najboljše v Bolgariji ali na Hrvaškem, ni nujno najboljše na Poljskem ali v Rusiji. Interslavic bi moral biti dovolj prilagodljiv, da bi ponudil rešitve za vse te različne vrste komunikacije. To je mogoče uresničiti na štirih različnih ravneh:
 
@@ -17,13 +19,13 @@ Medslovanščina naj bi bila čim bolj v središču slovanskih jezikov, zato se 
 - Na pravopisni ravni. Pisano medslovanščino lahko govorci določenih jezikov bolje seznanijo z uporabo pravopisa, podobnega njihovemu. Na primer, da bi se prilagodili rusko govorečim, bi lahko uporabili `я`, `ю` in `й` namesto obrazcev s cirilico `ј`.
 - Na slovnični ravni. Na primer tako, da se izogibajo uporabi nedoločnikov in samostalniških primerov pri naslavljanju Bolgarov.
 
-Postopek dodajanja lokalne barve, da medslovanski jezik izgleda in zveni govorcem določenih jezikov bolj domače, se imenuje "aromatizacija". Možnosti je neskončno: za vsak slovanski jezik ali narečje je mogoče ustvariti »nacionalno« ali »regionalno« različico, ki bo po vsej verjetnosti dala domačemu govorcu vtis smešne, a povsem razumljive variacije njegovega jezika. . Poleg tega aromatiziranje ni doseženo le s prilagajanjem medslovanskega jezika poslušalcu/bralcu, skoraj neizogibno ga določa tudi jezik govorca/pisca. Če primerjate medslovanščino, ki jo piše Poljak, in medslovanščino, ki jo piše Srb, zlahka opazite razlike.
+Postopek dodajanja lokalne barve, da medslovanski jezik izgleda in zveni govorcem določenih jezikov bolj domače, se imenuje »aromatizacija«. Možnosti je neskončno: za vsak slovanski jezik ali narečje je mogoče ustvariti »nacionalno« ali »regionalno« različico, ki bo po vsej verjetnosti dala domačemu govorcu vtis smešne, a povsem razumljive variacije njegovega jezika. . Poleg tega aromatiziranje ni doseženo le s prilagajanjem medslovanskega jezika poslušalcu/bralcu, skoraj neizogibno ga določa tudi jezik govorca/pisca. Če primerjate medslovanščino, ki jo piše Poljak, in medslovanščino, ki jo piše Srb, zlahka opazite razlike.
 
 Bilo bi predaleč, če bi opisovali vse mogoče aromatizirane oblike medslovanščine. Osredotočimo se torej na oblike, namenjene le večjim skupinam, kar lahko dosežemo tako, da pri nekaterih Slovanih pripišemo večjo težo razumljivosti kot pri drugih. Ker medslovanski jezik uporablja sistem glasovanja kot orodje za sestavljanje besed, slovničnih končnic in glasov, se lahko izid glasovanja spremeni, če se nekaterim jezikom pripiše manjša teža ali pa se jih popolnoma izloči. Tako namesto rešitev, ki najbolje delujejo za vse Slovane kot celoto, uporabljamo lastnosti, ki so značilne samo za podmnožico slovanskih jezikov. Rezultat lahko opišemo kot »narečja«, nekatera pod večjim vplivom vzhodnoslovanskega, nekatera bolj južnoslovanskega itd.
 
 ## Aromatizacija v izgovorjavi \{#flavourisation-in-pronunciation}
 
-_`Flavorizacija v izgovoru`_
+_:isv[Flavorizacija v izgovoru]_
 
 Osnova za manipulacijo medslovanščine je [etimološka abeceda][1], skupek neobveznih črk, ki v resnici nimajo lastne izgovorjave, ampak predstavljajo foneme, katerih izgovorjava se razlikuje od enega jezika do drugega. V medslovanščini jih je mogoče uporabiti za posredovanje dodatnih etimoloških informacij, lahko pa jih uporabimo tudi za drugačen namen: z drugačnim (nestandardnim) zapisom in/ali izgovorom lahko besedilo prilagodimo za boljše razumevanje. govorci določene skupine jezikov.
 
@@ -45,24 +47,24 @@ Samoglasnik `ų` se ujema z `u` v večini slovanskih jezikov, razen v poljščin
 
 Soglasnik `g` se v ukrajinskem, beloruskem, češkem, slovaškem in zgornjem lužiškem srbščini izgovarja bolj kot pridihani `h`.
 
-Medtem ko ima standardna medslovanska dva omehčana soglasnika (`lj` in `nj`), jih ima etimološka abeceda sedem: `ĺ ń ŕ t́ d́ ś ź` (upoštevajte, da sta `lj` in `nj` enaka `ĺ` in `ń`). Preostalih pet je večinoma odsotnih v južnoslovanščini, **`ś` `ź`** tudi v češčini in slovaščini ter `ŕ` v slovaščini in beloruščini. Če želite dati besedilu bolj severnoslovanski videz in občutek, je vredno priporočila, da vključite vse. V tem primeru bi bilo seveda logično, če bi vse omehčane soglasnike zaznamovali enako: z mehkim znakom `ь` v cirilici, z akutom ali rogljem (háček) v latinskem pravopisu. Namesto `ľ` ali `ĺ` (oba najdemo le v slovaščini) je mogoče uporabiti tudi `l` za mehko :ipa[ʎ] in `ł` za trdo :ipa[l]. Ta metoda se uporablja v poljščini, lužiški srbščini in nekaterih oblikah beloruske `Łacinka` in ukrajinske `Latynka`.
+Medtem ko ima standardna medslovanska dva omehčana soglasnika (`lj` in `nj`), jih ima etimološka abeceda sedem: `ĺ` `ń` `ŕ` `t́` `d́` `ś` `ź` (upoštevajte, da sta `lj` in `nj` enaka `ĺ` in `ń`). Preostalih pet je večinoma odsotnih v južnoslovanščini, `ś` `ź` tudi v češčini in slovaščini ter `ŕ` v slovaščini in beloruščini. Če želite dati besedilu bolj severnoslovanski videz in občutek, je vredno priporočila, da vključite vse. V tem primeru bi bilo seveda logično, če bi vse omehčane soglasnike zaznamovali enako: z mehkim znakom `ь` v cirilici, z akutom ali rogljem (háček) v latinskem pravopisu. Namesto `ľ` ali `ĺ` (oba najdemo le v slovaščini) je mogoče uporabiti tudi `l` za mehko :ipa[ʎ] in `ł` za trdo :ipa[l]. Ta metoda se uporablja v poljščini, lužiški srbščini in nekaterih oblikah beloruske `Łacinka` in ukrajinske `Latynka`.
 
 Črki `ć` in `đ` sta običajno upodobljeni kot `č` in `dž`, vendar ju je mogoče ohraniti v bolj južnoslovanski različici (zapisano `ћ` in `ђ` v cirilici). Nikoli pa ne uporabljajte `ћ` in `ђ` za `ть` in `дь`, saj sta to ločeni etimološki entiteti!
 
 Končno je zaporedje `šč` (cirilica: `шч`) mogoče aromatizirati `št` v južnoslovanščini. V cirilici se lahko piše tudi `щ`.
 
-#### Sever in jug \{#north-and-south}
+### Sever in jug \{#north-and-south}
 
 Spet je število možnih kombinacij med jeziki skoraj neskončno in bilo bi predaleč, če bi opisali vsako možno aromatizirano obliko medslovanščine. Najbolj očitne razlike med slovanskimi jeziki je mogoče pokriti z dvema različnima modeloma aromatiziranja (poleg »standardnega« medslovanskega): bolj severno usmerjenim (osredotočen na ruščino, beloruščino, poljščino in lužiško srbščino, s sekundarnim poudarkom na češčini, slovaščini in ukrajinščina) in bolj južno usmerjena (osredotočena na južnoslovanščino, tudi s sekundarnim poudarkom na češčini, slovaščini in ukrajinščini). Glede na prejšnji odstavek bi lahko izgledali takole (rumena polja so tista, kjer se aromatizirana oblika razlikuje od standardne):
 
 :::component{name=MDFlavourisation1}
 :::
 
-Poleg tega bi se nedoločniki severne arome končali na `-ť` namesto na `-ti`, nominativ/tožilnik ednine pridevnikov bi moral biti `-e` namesto `-o` (:notr[dobre detja] namesto južnega :notr[dobro děte]). Severna aroma daje prednost relativnemu zaimku :isv[ktory], medtem ko južna aroma daje prednost :isv[koj]. Podobno je v primeru predpone **`vy`-/`iz`-** prva usmerjena proti severu, druga pa k jugu. V južni aromi je treba predlog :isv[dlja] „za” nadomestiti z _`za`_.
+Poleg tega bi se nedoločniki severne arome končali na `-ť` namesto na `-ti`, nominativ/tožilnik ednine pridevnikov bi moral biti `-e` namesto `-o` (:isv[dobre detja] namesto južnega :isv[dobro děte]). Severna aroma daje prednost relativnemu zaimku :isv[ktory], medtem ko južna aroma daje prednost :isv[koj]. Podobno je v primeru predpone `vy-`/`iz-` prva usmerjena proti severu, druga pa k jugu. V južni aromi je treba predlog :isv[dlja] „za” nadomestiti z :isv[za].
 
 ## Aromatizacija pri črkovanju \{#flavourisation-in-spelling}
 
-_`Flavorizacija v pravopisanju`_
+_:isv[Flavorizacija v pravopisanju]_
 
 Medslovanščino lahko nekaterim skupinam naredimo dostopnejšo tudi z manipulacijo načina pisanja. Standardna latinica večinoma temelji na slovenski abecedi z dodatkom `y` (iz zahodnoslovanskega) in `ě` (iz češčine in lužiške srbščine). Ta abeceda pa se bistveno razlikuje od poljske abecede in govorci poljščine morda ne bodo takoj razumeli črk, kot sta `ě` ali `š`. Da jim olajšamo delo, lahko na primer zamenjamo `v`, `č`, `š`, `ž` in `ě` z `w`, `cz`, `sz`, `ż` in `ie`. Poljakom bi pomagalo tudi sprejetje `ę` in `ų` iz etimološke abecede, predstavljeno kot `ię` oziroma `ą`. Podobne spremembe je mogoče narediti tudi za govorce drugih jezikov:
 
@@ -76,7 +78,7 @@ Standardna cirilica temelji na srbski/makedonski cirilici z dodatkom `ы` (iz ru
 
 ## Primeri \{#examples}
 
-_`Priměry`_
+_:isv[Priměry]_
 
 <Tabs>
   <TabItem value="etymological-alphabet" label={translate({id: "alphabet.orthography.examples.etymological", message: "Etymological alphabet"})} default>

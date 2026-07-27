@@ -10,6 +10,8 @@ import {translate} from "@docusaurus/Translate";
 
 ## Međuslavenski dijalekti \{#interslavic-dialects}
 
+_:isv[Medžuslovjanske narěčja]_
+
 Interslavenski jezik treba da bude što više u središtu slavenskih jezika, a mi se trudimo da ponudimo rešenja koja su najbolja za sve Slovene zajedno, izbegavajući da karakteristike pojedinih podgrupa prevladaju. Ova rješenja, međutim, nisu uvijek idealna za komunikaciju između _podskupine_ slavenskih govornika: ono što je najbolje u Bugarskoj ili Hrvatskoj nije nužno najbolje u Poljskoj ili Rusiji. Interslavic bi trebao biti dovoljno fleksibilan da ponudi rješenja za sve ove različite vrste komunikacije. Ovo se može realizovati na četiri različita nivoa:
 
 - Na leksičkom nivou. Međuslavenske riječi su odabrane za maksimalnu razumljivost među najvećim mogućim brojem Slovena, ali nije uvijek moguće pronaći riječ koja je svima razumljiva. Očigledno, reč koju obično razumeju zapadni i istočni Sloveni, a nepoznata južnim Slovenima neće biti od velike pomoći u komunikaciji sa Srbima ili Bugarima. Iz tog razloga, rječnik ponekad nudi sinonime, pri čemu jedna riječ pokriva jedan dio slovenske teritorije, a druga riječ drugi, omogućavajući korisnicima da odaberu riječi koje su razumljive određenoj podgrupi.
@@ -23,7 +25,7 @@ Otišlo bi predaleko da se opiše svaki mogući aromatizirani oblik međuslavens
 
 ## Aroma u izgovoru \{#flavourisation-in-pronunciation}
 
-_`Flavorizacija v izgovoru`_
+_:isv[Flavorizacija v izgovoru]_
 
 Osnova za manipulaciju međuslavenskom je [etimološka abeceda][1], skup neobaveznih slova koja zapravo nemaju vlastiti izgovor, već predstavljaju foneme čiji se izgovor razlikuje od jezika do jezika. U međuslavenskom se mogu koristiti za prenošenje dodatnih etimoloških informacija, ali se mogu koristiti i u drugu svrhu: pisanjem i/ili izgovorom na drugačiji (nestandardni) način, tekst se može prilagoditi tako da se bolje razumije od strane govornika određene grupe jezika.
 
@@ -45,24 +47,24 @@ Kada ispred `r` ili `ŕ` stoji suglasnik, a ne iza njih samoglasnik, oni čine p
 
 Suglasnik `g` se više izgovara kao aspirirani `h` u ukrajinskom, bjeloruskom, češkom, slovačkom i gornjolužičkom jeziku.
 
-Dok standardni interslavenski ima dva omekšana suglasnika (`lj` i `nj`), etimološka azbuka ih ima sedam: `ĺ ń ŕ t́ d́ ś ź` (imajte na umu da su `lj` i `nj` identični `ĺ` i `ń`). Preostalih pet uglavnom nema u južnoslovenskom, **`ś` `ź`** takođe u češkom i slovačkom i `ŕ` u slovačkom i beloruskom. Ako želite tekstu dati više sjevernoslavenski izgled, zaslužuje preporuku da ih sve uključite. U tom slučaju bi, naravno, bilo logično da su svi umekšani suglasnici označeni na isti način: mekim znakom `ь` u ćirilici, akutom ili karonom (háček) u latinskom pravopisu. Umjesto korištenja `ľ` ili `ĺ` (obojica se susreću samo na slovačkom), također je moguće koristiti `l` za meki :ipa[ʎ] i `ł` za tvrdi :ipa[l]. Ova metoda se koristi u poljskom, lužičkosrpskom i nekim oblicima bjeloruskog `Łacinka` i ukrajinskog `Latynka`.
+Dok standardni interslavenski ima dva omekšana suglasnika (`lj` i `nj`), etimološka azbuka ih ima sedam: `ĺ` `ń` `ŕ` `t́` `d́` `ś` `ź` (imajte na umu da su `lj` i `nj` identični `ĺ` i `ń`). Preostalih pet uglavnom nema u južnoslovenskom, `ś` `ź` takođe u češkom i slovačkom i `ŕ` u slovačkom i beloruskom. Ako želite tekstu dati više sjevernoslavenski izgled, zaslužuje preporuku da ih sve uključite. U tom slučaju bi, naravno, bilo logično da su svi umekšani suglasnici označeni na isti način: mekim znakom `ь` u ćirilici, akutom ili karonom (háček) u latinskom pravopisu. Umjesto korištenja `ľ` ili `ĺ` (obojica se susreću samo na slovačkom), također je moguće koristiti `l` za meki :ipa[ʎ] i `ł` za tvrdi :ipa[l]. Ova metoda se koristi u poljskom, lužičkosrpskom i nekim oblicima bjeloruskog `Łacinka` i ukrajinskog `Latynka`.
 
 Slova `ć` i `đ` se obično prikazuju kao `č` i `dž`, ali u južnoslovenskoj aromi mogu se zadržati (napisano `ћ` i `ђ` ćirilicom). Nikada nemojte koristiti `ћ` i `ђ` za `ть` i `дь`, jer su to zasebni etimološki entiteti!
 
 Konačno, sekvenca `šč` (ćirilica: `шч`) može se aromatizirati `št` na južnoslovenskom. Na ćirilici se može pisati i `щ`.
 
-#### Sjever i jug \{#north-and-south}
+### Sjever i jug \{#north-and-south}
 
 Opet, broj mogućih kombinacija među jezicima je gotovo beskonačan, i otišlo bi predaleko da se opiše svaki mogući aromatizirani oblik međuslavenskog. Najočitije razlike između slovenskih jezika mogu se pokriti sa dva različita modela okusa (pored „standardnog” međuslavenskog): onim koji je više orijentiran na sjever (fokus na ruski, bjeloruski, poljski i lužički jezik, sa sekundarnim fokusom na češki, slovački i ukrajinski), i više južnjački orijentisan (usredsređen na južnoslovenski, takođe sa sekundarnim fokusom na češki, slovački i ukrajinski). Na osnovu prethodnog paragrafa, mogli bi izgledati kako slijedi (žuta polja su ona u kojima se aromatizirani oblik razlikuje od standardnog):
 
 :::component{name=MDFlavourisation1}
 :::
 
-Osim toga, u infinitivu sjeverne arome završava se na `-ť` umjesto `-ti`, nominativ/akuzativ jednine prideva treba da bude `-e` umjesto `-o` (:notr[dobre detja] umjesto Southern :notr[dobro děte]). Sjeverna aroma favorizira relativnu zamjenicu :isv[ktory], dok južna aroma favorizira :isv[koj]. Isto tako, u slučaju prefiksa **@`vy`-/`iz`-**, prvi je orijentiran na sjever, a drugi na jug. Kod južnjačke arome prijedlog :isv[dlja] „za” treba zamijeniti sa _`za`_.
+Osim toga, u infinitivu sjeverne arome završava se na `-ť` umjesto `-ti`, nominativ/akuzativ jednine prideva treba da bude `-e` umjesto `-o` (:isv[dobre detja] umjesto Southern :isv[dobro děte]). Sjeverna aroma favorizira relativnu zamjenicu :isv[ktory], dok južna aroma favorizira :isv[koj]. Isto tako, u slučaju prefiksa `vy-`/`iz-`, prvi je orijentiran na sjever, a drugi na jug. Kod južnjačke arome prijedlog :isv[dlja] „za” treba zamijeniti sa :isv[za].
 
 ## Aroma u pravopisu \{#flavourisation-in-spelling}
 
-_`Flavorizacija v pravopisanju`_
+_:isv[Flavorizacija v pravopisanju]_
 
 Interslavenski se također može učiniti dostupnijim određenim grupama manipuliranjem načinom na koji je napisan. Standardna latinica je uglavnom zasnovana na slovenačkom pismu, uz dodatak `y` (iz zapadnoslovenskog) i `ě` (iz češkog i lužičkog). Ova abeceda se, međutim, bitno razlikuje od poljskog, a govornici poljskog možda neće odmah razumjeti slova poput `ě` ili `š`. Da bi im olakšali, možete na primjer zamijeniti `v`, `č`, `š`, `ž` i `ě` sa `w`, `cz`, `sz`, `ż` i `ie`. Poljacima bi se takođe pomoglo usvajanjem `ę` i `ų` iz etimološke azbuke, predstavljene kao `ię` i `ą` respektivno. Slične modifikacije se mogu napraviti i za govornike drugih jezika:
 
@@ -76,7 +78,7 @@ Standardno ćirilično pismo je zasnovano na srpskoj/makedonskoj ćirilici, sa d
 
 ## Primjeri \{#examples}
 
-_`Priměry`_
+_:isv[Priměry]_
 
 <Tabs>
   <TabItem value="etymological-alphabet" label={translate({id: "alphabet.orthography.examples.etymological", message: "Etymological alphabet"})} default>

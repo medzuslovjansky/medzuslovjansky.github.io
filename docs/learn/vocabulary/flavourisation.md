@@ -15,6 +15,8 @@ import {translate} from "@docusaurus/Translate";
 
 ## Interslavic dialects \{#interslavic-dialects}
 
+_:isv[Medžuslovjanske narěčja]_
+
 Interslavic is meant to be as much at the centre of the Slavic languages as possible, and we do our best to offer solutions that are best for all Slavs together, avoiding characteristics of particular subgroups from predominating. These solutions, however, are not always ideal for communication between a _subset_ of the Slavic speakers: what is best in Bulgaria or Croatia is not necessarily best in Poland or Russia. Interslavic should be flexible enough to offer solutions for all these different types of communication. This can be realised on four different levels:
 
 - On a lexical level. Interslavic words have been selected for maximum intelligibility among the highest possible number of Slavs, but it is not always possible to find a word that is intelligible to all. Obviously, a word that is commonly understood by West and East Slavs but unknown to South Slavs will not be very helpful in the communication with Serbs or Bulgarians. For that reason, the dictionary sometimes offers synonyms, with one word covering one part of Slavic territory and a second word the other, enabling users to choose words that are intelligible to one subgroup in particular.
@@ -28,7 +30,7 @@ It would go way too far to describe every possible flavourised form of Interslav
 
 ## Flavourisation in pronunciation \{#flavourisation-in-pronunciation}
 
-_`Flavorizacija v izgovoru`_
+_:isv[Flavorizacija v izgovoru]_
 
 The base for manipulating Interslavic is the [etymological alphabet][1], a set of optional letters that do not really have a pronunciation of their own, but represent phonemes whose pronunciation varies from one language to another instead. In Interslavic, they can be used to convey additional etymological information, but they can also be used for a different purpose: by writing and/or pronouncing them in a different (non-standard) way, a text can be adapted to be better understood by speakers of a particular group of languages.
 
@@ -56,18 +58,18 @@ The letters `ć` and `đ` are usually rendered as `č` and `dž`, but in a more 
 
 At last, the sequence `šč` (Cyrillic: `шч`) can be flavourised `št` in a South Slavic. In Cyrillic, it can also be written `щ`.
 
-#### North and South \{#north-and-south}
+### North and South \{#north-and-south}
 
 Again, the number of possible combinations between languages is almost endless, and it would go way too far to describe every possible flavourised form of Interslavic. The most obvious differences between the Slavic languages can be covered with two different flavourisation models (in addition to „standard” Interslavic): a more Northern-oriented one (focusing on Russian, Belarusian, Polish and Sorbian, with secondary focus on Czech, Slovak and Ukrainian), and a more Southern-oriented one (centered around South Slavic, also with secondary focus on Czech, Slovak and Ukrainian). Based on the previous paragraph, they could look as follows (the yellow fields are those where the flavourised form differs from the standard form):
 
 :::component{name=MDFlavourisation1}
 :::
 
-In addition, in the Northern flavourisation infinitives end in `-ť` instead of `-ti`, the nominative/accusative singular of adjectives should be `-e` instead of `-o` (:notr[dobre detja] instead of Southern :notr[dobro děte]). The Northern flavourisation favours the relative pronoun :isv[ktory] whereas the Southern flavourisation favours :isv[koj]. Likewise, in the case of the prefix `vy-`/`iz-`, the former is North-oriented, the latter South-oriented. In the Southern flavourisation the preposition :isv[dlja] „for” should be substituted with :isv[za].
+In addition, in the Northern flavourisation infinitives end in `-ť` instead of `-ti`, the nominative/accusative singular of adjectives should be `-e` instead of `-o` (:isv[dobre detja] instead of Southern :isv[dobro děte]). The Northern flavourisation favours the relative pronoun :isv[ktory] whereas the Southern flavourisation favours :isv[koj]. Likewise, in the case of the prefix `vy-`/`iz-`, the former is North-oriented, the latter South-oriented. In the Southern flavourisation the preposition :isv[dlja] „for” should be substituted with :isv[za].
 
 ## Flavourisation in spelling \{#flavourisation-in-spelling}
 
-_`Flavorizacija v pravopisanju`_
+_:isv[Flavorizacija v pravopisanju]_
 
 Interslavic can be also made more accessible to certain groups by manipulating the way it is written. The standard Latin alphabet is mostly based on the Slovene alphabet, with the addition of `y` (from West Slavic) and `ě` (from Czech and Sorbian). This alphabet, however, differs substantially from the Polish alphabet, and Polish speakers may not immediately understand letters like `ě` or `š`. To make it easier for them, one can for example replace `v`, `č`, `š`, `ž` and `ě` with `w`, `cz`, `sz`, `ż` and `ie`. Poles would also be helped by adopting `ę` and `ų` from the etymological alphabet, represented as `ię` and `ą` respectively. Similar modifications can be made for speakers of other languages as well:
 
@@ -81,7 +83,7 @@ The standard Cyrillic alphabet is based on Serbian/Macedonian Cyrillic, with the
 
 ## Examples \{#examples}
 
-_`Priměry`_
+_:isv[Priměry]_
 
 <Tabs>
   <TabItem value="etymological-alphabet" label={translate({id: "alphabet.orthography.examples.etymological", message: "Etymological alphabet"})} default>
