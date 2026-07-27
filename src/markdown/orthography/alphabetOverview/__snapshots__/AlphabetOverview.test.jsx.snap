@@ -5,13 +5,13 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
   <thead>
     <tr>
       <th>
-        Latin
+        St­an­dard
       </th>
       <th>
-        Etymological
+        Etym­ologi­cal
       </th>
       <th>
-        Pronunciation
+        Pronun­ciation
       </th>
     </tr>
   </thead>
@@ -20,138 +20,273 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
   >
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        А
+        А а
       </td>
-      <td>
-        A
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        A a
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_back_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           a
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        А
-      </td>
-      <td>
-        Å
+        Å å
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Б
+        Б б
       </td>
-      <td>
-        B
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        B b
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           b
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_bilabial_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ц
+        Ц ц
       </td>
-      <td>
-        C
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        C c
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡s
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Ч
+        Ч ч
       </td>
-      <td>
-        Ć
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ć ć
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡ɕ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolo-palatal_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Ч
-      </td>
-      <td>
-        Č
+        Č č
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡ʃ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palato-alveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           t͡ʂ
@@ -160,100 +295,172 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Д
+        Д д
       </td>
-      <td>
-        D
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        D d
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Д
-      </td>
-      <td>
-        Ď
+        D́ d́
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           dʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɟ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_palatal_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        ДЖ
+        Дж дж
       </td>
-      <td>
-        Đ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Đ đ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d͡ʑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolo-palatal_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        ДЖ
-      </td>
-      <td>
-        DŽ
+        Dž dž
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d͡ʒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_postalveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           d͡ʐ
@@ -262,57 +469,112 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={3}
       >
-        Е
+        Е е
       </td>
-      <td>
-        E
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        E e
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɛ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           e
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={3}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Е
-      </td>
-      <td>
-        Ė
+        Ė ė
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɛ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ǝ
@@ -321,22 +583,16 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={3}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Е
-      </td>
-      <td>
-        Ę
+        Ę ę
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ʲæ
@@ -345,17 +601,23 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Є
+        Є є
       </td>
-      <td>
-        Ě
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ě ě
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ʲɛ
@@ -364,155 +626,356 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ф
+        Ф ф
       </td>
-      <td>
-        F
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        F f
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           f
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_labiodental_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Г
+        Г г
       </td>
-      <td>
-        G
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        G g
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           g
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_velar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɦ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_glottal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Х
+        Х х
       </td>
-      <td>
-        H
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        H h
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           x
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_dorso-palatal_velar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        И
+        И и
       </td>
-      <td>
-        I
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        I i
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           i
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɪ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Near-close_near-front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ј
+        Ј ј
       </td>
-      <td>
-        Ј
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ј ј
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           j
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        К
+        К к
       </td>
-      <td>
-        K
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        K k
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           k
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_velar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Л
+        Л л
       </td>
-      <td>
-        L
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        L l
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ɫ
@@ -521,283 +984,570 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Л
-      </td>
-      <td>
-        Ĺ
+        Ĺ ĺ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʎ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Љ
+        Љ љ
       </td>
-      <td>
-        LJ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Lj lj
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʎ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        М
+        М м
       </td>
-      <td>
-        M
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        M m
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           m
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Bilabial_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Н
+        Н н
       </td>
-      <td>
-        N
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        N n
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           n
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Н
-      </td>
-      <td>
-        Ń
+        Ń ń
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           n
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɲ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Њ
+        Њ њ
       </td>
-      <td>
-        NJ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Nj nj
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           nʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɲ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        О
+        О о
       </td>
-      <td>
-        O
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        O o
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɔ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           o
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        О
-      </td>
-      <td>
-        Ȯ
+        Ȯ ȯ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ə
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Mid-central_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʌ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_back_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        П
+        П п
       </td>
-      <td>
-        P
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        P p
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           p
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_bilabial_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Р
+        Р р
       </td>
-      <td>
-        R
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        R r
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           r
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_trill.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Р
-      </td>
-      <td>
-        Ŕ
+        Ŕ ŕ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           rʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           r̝
@@ -806,321 +1556,642 @@ exports[`AlphabetOverview matches DOM Snapshot for Cyrillic alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        С
+        С с
       </td>
-      <td>
-        S
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        S s
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           s
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        С
-      </td>
-      <td>
-        Ś
+        Ś ś
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
-          ɛ
+          sʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
-          ǝ
+          ɕ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolo-palatal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ш
+        Ш ш
       </td>
-      <td>
-        Š
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Š š
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʃ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palato-alveolar_sibilant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʂ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_retroflex_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        Т
+        Т т
       </td>
-      <td>
-        T
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        T t
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Т
-      </td>
-      <td>
-        T́
+        T́ t́
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           tʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           c
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palatal_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        У
+        У у
       </td>
-      <td>
-        U
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        U u
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           u
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        У
-      </td>
-      <td>
-        Ų
+        Ų ų
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           o
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʊ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Near-close_near-back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        В
+        В в
       </td>
-      <td>
-        V
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        V v
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           v
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_labiodental_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʋ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Labiodental_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ы
+        Ы ы
       </td>
-      <td>
-        Y
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Y y
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           i
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɨ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_central_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={2}
       >
-        З
+        З з
       </td>
-      <td>
-        Z
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Z z
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
-          translate="no"
-        >
-          ɛ
-        </span>
-         ~
-        <span
-          className="notranslate"
-          lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           z
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        З
-      </td>
-      <td>
-        Ź
+        Ź ź
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           zʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolo-palatal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Cyrl"
         rowSpan={1}
       >
-        Ж
+        Ж ж
       </td>
-      <td>
-        Ž
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ž ž
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_postalveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʐ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_retroflex_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
@@ -1133,13 +2204,13 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
   <thead>
     <tr>
       <th>
-        Latin
+        St­an­dard
       </th>
       <th>
-        Etymological
+        Etym­ologi­cal
       </th>
       <th>
-        Pronunciation
+        Pronun­ciation
       </th>
     </tr>
   </thead>
@@ -1148,138 +2219,273 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
   >
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        A
+        A a
       </td>
-      <td>
-        A
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        A a
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_back_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           a
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        A
-      </td>
-      <td>
-        Å
+        Å å
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        B
+        B b
       </td>
-      <td>
-        B
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        B b
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           b
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_bilabial_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        C
+        C c
       </td>
-      <td>
-        C
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        C c
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡s
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        Č
+        Č č
       </td>
-      <td>
-        Ć
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ć ć
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡ɕ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolo-palatal_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Č
-      </td>
-      <td>
-        Č
+        Č č
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t͡ʃ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palato-alveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           t͡ʂ
@@ -1288,100 +2494,172 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        D
+        D d
       </td>
-      <td>
-        D
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        D d
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        D
-      </td>
-      <td>
-        Ď
+        D́ d́
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           dʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɟ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_palatal_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        DŽ
+        Dž dž
       </td>
-      <td>
-        Đ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Đ đ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d͡ʑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolo-palatal_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        DŽ
-      </td>
-      <td>
-        DŽ
+        Dž dž
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           d͡ʒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_postalveolar_affricate.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           d͡ʐ
@@ -1390,57 +2668,112 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={3}
       >
-        E
+        E e
       </td>
-      <td>
-        E
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        E e
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɛ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           e
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={3}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        E
-      </td>
-      <td>
-        Ė
+        Ė ė
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɛ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ǝ
@@ -1449,22 +2782,16 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={3}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        E
-      </td>
-      <td>
-        Ę
+        Ę ę
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ʲæ
@@ -1473,17 +2800,23 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        Ě
+        Ě ě
       </td>
-      <td>
-        Ě
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ě ě
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ʲɛ
@@ -1492,155 +2825,356 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        F
+        F f
       </td>
-      <td>
-        F
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        F f
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           f
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_labiodental_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        G
+        G g
       </td>
-      <td>
-        G
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        G g
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           g
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_velar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɦ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_glottal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        H
+        H h
       </td>
-      <td>
-        H
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        H h
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           x
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_dorso-palatal_velar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        I
+        I i
       </td>
-      <td>
-        I
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        I i
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           i
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɪ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Near-close_near-front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        J
+        J j
       </td>
-      <td>
-        Ј
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ј ј
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           j
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        K
+        K k
       </td>
-      <td>
-        K
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        K k
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           k
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_velar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        L
+        L l
       </td>
-      <td>
-        L
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        L l
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           ɫ
@@ -1649,283 +3183,570 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        L
-      </td>
-      <td>
-        Ĺ
+        Ĺ ĺ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʎ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        LJ
+        Lj lj
       </td>
-      <td>
-        LJ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Lj lj
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʎ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           l
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_lateral_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        M
+        M m
       </td>
-      <td>
-        M
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        M m
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           m
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Bilabial_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        N
+        N n
       </td>
-      <td>
-        N
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        N n
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           n
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        N
-      </td>
-      <td>
-        Ń
+        Ń ń
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           n
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɲ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        NJ
+        Nj nj
       </td>
-      <td>
-        NJ
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Nj nj
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           nʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɲ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Palatal_nasal.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        O
+        O o
       </td>
-      <td>
-        O
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        O o
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɔ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           o
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        O
-      </td>
-      <td>
-        Ȯ
+        Ȯ ȯ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ə
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Mid-central_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʌ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Open-mid_back_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        P
+        P p
       </td>
-      <td>
-        P
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        P p
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           p
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_bilabial_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        R
+        R r
       </td>
-      <td>
-        R
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        R r
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           r
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Alveolar_trill.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        R
-      </td>
-      <td>
-        Ŕ
+        Ŕ ŕ
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           rʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           r̝
@@ -1934,321 +3755,642 @@ exports[`AlphabetOverview matches DOM Snapshot for Latin alphabet 1`] = `
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        S
+        S s
       </td>
-      <td>
-        S
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        S s
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           s
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        S
-      </td>
-      <td>
-        Ś
+        Ś ś
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
-          ɛ
+          sʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
-          ǝ
+          ɕ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolo-palatal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        Š
+        Š š
       </td>
-      <td>
-        Š
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Š š
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʃ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palato-alveolar_sibilant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʂ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_retroflex_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        T
+        T t
       </td>
-      <td>
-        T
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        T t
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           t
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_alveolar_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        T
-      </td>
-      <td>
-        T́
+        T́ t́
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           tʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           c
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiceless_palatal_plosive.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        U
+        U u
       </td>
-      <td>
-        U
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        U u
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           u
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        U
-      </td>
-      <td>
-        Ų
+        Ų ų
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           o
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close-mid_back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʊ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Near-close_near-back_rounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        V
+        V v
       </td>
-      <td>
-        V
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        V v
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           v
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_labiodental_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʋ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Labiodental_approximant.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        Y
+        Y y
       </td>
-      <td>
-        Y
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Y y
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           i
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_front_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ɨ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Close_central_unrounded_vowel.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={2}
       >
-        Z
+        Z z
       </td>
-      <td>
-        Z
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Z z
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
-          translate="no"
-        >
-          ɛ
-        </span>
-         ~
-        <span
-          className="notranslate"
-          lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           z
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
-        rowSpan={2}
-        style={
-          {
-            "display": "none",
-          }
-        }
+        lang="isv-Latn-x-etymolog"
       >
-        Z
-      </td>
-      <td>
-        Ź
+        Ź ź
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title=""
           translate="no"
         >
           zʲ
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʑ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_alveolo-palatal_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>
     <tr>
       <td
+        hidden={false}
+        lang="isv-Latn"
         rowSpan={1}
       >
-        Ž
+        Ž ž
       </td>
-      <td>
-        Ž
+      <td
+        lang="isv-Latn-x-etymolog"
+      >
+        Ž ž
       </td>
       <td>
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʒ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_postalveolar_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
-         ~
+         ~ 
         <span
           className="notranslate"
           lang="art-fonipa"
+          onClick={[Function]}
+          title="Each audio clip is the work of Peter Isotalo, User:Denelson83, UCLA Phonetics Lab Archive 2003, User:Halibutt, User:Pmx or User:Octane, and made available under a free and/or copyleft licence."
           translate="no"
         >
           ʐ
+          <audio
+            onEnded={[Function]}
+            onPause={[Function]}
+            onPlaying={[Function]}
+            onWaiting={[Function]}
+            preload="none"
+            ref={
+              {
+                "current": null,
+              }
+            }
+          >
+            <source
+              src="/audio/Voiced_retroflex_fricative.mp3"
+              type="audio/mpeg"
+            />
+          </audio>
         </span>
       </td>
     </tr>

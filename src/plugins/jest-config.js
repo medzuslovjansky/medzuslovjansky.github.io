@@ -1,6 +1,9 @@
-const { load } = require("@docusaurus/core/lib/server");
-const { applyConfigureWebpack } = require("@docusaurus/core/lib/webpack/utils");
-const createClientConfig = require("@docusaurus/core/lib/webpack/client").default;
+const { loadSite } = require("@docusaurus/core/lib/server/site");
+const {
+    createConfigureWebpackUtils,
+    executePluginsConfigureWebpack,
+} = require("@docusaurus/core/lib/webpack/configure");
+const { createBuildClientConfig } = require("@docusaurus/core/lib/webpack/client");
 
 process.stdout.write("Using Jest config for Docusaurus...\n");
 
@@ -36,17 +39,27 @@ const applyConfig = async (inputConfig) => {
 };
 
 const makeConfig = async (localPath = process.cwd()) => {
-    const props = await load({
+    const { props } = await loadSite({
         siteDir: process.cwd(),
+    });
+    const configureWebpackUtils = await createConfigureWebpackUtils({
+        siteConfig: props.siteConfig,
     });
     // Load up the Docusaurus client Webpack config,
     // so we can extract its aliases
-    let webpackConfig = await createClientConfig(props);
+    let { config: webpackConfig } = await createBuildClientConfig({
+        props,
+        minify: false,
+        faster: props.siteConfig.future.experimental_faster,
+        configureWebpackUtils,
+        bundleAnalyzer: false,
+    });
     // Allow plugins to make any final tweaks to the config
-    props.plugins
-        .filter((plugin) => "configureWebpack" in plugin)
-        .forEach((plugin) => {
-        webpackConfig = applyConfigureWebpack(plugin.configureWebpack.bind(plugin), webpackConfig, false, props.siteConfig.webpack?.jsLoader, plugin.content);
+    webpackConfig = executePluginsConfigureWebpack({
+        plugins: props.plugins,
+        config: webpackConfig,
+        isServer: false,
+        configureWebpackUtils,
     });
     const aliases = Object.entries(webpackConfig.resolve.alias).reduce((acc, [key, value]) => {
         // Need to expand some of these as wildcards

@@ -53,7 +53,7 @@ const LETTERS = [
   ["Ž", <><IPA>ʒ</IPA> ~ <IPA>ʐ</IPA></>]
 ];
 
-function Table({ script }) {
+export function Table({ script }) {
   function checkTransliteration() {
     const result = [];
     const rowspanMap = {};
