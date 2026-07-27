@@ -8,98 +8,98 @@ last_update:
 
 Witamy w naszym starannie przygotowanym przewodniku, poświęconym światu języka międzysłowiańskiego. Mamy szeroki zasób ułatwiający Tobie Twoją przygodę z nauką — od społeczności internetowych i treści edukacyjnych do narzędzi programistycznych i literatury. Wyruszmy więc razem na tą fascynującą językową przygodę.    
 
-## Społeczność i media społecznościowe
+## Społeczność i media społecznościowe \{#community-and-social-networks}
 
 Rozmawiaj z językowymi entuzjastami i daj się wciągnąć w inspirujące dyskusje w naszej pełnej energii społeczności.
 
-### Facebook
+### :notr[Facebook] \{#facebook}
 
 Nasza społeczność [Facebookowa][1] składa się z ponad 18,000 członków, którzy dzielą pasję dla języka międzysłowiańskiego. Główna zasada jest prosta: **piszemy albo o międzysłowiańskim w jakimkolwiek języku albo o czymkolwiek po międzysłowiańsku**.
 
-### Discord
+### :notr[Discord] \{#discord}
 
 Jeżeli szukasz miejsca do codziennych rozmów, dołącz do naszego [serwera na Discordzie][2] z około 6000 innych członków.
 
-### Reddit
+### :notr[Reddit] \{#reddit}
 
 Dołącz do nas na [Reddicie][3], kolejnej wspaniałej platformy do dzielenia się wiedzą i angażującej w dyskusję o języku międzysłowiańskim.
 
-## Treści
+## Treści \{#content}
 
-### YouTube
+### :notr[YouTube] \{#youtube}
 
 Sprawdź nasz oficjalny międzysłowiański kanał i naszą obszerną playlistę wszystkich międzysłowiańskich filmików aby zapoznać się wnikliwie z treściami:
 
 - [Oficjalny Międzysłowiański kanał][4]
 - [Oficjalna Międzysłowiańska playlista][5]
 
-### Wiki
+### :notr[Wiki] \{#wiki}
 
 Nasza [Międzysłowiańska Wiki][6] to skarbnica bogatej wiedzy, gdzie możesz zanurkować w złożoność języka.
 
-### Mikroblogi na Telegramie
+### Mikroblogi na Telegramie \{#telegram-microblogs}
 
-- [Pub "Medžuslovjanska Kapibara"][7] – regularnie aktualizowany o zabawne treści.
-- [Zapisky srědnoevropskogo medžuslovjanina][8] – mikroblog Roberto Lombina.
+- [:notr[Pub "Medžuslovjanska Kapibara"]][7] – regularnie aktualizowany o zabawne treści.
+- [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – mikroblog Roberto Lombina.
 
-### Podcasty
+### Podcasty \{#podcasts}
 
 Posłuchaj naszych polecanych podcastów, aby doświadczyć wyjątkowej nauki słuchowej:
 
 - [Interslavic News][9]
-- [Medžuslovjansky Slovotok][10]
-- [Radio Dupa FM][11]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
 
-### Tłumaczenie piosenek
+### Tłumaczenie piosenek \{#song-translations}
 
-Śpiewaj razem z tłumaczeniami naszych ulubionych piosenek na język międzysłowiański na [LyricsTranslate][12].
+Śpiewaj razem z tłumaczeniami naszych ulubionych piosenek na język międzysłowiański na [:notr[LyricsTranslate]][12].
 
-## Czytanie
+## Czytanie \{#reading}
 
 Dla ćwiczenia czytania, polecamy poniższe publikacje:
 
 - The Little Prince (łacina): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
 - The Little Prince (cyrylica): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
-- Medžuslovjansky Čitateljnik: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
-- "Slovjani" Magazine: [https://slovjani.info][16] - posiada artykuły po międzysłowiańku, ale nie jest to magazyn językowy.
+- :notr[Medžuslovjansky Čitateljnik]: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
+- ":notr[Slovjani]" Magazine: [https://slovjani.info][16] - posiada artykuły po międzysłowiańku, ale nie jest to magazyn językowy.
 
-## Podręczniki
+## Podręczniki \{#handbooks}
 
-Możesz odkryć podręczniki przygotowane przez Vojtecha Merunkę [here][17] and [here][15].
+Możesz odkryć podręczniki przygotowane przez Vojtecha Merunkę [tutaj][17] i [tutaj][15].
 
-## Oprogramowanie
+## Oprogramowanie \{#software}
 
 Rozmaite narzędzia programistyczne do pomocy w Twoim procesie nauki:
 
-### Klawiatury
+### Klawiatury \{#keyboards}
 
 Zobacz stronę [Klawiatury][18] po więcej informacji.
 
-### Słownik
+### Słownik \{#dictionary}
 
 Nasz [międzysłowiański słownik][19] online to kompleksowe narzędzie.
 
-### Kontrolerzy pisowni
+### Kontrolerzy pisowni \{#spell-checkers}
 
 Kontrolerzy pisowni odgrywają duże znaczenie w nauce nowego języka. Poniżej kilka, które polecamy.
 
-#### Firefox
+#### :notr[Firefox] \{#firefox}
 
 Jeżli jesteś użytkownikiem Firefoxa, możesz dodać międzysłowiański kontroler pisowni z [Firefox Add-ons store][20].
 
-#### LibreOffice
+#### :notr[LibreOffice] \{#libreoffice}
 
 Użytkownicy LibreOffice mogą zainstalować międzysłowiański kontroler pisowni [stąd][21].
 
-#### Hunspell
+#### :notr[Hunspell] \{#hunspell}
 
 Bezpośrednie pobranie: [https://github.com/medzuslovjansky/isv\_hunspell\_dict/releases][22]
 
-### Transliterator
+### Transliterator \{#transliterator}
 
  **Transliterator** Jana van Steenbergena może pomagać w tłumaczeniu tekstu z cyrylicy na łacinę, i na odwrót. [Sprawdź go tutaj][23].
 
-### Deklinatory
+### Deklinatory \{#declinators}
 
 Ulepsz swoją dokładność gramatyczną z deklinatorami Jana van Steenbergena:
 
@@ -107,17 +107,17 @@ Ulepsz swoją dokładność gramatyczną z deklinatorami Jana van Steenbergena:
 - [Adjective declinator][25]
 - [Verb conjugator][26]
 
-### Wkład
+### Wkład \{#contributing}
 
 - Słownik międzysłowiański - [https://github.com/sonic16x/interslavic][27]
 - Międzysłowiańska grupa OSS - [https://github.com/medzuslovjansky][28]
 - Repozytoria o międzysłowiańskim: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
 
-### Komisky
+### Komisky \{#comics}
 
-Aby nauka była bardziej przyjemna, sprawdź nasz międzysłowiański komiks na [Slovene Online][30].
+Aby nauka była bardziej przyjemna, sprawdź nasz międzysłowiański komiks na [:notr[Slovene Online]][30].
 
-## Strony internetowe
+## Strony internetowe \{#websites}
 
 Poniżej jest kilka stron poświęconych językowi i kulturze międzysłowiańskiej:
 

@@ -8,98 +8,98 @@ last_update:
 
 Dobrodošli u naš pažljivo pripremljen vodič, posvećen svijetu međuslavenskog jezika. Imamo niz resursa koji olakšavaju vaše putovanje učenja, od online zajednica i obrazovnih sadržaja do softverskih alata i literature. Krenimo zajedno u ovu zadivljujuću lingvističku avanturu.
 
-## Zajednica i društvene mreže
+## Zajednica i društvene mreže \{#community-and-social-networks}
 
 Stupite u interakciju s kolegama entuzijastima jezika i uključite se u stimulativne diskusije u našim živahnim zajednicama društvenih mreža.
 
-### Facebook
+### :notr[Facebook] \{#facebook}
 
 Naša [Facebook][1] zajednica se sastoji od preko 18.000 članova koji dijele strast prema međuslavenskom jeziku. Vodeći princip ovdje je jednostavan: **Mi pišemo ili o međuslavenskom jeziku na bilo kojem jeziku ili o bilo čemu na međuslavenskom jeziku**.
 
-### Discord
+### :notr[Discord] \{#discord}
 
 Ako ste u potrazi za interakcijama u stvarnom vremenu, pridružite se našem [Discord serveru][2] sa otprilike 6.000 drugih članova.
 
-### Reddit
+### :notr[Reddit] \{#reddit}
 
 Pridružite nam se na [Reddit][3], još jednoj sjajnoj platformi za razmjenu znanja i uključivanje u diskusije o međuslavenskom jeziku.
 
-## Sadržaj
+## Sadržaj \{#content}
 
-### YouTube
+### :notr[YouTube] \{#youtube}
 
 Pogledajte Interslavic službeni kanal i našu opsežnu playlistu svih Interslavic videa za pronicljiv sadržaj:
 
 - [Međuslavenski službeni kanal][4]
 - [Međuslavenska video plejlista][5]
 
-### Sedmica
+### :notr[Wiki] \{#wiki}
 
 Naš [Međuslavenski Wiki][6] je bogato skladište znanja u kojem možete zaroniti duboko u zamršenost jezika.
 
-### Telegram mikroblogovi
+### Telegram mikroblogovi \{#telegram-microblogs}
 
-- [Pub "Medžuslovjanska Kapibara"][7] – redovno se ažurira zabavnim sadržajem.
-- [Zapisy srědnoevropskogo medžuslovjanina][8] – mikroblog Roberta Lombina.
+- [:notr[Pub "Medžuslovjanska Kapibara"]][7] – redovno se ažurira zabavnim sadržajem.
+- [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – mikroblog Roberta Lombina.
 
-### Podcasts
+### Podcasts \{#podcasts}
 
 Slušajte naše preporučene podcaste za jedinstveno auditivno iskustvo učenja:
 
 - [Međuslavenske vijesti][9]
-- [Medžuslovjansky Slovotok][10]
-- [Radio After FM][11]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
 
-### Prevodi pjesama
+### Prevodi pjesama \{#song-translations}
 
-Pevajte uz prevode svojih omiljenih pesama na interslavskom na [LyricsTranslate][12].
+Pevajte uz prevode svojih omiljenih pesama na interslavskom na [:notr[LyricsTranslate]][12].
 
-## Čitanje
+## Čitanje \{#reading}
 
 Za praksu čitanja preporučujemo sljedeće knjige:
 
 - Mali princ (latinica): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
 - Mali princ (ćirilično pismo): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
-- Medžuslovjansky Reader: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
-- Časopis "Slovjani": [https://slovjani.info][16] - ima nekoliko članaka na međuslavenskom, ali nije časopis na jeziku.
+- :notr[Medžuslovjansky Čitateljnik]: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
+- Časopis ":notr[Slovjani]": [https://slovjani.info][16] - ima nekoliko članaka na međuslavenskom, ali nije časopis na jeziku.
 
-## Priručnici
+## Priručnici \{#handbooks}
 
 Priručnik Vojtech Merunke možete pronaći [ovdje][17] i [ovdje][15].
 
-## Software
+## Software \{#software}
 
 Različiti softverski alati koji će vam pomoći u procesu učenja:
 
-### Tastature
+### Tastature \{#keyboards}
 
 Pogledajte stranicu [Tastature][18] za više informacija.
 
-### Rječnik
+### Rječnik \{#dictionary}
 
 Naš online [Međuslavenski rječnik][19] je sveobuhvatan alat.
 
-### Provjera pravopisa
+### Provjera pravopisa \{#spell-checkers}
 
 Provjera pravopisa je ključna za učenje novog jezika. Evo nekih koje preporučujemo.
 
-#### Firefox
+#### :notr[Firefox] \{#firefox}
 
 Ako ste korisnik Firefoxa, možete dodati provjeru pravopisa međuslavenskog jezika iz [Firefox prodavnice dodataka][20].
 
-#### LibreOffice
+#### :notr[LibreOffice] \{#libreoffice}
 
 Korisnici LibreOfficea mogu instalirati međuslavensku provjeru pravopisa sa [ovdje][21].
 
-#### Hunspell
+#### :notr[Hunspell] \{#hunspell}
 
 Za direktno preuzimanje: [https://github.com/medzuslovjansky/isv\_hunspell\_dict/releases][22]
 
-### Transliterator
+### Transliterator \{#transliterator}
 
 **transliterator** Jana van Steenbergena može pomoći pri prevođenju teksta sa ćirilice na latinicu i obrnuto. [Pogledajte ovdje][23].
 
-### Deklinatori
+### Deklinatori \{#declinators}
 
 Poboljšajte svoju gramatičku tačnost pomoću deklinatora Jana van Steenbergena:
 
@@ -107,17 +107,17 @@ Poboljšajte svoju gramatičku tačnost pomoću deklinatora Jana van Steenbergen
 - [Deklinator pridjeva][25]
 - [Glagolski konjugator][26]
 
-### Doprinos
+### Doprinos \{#contributing}
 
 - Međuslavenski rječnik - [https://github.com/sonic16x/interslavic][27]
 - Međuslavenska OSS organizacija - [https://github.com/medzuslovjansky][28]
 - Repozitoriji o Interslavic-u: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
 
-### Comics
+### Comics \{#comics}
 
-Kako bi učenje bilo ugodnije, pogledajte ovaj međuslavenski strip na [Slovene Online][30].
+Kako bi učenje bilo ugodnije, pogledajte ovaj međuslavenski strip na [:notr[Slovene Online]][30].
 
-## Web stranice
+## Web stranice \{#websites}
 
 Evo nekoliko web stranica posvećenih međuslavenskom jeziku i kulturi:
 

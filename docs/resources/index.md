@@ -6,98 +6,98 @@ sidebar_position: 1
 
 Welcome to our carefully curated guide, dedicated to the world of the Interslavic language. We have an array of resources to facilitate your learning journey, from online communities and educational content to software tools and literature. Let's embark on this captivating linguistic adventure together.
 
-## Community and Social Networks
+## Community and Social Networks \{#community-and-social-networks}
 
 Interact with fellow language enthusiasts and get involved in stimulating discussions in our vibrant social network communities.
 
-### Facebook
+### :notr[Facebook] \{#facebook}
 
 Our [Facebook][1] community consists of over 18,000 members who share a passion for the Interslavic language. The guiding principle here is simple: **We write either about Interslavic in any language or about anything in Interslavic language**.
 
-### Discord
+### :notr[Discord] \{#discord}
 
 If you're in search of real-time interactions, join our [Discord server][2] with approximately 6,000 other members.
 
-### Reddit
+### :notr[Reddit] \{#reddit}
 
 Join us on [Reddit][3], another great platform for sharing knowledge and engaging in discussions about the Interslavic language.
 
-## Content
+## Content \{#content}
 
-### YouTube
+### :notr[YouTube] \{#youtube}
 
 Check out the Interslavic official channel and our comprehensive playlist of all Interslavic videos for insightful content:
 
 - [Interslavic Official Channel][4]
 - [Interslavic Video Playlist][5]
 
-### Wiki
+### :notr[Wiki] \{#wiki}
 
 Our [Interslavic Wiki][6] is a rich knowledge repository where you can dive deep into the intricacies of the language.
 
-### Telegram microblogs
+### Telegram microblogs \{#telegram-microblogs}
 
-- [Pub "Medžuslovjanska Kapibara"][7] – regularly updated with amusing content.
-- [Zapisky srědnoevropskogo medžuslovjanina][8] – Roberto Lombino's microblog.
+- [:notr[Pub "Medžuslovjanska Kapibara"]][7] – regularly updated with amusing content.
+- [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – Roberto Lombino's microblog.
 
-### Podcasts
+### Podcasts \{#podcasts}
 
 Listen to our recommended podcasts for a unique auditory learning experience:
 
 - [Interslavic News][9]
-- [Medžuslovjansky Slovotok][10]
-- [Radio Dupa FM][11]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
 
-### Song translations
+### Song translations \{#song-translations}
 
-Sing along with the translations of your favorite songs in Interslavic on [LyricsTranslate][12].
+Sing along with the translations of your favorite songs in Interslavic on [:notr[LyricsTranslate]][12].
 
-## Reading
+## Reading \{#reading}
 
 For reading practice, we recommend the following books:
 
 - The Little Prince (Latin script): [http://steen.free.fr/interslavic/maly\_princ\_lat.pdf][13]
 - The Little Prince (Cyrillic script): [http://steen.free.fr/interslavic/maly\_princ\_kir.pdf][14]
-- Medžuslovjansky Čitateljnik: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
-- "Slovjani" Magazine: [https://slovjani.info][16] - it has some articles in Interslavic, but it's not a language magazine.
+- :notr[Medžuslovjansky Čitateljnik]: [https://www.ceeol.com/search/chapter-detail?id=791191][15]
+- ":notr[Slovjani]" Magazine: [https://slovjani.info][16] - it has some articles in Interslavic, but it's not a language magazine.
 
-## Handbooks
+## Handbooks \{#handbooks}
 
 You can find a handbook by Vojtech Merunka [here][17] and [here][15].
 
-## Software
+## Software \{#software}
 
 Various software tools to assist in your learning process:
 
-### Keyboards
+### Keyboards \{#keyboards}
 
 See the [Keyboards][18] page for more information.
 
-### Dictionary
+### Dictionary \{#dictionary}
 
 Our online [Interslavic dictionary][19] is a comprehensive tool.
 
-### Spell Checkers
+### Spell Checkers \{#spell-checkers}
 
 Spell checkers are instrumental in learning a new language. Here are some that we recommend.
 
-#### Firefox
+#### :notr[Firefox] \{#firefox}
 
 If you're a Firefox user, you can add the Interslavic language spell checker from the [Firefox Add-ons store][20].
 
-#### LibreOffice
+#### :notr[LibreOffice] \{#libreoffice}
 
 LibreOffice users can install the Interslavic language spell checker from [here][21].
 
-#### Hunspell
+#### :notr[Hunspell] \{#hunspell}
 
 For direct download: [https://github.com/medzuslovjansky/isv\_hunspell\_dict/releases][22]
 
-### Transliterator
+### Transliterator \{#transliterator}
 
 Jan van Steenbergen's **transliterator** can assist with translating text from Cyrillic to Latin, and vice versa. [Check it out here][23].
 
-### Declinators
+### Declinators \{#declinators}
 
 Improve your grammatical accuracy with Jan van Steenbergen's declinators:
 
@@ -105,17 +105,17 @@ Improve your grammatical accuracy with Jan van Steenbergen's declinators:
 - [Adjective declinator][25]
 - [Verb conjugator][26]
 
-### Contributing
+### Contributing \{#contributing}
 
 - Interslavic dictionary - [https://github.com/sonic16x/interslavic][27]
 - Interslavic OSS organization - [https://github.com/medzuslovjansky][28]
 - Repositories about Interslavic: [https://github.com/search?q=topic%3Ainterslavic\&type=repositories][29]
 
-### Comics
+### Comics \{#comics}
 
-To make learning more enjoyable, check out this Interslavic comic book on [Slovene Online][30].
+To make learning more enjoyable, check out this Interslavic comic book on [:notr[Slovene Online]][30].
 
-## Websites
+## Websites \{#websites}
 
 Here are some websites dedicated to the Interslavic language and culture:
 
