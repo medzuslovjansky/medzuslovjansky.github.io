@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Відсутній переклад"
   },
+  "com.disqus.load": {
+    "message": "Завантажити коментарі",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Коментарі працюють на платформі Disqus. Їхнє завантаження встановлює сторонні файли cookie.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Вивчайте міжслов'янську мову та знаходьте більше друзів та колег, що говорять слов'янськими мовами, з усього світу."
   },

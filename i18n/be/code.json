@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Адсутнічае пераклад"
   },
+  "com.disqus.load": {
+    "message": "Загрузіць каментарыі",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Каментарыі забяспечваюцца сэрвісам Disqus. Іх загрузка ўсталёўвае cookie-файлы трэціх бакоў.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Вучыце міжславянскую мову і знаходзьце больш сяброў і калег-славяністаў з усяго свету."
   },

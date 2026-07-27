@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Недостасува превод"
   },
+  "com.disqus.load": {
+    "message": "Вчитај ги коментарите",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Коментарите ги овозможува Disqus. Нивното вчитување поставува колачиња од трети страни.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Научете јазикот Меѓусловенски и пронајдете повеќе пријатели и колеги кои зборуваат Словенски ширум светот."
   },

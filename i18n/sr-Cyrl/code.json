@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Недостаје превод"
   },
+  "com.disqus.load": {
+    "message": "Учитај коментаре",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Коментаре омогућава Disqus. Њихово учитавање поставља колачиће трећих страна.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Научите међусловянски језик и нађите више славенских пријатеља и колега широм света."
   },

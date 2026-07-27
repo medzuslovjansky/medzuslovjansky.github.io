@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Липсващ превод"
   },
+  "com.disqus.load": {
+    "message": "Зареди коментарите",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Коментарите се осигуряват от Disqus. Зареждането им задава бисквитки от трети страни.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Научете се Междуславянски език и открийте повече славянски приятели и колеги от цял ​​свят."
   },

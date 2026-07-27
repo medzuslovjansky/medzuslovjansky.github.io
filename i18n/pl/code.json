@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Brakujące tłumaczenie"
   },
+  "com.disqus.load": {
+    "message": "Załaduj komentarze",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Komentarze są obsługiwane przez Disqus. Ich załadowanie zapisuje pliki cookie stron trzecich.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Naucz się języka Międzysłowiańskiego i znajdź więcej przyjaciół i kolegów z całego świata, którzy mówią po słowiańsku."
   },

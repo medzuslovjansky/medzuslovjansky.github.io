@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Chýba preklad"
   },
+  "com.disqus.load": {
+    "message": "Načítať komentáre",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Komentáre zabezpečuje služba Disqus. Ich načítanie nastaví súbory cookie tretích strán.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Učte sa jazyk Medzislovančina a nájdite si viac slovanských priateľov a kolegov z celého sveta."
   },

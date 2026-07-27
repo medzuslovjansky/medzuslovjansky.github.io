@@ -43,6 +43,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Missing translation"
   },
+  "com.disqus.load": {
+    "message": "Load comments",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Comments are powered by Disqus. Loading them sets third-party cookies.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Learn Interslavic language and find more Slavic-speaking friends and colleagues worldwide."
   },

@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Отсутствует перевод"
   },
+  "com.disqus.load": {
+    "message": "Загрузить комментарии",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Комментарии работают на платформе Disqus. Их загрузка устанавливает сторонние файлы cookie.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Изучайте межславянский язык и находите больше друзей и коллег, говорящих на славянских языках, по всему миру."
   },

@@ -40,6 +40,14 @@
   "com.admonitions.missingTranslation.title": {
     "message": "Manjka prevod"
   },
+  "com.disqus.load": {
+    "message": "Naloži komentarje",
+    "description": "Label of the button which loads the Disqus comments widget"
+  },
+  "com.disqus.notice": {
+    "message": "Komentarje omogoča Disqus. Njihovo nalaganje nastavi piškotke tretjih oseb.",
+    "description": "Notice shown instead of the Disqus comments until the reader agrees to third-party cookies"
+  },
   "pages.home.meta.description": {
     "message": "Naučite se jezika medslavjansko in poiščite več slovanskih prijateljev in sodelavcev po vsem svetu."
   },
