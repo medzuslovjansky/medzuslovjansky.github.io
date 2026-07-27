@@ -57,7 +57,7 @@ Uistinu, i Slovio i Interslavic su pomoćni jezici koji se temelje na Slaveni, a
 
 Za razliku od Slovia, međuslavenski se u potpunosti temelji na zajedničkom slavenskom materijalu. Niti mu je namjera postati svjetski jezik, niti služiti kao jezik zajednice govornika, niti propagirati bilo kakvu političku ideologiju. To je samo alat za komunikaciju i obrazovanje, a ne svrha sama po sebi.
 
-Nažalost, tvorac Slovia namjerno širi lažne informacije o drugim međuslavenskim projektima, pa čak i pribjegava promoviranju Slovia pod njihovim imenom. Da ne bude zabune, treba naglasiti da su Interslavic i Slovio potpuno nepovezani projekti. Pogledajte izjavu o odricanju od odgovornosti za kratko objašnjenje.
+Nažalost, tvorac Slovia namjerno širi lažne informacije o drugim međuslavenskim projektima, pa čak i pribjegava promoviranju Slovia pod njihovim imenom. Da ne bude zabune, treba naglasiti da su Interslavic i Slovio potpuno nepovezani projekti. Pogledajte [izjavu o odricanju od odgovornosti](../introduction/index.md#disclaimer) za kratko objašnjenje.
 
 ## Međuslavenski i praslavenski/starocrkvenoslavenski \{#interslavic-and-proto-slavicold-church-slavonic}
 
@@ -70,30 +70,3 @@ Da bi bio prikladan za suvremenu komunikaciju, staroslavenski zahtijeva temeljit
 Kako bismo osigurali dosljednost, nikada ne posuđujemo riječi _izravno_ iz tih jezika. Umjesto toga, uspoređujemo njihove različite oblike, vraćamo se njihovim (staroslavenskim ili rekonstruiranim) osnovnim oblicima i uzimamo ih kao polazište za uspostavljanje najvećeg zajedničkog nazivnika prema fiksnim obrascima koji se temelje na većini. Stoga stvaramo blisku aproksimaciju hipotetskog jezika koji bi mogao nastati da se slavenski jezici nisu raspali u cijelu obitelj jezika – ili, ako vam se više sviđa, onoga što bi starocrkvenoslavenski postao da mu je bilo dopušteno prirodno razvijati kroz stoljeća.
 
 Drugim riječima, međuslavenski počinje tamo gdje završava starocrkvenoslavenski i može se tretirati kao njegov suvremeni nastavak. Moglo bi se reći da je nastajanje međuslavenskoga u biti ukidanje razvoja koji je učinio da se slavenski jezici udalje.
-
-[novoslavenski]: http://www.neoslavonic.org
-
-[Slovenski]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[sicilijansko/klavijatura]: http://tyflonet.com/siciliano/klaviatury
-
-[`JCUKEN`]: https://bit.ly/2NSMxdC
-
-[`LJNJERTZ`]: https://bit.ly/37frqto
-
-[`IVERT']: https://bit.ly/2XwwTbb
-
-[`ѢHERTY`]: https://bit.ly/2prMdcr
-
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
-
-[prošireni transliterator]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[rječnici]: http://steen.free.fr/interslavic/slovniky.html
-
-[Međuslavenski sabor]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
-

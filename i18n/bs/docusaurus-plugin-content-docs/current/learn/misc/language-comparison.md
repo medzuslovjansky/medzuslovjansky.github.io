@@ -57,7 +57,7 @@ Doista, i slovački i međuslavenski su pomoćni jezici koji se temelje na slave
 
 Za razliku od Slovia, međuslavenski je u potpunosti zasnovan na zajedničkom slovenskom materijalu. Nije namijenjen niti da postane svjetski jezik, niti da služi kao jezik zajednice govornika, niti da propagira bilo kakvu političku ideologiju. To je samo sredstvo za komunikaciju i obrazovanje, a ne svrha sama po sebi.
 
-Nažalost, Slovio tvorac je namjerno širio lažne informacije o drugim međuslavenskim projektima i čak je pribjegao promoviranju Slovia pod njihovim imenom. Da ne bude zabune, treba naglasiti da su Interslavic i Slovio potpuno nepovezani projekti. Pogledajte odricanje od odgovornosti za kratko objašnjenje.
+Nažalost, Slovio tvorac je namjerno širio lažne informacije o drugim međuslavenskim projektima i čak je pribjegao promoviranju Slovia pod njihovim imenom. Da ne bude zabune, treba naglasiti da su Interslavic i Slovio potpuno nepovezani projekti. Pogledajte [odricanje od odgovornosti](../introduction/index.md#disclaimer) za kratko objašnjenje.
 
 ## međuslavenski i praslovenski/staroslavenski \{#interslavic-and-proto-slavicold-church-slavonic}
 
@@ -67,33 +67,6 @@ Na neki način, to je upravo ono što mi radimo. Treba, međutim, imati na umu d
 
 Da bi bio prikladan za modernu komunikaciju, staroslavenski zahtijeva temeljitu modernizaciju, koja podrazumijeva mnogo više od samo dodavanja riječi za „avion“ i „televizija“. Svaki pojedinačni element mora se držati naspram prizme _modernih slavenskih jezika_ i ažurirati u skladu s tim. Svaki od ovih modernih jezika proizvod je vlastitog, individualnog razvoja, što objašnjava zašto riječi izgledaju drugačije od jednog jezika do drugog, a ponekad i imaju različita značenja.
 
-Da bismo osigurali konzistentnost, nikada ne posuđujemo riječi _direktno_ iz ovih jezika. Umjesto toga, uspoređujemo njihove različite oblike, vraćamo se njihovim (staroslavenskim ili rekonstruiranim) njihovim osnovnim oblicima i uzimamo ih kao polaznu točku za utvrđivanje najvećeg zajedničkog nazivnika prema fiksnim, većinskim obrascima. Tako stvaramo blisku aproksimaciju hipotetičkog jezika koji bi mogao nastati da se slavenski jezici ne bi raspali u čitavu familiju jezika – ili, ako želite, onoga što bi staroslavenski postao da mu je bilo dopušteno prirodno se razvijaju tokom vekova.
+Da bismo osigurali konzistentnost, nikada ne posuđujemo riječi _direktno_ iz ovih jezika. Umjesto toga, uspoređujemo njihove različite oblike, vraćamo se njihovim (staroslavenskim ili rekonstruiranim) osnovnim oblicima i uzimamo ih kao polaznu točku za utvrđivanje najvećeg zajedničkog nazivnika prema fiksnim, većinskim obrascima. Tako stvaramo blisku aproksimaciju hipotetičkog jezika koji bi mogao nastati da se slavenski jezici ne bi raspali u čitavu familiju jezika – ili, ako želite, onoga što bi staroslavenski postao da mu je bilo dopušteno prirodno se razvijaju tokom vekova.
 
 Drugim riječima, međuslavenski počinje tamo gdje prestaje staroslavenski i može se tretirati kao njegov savremeni nastavak. Moglo bi se reći da je stvaranje međuslavenskog u suštini razbijanje razvoja koje je dovelo do udaljavanja slovenskih jezika.
-
-[Neoslavenski]: http://www.neoslavonic.org
-
-[slovenski]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[siciliano/klaviatury]: http://tyflonet.com/siciliano/klaviatury
-
-[`JCUKEN`]: https://bit.ly/2NSMxdC
-
-[`LJNJERTZ`]: https://bit.ly/37frqto
-
-[`IVERT']: https://bit.ly/2XwwTbb
-
-[`HERTY`]: https://bit.ly/2prMdcr
-
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
-
-[prošireni transliterator]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[rječnici]: http://steen.free.fr/interslavic/slovniky.html
-
-[Međuslavenski sabor]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
-

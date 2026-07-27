@@ -57,7 +57,7 @@ Rzeczywiście, słowiański i międzysłowiański są słowiańskimi językami p
 
 W przeciwieństwie do Slovio, Interslavic jest w całości oparty na wspólnym materiale słowiańskim. Nie ma on na celu stać się językiem światowym, ani służyć jako język wspólnoty mówiącej, ani też nie propagować żadnej ideologii politycznej. Jest to jedynie narzędzie komunikacji i edukacji, a nie cel sam w sobie.
 
-Niestety, twórca Slovio celowo rozpowszechnia fałszywe informacje o innych międzysłowiańskich projektach, a nawet ucieka się do promowania Slovio pod ich nazwami. Aby uniknąć nieporozumień, należy podkreślić, że Interslavic i Slovio to zupełnie niezwiązane ze sobą projekty. Zobacz zastrzeżenie, aby uzyskać krótkie wyjaśnienie.
+Niestety, twórca Slovio celowo rozpowszechnia fałszywe informacje o innych międzysłowiańskich projektach, a nawet ucieka się do promowania Slovio pod ich nazwami. Aby uniknąć nieporozumień, należy podkreślić, że Interslavic i Slovio to zupełnie niezwiązane ze sobą projekty. Zobacz [zastrzeżenie](../introduction/index.md#disclaimer), aby uzyskać krótkie wyjaśnienie.
 
 ## Międzysłowiański i prasłowiański/staro-cerkiewno-słowiański \{#interslavic-and-proto-slavicold-church-slavonic}
 
@@ -70,30 +70,3 @@ Aby nadawać się do nowoczesnej komunikacji, język staro-cerkiewno-słowiańsk
 Aby zapewnić spójność, nigdy nie zapożyczamy słów _bezpośrednio_ z tych języków. Zamiast tego porównujemy ich różne kształty, wracamy do ich (starosłowiańskich lub zrekonstruowanych) form podstawowych i traktujemy je jako punkt wyjścia do ustalenia największego wspólnego mianownika według ustalonych, większościowych wzorców. W ten sposób tworzymy bliskie przybliżenie hipotetycznego języka, który mógłby powstać, gdyby języki słowiańskie nie rozpadły się na całą rodzinę języków – lub, jeśli wolisz, tego, czym stałby się język staro-cerkiewno-słowiański, gdyby pozwolono mu rozwijają się naturalnie na przestrzeni wieków.
 
 Innymi słowy, język międzysłowiański zaczyna się tam, gdzie kończy język staro-cerkiewno-słowiański i można go traktować jako jego współczesną kontynuację. Można powiedzieć, że tworzenie języka międzysłowiańskiego jest w istocie unicestwianiem rozwoju, który spowodował, że języki słowiańskie się od siebie oddaliły.
-
-[Nosłowiański]: http://www.neoslavonic.org
-
-[Słowianin]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[siciliano/klaviatury]: http://tyflonet.com/siciliano/klaviatury
-
-[`JCUKEN`]: https://bit.ly/2NSMxdC
-
-[`LJNJERTZ`]: https://bit.ly/37frqto
-
-[`IVERT']: https://bit.ly/2XwwTbb
-
-[`ѢHERTY`]: https://bit.ly/2prMdcr
-
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
-
-[transliterator rozszerzony]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[słowniki]: http://steen.free.fr/interslavic/slovniky.html
-
-[Zgromadzenie Międzysłowiańskie]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
-

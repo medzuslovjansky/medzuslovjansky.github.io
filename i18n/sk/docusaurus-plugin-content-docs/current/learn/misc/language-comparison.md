@@ -57,7 +57,7 @@ Slovio a interslovančina sú v skutočnosti pomocné jazyky založené na slova
 
 Na rozdiel od Slovio je interslovančina úplne založená na spoločnom slovanskom materiáli. Nie je zamýšľané stať sa svetovým jazykom, ani slúžiť ako jazyk komunity rečníkov, ani propagovať nejakú politickú ideológiu. Je to len nástroj komunikácie a vzdelávania, nie samotný účel.
 
-Žiaľ, tvorca Slovia zámerne šíril nepravdivé informácie o iných medzislovanských projektoch a dokonca sa uchýlil k propagácii Slovia pod ich menami. Aby nedošlo k zmätku, treba zdôrazniť, že Interslavic a Slovio sú úplne nesúvisiace projekty. Krátke vysvetlenie nájdete v prehlásení o vylúčení zodpovednosti.
+Žiaľ, tvorca Slovia zámerne šíril nepravdivé informácie o iných medzislovanských projektoch a dokonca sa uchýlil k propagácii Slovia pod ich menami. Aby nedošlo k zmätku, treba zdôrazniť, že Interslavic a Slovio sú úplne nesúvisiace projekty. Krátke vysvetlenie nájdete v [prehlásení o vylúčení zodpovednosti](../introduction/index.md#disclaimer).
 
 ## medzislovančina a praslovančina/staroslovienčina \{#interslavic-and-proto-slavicold-church-slavonic}
 
@@ -67,33 +67,6 @@ Istým spôsobom to je presne to, čo robíme. Treba však pripomenúť, že sta
 
 Aby bola staroslovienčina vhodná pre modernú komunikáciu, vyžaduje dôslednú modernizáciu, ktorá zahŕňa oveľa viac ako len doplnenie slov pre „lietadlo“ a „televízia“. Každý jednotlivý prvok treba postaviť proti hranolu _moderných slovanských jazykov_ a podľa toho aktualizovať. Každý z týchto moderných jazykov je produktom svojho vlastného individuálneho vývoja, čo vysvetľuje, prečo slová vyzerajú v jednotlivých jazykoch inak a niekedy majú aj odlišný význam.
 
-Aby sme zabezpečili konzistentnosť, nikdy si nepožičiavame slová _priamo_ z týchto jazykov. Namiesto toho porovnávame ich rôzne tvary, vraciame sa k ich (staroslovanským alebo rekonštruovaným) ich základným tvarom a berieme ich ako východiskový bod pre stanovenie najväčšieho spoločného menovateľa podľa ustálených, väčšinových vzorcov. Vytvárame tak blízku aproximáciu hypotetického jazyka, ktorý by mohol vzniknúť, keby sa slovanské jazyky nerozpadli na celú rodinu jazykov – alebo ak chcete, čím by sa stala staroslovienčina, keby sa jej umožnilo sa v priebehu storočí prirodzene vyvíjali.
+Aby sme zabezpečili konzistentnosť, nikdy si nepožičiavame slová _priamo_ z týchto jazykov. Namiesto toho porovnávame ich rôzne tvary, vraciame sa k ich (staroslovanským alebo rekonštruovaným) základným tvarom a berieme ich ako východiskový bod pre stanovenie najväčšieho spoločného menovateľa podľa ustálených, väčšinových vzorcov. Vytvárame tak blízku aproximáciu hypotetického jazyka, ktorý by mohol vzniknúť, keby sa slovanské jazyky nerozpadli na celú rodinu jazykov – alebo ak chcete, čím by sa stala staroslovienčina, keby sa jej umožnilo sa v priebehu storočí prirodzene vyvíjali.
 
 Inými slovami, interslovančina začína tam, kde končí staroslovienčina a možno ju považovať za jej moderné pokračovanie. Dalo by sa povedať, že vznik interslovančiny je v podstate neuskutočnením vývoja, ktorý spôsobil, že sa slovanské jazyky vzdialili.
-
-[neslovančina]: http://www.neoslavonic.org
-
-[Slovinčina]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[siciliano/klaviatury]: http://tyflonet.com/siciliano/klaviatury
-
-[`JCUKEN`]: https://bit.ly/2NSMxdC
-
-[`LJNJERTZ`]: https://bit.ly/37frqto
-
-[`IVERT']: https://bit.ly/2XwwTbb
-
-[`ѢHERTY`]: https://bit.ly/2prMdcr
-
-[prepisovateľ]: http://steen.free.fr/interslavic/transliterator.html
-
-[rozšírený prepis]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[slovníky]: http://steen.free.fr/interslavic/slovniky.html
-
-[Medzislovanský snem]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
-

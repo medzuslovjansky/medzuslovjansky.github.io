@@ -57,7 +57,7 @@ Slovio in medslovanski jezik sta resda slovanska pomožna jezika, a tu se podobn
 
 Za razliko od Slovia, Interslavic v celoti temelji na skupnem slovanskem gradivu. Niti ni namenjen temu, da bi postal svetovni jezik, niti da bi služil kot jezik skupnosti govorcev, niti da bi propagiral kakršno koli politično ideologijo. Je zgolj orodje za komunikacijo in izobraževanje, ne pa sam sebi namen.
 
-Na žalost je ustvarjalec Slovia namenoma širil lažne informacije o drugih medslovanskih projektih in se celo zatekel k promociji Slovia pod njihovimi imeni. Da ne bo zmede, je treba poudariti, da sta Interslavic in Slovio popolnoma nepovezana projekta. Za kratko razlago glejte izjavo o omejitvi odgovornosti.
+Na žalost je ustvarjalec Slovia namenoma širil lažne informacije o drugih medslovanskih projektih in se celo zatekel k promociji Slovia pod njihovimi imeni. Da ne bo zmede, je treba poudariti, da sta Interslavic in Slovio popolnoma nepovezana projekta. Za kratko razlago glejte [izjavo o omejitvi odgovornosti](../introduction/index.md#disclaimer).
 
 ## Medslovanska in praslovanska/stara cerkvena slovanščina \{#interslavic-and-proto-slavicold-church-slavonic}
 
@@ -70,30 +70,3 @@ Da bi bila primerna za sodobno sporazumevanje, stara cerkvena slovanščina zaht
 Da bi zagotovili doslednost, nikoli ne izposojamo besed _neposredno_ iz teh jezikov. Namesto tega primerjamo njihove različne oblike, se vrnemo k njihovim (staroslovanskim ali rekonstruiranim) osnovnim oblikam in jih vzamemo kot izhodišče za vzpostavitev največjega skupnega imenovalca glede na ustaljene, večinsko zasnovane vzorce. Tako ustvarimo tesen približek hipotetičnega jezika, ki bi lahko nastal, če slovanski jeziki ne bi razpadli v celotno družino jezikov – ali, če vam je ljubše, tega, kar bi postala stara cerkvena slovanščina, če bi ji bilo dovoljeno se skozi stoletja naravno razvijajo.
 
 Z drugimi besedami, medslovanščina se začne tam, kjer se konča stara cerkvena slovanščina, in jo lahko obravnavamo kot njeno sodobno nadaljevanje. Lahko bi rekli, da je nastanek medslovanščine v bistvu razveljavitev razvoja, zaradi katerega so se slovanski jeziki oddaljevali.
-
-[novoslovanščina]: http://www.neoslavonic.org
-
-[Slovenian]: http://steen.free.fr/interslavic/grammar.html#simple_grammar
-
-[sicilijano/klaviatura]: http://tyflonet.com/siciliano/klaviatury
-
-[`JCUKEN`]: https://bit.ly/2NSMxdC
-
-[`LJNJERTZ`]: https://bit.ly/37frqto
-
-[`IVERT']: https://bit.ly/2XwwTbb
-
-[`ѢHERTY`]: https://bit.ly/2prMdcr
-
-[transliterator]: http://steen.free.fr/interslavic/transliterator.html
-
-[razširjeni transliterator]: http://steen.free.fr/interslavic/transliterator_extended.html
-
-[slovarji]: http://steen.free.fr/interslavic/slovniky.html
-
-[Medslovanski zbor]: http://facebook.com/groups/1933305396885265
-
-[1]: ../grammar/index.md
-
-[2]: ../orthography.md#etymological-alphabet
-
