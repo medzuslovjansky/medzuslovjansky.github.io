@@ -23,7 +23,7 @@ Kao i mnoge druge velike jezičke porodice, slovenski jezici su inspirisali stva
 6. :notr[Општи Словенски Језик] (1796) srpskog Stefana Stratimirovića, uglavnom na ruskom.
 7. :notr[Wspólny język słowiański] (1807) od Poljaka Samuela Lindea.
 8. :notr[Regular Russian] (1810-1820) Barlomeja Kopitara.
-9. [Universalis Lingua Slavica][2] (:notr[Vseslovanski Jazyk]) (1826.), Slovaka Jana Herkelja (1786.-prije 1865.), objavljeno u njegovom ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budimpešta 1826.) i njegovom " ( Beč 1826). Ovaj jezik je bio zasnovan na zapadnoslovenskim jezicima.
+9. [Universalis Lingua Slavica][2] (:notr[Vseslovanski Jazyk]) (1826.), Slovaka Jana Herkelja (1786.-prije 1865.), objavljeno u njegovom ":notr[Elementa universalis linguae Slavicae e vivis dialectis eruta at sanis logicae principiis suffulta]" (Budimpešta 1826.) i njegovom ":notr[Zaklady vseslovanskeho jazyka]" (Beč 1826). Ovaj jezik je bio zasnovan na zapadnoslovenskim jezicima.
    Uzorak: _":notr[Za starego vieku byla jedna kralica, koja mala tri prelepije dievice: milicu, krasicu a mudricu; vse tri byle bogate, okrem bogatstva milica byla pokorna, krasica uctiva a mudrica umena.]"_
 10. [Sveslavjanski jezik][3] (1850.) Hrvata Matije Bana, objavljeno u njegovom ":notr[Dubrovnik. Cviet narodnog književstva. Svezak drugi]" (Zagreb 1851.). Zasnovan na staroslavenskom jeziku.
 11. :notr[Vseslavjanski jezik] (1850) Slovenca Jakoba Radoslava Razlaga (1826-1880).
@@ -32,41 +32,41 @@ Kao i mnoge druge velike jezičke porodice, slovenski jezici su inspirisali stva
 13. [Vsjeslovianʹskyʹ][5] (1861), Čeha Vaceslava Bambasa, objavljeno u njegovom ":notr[Tvarosklad Jazyka Slovanského]" (Prag 1861).
     Uzorak: _":notr[Slova, jaže pronesoste vъ uspiechъ naroda i jazyka slovianьskago na snjemu horvatskomъ, razlietieša sia svitomь slonьca po vsjichь ziemjachь svjatago glagola našego, i napolniša serdca naša radostijȣ vielikojȣ.]"_
 14. [Međusobni slavenski pravopis][6] (:notr[Узајемні Правопіс Славјанскі]) (1865), Slovenac Matija Majar-Ziljski (1809-1892).
-    Uzorak: _:notr["Наук језіка славјанскога мора обсеговаті нај менје пет главніх наречіј: наречjе ізвірно-славјанско алі церковно, польско, руско, ческо і сербско."]_.
+    Uzorak: _":notr[Наук језіка славјанскога мора обсеговаті нај менје пет главніх наречіј: наречjе ізвірно-славјанско алі церковно, польско, руско, ческо і сербско.]"_.
 15. :notr[Општословенски јазик], koju je objavio makedonski pisac Grigor Prličev u svom ":notr[Кратка славянска грамматика]" (1868) i koristio u raznim književnim prevodima. Uzorak: _":notr[Плачам тътнет Галешник народным. Кто зло вас, братие, постигло? Иль плоды вам град побил немирный, иль стада вам звере потребили?]"_
 16. :notr[Vseslovanski jezik] (oko 1872) od slovenačkog Oroslava Cafa (1814-1874).
 17. Projekt hrvatskog povjesničara Petra Tomića (1839-1918) iz 1885. – nema podataka.
-18. :notr[Общеславянский язык] (Obshcheslavyansky Yazyk), objavljen 1891. i 1892. od strane A.S. Budilovič, koji predlaže ruski kao zajednički slovenski jezik.
+18. :notr[Общеславянский язык] (:notr[Obshcheslavyansky Yazyk]), objavljen 1891. i 1892. od strane A.S. Budilovič, koji predlaže ruski kao zajednički slovenski jezik.
 
 ## Istorijski pokušaji jezika za međuslovensku komunikaciju: \{#historic-attempts-at-a-language-for-inter-slavic-communication}
 
-19. :notr[Neuslawisch] (1907), Čeha Ignaca Hošeka (1852-1919), objavljenog u njegovoj "Grammatik der Neuslavischen Sprache". Svrha ovog jezika je bila stvaranje jedinstvenog slovenskog jezika za Habsburšku Monarhiju i uvođenje reda u jezički haos u toj državi.
+19. :notr[Neuslawisch] (1907), Čeha Ignaca Hošeka (1852-1919), objavljenog u njegovoj ":notr[Grammatik der Neuslavischen Sprache]". Svrha ovog jezika je bila stvaranje jedinstvenog slovenskog jezika za Habsburšku Monarhiju i uvođenje reda u jezički haos u toj državi.
     Uzorak: _":notr[Praga, glavné mesto královstva českého, leži skoro posred české zeme na oboch bregoch dolňé Veltvai, ve krajine krásno pagorkatej, částečno niše nežli dve sta metrov nad gladinou morskou.]"_
 20. :notr[Všeslovanský jazyk] (1909), drugi projekat Ignáca Hošeka, objavljen u knjižici pod naslovom ":notr[Slovanský tlumočník]". Za razliku od njegovog Neuslawisch-a, koji je usmjeren samo na Slovene unutar Habsburške Monarhije, ovaj malo poznati projekt predstavlja jezik za _sve_ Slovene.
-21. :notr[Slavina] (Slava-Esperanto, Slovina), koju je 1912. objavio Josef Konečný u svojoj brošuri ":notr[Mluvnička slovanského esperanta »Slavina«]". Za razliku od samog imena, ovaj projekat nema ništa zajedničko sa esperantom, već je uglavnom zasnovan na zapadnoslovenskom, posebno češkom.
+21. :notr[Slavina] (:notr[Slava-Esperanto, Slovina]), koju je 1912. objavio Josef Konečný u svojoj brošuri ":notr[Mluvnička slovanského esperanta »Slavina«]". Za razliku od samog imena, ovaj projekat nema ništa zajedničko sa esperantom, već je uglavnom zasnovan na zapadnoslovenskom, posebno češkom.
     Uzorak: _":notr[Hej, Slované, naši lepo slovanó rěč máme, dokud naše věrne serce pro náš národ dame.]"_
 22. :notr[Slovanština] (1912), Čeha Edmunda Kolkopa.
     Uzorak: _":notr[Ve tamji dra priideo Yan Krestar, kazaya na puſj ve zem Yudesk; i rekaya: Pokayaiy nehaj viri i, bo priblizioϑsa carstviy nebesk.]"_
 23. :notr[Neposlava] Rusa Vsevoloda Češihina (Češihina), na osnovu njegovog projekta :notr[Nepo] (objavljenog 1913.) kombinovanja afiksa esperanta sa korenima iz nacionalnih jezika. Prema Mario Pei-u _Jedan jezik za svijet_, ovaj jezik prvobitno "pokušava uspostaviti ravnotežu između latinsko-romanskih, germanskih i slovenskih elemenata", ali se kasnije oslobodio slovenskih elemenata.
 24. **Neimenovani jezik** iz 1913-1916 Petra Stojana i D. Čupovskog iz Rusije.
-25. :notr[Slavski jezik] (Všeslovansky) (1920) Čeha Bohumila Holija (1885-1947). Čini se da je ovo prvi međuslavenski jezik koji pokazuje tendenciju uprošćavanja. Godine 1930. i 1932. Holý je objavio dvije brošure o svom projektu: ":notr[Všeslovansky: Stručná cvičebnice pomocného, dorozumívacího i jednotícího jazyka všeslovanského 'Slavski jezik']".
-    Uzorak: _":notr[Otec naš, iže ti su na nebesa! Da svetu se ime tvoj! Pridi tvoj carstvo! da budu volja tvoj i na zem kak na nebo]."_ .
-26. **slovenski** – nema podataka.
-27. **Sveslav** (Sveslav, Sveslovenski jezik) (1940), objavio Srbin Čedomir Đurđević u svojoj knjizi ":notr[Sveslovenski ili sveslav : Jedan ogled opšteg međuslovenskog pomoćnog narečja analitičkog karaktera. Kratak izvod]." (Beograd: Marka. "Merkur" 1940)
-28. **Slovan** (1940), Čeha Arnosta Emana Žideka, objavljen u njegovom "Slovanu (pojednostavljeni medij slovenskog govora)".
-29. **Mežduslavjanski jezik** nastao je 1954.-1958. godine od strane tima čeških interlingvista pod vodstvom pjesnika Ladislava Podmelea (1920-2000), uglavnom za vlastitu zabavu.
+25. :notr[Slavski jezik] (:notr[Všeslovansky]) (1920) Čeha Bohumila Holija (1885-1947). Čini se da je ovo prvi međuslavenski jezik koji pokazuje tendenciju uprošćavanja. Godine 1930. i 1932. Holý je objavio dvije brošure o svom projektu: ":notr[Všeslovansky: Stručná cvičebnice pomocného, dorozumívacího i jednotícího jazyka všeslovanského 'Slavski jezik']".
+    Uzorak: _":notr[Otec naš, iže ti su na nebesa! Da svetu se ime tvoj! Pridi tvoj carstvo! da budu volja tvoj i na zem kak na nebo]."_
+26. :notr[Slovenski] – nema podataka.
+27. :notr[Sveslav] (:notr[Свеслав, Свесловенски језик]) (1940), objavio Srbin Čedomir Đurđević u svojoj knjizi ":notr[Sveslovenski ili sveslav : Jedan ogled opšteg međuslovenskog pomoćnog narečja analitičkog karaktera. Kratak izvod]." (Beograd: Marka. "Merkur" 1940)
+28. :notr[Slovan] (1940), Čeha Arnosta Emana Žideka, objavljen u njegovom "Slovanu (pojednostavljeni medij slovenskog govora)".
+29. :notr[Mežduslavjanski jezik] nastao je 1954.-1958. godine od strane tima čeških interlingvista pod vodstvom pjesnika Ladislava Podmelea (1920-2000), uglavnom za vlastitu zabavu.
     Uzorak: _":notr[V meždunarodnich jezikach dlužno stvorit taki cennosti, ktori budu značit veliki prinos v oblasti nauk, izučenia jezikov, techniki, umenij itd. Jasno, če znanie jezika ne jest cel usilia ludi, če znanie jezika jest v praktike toliko posredek, da bi čitatel mog poznat taki dela i soderžanie del, ktori važni dle jego raboti...]"_.
-30. **Slawsky** – nepoznati autor i godina, samo primjer: _":notr[Ulepszajte swieta, zaczinajte a was samych!]"_ (_a_ je vjerovatno greška u kucanju i treba da bude _s_, _z_ ili _u_).
-31. **Meždislav** (1972), Owe Bruno Fahlke iz Njemačke.
+30. :notr[Slawsky] – nepoznati autor i godina, samo primjer: _":notr[Ulepszajte swieta, zaczinajte a was samych!]"_ (_a_ je vjerovatno greška u kucanju i treba da bude _s_, _z_ ili _u_).
+31. :notr[Meždislav] (1972), Owe Bruno Fahlke iz Njemačke.
     Uzorak: _":notr[Ne moga inače kak kazat, če na mne nevozmožne razbirat, če to ogromen i čudesen vesmir kakto če my čoveki zajedne se soznanije o naš samsyvo byl by voznikat slučajne.]"_
-32. [Osnovni slovački] [7] Jozefa Mistrika, prvi put objavljen 1981., ponekad se naziva i slavenskim auxlangom. U stvarnosti je to metoda učenja za govornike engleskog jezika, koja ima neke sličnosti sa **Osnovnim engleskim**.
+32. [Osnovni slovački][7] Jozefa Mistrika, prvi put objavljen 1981., ponekad se naziva i slavenskim auxlangom. U stvarnosti je to metoda učenja za govornike engleskog jezika, koja ima neke sličnosti sa **Osnovnim engleskim**.
 
 ## Nedavni pokušaji (uglavnom objavljeni putem interneta): \{#recent-attempts-mostly-published-via-the-internet}
 
-33. [Međunarodni jezik][8] (Međunarodni jezik) nastao je 1999. godine ili prije toga od strane holandskog autora Hansa Kampa.
+33. [Meždunarodski jazik][8] (:notr[Международски язик]) nastao je 1999. godine ili prije toga od strane holandskog autora Hansa Kampa.
 34. [Slovio][9], koji je 1999. godine stvorio Slovak Mark Hučko, jedan je od poznatijih konstruisanih jezika zasnovanih na slovenskim jezikima. Prilično se razlikuje od drugih projekata, jer je njegova gramatika u velikoj mjeri napravljena po uzoru na esperanto. Godine 2007. pojavio se i na internetu pod imenom [:notr[Ruskio]][10], ovog puta predstavljenog od strane autora kao „pojednostavljeni ruski dijalekt”, iako je jedina razlika sa Slovio u tome što _sx_, _zx_, _cx_, _gx_ i _wx_ pišu se _s\*_, _z\*_, _c\*_, _g\*_ i _w\*_. Tokom godina, Slovio je promovisan i pod raznim drugim imenima, poput :notr[Slavsk] i :notr[Novoslovianski], itd. Njegove varijacije su predložili Eugeniusz Słowik (:notr[Inter Slavic Pidgin]) i Dorothea Winkelhofer (:notr[Interslovio]).
     Uzorak: _:notr[Slovio es novju mezxunarodju jazika ktor razumijut cxtirsto milion ludis na celoju zemla.]_
-35. Pet **sjevernoslovenskih jezika Libora Sztemona** (:notr[Seversk], :notr[Slavëni], :notr[Slavisk], :notr[Lydnevi]  i :notr[Mrezian]). Svi su se pojavili u godinama 2001-2002. Iako ih je njihov autor predstavio kao auxlange, čini se da su to umjetnički jezici, a ne pomoćni jezici. Također, osim Severska (koji koristi skandinavske pravopisne uređaje), čini se da su više pod utjecajem njegove fascinacije iranskim jezicima nego bilo čim sjevernoslavenskim.
+35. Pet **sjevernoslovenskih jezika Libora Sztemona** (:notr[Seversk], :notr[Slavëni], :notr[Slavisk], :notr[Lydnevi] i :notr[Mrezian]). Svi su se pojavili u godinama 2001-2002. Iako ih je njihov autor predstavio kao auxlange, čini se da su to umjetnički jezici, a ne pomoćni jezici. Također, osim Severska (koji koristi skandinavske pravopisne uređaje), čini se da su više pod utjecajem njegove fascinacije iranskim jezicima nego bilo čim sjevernoslavenskim.
 36. [Slovo][11] (:notr[Slovjanski jazyk, Slověnskyj język]), kreirao Štefan Vítězslav Pilát 2001. godine. Zasnovan na zajedničkom slovenskom jeziku i vrlo sličan glagoljici. Dostupna je samo arhivirana verzija.
 37. [Glagolica][12], koju je 2002. godine kreirao ":notr[Slavoboj]" Richard Ruibar. Zasnovan na zajedničkom slovenskom jeziku.
     Uzorak: _":notr[Vzajomnost bez jinšich predzrénej. Naši členovja i sou-robotatelovja možut byti panslavistovja, paganinistovja, slovanofiljova bo co-libo jinšego.]"_
@@ -76,7 +76,7 @@ Kao i mnoge druge velike jezičke porodice, slovenski jezici su inspirisali stva
 40. [Mezxduslavske][14] kreirao je 2003. Lorenzo Manasci. U potpunosti je baziran na Slovio, uz nekoliko gramatičkih i leksičkih razlika. Prvo je objavljen pod imenom :notr[Ruslavsk], a kasnije :notr[Mezhduslavsk]. Iako se cilj promijenio (Ruslavsk je pokušao učiniti Slovio nešto više ruskim, dok :notr[Mezxduslavske] tvrdi da dopunjava Slovio književnim i poetskim alatom), čini se da je jezik potpuno isti.
     Uzorak: _":notr[Udrage Anastasija, Vne tvoi cxudove prekrasost, ete ktor delal men zxelat pisat tejbe, bil fakt zxe stesx tecxne po Angliske.]"_
 41. [Jezik Slovianaja][15] je 2004. godine kreirao Paweł Ciupak iz Poljske. Inspirisan je uglavnom poljskim i Slovio.
-42. [Panslavien][16] (Panslavenski), kreirao Anton Antonov 2005. godine.
+42. [Panslavien][16] (:notr[панславянский]), kreirao Anton Antonov 2005. godine.
     Uzorak: _:notr[Govor panslavien — eto noven proekt de vseslavien iskustven govor, koï davaä da govoriä mej qelovekovi de razen slavien nacievi.]_
 43. [Medjazik][17], Ingmar Roerdinkholder.
 44. :notr[Rusoslovio], kasnije :notr[Sloviansk] – nema podataka.
@@ -84,19 +84,19 @@ Kao i mnoge druge velike jezičke porodice, slovenski jezici su inspirisali stva
     Uzorak: _:notr[Samrozumejucho, slove znachejuche muzhece su muzhesk polrodu, i znachejuche zhenice su zhenesk rodu.]_
 46. [Panslavensk][19] (2005), "Vječna vatra".
     Uzorak: _:notr[Pater naş, kator na nebo je, bu sveten imen tve / Патер наш, катор на небо је, бу светен имен тве]_.
-47. [Occhoslavenski jezik][20] (Occhoslavenski jezik), predstavljen 2005. od strane Sergeja Lazareva (poznatog kao "Vertaler").
+47. [Občoslavenski jezik][20] (:notr[Обчославенски језик]), predstavljen 2005. od strane Sergeja Lazareva (poznatog kao "Vertaler").
 48. [slovački jezik][21], koju je 2005. predstavila izvjesna Marina.
-49. [Sloviensk][22], prvi put predstavljen 2005. godine pod imenom [Slavido][23], a kasnije preimenovan u :notr[Sloveno], [S-lingva][24] (2007), :notr[Vse slovien rec'] i konačno :notr[Sloviensk] ( 2008), je pokušaj slovačkog autora koji ide pod pseudonimima :notr["I.S."], :notr["Mr. Slavido"], :notr["Ioan"]  i :notr["Ioannes"] na veoma pojednostavljenom i šematskom jeziku zasnovanom na slovenskom jeziku.
+49. [Sloviensk][22], prvi put predstavljen 2005. godine pod imenom [Slavido][23], a kasnije preimenovan u :notr[Sloveno], [S-lingva][24] (2007), :notr[Vse slovien rec'] i konačno :notr[Sloviensk] (2008), je pokušaj slovačkog autora koji ide pod pseudonimima ":notr[I.S.]", ":notr[Mr. Slavido]", ":notr[Ioan]" i ":notr[Ioannes]" na veoma pojednostavljenom i šematskom jeziku zasnovanom na slovenskom jeziku.
     Uzorak: _":notr[Nas' otec, kor es vo nebo, svat bij tvoe nome. Pridij kralenie tvoe, bij vola tvoe, kao vo nebo, tak i na Zem. H'leb nas' kienodensk daj nam denes a odpustij nam nas' vini.]"_
-50. [Slovianski][25], koju su 2006. pokrenuli Ondrej Rečnik i Gabriel Svoboda. Do 2009. :notr[Slovianski] je postojao u dva oblika: pidžinska varijacija ([:notr[Slovianski-P]][26]), koju je pokrenuo Ondrej Rečnik, a kasnije razvio Gabriel Svoboda, i naturalistička verzija ([:notr[Slovianski-N]][27]) , koju je započeo Jan van Steenbergen, a kasnije razvio Igor Polyakov. Starije varijacije ovog jezika uključuju: **Slovianski-S**, [GS-Slovianski][28] i [Slovjanskaj][29]. U 2010-2011, Slovianski i **Slovioski** (vidi dole) spojili su se u :notr[Medžuslovjanski/Interslavic].
+50. [Slovianski][25], koju su 2006. pokrenuli Ondrej Rečnik i Gabriel Svoboda. Do 2009. :notr[Slovianski] je postojao u dva oblika: pidžinska varijacija ([:notr[Slovianski-P]][26]), koju je pokrenuo Ondrej Rečnik, a kasnije razvio Gabriel Svoboda, i naturalistička verzija ([:notr[Slovianski-N]][27]) , koju je započeo Jan van Steenbergen, a kasnije razvio Igor Polyakov. Starije varijacije ovog jezika uključuju: :notr[Slovianski-S], [GS-Slovianski][28] i [Slovjanskaj][29]. U 2010-2011, Slovianski i :notr[Slovioski] (vidi dole) spojili su se u :notr[Medžuslovjanski/Interslavic].
     Uzorak: _":notr[Vse ľudi rodijut se svobodne i rovne v dostojnosti i pravah. Oni sut obdařene rozumom i svestju i imajut postupati jedin do drugogo v duhe bratstva.]"_
 51. Dva projekta [Igor Garšin][30]. Jedan se zove **:notr[Slovo], logički slovenski jezik**, a skica je očigledno napravljena 2006. godine. Druga se zove :notr[Slawa] (nema informacija).
 52. [Noven Slovio][31] (očigledno kasnije preimenovan u :notr[Slavenen]), koji je 2006. predložio "Hochlander".
     Uzorak: _":notr[Otce ni, coi es na nebo! Da bude sventen imeno ti, da priide crolestvo (tsarstvo) ti, da bude volia ti, ta na zeme, ca na nebo.]"_
 53. [Medzıslavǎnskij ǎzyk][32] (2008) Daniel Gromada (Jack O'Neill). Sadrži samo informacije o abecedi i nekoliko rečenica: _":notr[Ǎ sě zanimam o slavǎnskiě ǎzyky a měl jsem ıdeǔ vyrobiť medzıslavǎnskij ǎzyk. Vyrobeniem ty strony chcię uznať ěśli to bude funkcionovať.]"_
-54. [Rozumio][33] (2008) od Hellericka. Po riječima njegovog autora, "Rozumio nije jezik, već pokušaj da se spoje dva slovenska pomoćna konlanga Slovio i Slovianski. Jezik je zasnovan na Slovio, a ipak se može smatrati nekom vrstom Slovianskog u svom primitivnom obliku. "
+54. [Rozumio][33] (2008) od Hellericka. Po riječima njegovog autora, "Rozumio nije jezik, već pokušaj da se spoje dva slovenska pomoćna konlanga Slovio i Slovianski. Jezik je zasnovan na Slovio, a ipak se može smatrati nekom vrstom Slovianskog u svom primitivnom obliku."
     Uzorak: _":notr[Na bort korabu je dva milioni bočki neftu, v plen ostajut 25 človeki ekipažu.]"_
-55. [Slovioski][34] (2009), koji su kreirali Steeven Radzikowski, Andrej Moraczewski i Michal Borovička, još je jedan pokušaj pomirenja Slovia i Slovianskog. Zamjenjuje Slovio gramatiku prirodnijom, dok se u osnovi drži rječnika Slovio. U periodu 2010-2011, Slovionski se na kraju spojio sa Slovenskim u **Medžuslovjanski/Interslavic**.
+55. [Slovioski][34] (2009), koji su kreirali Steeven Radzikowski, Andrej Moraczewski i Michal Borovička, još je jedan pokušaj pomirenja Slovia i Slovianskog. Zamjenjuje Slovio gramatiku prirodnijom, dok se u osnovi drži rječnika Slovio. U periodu 2010-2011, Slovionski se na kraju spojio sa Slovenskim u :notr[Medžuslovjanski/Interslavic].
     Uzorak: _":notr[Skype mozxbut potrebil bi zakritit za sporu o osnovnju tehnologiu upotrebitcja na operuvaniu svojih internetovih telefonih sistemum...]"_
 56. [Slavski jezik][35] (2009), pojednostavljeni jezik baziran uglavnom na južnoslovenskom, kreirao Jukka Hintsala.
     Uzorak: _":notr[Svi ljudi rodin se svobodni i jednaki u svoji dostojnosti i pravimi. Oni su nadeleni sa razumem i sovestim i treban postupati jedan pret ina u duši bratsva.]"_
@@ -111,18 +111,18 @@ Kao i mnoge druge velike jezičke porodice, slovenski jezici su inspirisali stva
 61. Neimenovani [jednostavan slavenski auxlang][40] predstavljen 2010. od strane poljskog konlangera koji sebe naziva "Ćiril i Metodij", koji uzima bugarski kao primarni primjer.
     Uzorak: _":notr[Ote'c nasx, jen je na nebe, da svati sa ime Tvoje, da priide carstvije Tvoje, da je volja Tvoja, jak ve nebe tak i na zemlja.]"_
 62. [Slovianto][41] (2010), eksperiment Jana van Steenbergena o tome koliko se Slovianski može pojednostaviti (uglavnom zasnovan na Slovianski-P i Slovioski).
-    Uzorak: _:notr["Iz vse možlive mesti, v ktore živet ludi, ja naj-mnogo lubim male selo, daleko od šumne grod, s jego male společnost."]_
+    Uzorak: _":notr[Iz vse možlive mesti, v ktore živet ludi, ja naj-mnogo lubim male selo, daleko od šumne grod, s jego male společnost.]"_
 63. [Rusich][42] (2010), ruski jezik od Nikolaja Mihajlenka. Uzorak: _":notr[Togda kolegi predlagajut sdelatj e obshe jazyk toljko dlja slavjani, ibo slavjanski jazyki imejut e mnogo obshe slovi, na kotori znajyt vse slajani.]"_
 64. [Prostoslovjanski][43] (2010) Cxirila Slavjanskog, projekat baziran na Slovianskom sa elementima iz Slovianskog.
     Uzorak: _":notr[Prostoslovjanski jazik je jeden od mnogih predložitnjenih oblikov budučeg medžuslavjanskog jazika ktoreg bi vsi Slavjani moželi govoriti i rozumeti.]"_
 65. [Rusanto][44] (2011), još jedan pokušaj Marka Hučka u pojednostavljenoj formi ruskog („Osnovni pojednostavljeni ruski sa latiničnim pismom i gramatikom sličnom esperantu”), sličan Sloviou i dijelom zasnovan na njemu.
 66. [Slovko][45] (2011) Olega Zvonkova, shematski jezik sa slovenskim vokabularom i gramatikom nalik na esperanto.
     Uzorak: _":notr[Slovko e mezhunarodka, iskustvenka eziko za to choveki, aka govorete slavka eziki. Vsi slavka choveki i mnozhku choveki ina nacionalko iza ina krainko lehka razumete slovko bez obuchenko.]"_
-67. [Interslavic][46] (:notr[Medžuslovjansky, Меджусловјанскы]) nastao je 2011. godine kao rezultat saradnje i (djelimičnog) spajanja :notr[Slovianski], :notr[Slovioski]  i :notr[Novoslověnsky], obogaćen materijalima iz nekoliko starijih projekata, posebno Majarovog :notr[Uzajemni Pravopis Slavjanski] . 2017. godine spajanje je završeno. Za razliku od prethodnih projekata, Interslavic je opremljen alatima za [aromatizaciju][47] i skupom opcionih znakova sa dijakritičkim znakovima koji prenose etimološke informacije (ranije poznat kao Naučny Medžuslovjansky). Uzorak: _:notr[Medžu umětnymi i prirodnymi językami sųt někoje važne råzliky. Glåvnojų råzlikojų jest očevidno to, že prirodne języky sųt povstali črěz věky na osnově organičnogo råzvit́ja starših językov i narěčij, inymi slovami, sama historija je iztvorila.]_
+67. [Interslavic][46] (:notr[Medžuslovjansky, Меджусловјанскы]) nastao je 2011. godine kao rezultat saradnje i (djelimičnog) spajanja :notr[Slovianski], :notr[Slovioski] i :notr[Novoslověnsky], obogaćen materijalima iz nekoliko starijih projekata, posebno Majarovog :notr[Uzajemni Pravopis Slavjanski] . 2017. godine spajanje je završeno. Za razliku od prethodnih projekata, Interslavic je opremljen alatima za [aromatizaciju][47] i skupom opcionih znakova sa dijakritičkim znakovima koji prenose etimološke informacije (ranije poznat kao Naučny Medžuslovjansky). Uzorak: _:notr[Medžu umětnymi i prirodnymi językami sųt někoje važne råzliky. Glåvnojų råzlikojų jest očevidno to, že prirodne języky sųt povstali črěz věky na osnově organičnogo råzvit́ja starših językov i narěčij, inymi slovami, sama historija je iztvorila.]_
 68. [Venedčina][48] ili :notr[Венедовы jезык] (2012) Nikolaja Kuznjecova, koju je njen autor kvalifikovao kao „konstruisani slovenski jezik koji se ne može nedvosmisleno povezati ni sa jednom slovenskom granom osim međuslavenskom osim očiglednog južnoslovenskog i ruskog uticaja” . Ranije skice su predstavljene pod imenima kao što su [Vseslovѣnskij jazyk][49], :notr[Vsěsłověnskij ezyk] i :notr[Всиславски език]. Uzorak: _":notr[Otče naš, ktory je v nebě, Se světaj Ime Tvoje, Jdi Kraljenja Tvoja, Bądj Volja Tvoja kak v nebě tak v zemjě, Hlěb naš sjogočasny daj nam všečki denj, I prostaj nam grěši naši, kak my prostamy dolžnikov naših, I nevojdi nas u izkušenja i spasaj nas od zlago. Amen!]"_
 69. [Novoslovnica][50] (:notr[Новославянский язык]) (2014) Egora A. Karpova, projekat jasno motivisan panslavizmom, koji se, između ostalog, odlikuje visoko arhaičnom ortografijom (samo ćirilica) i lingvističkim purizmom. Uzorak: _":notr[Данный пројект има цѣль зтвораня возможності корыстованя обчіословѣнскога јазыка за донесеня информації и розвôја ґо. Второю целію јѧвляје сѧ зтворане преводца, якый би могнал преводити теќты меџу всѣми словѣнскыми јазыками.]"_
 70. [Novoslavski][51] (2014) Roberta F. Hancocka. Zasnovan na međuslavenskom i praktično identičan njemu, osim nekih pravopisnih problema i gramatičkih završetaka. Uzorak: _":notr[Jestli ona znala gdje vy živete, može ona davno byst prihodila. / Ѣстли она знала гдѣ вы живете, може она давно быст приходила.]"_
-71. [Slovenska nova lingvafranka][52] (**Snolin, SNL**) (2018.) od Hellericka, koju je njen autor opisao kao "međuslavenski kreolski konlang (konstruisani jezik) zasnovan na romanskom konlangu Lingua Franca Nova". Uzorak: _":notr[Vse-slovenska barvi je czervena, bela i nebesna, koja je na znameni od mnoga slovenska derzsavi i narodi. Ih simboluva jedenota od slovenska narodi.]"_
+71. [Slovenska nova lingvafranka][52] (:notr[Snolin, SNL]) (2018.) od Hellericka, koju je njen autor opisao kao "međuslavenski kreolski konlang (konstruisani jezik) zasnovan na romanskom konlangu Lingua Franca Nova". Uzorak: _":notr[Vse-slovenska barvi je czervena, bela i nebesna, koja je na znameni od mnoga slovenska derzsavi i narodi. Ih simboluva jedenota od slovenska narodi.]"_
 
 ## Primjeri: \{#examples}
 
@@ -133,7 +133,7 @@ Poređenja radi, sljedeće stranice prikazuju nekoliko gore navedenih jezika na 
 
 ## Literatura: \{#literature}
 
-_Vidi: [Publikacije o međuslavenskom] [55]_
+_Vidi: [Publikacije o međuslavenskom][55]_
 
 [1]: http://miresperanto.narod.ru/o_vseobscem_jazyke/krizhanich.htm
 
