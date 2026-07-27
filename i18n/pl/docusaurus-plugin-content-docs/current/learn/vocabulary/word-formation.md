@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tworzenie słów
 
-## Sufiksy \{#suffixes}
+## Przyrostki \{#suffixes}
 
 Poniżej znajduje się lista przyrostków. Zwróć uwagę, że jeśli rdzeń kończy się na konkretną spółgłoskę, jest ona zmieniana przed przyrostkami `-ji`, `-ka`, `-ko`, `-nik`, `-ny`, `-ok`, `-sky`  i `-stvo` w następujący sposób:
 
@@ -14,307 +14,307 @@ Poniżej znajduje się lista przyrostków. Zwróć uwagę, że jeśli rdzeń ko�
 
 Natomiast miękka spółgłoska `nj` twardnieje przed `-nik` i `-ny`.
 
-Sufiksy rozpoczynające się od `-o-` zmieniają się na `-e-`, gdy następuje po miękkiej spółgłosce:
+Przyrostki rozpoczynające się od `-o-` zmieniają się na `-e-`, gdy następują po miękkiej spółgłosce:
 
 - _`byk`_ + _-`ok`_ > _`byček`_
 - :isv[konec] + _-`ovy`_ > _`koncevy`_
 - _`noč`_ + _-`ovati`_ > _`nočevati`_
 
-#### Rzeczownik do rzeczownika \{#noun-to-noun}
+#### Rzeczownik z rzeczownikiem \{#noun-to-noun}
 
 - Zdrobnienia tworzy się w następujący sposób:
-  - wyrazy rodzaju męskiego na twardej spółgłosce mają sufiks `-ok`:\
-    `pes` „pies” > `pesok` (gen. `peska`) „piesek”
-  - męskie słowa na miękkiej spółgłosce mają sufiks `-ik` lub `-ek`:\
-    `muž` „mężczyzna” > `mužik` „mały człowieczek”
-  - żeńskie słowa dodają sufiks `-ka` do rdzenia słowa:\
-    `kniga` „książka” > `knižka` „broszura”
-  - słowa nijakie dodają sufiks `-ko` do rdzenia słowa:\
+  - wyrazy rodzaju męskiego na twardą spółgłoskę mają przyrostek `-ok`:\
+    `pes` „pies” > `pesok` „piesek” (D. `peska` „pieska”)
+  - wyrazy rodzaju męskiego na miękką spółgłoskę mają przyrostek `-ik` lub `-ek`:\
+    `muž` „mąż” > `mužik` „mężyk”
+  - wyrazy rodzaju żeńskiego dodają przyrostek `-ka` do rdzenia słowa:\
+    `kniga` „książka” > `knižka` „książeczka”
+  - wyrazy rodzaju nijakiego dodają przyrostek `-ko` do rdzenia słowa:\
     `polje` „pole” > `poljko` „małe pole”
-- Aby wyprowadzić abstrakcyjne cechy z imion osób, stosuje się przyrostek `-stvo`:\
-  `prijatelj` „przyjaciel” > `prijateljstvo` „przyjaźń”, `muž` „mężczyzna” > `mužstvo` „męskość”
+- Aby stworzyć abstrakcyjne cechy z imion osób, stosuje się przyrostek `-stvo`:\
+  `prijatelj` „przyjaciel” > `prijateljstvo` „przyjaźń, stpol. przyjacielstwo”, `muž` „mężczyzna” > `mužstvo` „męstwo”
 - Miejsce opisane jako przyimek w połączeniu z nazwą innego miejsca ma zwykle końcówkę `-je`:\
-  `morje` „morze” > `primorje` „kraina nad morzem”, `brjuh` „brzuch” > `podbrjušje` „podbrzusze”
+  `morje` „morze” > `primorje` „przymorze”, `brjuh` „brzuch” > `podbrjušje` „podbrzusze”
 - Bardziej ogólnym wskaźnikiem miejsca jest zakończenie `-išče`:\
-  `voz` „wagon, samochód” > `vozišče` „parking”, `ogonj` „ogień” > `ognišče` „kominek, palenisko”
-- Aby wyprowadzić osobę, która jest odpowiedzialna za coś lub która coś obsługuje, lub przedmiot, który coś zawiera, stosuje się przyrostek `-nik`:\
-  `glava` „głowa” > `glavnik` „szef, szef”, `kabel` „kabel” > `kabelnik` „kabel”, `kniga` „książka” > `knižnik` „pudełko na książki”
-- Aby wyprowadzić osobę, która jest bez czegoś, używamy kombinacji przedrostka `bez-` i przyrostka `-nik`:\
+  `voz` „wóz, pojazd, samochód” > `vozišče` „parking”, `ogonj` „ogień” > `ognišče` „kominek, palenisko”
+- Aby stworzyć nazwę osoby, która jest odpowiedzialna za coś lub która coś obsługuje, albo przedmiot, który coś zawiera, stosuje się przyrostek `-nik`:\
+  `glava` „głowa” > `glavnik` „szef”, `kabel` „kabel” > `kabelnik` „osoba od kabli”, `kniga` „książka” > `knižnik` „biblioteczka”
+- Aby stworzyć nazwę osoby, która jest bez czegoś, używamy kombinacji przedrostka `bez-` i przyrostka `-nik`:\
   `Bog` „Bóg” > `bezbožnik` „bezbożnik”
 - Mieszkaniec kraju, regionu lub miasta ma końcówkę `-ec` (czasami `-an(in)`):\
   `Albanija` > `Albanec` „Albańczyk”
 - Żeński odpowiednik zakończeń `-nik` i `-ec` to odpowiednio `-nica` i `-ica`:\
-  `rada` „rada” > `radnik` „doradca” > `radnica` „doradca”; `Albanec` „Albańczyk” > `Albanica` „Albańczyk”
+  `rada` „rada” > `radnik` „radca” > `radnica` „radczyni”; `Albanec` „Albańczyk” > `Albanica` „Albanka”
 - W innych przypadkach używamy raczej końcówki `-ka` dla żeńskich odpowiedników osób płci męskiej:\
-  `prijatelj` „przyjaciel” > `prijateljka` „przyjaciółka”, `gradžanin` „obywatelka”, `gradžanka` „obywatelka”
+  `prijatelj` „przyjaciel” > `prijateljka` „przyjaciółka”, `gradžanin` „obywatel”, `gradžanka` „obywatelka”
 - Młode zwierzę jest zwykle wyprowadzane przez dodanie `-e` do nazwy zwierzęcia, w wyniku czego powstaje rzeczownik rodzaju nijakiego klasy _-et-_:\
-  `kot` „kot” > `kote` „kotek”, `jelenj` „jeleń” > `jelene` „płowy”
+  `kot` „kot” > `kote` „kotek”, `jelenj` „jeleń” > `jelene` „jelonek”
 
-#### Przymiotnik do rzeczownika \{#adjective-to-noun}
+#### Przymiotnik z rzeczownikiem \{#adjective-to-noun}
 
-- Aby wyprowadzić abstrakcyjną jakość z przymiotnika, stosuje się przyrostek `-ost`:\
-  `dobry` „dobrze” > `dobrost` „dobro”
+- Aby wyprowadzić abstrakcyjną cechę z przymiotnika, stosuje się przyrostek `-ost`:\
+  `dobry` „dobry” > `dobrost` „dobro”
 - Osoba reprezentująca cechę wyrażoną przymiotnikiem często ma końcówkę `-ec` (fem. `-ica`):\
-  `glupy` „głupi” > `glupec` „głupiec, głupek”, `izgnany` „wygnany, wygnany” > `izgnanec` „wygnaniec, wygnaniec”
+  `glupy` „głupi” > `glupec` „głupiec”, `izgnany` „wygnany” > `izgnanec` „wygnaniec”
 - Wskaźnik miejsca `-išče` może być również używany z przymiotnikami:\
-  `mokry` „mokre” > `mokrišče` „mokradła, bagna”, `tajny` „sekret” > `tajnišče` „tajne miejsce”
+  `mokry` „mokry” > `mokrišče` „mokradła, bagna”, `tajny` „tajny” > `tajnišče` „tajne miejsce”
 - Przymiotnik może również pełnić funkcję rzeczownika, pozostając niezmienionym:\
-  `běly` „biały” > `běly` „biały”
+  `běly` „biały” > `běly` „biały, ten który jest biały”
 
-#### Czasownik do rzeczownika \{#verb-to-noun}
+#### Czasownik z rzeczownikiem \{#verb-to-noun}
 
-- Aby uzyskać imię osoby zajmującej się czynnością określoną przez pierwotny czasownik, stosuje się przyrostek `-telj`:\
+- Aby uzyskać nazwę osoby zajmującej się czynnością określoną przez pierwotny czasownik, stosuje się przyrostek `-telj`:\
   `učiti` „uczyć” > `učitelj` „nauczyciel”
 - Zawody są często wyrażane z zakończeniem `-ač` lub `-ar`:\
-  `kovati` „kuć” > `kovač` „kowal”, `krojiti` „wycinać” > `krojač` „krawiec”, `pekti` „piec” > `pekar` „piekarz”
-- Wskaźnik miejsca `-išče` może być również używany z czasownikami (często w oparciu o imiesłów L):\
-  `igrati` „do zabawy” > `igrališče` „plac zabaw”, `žiti` „mieszkać” > `žilišče` „zamieszkanie, miejsce zamieszkania”
-- Sam akt jest reprezentowany przez rzeczownik odsłowny (gerund), kończący się na `-nje`, czasem `-tje`
-  `dělati` „robić, robić” > `dělanje` „robić, robić”, `žiti` „żyć” > `žitje` „życie”
+  `kovati` „kuć” > `kovač` „kowal”, `krojiti` „kroić” > `krojač` „krawiec”, `pekti` „piec” > `pekar` „piekarz”
+- Wskaźnik miejsca `-išče` może być również używany z czasownikami (często w oparciu o imiesłów przymiotnikowy):\
+  `igrati` „grać” > `igrališče` „plac zabaw”, `žiti` „mieszkać” > `žilišče` „miejsce zamieszkania”
+- Samo działanie jest reprezentowane przez rzeczownik odczasownikowy (gerundium), kończący się na `-nje`, czasem `-tje`
+  `dělati` „robić” > `dělanje` „robienie”, `žiti` „żyć” > `žitje` „życie”
 
-#### Przymiotnik do przymiotnika \{#adjective-to-adjective}
+#### Przymiotnik z przymiotnikiem \{#adjective-to-adjective}
 
-- Aby zapoznać się z porównaniami i superlatywami, patrz _[przymiotniki][1]_
+- Aby zapoznać się z porównaniami i stopniowaniem, patrz _[przymiotniki][1]_
 - Aby zmienić znaczenie przymiotnika na przeciwne, użyj przedrostka `ne-`:\
   `dobry` „dobrze” > `nedobry` „niedobrze”
-- Dla zintensyfikowania znaczenia przymiotnika można użyć przedrostka `prě-`, oznaczającego „bardzo” lub „zbyt”:\
-  `umorjeny` „zmęczony” > `prěumorjeny` „śmiertelnie zmęczony, wyczerpany”
+- Dla wzmocnienia znaczenia przymiotnika można użyć przedrostka `prě-` (odpowiednik polskiego `prze-`):\
+  `umorjeny` „zmęczony” > `prěumorjeny` „przemęczony”
 - Aby osłabić znaczenie przymiotnika, stosuje się przyrostek `-ovity`:\
-  `zeleny` „zielony” > `zelenovity` „zielonkawy”
+  `zeleny` „zielony” > `zelenovity` „zielonkawy, zielonawy”
 
-#### Rzeczownik do przymiotnika \{#noun-to-adjective}
+#### Rzeczownik z przymiotnikiem \{#noun-to-adjective}
 
-- Przymiotniki (w znaczeniu: odnoszące się do czegoś) tworzone są od rzeczowników za pomocą trzech sufiksów: `-sky` jeśli pierwotnym rzeczownikiem jest nazwa geograficzna, byt lub osoba (zwykle zawód), `-ji` w w przypadku zwierząt, innych osób lub bytów boskich, lub `-ny` (w innych przypadkach):\
-  `žena` „kobieta” > `žensky` „kobieta, kobiecość”, `morje` „morze” > `morsky` „związane z morzem”, `člověk` „człowiek, osoba” > `člověčji` „człowiek”, @ @161 „koń” > `konji` „koński”, `noč` „noc” > `nočny` „nocny, noc-”, `pismo` „list, pismo” > `pisemny` „pisane, na piśmie”\
+- Przymiotniki (odnoszące się do czegoś) tworzone są od rzeczowników za pomocą trzech przyrostków: `-sky` jeśli pierwotnym rzeczownikiem jest nazwa geograficzna, byt lub osoba (zwykle zawód), `-ji` w przypadku zwierząt, innych osób lub bytów boskich, lub `-ny` (w innych przypadkach):\
+  `žena` „kobieta” > `žensky` „kobiecy, żeński”, `morje` „morze” > `morsky` „morski”, `člověk` „człowiek” > `člověčji` „człowieczy”, `konj` „koń” > `konji` „koński”, `noč` „noc” > `nočny` „nocny”, `pismo` „list, pismo” > `pisemny` „pisemny”\
   Może być też kilka przymiotników o nieregularnej formie.
 - Aby utworzyć przymiotnik określający materiał, z którego coś jest zrobione, można użyć przyrostka `-ěny`:\
-  `drěvěny` „drewniane”, `steklěny` „ze szkła”
-- Aby wyprowadzić przymiotnik wyrażający „posiadający cechy”, można użyć przyrostka `-ovy`:\
-  `pomaranča` „pomarańczowy (owoc)” > `pomarančevy` „pomarańczowy (kolor)”
+  `drěvěny` „drewniany”, `steklěny` „szklany”
+- Aby wyprowadzić przymiotnik „posiadający cechy”, można użyć przyrostka `-ovy`:\
+  `pomaranča` „pomarańcza” > `pomarančevy` „pomarańczowy”
 - Aby wyprowadzić przymiotnik, który wyraża podobieństwo do czegoś, stosuje się przyrostek `-ovity`:\
   `malpa` „małpa” > `malpovity` „małpi”
 - Aby utworzyć przymiotnik wyrażający brak czegoś, używamy przedrostka `bez-` w połączeniu z przyrostkiem `-ny`:\
-  `dom` „dom” > `bezdomny` „bezdomny”, `naděja` „nadzieja” > `beznadějny` „beznadzieja”
-- Przymiotnik określający określoną cechę części ciała tworzy się w następujący sposób: cecha + `-o-` + część ciała + `-y`:\
-  `oko` „oko” > `jednooky` „jednooki”, `ruka` „ramię” > `bezruky` „bez ręki”
+  `dom` „dom” > `bezdomny` „bezdomny”, `naděja` „nadzieja” > `beznadějny` „beznadziejny”
+- Przymiotnik określający konkretną cechę części ciała tworzy się w następujący sposób: cecha + `-o-` + część ciała + `-y`:\
+  `oko` „oko” > `jednooky` „jednooki”, `ruka` „ręka” > `bezruky` „bezręki”
 
-#### Czasownik do przymiotnika \{#verb-to-adjective}
+#### Czasownik z przymiotnikiem \{#verb-to-adjective}
 
-- Sama koniugacja werbalna tworzy cztery przymiotniki w formie imiesłowów _(patrz: [imiesłowy][2])_:\
-  `dělati` „robić” > `dělajuči` „robić, robić”, `dělajemy` „być tworzonym”, `sdělavši` „robić”, `sdělany` „robić”
-- Aby wyprowadzić przymiotnik wyrażający tendencję lub nawyk, końcówkę można zastąpić przyrostkiem `-livy`:\
-  `govoriti` „mówić, mówić” > `govorlivy` „rozmowny”
-- Aby wyprowadzić przymiotnik wyrażający możliwość (por. angielski _-`able/-ible`_), końcówki `-omy` (**-`emy`, -`imy`**) lub `-livy` mogą być dołączone do czasu teraźniejszego napięta łodyga:\
-  `razuměti` „do zrozumienia” > `razumlivy` „zrozumiały”, `nesti` „do noszenia” > `nesomy` „przenośny”
+- Sama koniugacja czasowników tworzy cztery przymiotniki w formie imiesłowów _(patrz: [imiesłowy][2])_:\
+  `dělati` „robić” > `dělajuči` „robiący”, `dělajemy` „robiony”, `sdělavši` „zrobiwszy”, `sdělany` „zrobiony”
+- Aby stworzyć przymiotnik wyrażający tendencję lub nawyk, końcówkę można zastąpić przyrostkiem `-livy`:\
+  `govoriti` „rozmawiać” > `govorlivy` „rozmowny”
+- Aby stworzyć przymiotnik wyrażający możliwość (por. angielski _-`able/-ible`_), końcówki `-omy` (**-`emy`, -`imy`**) lub `-livy` mogą być dołączone do tematu wyrazu w czasie teraźniejszym:\
+  `razuměti` „rozumieć” > `razumlivy` „zrozumiały”, `nesti` „nieść” > `nesomy` „przenośny”
 
-#### Przysłówek do przymiotnika \{#adverb-to-adjective}
+#### Przysłówek z przymiotnikiem \{#adverb-to-adjective}
 
-- Przysłówek można przymiotnikować za pomocą przyrostka `-šnji`:\
-  `včera` „wczoraj” > `včerašnji` „wczoraj”, `dnes` „dzisiaj” > `dnešnji` „dzisiaj”, `nyně` „obecnie, obecnie” > `nyněšnji` „obecnie, obecnie”
+- Z przysłówka można stworzyć przymiotnik za pomocą przyrostka `-šnji`:\
+  `včera` „wczoraj” > `včerašnji` „wczorajszy”, `dnes` „dzisiaj” > `dnešnji` „dzisiejszy”, `nyně` „teraz” > `nyněšnji` „teraźniejszy”
 
-#### Rzeczownik do czasownika \{#noun-to-verb}
+#### Rzeczownik z czasownikiem \{#noun-to-verb}
 
-- Najprostszym sposobem wyprowadzenia czasownika z rzeczownika jest użycie przyrostka `-ovati`:\
-  `malpa` „małpa, małpa” > `malpovati` „zachowywać się jak małpa”, `noč` „noc” > `nočevati` „przenocować”
-- W przypadku aktu poddania kogoś/czegoś leczeniu przedrostek `o-` i końcówka `-iti` są używane razem:\
-  `kamenj` „kamień” > `okameniti` „do kamienia”, `světlo` „światło” > `osvětliti` „oświetlić, rozjaśnić”, `svoboda` „wolność” > `osvoboditi` „uwolnić”
+- Najprostszym sposobem stworzenia czasownika z rzeczownika jest użycie przyrostka `-ovati`:\
+  `malpa` „małpa” > `malpovati` „małpować”, `noč` „noc” > `nočevati` „nocować”
+- W przypadku działań wpływających na kogoś/coś, przedrostek `o-` i końcówka `-iti` są używane razem:\
+  `kamenj` „kamień” > `okameniti` „ukamienować”, `světlo` „światło” > `osvětliti` „oświetlić”, `svoboda` „wolność” > `osvoboditi` „uwolnić, oswobodzić”
 - Aby pozbyć się lub pozbawić kogoś/czegoś, przedrostek `obez-` jest używany z zakończeniem `-iti`:\
   `glava` „głowa” > `obezglaviti` „odciąć głowę”, `dom` „dom” > `obezdomiti` „uczynić bezdomnym”
 
-#### Przymiotnik do czasownika \{#adjective-to-verb}
+#### Przymiotnik z czasownikiem \{#adjective-to-verb}
 
-- Proces stawania się wyraża zakończenie `-ěti`:\
-  `běly` „biały” > `bělěti` „zbielać”, `bogaty` „bogaty” > `bogatěti` „bogacić się”, `hvory` „chory, chory” > `hvorěti` „być lub stać się chorym /chory"
+- Proces stawania się wyrażany jest zakończeniem `-ěti`:\
+  `běly` „biały” > `bělěti` „bieleć”, `bogaty` „bogaty” > `bogatěti` „bogacić się”, `hvory` „chory” > `hvorěti` „chorować”
 - Aby ktoś/coś miało cechy wyrażone przymiotnikiem, przedrostek `o-` i końcówka `-iti` są używane razem:\
   `črny` „czarny” > `očrniti` „oczerniać, czynić czarnym”
 - Aby ktoś/coś miało więcej cech wyrażanych przez przymiotnik (często porównawczy), przedrostek `u-` jest łączony z końcówką `-iti`:\
-  `lěpši` „lepiej” > `ulěpšiti` „poprawić, ulepszyć”, `menši` „mniej” > `umenšiti` „zmniejszyć, zmniejszyć”
+  `lěpši` „lepiej” > `ulěpšiti` „ulepszyć”, `menši` „mniej” > `umenšiti` „zmniejszyć”
 - Aby usunąć cechy wyrażone przez przymiotnik, przedrostek `od-` i przyrostek `-iti` są używane razem:\
   `črny` „czarny” > `odčrniti` „odczerniać, usuwać czarny kolor”
 
-#### Czasownik do czasownika \{#verb-to-verb}
+#### Czasownik z czasownikiem \{#verb-to-verb}
 
-- Forma podstawowa czasownika poprzedzonego prefiksem jest zawsze dokonana. Czasownik niedokonany można wyprowadzić z niego w następujący sposób:
+- Forma podstawowa czasownika poprzedzonego przedrostkiem jest zawsze dokonana. Czasownik niedokonany można stworzyć z niego w następujący sposób:
   - jeśli czasownik ma końcówkę `-ati`, czasownik niedokonany ma `-yvati`:\
-    `sodržati` „zawierać” > `sodrživati`
+    `sodržati` „zawrzeć” > `sodrživati` „zawierać”
   - jeśli czasownik ma końcówkę `-iti`, czasownik niedokonany ma `-jati`:\
-    `obnoviti` „do odnowienia” > `obnavjati`
+    `obnoviti` „odnowić” > `obnavjati` „odnawiać”
   - jeśli czasownik ma końcówkę `-nuti`, czasownik niedokonany ma `-ati`:\
-    `oddohnuti` „oddychać” > `oddyhati`
+    `oddohnuti` „odetchnąć” > `oddyhati` „oddychać”
   - jeśli czasownik jest jednosylabowy i kończy się na samogłoskę, czasownik niedokonany ma `-vati`:\
-    `prodati` „sprzedać” > `prodavati`
+    `prodati` „sprzedać” > `prodavati` „sprzedawać”
 
-#### Przymiotnik do przysłówka \{#adjective-to-adverb}
+#### Przymiotnik z przysłówkiem \{#adjective-to-adverb}
 
-- Przymiotnik jest przysłówkowy przy użyciu końcówki `-o`:\
-  `dobry` „dobrze” > `dobro` „dobrze”
-- Porównanie `-(ěj)ši` jest przysłówkowe poprzez zastąpienie go przez `-(ě)je`:\
-  `slabějši` „słabszy” > `slaběje` „słabszy”
+- Przymiotnik może być zamieniony na przysłówek przy użyciu końcówki `-o`:\
+  `dobry` „dobry” > `dobro` „dobrze”
+- Porównanie `-(ěj)ši` może być zamienione na przysłówek poprzez zastąpienie go przez `-(ě)je`:\
+  `slabějši` „słabszy” > `slaběje` „słabiej”
 
 ## Przedrostki \{#prefixes}
 
-Do modyfikacji znaczenia słowa można użyć jednego lub więcej z poniższych przedrostków. Mogą być dołączone do wszystkich rodzajów słów, ale głównie do czasowników.
+Do modyfikacji znaczenia słowa można użyć jednego lub więcej z poniższych przedrostków. Mogą być dołączone do wszystkich rodzajów słów, ale głównie do czasowników. Większość funkcjonuje tak samo lub bardzo podobnie jak w języku polskim, przy czym w międzysłowiańskim występuje więcej takich połączeń niż w polszczyźnie.
 
 `do-`
 
-(uzupełniające z `od-`)
+(uzupełniające się z `od-`)
 
-- zrobić coś lub dojść gdzieś do końca/celu/bariery/wyniku: `dojdti` „przybyć, dojść (do celu)”, `doletěti` „przybyć lecąc”, `dozvati` „zawołać sbd . żeby przyszedł”
-- zrobić dodatkowo: `dopisati` „dopisać pisząc, dopisać coś dopisując.”, `dopolniti` „wypełnić dodając coś”
+- zrobić coś lub dojść gdzieś do końca/celu/bariery/wyniku: `dojdti` „dojść”, `doletěti` „dolecieć”, `dozvati` „zawołać”
+- zrobić dodatkowo: `dopisati` „dopisać”, `dopolniti` „dopełnić”
 
 `iz-`
 
-(uzupełniające z `v-`, wymienne z `vy-`)
+(uzupełniające się z `v-`, wymienne z `vy-`)
 
-- out, off, ex-: `izgnati` „wygnać”, `izbrati` „wybrać, wybrać, wybrać”, `izdati` „wydać”
+- `izgnati` „wygnać”, `izbrati` „wybrać”, `izdati` „wydać”
 - patrz dalej pod `vy-`
 
 `na-`
 
-(często używany jako marker dokonany)
+(często używany jako wskaźnik formy dokonanej)
 
-- w górę, na, nad: `navrgnuti` „rzucić na coś.”, `naložiti` „położyć się na czymś.”, `najdti` „znaleźć” (dosł. „wchodzić na coś. ”), `napisati` „zapisać”
-- dużo zrobić lub osiągnąć, w określonej ilości: `nagovoriti` „dużo mówić”, `nabrati` „wziąć określoną ilość czegoś”.
-- (z zaimkiem zwrotnym `se`) wystarczająca, pełna: `naspati se` „spać w pełni, dobrze się wyspać”, `najesti se` „najeść się do syta”
+- `navrgnuti` „narzucić”, `naložiti` „nałożyć”, `najdti` „znaleźć”, `napisati` „napisać”
+- dużo zrobić lub osiągnąć, w określonej ilości: `nagovoriti` „dużo mówić, nagadać”, `nabrati` „nabrać”.
+- (z zaimkiem zwrotnym `se` „się”) wystarczająco, pełno: `naspati se` „wyspać się”, `najesti se` „najeść się”
 
 `nad-`
 
-(uzupełniające z `pod-`)
+(uzupełniające się z `pod-`)
 
-- Ponad (w ruchu); ponad, lepiej (w przenośni): `nadsiliti` „znieść”, `nadigrati` „pokonać, ograć”, `nadpisati nad` „przepisać coś.”, `nadlomiti` „wyrwać się z góry”, `nadkryti` „do zakopać"
+- Ponad (w ruchu); nad, lepiej (w przenośni), w polszczyźnie często odpowiednikiem jest `na-` lub właśnie `nad-`: `nadsiliti` „nasilić”, `nadigrati` „pokonać”, `nadpisati nad` „nadpisać coś”, `nadlomiti` „nadłamać”, `nadkryti` „nakryć”
 
 `nedo-`
 
-(uzupełniające do `do-`)
+(uzupełniające się z `do-`)
 
-- robić niezupełnie, nie do końca: `nedopisati` „pisać bez skończenia”, `nedopolniti` „wypełniać, ale nie do końca”
+- robić niezupełnie, nie do końca: `nedopisati` „niedopisać”, `nedopolniti` „niedopełnić”
 
 `o-/ob-`
 
-(pochodzi czasowniki od rzeczowników i przymiotników)
+(pochodne czasowniki od rzeczowników i przymiotników)
 
-- nadać lub uzyskać cechy wyrażone przez rzeczownik lub przymiotnik: `okrugliti` „obejść”, `okameniti` „zamienić się w kamień”
-- poddać przedmiot obróbce czymś (dosł. lub rys.) wyrażonej rzeczownikiem: `okružiti` „obejść, otoczyć”, `okameniti` „kamienować”
+- nadać lub uzyskać cechy wyrażone przez rzeczownik lub przymiotnik: `okrugliti` „zaokrąglić”, `okameniti` „zamienić w kamień”
+- poddać przedmiot obróbce czymś (dosł. lub przen.) wyrażonej rzeczownikiem: `okružiti` „okrążyć”, `okameniti` „kamienować”
 
 `ob-`
 
-(pochodzi czasowniki od rzeczowników i przymiotników)
+(pochodne czasowniki od rzeczowników i przymiotników)
 
-- dookoła: `obidti` „chodzić w kółko”, „omijać”, `obmotati` „kręcić się w kółko”
+- dookoła: `obidti` „obchodzić, chodzić dookoła”, `obmotati` „owinąć”
 
 `obez-`
 
-(pochodzi czasowniki od rzeczowników; komplementarne do `ob-`)
+(pochodne czasowniki od rzeczowników; uzupełniające się z `ob-`)
 
-- pozbawić czegoś wyrażonego rzeczownikiem (dis-): `obezsiliti` „osłabiać”, `obezhrabriti` „zniechęcać”
+- pozbawić czegoś wyrażonego rzeczownikiem: `obezsiliti` „osłabić, obezwładnić”, `obezhrabriti` „zniechęcić”
 
 `od-`
 
-- daleko, poza (poruszanie się): `odidti` „odchodzić”, `oddati` „oddawać”, `odvinuti` „odkręcać”, `odgovoriti` „odpowiadać” (dosł. )
+- `odidti` „odejść”, `oddati` „oddać”, `odvinuti` „odkręcić”, `odgovoriti` „odpowiedzieć”
 - dokończyć lub wykonać czynność (aby się jej pozbyć): `odrabotati` „odpracować”
 
 `po-`
 
-- od razu zacząć, przygotować się, zrobić od razu: `početi` „zacząć”, `pojdti` „zacząć iść, wyjść”
-- na krótko, trochę, od czasu do czasu, tu i tam: `pospati` „trochę się przespać”, `posmatrjati` „pooglądać tu i tam”
-- oznacza czynność wykonywaną przez wielu lub mającą wpływ na wszystkich/wielu: `poskryvati se` „ukryć się” (wiele osób), `pobiti` „zabić wszystkich/wielu”
+- od razu zacząć, przygotować się, zrobić od razu: `početi` „zacząć, począć (np. przygotowania)”, `pojdti` „zacząć iść, pójść”
+- na krótko, trochę, od czasu do czasu, tu i tam: `pospati` „pospać”, `posmatrjati` „pooglądać”
+- oznacza czynność wykonywaną przez wielu lub mającą wpływ na wszystkich/wielu: `poskryvati se` „ukrywać się, poskrywać się”, `pobiti` „pobić”
 - zakończenie, wynik: `pojesti` „zjeść wszystko”, `pokryti` „pokryć całość”
 
 `pod-`
 
-- pod, pod-, od dołu: `podmetnuti` „podłożyć pod coś.”, `podbiti` „pukać od dołu”
-- potajemnie, ukradkiem: `podkazati` „powiedzieć w sekrecie”, `podgledati` „podglądać potajemnie”, `podsměhnuti se` „szydzić, żartować” (śmiech sekretny)
+- `podmetnuti` „podłożyć, podrzucić”, `podbiti` „pukać od dołu, podbić”
+- potajemnie, ukradkiem: `podkazati` „powiedzieć w sekrecie, podpowiedzieć”, `podgledati` „podglądać”, `podsměhnuti se` „podśmiewać się”
 
 `prě-`
 
-- w poprzek, nad (ruch): `prějdti` „przejść na drugą stronę”, `prěvesti` „przenieść, przenieść” > „przełożyć”
-- przemiana czegoś starego w coś nowego: `prěbudovati` „odbudować”, `prěorganizovati` „zreorganizować”
-- przez, z jednej strony na drugą: `prěsěkti` „przecinać, przecinać”, `prěpisati` „przepisywać, kopiować”
-- za dużo, za-: `prěsoliti` „za dużo soli”, `prěvariti` „gotować za długo”
+- `prějdti` „przejść”, `prěvesti` „przewieść” > `prěložiti` „przełożyć, przetłumaczyć”
+- przemiana czegoś starego w coś nowego: `prěbudovati` „przebudować”, `prěorganizovati` „zreorganizować, przeorganizować”
+- przez, z jednej strony na drugą: `prěsěkti` „przecinać”, `prěpisati` „przepisywać”
+- za dużo: `prěsoliti` „przesolić”, `prěvariti` „przegotować”
 
 `prěd-`
 
-(uzupełniające do `za`)
+(uzupełniające się z `za`)
 
 - wcześniej, z góry: `prědviděti` „przewidzieć”, `prědstaviti` „wyobrazić sobie, przedstawić”, `prědplatiti` „zapłacić z góry”
 
 `pri-`
 
 - blisko, obok: `prijdti` „podchodzić, zbliżać się”
-- na, na, zawiązany: `privinuti` „przykręcić”, `primetnuti` „założyć bliżej, postawić obok czegoś”.
-- dodatkowo: `privinuti` „przykręcić dodatkowo”, `pripisati` „napisać dodatkowo”, `prigovoriti` „dołożyć” (dosł. powiedzieć dodatkowo)
-- tylko trochę: `priodkryti` „trochę otworzyć”, `prikryti` „zamknąć, ale nie do końca”
+- `privinuti` „przykręcić”, `primetnuti` „położyć bliżej, postawić obok czegoś, przyłożyć”.
+- dodatkowo: `privinuti` „przykręcić”, `pripisati` „napisać dodatkowo”, `prigovoriti` „sprzeciwić się, powiedzieć dodatkowo”
+- tylko trochę: `priodkryti` „trochę otworzyć”, `prikryti` „przykryć”
 
 `pro-`
 
-- przez(na zewnątrz): `probiti` „wyrywać się, przenikać”, `protěkti` „przepływać”, `progrějati` „przegrzewać się”
-- chybić, przeszli do: `projehati mimo` „chybić coś.”, `promašiti, promahnuti` „to chybić celu”
+- przez (na zewnątrz): `probiti` „przebić, przedrzeć się, przeniknąć”, `protěkti` „przeciec”, `progrějati` „przegrzewać się”
+- chybić: `projehati mimo` „przejechać”, `promašiti, promahnuti` „chybić celu”
 - przez cały czas: `prorabotati ves denj` „pracować przez cały dzień”
-- stracić wszystko: `protratiti penezy` „przegrać wszystkie pieniądze”, `proigrati igru` „przegrać grę”
+- stracić wszystko: `protratiti penezy` „stracić wszystkie pieniądze”, `proigrati igru` „przegrać grę”
 
 `raz-`
 
-(uzupełniające do `s(o)`)
+(uzupełniające się z `s(o)`)
 
-- rozdzielać, rozdzielać, w dół: `razidti` „rozchodzić się”, `razkydnuti` „rozpadać się, rozdzielać”
-- de-, cofnij: `razminovati` „rozminować”
-- być w środku czegoś, przeprowadzić akcję: `razcvětati` „być w rozkwicie”, `razgovarjati` „rozmawiać, być w trakcie mówienia”
+- rozdzielać: `razidti` „rozchodzić się”, `razkydnuti` „rozrzucić”
+- cofnąć działanie: `razminovati` „rozminować”
+- być w trakcie czegoś: `razcvětati` „rozkwitać”, `razgovarjati` „rozmawiać”
 
 `s-/so-`
 
-- razem, z: `svezati` „łączyć, łączyć”, `sozvati` „zwoływać”, `sobrati` „zbierać, gromadzić”
-- od: `sojdti` „iść, zejść”, `snesti` „sprowadzić”
-- całkowicie, gotowe, dół: `srězati` „ściąć”, `sdělati` „zrobić” `sbriti` „ogolić się całkowicie”, `svariti` „całkowicie ugotować”, `sbudovati` „całkowicie zbudować”
+- razem, z: `svezati` „złączyć”, `sozvati` „zwoływać”, `sobrati` „zbierać”
+- z góry: `sojdti` „zejść”, `snesti` „sprowadzić”
+- całkowicie, gotowy: `srězati` „ściąć”, `sdělati` „zrobić” `sbriti` „zgolić”, `svariti` „ugotować”, `sbudovati` „zbudować”
 
 `su-`
 
-- obok, równolegle, co-: `surabotati` „pracować razem, obok siebie”
-- poruszać się twarzą w twarz; `suhoditi` „spotkać się, spotkać”
+- obok, równolegle: `surabotati` „współpracować”
+- poruszać się twarzą w twarz; `suhoditi` „spotkać się”
 
 `u-`
 
-(często używany jako marker dokonany)
+(często używany jako wskaźnik formy dokonanej)
 
-- daleko: `uletěti` „odlecieć (żeby ktoś spóźnił się na lot”), `uběgti` „uciec”
-- totalnie (często przecząco): `ubiti` „zabić” (dosł. pobić całkowicie), `uginuti` „wymrzeć”, `usohnuti` „wyschnąć”
-- (na podstawie przymiotnika) robić więcej: `ulěpšiti` „poprawiać, ulepszać”, `umenšiti` „zmniejszać, zmniejszać, robić mniej”
+- `uletěti` „odlecieć”, `uběgti` „uciec, zbiec, ubiec”
+- całkowicie (często negatywnie): `ubiti` „pobić mocno”, `uginuti` „wymrzeć, wyginąć”, `usohnuti` „wyschnąć, uschnąć”
+- (na podstawie przymiotnika) robić więcej: `ulěpšiti` „poprawiać, ulepszać”, `umenšiti` „zmniejszać”
 
 `v-/vo-`
 
-- w, do (z czasownikami ruchu): `vojdti` „wchodzić, wchodzić”, `vnesti` „wprowadzać”, `vlupiti` „wcinać”
-- (z zaimkiem zwrotnym `se`) robić coś. dokładnie, spostrzegawczo, ciekawie: `včitati se` „zacząć czytać z zaciekawieniem”, `vslušati se` „zacząć z ciekawością słyszeć”
+- `vojdti` „wchodzić”, `vnesti` „wnieść”, `vlupiti` „wcinać, nacinać”
+- (z zaimkiem zwrotnym `se` „się”) robić coś dokładnie, spostrzegawczo, z ciekawością: `včitati se` „wczytać się”, `vslušati se` „wsłuchać się”
 
 `voz-`
 
-- w górę, w górę, w górę: `vozletěti` „w górę”, `vozidti` „w górę”
-- zacząć nagle robić coś intensywnie: `vozvyti` „zacząć nagle płakać”, `vozbuditi` „pobudzić, wzruszyć”
-- z powrotem, znowu, re-: `vozvratiti se` „wróć”, `vozživiti` „reanimować”>
+- w górę: `vozletěti` „wzlecieć”, `vozidti` „wejść na górę”
+- zacząć nagle robić coś intensywnie: `vozvyti` „zacząć nagle płakać”, `vozbuditi` „wzbudzić, pobudzić”
+- z powrotem, znowu: `vozvratiti se` „wrócić”, `vozživiti` „reanimować”
 
 `vy-`
 
-(zamiast vy- Południowi Słowianie używają iz- we wszystkich przypadkach)
+(zamiast vy- Słowianie Południowi używają iz- we wszystkich przypadkach)
 
-- out, afield, on (z czasownikami ruchu): `vyjdti (iz)` „wychodzić (z)”, `vynesti (iz)` „troszczyć się”
-- zrobić coś całkowicie, całkowicie: `vyvariti` „całkowicie się zagotować”, `vysušiti` „całkowicie wysuszyć, wyschnąć”
-- no, długo, koło: `vyležati se` „leżeć”
+- na zewnątrz (z czasownikami ruchu): `vyjdti (iz)` „wyjść (z)”, `vynesti (iz)` „wynieść (z)”
+- zrobić coś całkowicie: `vyvariti` „całkowicie się zagotować”, `vysušiti` „wysuszyć”
+- robić coś dobrze, długo: `vyležati se` „wyleżeć”
 
 `za-`
 
-- za, pod: `zajdti` „iść za”, `zametnuti` „odłożyć, zapomnieć; zaryti „zasadzić, wepchnąć pod coś.”
-- zamknij, zamknij, szczelnie: `zatvoriti` „zamknąć”, `zavinuti` „zakręcić mocno, przekręcić”, `zašiti` „zaszyć (szczelnie)”, `zapakovati` „zapakować (zamknąć)”
-- zacznij coś robić: `zapěvati` „zacząć śpiewać”, `zaplakati` „zacząć płakać”
-  zacznij robić intensywnie (z `se`): `zagledati se, zasmotriti se` „patrzyć przed siebie, patrzeć ciągle, patrzeć głęboko”
+- za, pod: `zajdti` „iść za, zajść”, `zametnuti` „odłożyć, zapomnieć”; `zaryti` „zasadzić”
+- zamknąć szczelnie: `zatvoriti` „zamknąć”, `zavinuti` „zakręcić”, `zašiti` „zaszyć”, `zapakovati` „zapakować”
+- zacząć coś robić: `zapěvati` „zaśpiewać”, `zaplakati` „zacząć płakać”
+- zacząć coś robić intensywnie (z `se` „się”): `zagledati se, zasmotriti se` „patrzyć przed siebie, patrzeć ciągle, patrzeć głęboko”
 
 ## Słowa złożone \{#compound-words}
 
-Dwa korzenie można dowolnie łączyć, aby stworzyć nowy pomysł. Zwykle odbywa się to za pomocą łączącego `-o-` (`-e-` po miękkiej spółgłosce):
+Dwa rdzenie można dowolnie łączyć, aby stworzyć nowe słowo. Zwykle odbywa się to za pomocą łączącego międzyrostka `-o-` (`-e-` po miękkiej spółgłosce):
 
 - `voda` „woda” + `padati` „spaść” > `vodopad` „wodospad”
-- `sam` „ja” + `kritika` „krytyka” > `samokritika` „samokrytyka”
-- `myš` „mysz” + `loviti` „złap, poluj” > `myšelovka` „pułapka na myszy”
-- `zemja` „ziemia, ziemia” + `tresenje` „drżenie” > `zemjetresenje` „trzęsienie ziemi”
+- `sam` „sam” + `kritika` „krytyka” > `samokritika` „samokrytyka”
+- `myš` „mysz” + `loviti` „łapać, polować” > `myšelovka` „pułapka na myszy”
+- `zemja` „ziemia” + `tresenje` „trzęsienie” > `zemjetresenje` „trzęsienie ziemi”
 
-Gdy pierwszy człon jest zapożyczeniem z języka angielskiego, można je podzielić łącznikiem (defis):
+Gdy pierwszy człon jest zapożyczeniem z języka angielskiego, można je podzielić łącznikiem (dywizem):
 
 - `rok-muzika` „muzyka rockowa”
 - `veb-stranica` „strona internetowa”
