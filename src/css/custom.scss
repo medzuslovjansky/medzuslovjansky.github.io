@@ -5,8 +5,14 @@
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@0;1&display=swap');
+/* Roman only: since language examples render upright, the sole remaining job
+   of Noto Serif is covering ѥ (U+0465) and ѧ (U+0467), which IBM Plex lacks. */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&display=swap');
+
+/* Must stay below the @import url() rules above: a CSS @import is only valid
+   before any other rule, and this partial emits @font-face blocks. */
+@import 'isv-plex';
 
 /* You can override the default Infima variables here. */
 :root {
@@ -188,12 +194,16 @@ abbr {
 }
 
 div[lang], span[lang] {
-  font-family: var(--fun-safe-serif);
-  font-style: italic;
+  /* Interslavic lemmas and language-tagged examples. Upright, not italic.
+     Falls back to Noto Serif for ѥ (U+0465) and ѧ (U+0467), the two letters
+     missing from the Plex delivery — ѧ is produced by TransliteratorElement
+     from `ę` on every Cyrillic locale, so it is not a hypothetical. */
+  font-family: $isv-serif;
+  font-style: normal;
   font-size: 90%;
 
   td & {
-    font-family: var(--fun-safe-sans);
+    font-family: $isv-serif;
     font-style: normal;
     font-size: 80%;
   }
@@ -214,11 +224,11 @@ div[lang], span[lang] {
 }
 
 th[lang*=isv] {
-  font-family: var(--fun-safe-sans);
+  font-family: $isv-serif;
 }
 
 td[lang*=isv] {
-  font-family: var(--fun-safe-sans);
+  font-family: $isv-serif;
   font-size: 0.8rem;
 }
 

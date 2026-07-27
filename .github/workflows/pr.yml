@@ -34,11 +34,17 @@ jobs:
         # to malicious code in the March 2025 supply-chain attack. Pin, don't float.
         uses: tj-actions/changed-files@9426d40962ed5378910ee2e21d5f8c6fcbf2dd96 # v47.0.6
         with:
-          separator: '\n'
+          # Double quotes on purpose: in single-quoted YAML this is a literal
+          # backslash-n, which is what made git-changes.log a single line.
+          separator: "\n"
 
       - name: Write changed files to log
+        # Passed via env, not interpolated into the script: `echo` would not
+        # expand the separator, and a path could otherwise inject shell.
+        env:
+          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          echo "${{ steps.changed-files.outputs.all_changed_files }}" > git-changes.log
+          printf '%s\n' "$ALL_CHANGED_FILES" > git-changes.log
           cat git-changes.log
 
       - name: Enable Corepack
