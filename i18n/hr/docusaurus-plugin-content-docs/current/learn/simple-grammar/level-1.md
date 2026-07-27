@@ -9,7 +9,7 @@ last_update:
 
 # Razina 1
 
-## Abeceda i izgovor
+## Abeceda i izgovor \{#alphabet-and-pronunciation}
 
 :notr[Slovianto] se može pisati latinicom i ćirilicom, ali mi ćemo se ovdje koncentrirati na latinicu:
 
@@ -51,9 +51,9 @@ U [Međuslavenskom rječniku][1] pronaći ćete i druge znakove, poput `ò`, `ų
 
 Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opću smjernicu, zaslužuje preporuku da se naglasak stavi na antepenultimatni slog.
 
-## Gramatika
+## Gramatika \{#grammar}
 
-### Imenice
+### Imenice \{#nouns}
 
 - Imenice mogu završavati na suglasnik ili `-a`, `-o`, `-e`.
 - :notr[Slovianto] nema članaka. Stoga :isv[žena] može značiti „žena” ili „žena”.
@@ -62,7 +62,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
   - :isv[žena] „žena” → :isv[ženi] „žene”
   - :isv[slovo] „riječ” → :isv[slovi] „riječi”
 
-### Pridjevi
+### Pridjevi \{#adjectives}
 
 - Pridjevi obično imaju završetak `-y` ili `-i`. Ne sklanjaju se i trebaju se staviti ispred imenice.
 
@@ -77,7 +77,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
   - :isv[menje dobry] „manje dobro”
   - :isv[najmenje dobry] „najmanje dobar”
 
-### Osobne zamjenice
+### Osobne zamjenice \{#personal-pronouns}
 
 - Za razliku od imenica, osobne zamjenice u :notr[Slovianto] razlikuju _nominativ_ (subjekt rečenice, agens) i _akuzativ_ (objekt, pacijent).
 
@@ -100,13 +100,13 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 
   :isv[Dajte k mene ...] „Daj mi...”
 
-### Posvojne zamjenice
+### Posvojne zamjenice \{#possessive-pronouns}
 
 - Posvojne zamjenice su: :isv[moj] „moj”, :isv[tvoj] „tvoj, tvoj”, :isv[jego] „njegov, njegov”, :isv[jej] „njen”, :isv[naš] „naš”, :isv[vaš] „tvoj (:abbr[pl.])”, :isv[jih] „njihov”. Kao i pridjevi, posvojne zamjenice se ne sklanjaju.
 - Ako je posjednik ujedno i rečenični subjekt, refleksiv :isv[svoj] „svoj” koristi se za sve osobe.
 - Postoje i upitne i neodređene posvojne zamjenice, poput :isv[čij] „čiji”, :isv[ničij] „ničiji”, :isv[něčij] „nečiji”, :isv[čij-koli] „biliji”.
 
-### Pokazne zamjenice
+### Pokazne zamjenice \{#demonstrative-pronouns}
 
 - Pokazna zamjenica je :isv[toj] „ovaj, onaj, ovi, oni”.
 - Kad god je potrebno napraviti razliku između _ovdje_ i _tamo_, imamo ispred `tu-` „ovdje” ili `tam-` „tamo”: :isv[tutoj] „ovo, ovi”, :isv[tamtoj] „ono, oni” .
@@ -114,16 +114,16 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
   - :isv[Čto jest to?] „Što je ovo?”
   - :isv[To jest kniga.] „Ovo je knjiga.”
 
-### Odnosne zamjenice
+### Odnosne zamjenice \{#relative-pronouns}
 
 - U pojednostavljenom jeziku kao što je :notr[Slovianto], bolje je izbjegavati podređene rečenice. Ali ako vam ipak treba relativna zamjenica, upotrijebite :isv[ktory] „koji”.
 
-### Upitne i neodređene zamjenice
+### Upitne i neodređene zamjenice \{#interrogative-and-indefinite-pronouns}
 
 - Dvije su osnovne zamjenice: :isv[kto] „tko” i :isv[čto] „što”. Baš kao i osobne zamjenice, :isv[kto] ima akuzativ :isv[kogo] za izravni objekt.
 - Od ovih je izvedeno i nekoliko neodređenih zamjenica, na pr. :isv[někto] „netko”, :isv[kto-koli] „bilo tko”, :isv[ničto] „ništa”, :isv[vsečto] „sve” (pogledajte sljedeći odjeljak).
 
-### Zamjenički prilozi
+### Zamjenički prilozi \{#pronominal-adverbs}
 
 - Svaki jezik ima posebnu kategoriju međusobno povezanih zamjenica, priloga i pridjeva, takozvani `correlatives`. Ukratko, riječ je o upitnicima i riječima kojima se daje opći odgovor na ta pitanja. U engleskom, kao i u mnogim drugim jezicima, ove su riječi povezane jedna s drugom na prilično predvidljiv način (na primjer: _gdje/ovdje/tamo/negdje/bilo gdje/nigdje/posvuda, odakle/otuda/odatle, itd.)_ . To je slučaj i u :notr[Slovianto].
 - Upitne riječi obično počinju sa `k-`: :isv[kto] „tko”, :isv[kogda] „kada”, :isv[kde] „gdje”, :isv[ktory] „koji”, :isv[koliko] „koliko”
@@ -133,7 +133,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 - Ako je odgovor nešto nevažno, riječ završava sa `-koli`, dodaje se upitnoj riječi: :isv[kto-koli] „bilo tko”, :isv[kogda-koli] „bilo kad, kad god”, :isv[kde-koli] „bilo gdje, bilo gdje”
 - Ako je odgovor sveobuhvatan, riječ počinje s `vse-` ili `ves-`: :isv[vsegda] „uvijek”, :isv[vesde] „svugdje”
 
-### Brojevi
+### Brojevi \{#numerals}
 
 - _Kardinalni brojevi_ od 1-10 su:
 
@@ -163,7 +163,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 
   1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] ili :isv[stoty], 1000. – :isv[tysečny]
 
-### Glagoli
+### Glagoli \{#verbs}
 
 - Svi glagoli imaju _infinitivni_ završetak `-ti`:
   - :isv[dělati] „raditi”
@@ -218,7 +218,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
   - :isv[ja jest neseny] „Nose me”
   - :isv[ja byl neseny] „Nosili su me, nosili su me” itd.
 
-### Sintaksa
+### Sintaksa \{#syntax}
 
 - Preferirani red riječi je subjekt – glagol – objekt, kao u engleskom jeziku. Nije obavezan, ali bilo koji drugi red riječi lako može učiniti rečenicu nejasnom ili dvosmislenom.
 
@@ -245,7 +245,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 - Za izražavanje instrumenta koji se koristi za nešto, upotrijebite prijedlog `s` „sa”:
   - :isv[Ja udaril svoj otec s toj kniga.] „Udario sam oca tom knjigom.”
 
-## Primjer teksta: U restoranu
+## Primjer teksta: U restoranu \{#sample-text-in-the-restaurant}
 
 :::component{name="MDSlovianto2"}
 - Dobar dan! Je li restoran otvoren?
@@ -263,7 +263,7 @@ Naglasak je prilično slobodan. Važnije je da govorite polako i jasno. Kao opć
 - Hvala, samo udahnite s maslacem, molim.
 :::
 
-## Osnovni vokabular
+## Osnovni vokabular \{#basic-vocabulary}
 
 :::component{name="MDSlovianto3"}
 :::

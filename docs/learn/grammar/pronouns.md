@@ -72,7 +72,7 @@ If we need to be more precise, the simplest solution is using :isv[tutoj] for �
 :::component{name=MDPronouns3}
 :::
 
-### Notes
+### Notes \{#notes}
 
 1. Less simple, but historically more accurate, is the following three-way distinction: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) for „this”, :isv[toj] for „that” and :isv[onoj] for „yonder”. It should be remembered, however, that :isv[sej] has practically vanished from most modern languages except for a few fossilized remnants. It may therefore not always be clear.
 2. Another demonstrative pronoun is :isv[ov], meaning the same thing as :isv[sej]. However, its meaning is very different in the modern languages.

@@ -20,13 +20,13 @@ U [**Nivou 1**][1] naučili ste brojne forme koje možete koristiti da postanete
 1. Naučit ćete o rodu u slavenskom i kako ga koristiti u :notr[Slovianto],
 2. Naučit ćete konjugirati glagole.
 
-## Rod
+## Rod \{#gender}
 
 Većina evropskih jezika ima gramatički rod – engleski je jedan od rijetkih izuzetaka. Nije više nego logično da su riječi koje označavaju muške osobe uvijek muškog roda, a riječi koje označavaju ženske osobe uvijek ženskog roda. Ideja gramatičkog roda, međutim, je da _svaka_ imenica ima rod, čak i ako ne postoji nikakva logička veza između ovog roda i značenja riječi. Na francuskom, na primjer, :fr[l**e** vin] „vino” je muškog roda, a :fr[l**a** bière] „pivo” je ženskog roda. Na njemačkom, :de[**der** Wein] „vino” je također muškog roda, ali :de[**das** Bier] „pivo” je srednjeg roda. Rod imenice utiče ne samo na član, već i na prideve, posesivne zamenice i druge reči koje modifikuju ovu imenicu. Francuz ima :fr[un bon vin froid] „jedno dobro hladno vino”, ali :fr[un**e** bon**ne** bière froid**e**] „jedno dobro hladno pivo”.
 
 Svi slovenski jezici imaju tri roda: muški, ženski i srednji. Na prvom nivou :notr[Slovianto] rod ne igra ulogu, jer nije neophodan za komunikaciju na najosnovnijem nivou. Mala djeca često griješe s rodom, ali se ipak mogu razumjeti. Što ne mijenja činjenicu da :isv[dobry žena] „dobra žena” zvuči nespretno, jer je :isv[žena] žensko, a završetak `-y` muški. Možete učiniti da vaš :notr[Slovianto] izgleda i zvuči mnogo prirodnije ako uzmete u obzir i spol. Utvrđivanje roda imenice nije nimalo teško, jer je u gotovo svim slučajevima dovoljno pogledati riječ da se zna njen rod, što znači da nema potrebe da se rod uči odvojeno.
 
-### Imenice
+### Imenice \{#nouns}
 
 Da biste saznali da li je riječ muškog, ženskog ili srednjeg roda, dovoljno je pogledati završetak:
 
@@ -57,7 +57,7 @@ Na prvom nivou, naučili ste da je završetak množine `-i`. To dobro funkcionir
 - :isv[děte] → :isv[děta] „djeca”
 - :isv[morje] → :isv[morja] „mora”
 
-### Pridjevi
+### Pridjevi \{#adjectives}
 
 Ne samo da imenice imaju rod, isto važi i za prideve i slične modifikatore. Kao iu francuskom i njemačkom, slovenski jezici imaju _sporazum polova_. To znači da kada se uz imenicu muškog roda nalazi pridjev, ovaj pridjev poprima oblik muškog roda, imenica ženskog roda uzima oblik pridjeva, itd. :isv[Dobry žena] izgleda pomalo djetinjasto i nespretno, jer kombinuje imenicu ženskog roda sa pridev muškog roda. Zato zapamtite sljedeće stvari:
 
@@ -105,9 +105,9 @@ Isto što važi i za prideve, važi i za prisvojne, pokazne, relativne, neodređ
   - :isv[jedna žena] „jedna žena”
   - :isv[jedno děte] „ovo dijete”
 
-## Glagoli
+## Glagoli \{#verbs}
 
-### Sadašnje vrijeme
+### Sadašnje vrijeme \{#present-tense}
 
 :::component{name="MDSimpleGrammar1"}
 :::
@@ -118,39 +118,39 @@ Dakle, vrijeme je da zaboravimo kraj `-t`! Umjesto toga, zapamtite sljedeće zav
 
 Završetak `-š` i ličnu zamjenicu :isv[ty] treba koristiti samo za porodicu, prijatelje, djecu itd. U drugim slučajevima, obraćajte se ljudima u drugom licu množine (:isv[vy], `-te`).
 
-### Prošlo vrijeme
+### Prošlo vrijeme \{#past-tense}
 
 :::component{name="MDSimpleGrammar2"}
 :::
 
 U prošlom vremenu glagoli se ne konjugiraju za lice. Međutim, oni su konjugirani za rod. Ovo može izgledati čudno, ali objašnjenje je prilično jednostavno: oblik :isv[dělal] je zapravo particip, što znači nešto poput „uradio“, i zato se slaže sa subjektom u rodu i broju, ali ne i osobno. Obrasci su oni prikazani u tabeli desno.
 
-### Budućem vremenu
+### Budućem vremenu \{#future-tense}
 
 Buduće vrijeme nastaje spajanjem budućeg vremena glagola :isv[byti] „biti” s infinitivom. Oblici su isti kao da je glagol :isv[*bud-ti] konjugiran u sadašnjem vremenu: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  itd.
 
-### Uslovno
+### Uslovno \{#conditional}
 
 Kondicional se formira dodavanjem čestice :isv[by] prošlom vremenu, te stoga podliježe dogovoru o rodu: :isv[ja by dělal] „Ja (:abbr[m.]) bih uradio/učinio“, :isv[ty by dělala] „ti (:abbr[f.]) uradili/uradili”, :isv[my by dělali] „uradili/uradili”.
 
-### Imperativ
+### Imperativ \{#imperative}
 
 :::component{name="MDSimpleGrammar3"}
 :::
 
 Osim imperativa koji ste već naučili (2. lice množine), postoje i imperativi za 2. lice jednine i 1. lice množine. Završeci su `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) i `-jte` (:abbr[2 pl.]) nakon samoglasnika i `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) i `-ite` (:abbr[2 pl.]) iza suglasnika. Dakle, :isv[dělajte] znači „uraditi!” i može biti usmjeren na više ljudi odjednom, ali također služi kao ljubazniji oblik jednine, dok :isv[dělaj] treba koristiti samo za prijatelje, porodicu i djecu. :isv[Dělajmo] znači: „Hajde da uradimo“.
 
-### Glagol „biti”
+### Glagol „biti” \{#the-verb-to-be}
 
 :::component{name="MDSimpleGrammar4"}
 :::
 
 Pošto sve navedeno utiče i na jedini nepravilni glagol u :notr[Slovianto], :isv[byti]  „biti“, evo njegove potpune konjugacije.
 
-## Primer teksta
+## Primer teksta \{#sample-text}
 
 :::component{name="MDSimpleGrammar5"}
-### Naše selo
+### Naše selo \{#our-village}
 
 Od svih mogućih mesta gde ljudi žive, ono koje najviše volim je malo selo daleko od gradske buke, sa svojom malom zajednicom. Nema prenatrpanih stanova, samo male drvene kućice. To je jednostavno i slikovito mjesto za život, sa stanovnicima čija su lica poznata kao cvijeće u našoj bašti. To je zabačeni svijet s malo ljudi, blisko ujedinjenih poput mrava u mravinjaku, ili pčela u košnici, ili ovaca u toru, ili časnih sestara u samostanu, ili mornara na brodu – gdje svi znaju svakoga i svi su svima poznat, gde je svako zainteresovan za svakoga, i svako se može nadati da su drugi zainteresovani za njega.
 

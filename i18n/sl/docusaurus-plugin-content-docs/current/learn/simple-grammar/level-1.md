@@ -9,7 +9,7 @@ last_update:
 
 # 1. stopnja
 
-## Abeceda in izgovorjava
+## Abeceda in izgovorjava \{#alphabet-and-pronunciation}
 
 :notr[Slovianto] lahko zapišemo v latinici in cirilici, vendar se bomo tukaj osredotočili na latinico:
 
@@ -51,9 +51,9 @@ V [Medslovanskem slovarju][1] boste našli tudi druge znake, na primer `ò`, `ų
 
 Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot splošno vodilo bi bilo vredno priporočiti, da poudarek postavite na predzadnji zlog.
 
-## Slovnica
+## Slovnica \{#grammar}
 
-### Samostalniki
+### Samostalniki \{#nouns}
 
 - Samostalniki se lahko končajo na soglasnik ali `-a`, `-o`, `-e`.
 - :notr[Slovianto] nima člankov. Zato lahko :isv[žena] pomeni "ženska" ali "ženska".
@@ -62,7 +62,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
   - :isv[žena] „ženska” → :isv[ženi] „ženske”
   - :isv[slovo] „beseda” → :isv[slovi] „besede”
 
-### Pridevniki
+### Pridevniki \{#adjectives}
 
 - Pridevniki imajo običajno končnico `-y` ali `-i`. Ne sklanjajo se in jih je treba postaviti pred samostalnik.
 
@@ -77,7 +77,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
   - :isv[menje dobry] "manj dobro"
   - :isv[najmenje dobry] „najmanj dober”
 
-### Osebni zaimki
+### Osebni zaimki \{#personal-pronouns}
 
 - Za razliko od samostalnikov osebni zaimki v :notr[Slovianto] razlikujejo med _nominativom_ (predmet stavka, agent) in _akuzativom_ (predmet, pacient).
 
@@ -100,13 +100,13 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 
   :isv[Dajte k mene ...] "Daj mi ..."
 
-### Svojilni zaimki
+### Svojilni zaimki \{#possessive-pronouns}
 
 - Svojilni zaimki so: :isv[moj] „moj”, :isv[tvoj] „tvoj, tvoj”, :isv[jego] „njegov, njen”, :isv[jej] „njen”, :isv[naš] „naš”, :isv[vaš] „tvoj (:abbr[pl.])”, :isv[jih] „njihov”. Svojilni zaimki se tako kot pridevniki ne sklanjajo.
 - Če je posestnik tudi osebek v stavku, se povratnik :isv[svoj] „svoj” uporablja za vse osebe.
 - Obstajajo tudi vprašalni in nedoločni svojilni zaimki, npr. :isv[čij] „čigav”, :isv[ničij] „nikogar”, :isv[něčij] „nečiji”, :isv[čij-koli] „kogarkoli”.
 
-### Prikazni zaimki
+### Prikazni zaimki \{#demonstrative-pronouns}
 
 - kazalni zaimek je :isv[toj] „ta, ta, ti, oni”.
 - Kadarkoli je treba razlikovati med _tukaj_ in _tam_, imamo pred tem `tu-` „tukaj” ali `tam-` „tam”: :isv[tutoj] „ta, ti”, :isv[tamtoj] „ono, oni” .
@@ -114,16 +114,16 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
   - :isv[Čto jest to?] "Kaj je to?"
   - :isv[To jest kniga.] "To je knjiga."
 
-### Odnosni zaimki
+### Odnosni zaimki \{#relative-pronouns}
 
 - V poenostavljenem jeziku, kot je :notr[Slovianto], se je bolje izogibati podrejenim stavkom. Če pa vseeno potrebujete relativni zaimek, uporabite :isv[ktory] „kateri“.
 
-### Vprašalni in nedoločni zaimki
+### Vprašalni in nedoločni zaimki \{#interrogative-and-indefinite-pronouns}
 
 - Obstajata dva osnovna zaimka: :isv[kto] „kdo” in :isv[čto] „kaj”. Tako kot osebni zaimki ima tudi :isv[kto] tožilnik :isv[kogo] za neposredni predmet.
 - Iz teh je izpeljanih tudi več nedoločnih zaimkov, npr. :isv[někto] „nekdo”, :isv[kto-koli] „kdor koli”, :isv[ničto] „nič”, :isv[vsečto] „vse” (glejte naslednji razdelek).
 
-### Zaimenski prislovi
+### Zaimenski prislovi \{#pronominal-adverbs}
 
 - Vsak jezik ima posebno kategorijo medsebojno povezanih zaimkov, prislovov in pridevnikov, tako imenovani `correlatives`. Skratka, to so vprašalne besede in besede, ki se uporabljajo za splošen odgovor na ta vprašanja. V angleščini, pa tudi v mnogih drugih jezikih, so te besede med seboj povezane na dokaj predvidljiv način (na primer: _where/tukaj/tam/nekje/kjerkoli/nikjer/povsod, od koder/odtod/tod itd.)_ . Tudi v :notr[Slovianto] je tako.
 - Vprašalne besede se običajno začnejo z `k-`: :isv[kto] „kdo”, :isv[kogda] „kdaj”, :isv[kde] „kje”, :isv[ktory] „kateri”, :isv[koliko] „koliko”
@@ -133,7 +133,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 - Če je odgovor nekaj nepomembnega, se beseda konča z `-koli`, dodano vprašalni besedi: :isv[kto-koli] „kdor koli”, :isv[kogda-koli] „kadar koli, kadar koli”, :isv[kde-koli] „kjer koli, kjer koli”
 - Če je odgovor vseobsegajoč, se beseda začne z `vse-` ali `ves-`: :isv[vsegda] „vedno”, :isv[vesde] „povsod”
 
-### Številke
+### Številke \{#numerals}
 
 - _Kardinalna števila_ od 1 do 10 so:
 
@@ -163,7 +163,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 
   1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] ali :isv[stoty], 1000. – :isv[tysečny]
 
-### Glagoli
+### Glagoli \{#verbs}
 
 - Vsi glagoli imajo _infinitivno_ končnico `-ti`:
   - :isv[dělati] „opraviti”
@@ -218,7 +218,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
   - :isv[ja jest neseny] „Nosijo me”
   - :isv[ja byl neseny] „Nosili so me, nosili so me” itd.
 
-### Sintaksa
+### Sintaksa \{#syntax}
 
 - Prednostni besedni red je predmet – glagol – predmet, kot v angleščini. Ni obvezno, vendar lahko zaradi katerega koli drugega besednega reda stavek postane nejasen ali dvoumen.
 
@@ -245,7 +245,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 - Če želite izraziti instrument, ki se uporablja za nekaj, uporabite predlog `s` „z”:
   - :isv[Ja udaril svoj otec s toj kniga.] "Očeta sem udaril s to knjigo."
 
-## Primer besedila: V restavraciji
+## Primer besedila: V restavraciji \{#sample-text-in-the-restaurant}
 
 :::component{name="MDSlovianto2"}
 - Dober dan! Je restavracija odprta?
@@ -263,7 +263,7 @@ Poudarjanje je dokaj prosto. Bolj pomembno je, da govorite počasi in jasno. Kot
 - Hvala, samo dihajte z maslom, prosim.
 :::
 
-## Osnovno besedišče
+## Osnovno besedišče \{#basic-vocabulary}
 
 :::component{name="MDSlovianto3"}
 :::

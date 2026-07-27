@@ -20,13 +20,13 @@ V [**Úrovni 1**][1] ste sa naučili množstvo foriem, ktoré môžete použiť 
 1. Dozviete sa o rode v slovanskom jazyku a ako ho používať v :notr[Slovianto],
 2. Naučíte sa spájať slovesá.
 
-## Rod
+## Rod \{#gender}
 
 Väčšina európskych jazykov má gramatický rod – angličtina je jednou z mála výnimiek. Nie je viac než logické, že slová označujúce mužské osoby sú vždy mužského rodu a slová označujúce ženy sú vždy ženského rodu. Myšlienka gramatického rodu je však taká, že _každé_ podstatné meno má rod, aj keď medzi týmto rodom a významom slova neexistuje žiadna logická súvislosť. Vo francúzštine je napríklad :fr[l**e** vin] „víno“ mužského rodu a :fr[l**a** bière] „pivo“ je ženského rodu. V nemčine je :de[**der** Wein] „víno“ tiež mužského rodu, ale :de[**das** Bier] „pivo“ je stredného rodu. Rod podstatného mena ovplyvňuje nielen člen, ale aj prídavné mená, privlastňovacie zámená a ďalšie slová, ktoré toto podstatné meno modifikujú. Francúzština má :fr[un bon vin froid] „jedno dobré studené víno“, ale :fr[un**e** bon**ne** bière froid**e**] „jedno dobré studené pivo“.
 
 Všetky slovanské jazyky majú tri rody: mužský, ženský a stredný. Na prvej úrovni :notr[Slovianto] pohlavie nehrá rolu, pretože nie je podstatné pre komunikáciu na tej najzákladnejšej úrovni. Malé deti často robia chyby s pohlavím, ale stále sa dajú pochopiť. Čo nič nemení na fakte, že :isv[dobry žena] „dobrá žena“ znie neohrabane, pretože :isv[žena] je ženského rodu a koncovka `-y` je mužského rodu. Môžete urobiť svoj :notr[Slovianto] vzhľad a zvuk oveľa prirodzenejšie, ak vezmete do úvahy aj pohlavie. Stanovenie rodu podstatného mena nie je vôbec ťažké, pretože takmer vo všetkých prípadoch stačí pohľad na slovo poznať jeho rod, čo znamená, že nie je potrebné učiť sa pohlavie samostatne.
 
-### Podstatné mená
+### Podstatné mená \{#nouns}
 
 Ak chcete zistiť, či je slovo mužského, ženského alebo stredného rodu, stačí sa pozrieť na koncovku:
 
@@ -57,7 +57,7 @@ Na prvej úrovni ste sa naučili, že koncovka v množnom čísle je `-i`. To fu
 - :isv[děte] → :isv[děta] „deti“
 - :isv[morje] → :isv[morja] „more“
 
-### Prídavné mená
+### Prídavné mená \{#adjectives}
 
 Nielen podstatné mená majú rod, to isté platí aj pre prídavné mená a podobné modifikátory. Rovnako ako vo francúzštine a nemčine, aj slovanské jazyky majú _rodovú dohodu_. To znamená, že keď je podstatné meno mužského rodu sprevádzané prídavným menom, toto prídavné meno nadobudne tvar mužského rodu, podstatné meno ženského rodu má ženský tvar prídavného mena atď. :isv[Dobry žena] pôsobí trochu detinsky a nemotorne, pretože kombinuje podstatné meno ženského rodu s prídavné meno mužského rodu. Zapamätajte si teda nasledujúce veci:
 
@@ -105,9 +105,9 @@ To isté, čo platí pre prídavné mená, platí aj pre privlastňovacie, ukazo
   - :isv[jedna žena] „jedna žena“
   - :isv[jedno děte] „toto dieťa“
 
-## Slovesá
+## Slovesá \{#verbs}
 
-### Prítomný čas
+### Prítomný čas \{#present-tense}
 
 :::component{name="MDSimpleGrammar1"}
 :::
@@ -118,39 +118,39 @@ Takže je čas zabudnúť na koniec `-t`! Namiesto toho si zapamätajte tieto ko
 
 Koncovku `-š` a osobné zámeno :isv[ty] používajte len pre rodinu, priateľov, deti atď. V ostatných prípadoch oslovujte ľudí v druhej osobe množného čísla (:isv[vy], `-te`).
 
-### Minulý čas
+### Minulý čas \{#past-tense}
 
 :::component{name="MDSimpleGrammar2"}
 :::
 
 V minulom čase nie sú slovesá spojené s osobou. Sú však konjugované pre pohlavie. Môže sa to zdať zvláštne, ale vysvetlenie je celkom jednoduché: tvar :isv[dělal] je v skutočnosti príčastie, čo znamená niečo ako „urobil“, a preto súhlasí s predmetom v rode a čísle, ale nie osobne. Formuláre sú uvedené v tabuľke vpravo.
 
-### Budúci čas
+### Budúci čas \{#future-tense}
 
 Budúci čas vzniká spojením budúceho času slovesa :isv[byti] „byť“ s infinitívom. Tvary sú rovnaké, ako keby bolo sloveso :isv[*bud-ti] konjugované v prítomnom čase: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  atď.
 
-### Podmienené
+### Podmienené \{#conditional}
 
 Podmieňovací spôsob vzniká pridaním častice :isv[by] k minulému času, a preto podlieha rodovej dohode: :isv[ja by dělal] „ja (:abbr[m.]) by som urobil/urobil“, :isv[ty by dělala] „ty (:abbr[f.]) by urobili/urobili“, :isv[my by dělali] „urobili by sme/urobili“.
 
-### Nevyhnutné
+### Nevyhnutné \{#imperative}
 
 :::component{name="MDSimpleGrammar3"}
 :::
 
 Okrem rozkazovacieho spôsobu, ktorý ste sa už naučili (2. osoba množného čísla), existujú aj tvary rozkazovacieho spôsobu pre 2. osobu jednotného čísla a 1. osobu množného čísla. Koncovky sú `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) a `-jte` (:abbr[2 pl.]) po samohláske a `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) a `-ite` (:abbr[2 pl.]) po spoluhláske. :isv[dělajte] teda znamená „robiť!“ a môže byť nasmerovaný na viac ľudí naraz, ale slúži aj ako zdvorilejšia forma jednotného čísla, zatiaľ čo :isv[dělaj] by sa malo používať iba pre priateľov, rodinu a deti. :isv[Dělajmo] znamená: „Poďme na to“.
 
-### Sloveso „byť“
+### Sloveso „byť“ \{#the-verb-to-be}
 
 :::component{name="MDSimpleGrammar4"}
 :::
 
 Keďže všetko vyššie uvedené ovplyvňuje aj jediné nepravidelné sloveso v :notr[Slovianto], :isv[byti]  „byť“, tu je jeho úplná konjugácia.
 
-## Vzorový text
+## Vzorový text \{#sample-text}
 
 :::component{name="MDSimpleGrammar5"}
-### Naša dedina
+### Naša dedina \{#our-village}
 
 Zo všetkých možných miest, kde ľudia žijú, to, ktoré milujem najviac, je malá dedinka ďaleko od hluku mesta s malou komunitou. Nemá preplnené byty, len malé drevené chatky. Je to jednoduché a malebné miesto na život s obyvateľmi, ktorých tváre sú známe ako kvety v našej záhrade. Je to odľahlý svet s niekoľkými ľuďmi, úzko zjednotenými ako mravce v mravenisku, včely v úli, ovce v ovčinci, mníšky v kláštore alebo námorníci na lodi – kde každý každého pozná a každý je všetci známi, kde sa každý zaujíma o každého a každý môže dúfať, že ostatní sa o neho zaujímajú.
 

@@ -75,7 +75,7 @@ Osnovni kazalni zaimek je :isv[toj] (ta, tisti), in ga je treba uporabljati, kad
 :::component{name=MDPronouns3}
 :::
 
-### Opombe
+### Opombe \{#notes}
 
 1. Manj preprosto, vendar zgodovinsko bolj natančno je naslednje tri-členska razlikovanje: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) za "ta", :isv[toj] za "tisti" in :isv[onoj] za "oni". Treba pa je upoštevati, da je :isv[sej] praktično izginil iz večine sodobnih jezikov, razen nekaterih fosiliziranih ostankov. Zato morda ne bo vedno razumljiv.
 2. Drug kazalni zaimek je :isv[ov], ki pomeni isto kot :isv[sej]. Vendar pa se njegov pomen v sodobnih jezikih zelo razlikuje.

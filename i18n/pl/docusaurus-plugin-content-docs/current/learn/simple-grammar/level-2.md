@@ -20,13 +20,13 @@ Na [**Poziomie 1**][1] nauczyłeś się szeregu form, dzięki którym możesz by
 1. Dowiesz się o rodzaju gramatycznym w języku słowiańskim i o tym, jak go używać w :notr[Slovianto],
 2. Nauczysz się odmieniać czasowniki.
 
-## Rodzaj gramatyczny (płeć)
+## Rodzaj gramatyczny (płeć) \{#gender}
 
 Większość języków europejskich ma rodzaj gramatyczny – angielski jest jednym z nielicznych wyjątków. Jest niczym więcej niż logicznym, że słowa oznaczające osoby płci męskiej są zawsze rodzaju męskiego, a słowa oznaczające osoby żeńskie są zawsze żeńskie. Idea rodzaju gramatycznego jest jednak taka, że _każdy_ rzeczownik ma rodzaj, nawet jeśli nie ma żadnego logicznego związku pomiędzy tym rodzajem a znaczeniem tego słowa. Na przykład w języku francuskim :fr[l**e** vin] „wino” jest rodzaju męskiego, a :fr[l**a** bière] „piwo” jest rodzaju żeńskiego. W języku niemieckim :de[**der** Wein] „wino” jest również rodzaju męskiego, ale :de[**das** Bier] „piwo” jest rodzaju nijakiego. Rodzaj rzeczownika wpływa nie tylko na rodzajnik, ale także na przymiotniki, zaimki dzierżawcze i inne słowa modyfikujące ten rzeczownik. Francuski ma :fr[un bon vin froid] „jedno dobre zimne wino”, ale :fr[un**e** bon**ne** bière froid**e**] „jedno dobre zimne piwo”.
 
 Wszystkie języki słowiańskie mają trzy rodzaje: męski, żeński i nijaki. Na pierwszym poziomie :notr[Slovianto] płeć nie odgrywa roli, ponieważ nie jest niezbędna do komunikacji na najbardziej podstawowym poziomie. Małe dzieci często popełniają błędy związane z płcią, ale nadal można je zrozumieć. Co nie zmienia faktu, że :isv[dobry žena] „dobry kobieta” brzmi nieporadnie, bo :isv[žena] jest żeńskie, a końcówka `-y` jest męska — dokładnie tak jak w języku polskim. Możesz sprawić, że Twój :notr[Slovianto] będzie wyglądał i brzmiał o wiele bardziej naturalnie, jeśli uwzględnisz także płeć. Ustalenie rodzaju rzeczownika nie jest wcale trudne, ponieważ niemal we wszystkich przypadkach samo spojrzenie na słowo wystarczy, aby poznać jego rodzaj, co oznacza, że nie ma potrzeby poznawania rodzajów osobno.
 
-### Rzeczowniki
+### Rzeczowniki \{#nouns}
 
 Aby dowiedzieć się, czy dane słowo jest rodzaju męskiego, żeńskiego czy nijakiego, wystarczy spojrzeć na końcówkę:
 
@@ -57,7 +57,7 @@ Na pierwszym poziomie nauczyłeś się, że końcówka liczby mnogiej to `-i`. D
 - :isv[děte] → :isv[děta] „dzieci”
 - :isv[morje] → :isv[morja] „morze”
 
-### Przymiotniki
+### Przymiotniki \{#adjectives}
 
 Rodzaj ma nie tylko rzeczowniki, to samo dotyczy przymiotników i przydawek. Podobnie jak we francuskim i niemieckim, języki słowiańskie mają _zgodność płci_. Oznacza to, że gdy rzeczownikowi rodzaju męskiego towarzyszy przymiotnik, to przymiotnik ten przyjmuje formę męską, rzeczownik żeński przyjmuje formę żeńską przymiotnika itd. :isv[Dobry žena] wygląda trochę dziecinnie i nieporadnie, bo łączy rzeczownik żeński z przymiotnik rodzaju męskiego. Pamiętaj więc o następujących rzeczach:
 
@@ -105,9 +105,9 @@ To samo dotyczy przymiotników, dotyczy to także zaimków dzierżawczych, wskaz
   - :isv[jedna žena] „jedna kobieta”
   - :isv[jedno děte] „jedno dziecko”
 
-## Czasowniki
+## Czasowniki \{#verbs}
 
-### Czas teraźniejszy
+### Czas teraźniejszy \{#present-tense}
 
 :::component{name="MDSimpleGrammar1"}
 :::
@@ -118,39 +118,39 @@ Czas więc zapomnieć o zakończeniu `-t`! Zamiast tego pamiętaj o następując
 
 Końcówki `-š` i zaimka osobowego :isv[ty] należy używać wyłącznie w odniesieniu do rodziny, przyjaciół, dzieci itp. W pozostałych przypadkach zwracaj się do osób w drugiej osobie liczby mnogiej (:isv[vy], `-te`).
 
-### Czas przeszły
+### Czas przeszły \{#past-tense}
 
 :::component{name="MDSimpleGrammar2"}
 :::
 
 W czasie przeszłym czasowniki nie są odmieniane przez osobę. Jednakże są one sprzężone ze względu na płeć. Może się to wydawać dziwne, ale wyjaśnienie jest dość proste: forma :isv[dělal] jest w rzeczywistości imiesłowem, oznaczającym coś w rodzaju „zrobiwszy” i dlatego zgadza się z podmiotem pod względem rodzaju i liczby, ale nie pod względem osoby. Formy są pokazane w tabeli powyżej.
 
-### Czas przyszły
+### Czas przyszły \{#future-tense}
 
 Czas przyszły powstaje poprzez połączenie czasownika :isv[byti] „być” w czasie przyszłym z bezokolicznikiem. Formy są takie same, jak gdyby czasownik :isv[*bud-ti] był koniugowany w czasie teraźniejszym: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  itd.
 
-### Tryb przypuszczający
+### Tryb przypuszczający \{#conditional}
 
 Tryb przypuszczający tworzy się przez dodanie partykuły :isv[by] do czasu przeszłego, a zatem podlega związkowi zgody (kongruencji): :isv[ja by dělal] „Ja (:abbr[m.]) zrobiłbym”, :isv[ty by dělala] „ty (:abbr[f.]) zrobiłabyś”, :isv[my by dělali] „my zrobilibyśmy”.
 
-### Tryb rozkazujący
+### Tryb rozkazujący \{#imperative}
 
 :::component{name="MDSimpleGrammar3"}
 :::
 
 Oprócz formy rozkazującej, którą już poznałeś (w 2. osobie liczby mnogiej), istnieją także formy rozkazujące dla 2. osoby liczby pojedynczej i 1. osoby liczby mnogiej. Końcówki to `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) i `-jte` (:abbr[2 pl.]) po samogłosce oraz `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) i `-ite` (:abbr[2 pl.]) po spółgłosce. Zatem :isv[dělajte] oznacza „zróbcie!” i może być skierowane do większej liczby osób na raz, ale może służyć także jako bardziej uprzejma forma liczby pojedynczej, natomiast :isv[dělaj] powinno być używane tylko w odniesieniu do przyjaciół, rodziny i dzieci. :isv[Dělajmo] oznacza: „Zróbmy”.
 
-### Czasownik „być”
+### Czasownik „być” \{#the-verb-to-be}
 
 :::component{name="MDSimpleGrammar4"}
 :::
 
 Ponieważ wszystko powyższe dotyczy również jedynego czasownika nieregularnego w :notr[Slovianto], :isv[byti]  „być”, oto jego pełna koniugacja.
 
-## Przykładowy tekst
+## Przykładowy tekst \{#sample-text}
 
 :::component{name="MDSimpleGrammar5"}
-### Nasza wioska
+### Nasza wioska \{#our-village}
 
 Ze wszystkich możliwych miejsc, w których żyją ludzie, najbardziej kocham małą wioskę z dala od zgiełku miasta, z jej małą społecznością. Nie ma przeludnionych mieszkań, tylko małe drewniane domki. To proste i malownicze miejsce do życia, z mieszkańcami, których twarze są tak znajome jak kwiaty w naszym ogrodzie. To odosobniony świat, w którym niewielu ludzi jest ściśle zjednoczonych jak mrówki w mrowisku, pszczoły w ulu, owce w zagrodzie, zakonnice w klasztorze lub marynarze na statku – gdzie wszyscy znają wszystkich i wszyscy są znany wszystkim, gdzie każdy interesuje się każdym i każdy może mieć nadzieję, że inni zainteresują się nim.
 

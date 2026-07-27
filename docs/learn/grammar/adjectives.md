@@ -9,7 +9,7 @@ tags: [interslavic, adjectives, inflection, degrees of comparison, language lear
 
 # Adjectives
 
-## Inflection
+## Inflection \{#inflection}
 
 Adjectives match with the noun they modify in gender, case and number. Declension is always regular. However, three things are to be remembered:
 
@@ -17,28 +17,28 @@ Adjectives match with the noun they modify in gender, case and number. Declensio
 - Just like in the case of nouns, the accusative of has the same form as the genitive when the corresponding noun is masculine and animate, both singular and plural.
 - Except for adjectives referring to masculine, animate nouns, the nominate and accusative plural are identical for all genders.
 
-### Basic endings
+### Basic endings \{#basic-endings}
 
 The basic endings (applying not only to adjectives, but also to possessive pronouns, demonstrative pronouns and the like) are:
 
 :::component{name=MDAdjectives1}
 :::
 
-### Hard adjectives
+### Hard adjectives \{#hard-adjectives}
 
 Example of the declension of hard adjectives: :isv[dobry] „good”:
 
 :::component{name=MDAdjectives2}
 :::
 
-### Soft adjectives
+### Soft adjectives \{#soft-adjectives}
 
 Example of the declension of soft adjectives: :isv[svěži] „fresh”:
 
 :::component{name=MDAdjectives3}
 :::
 
-## Short form
+## Short form \{#short-form}
 
 A small number of adjectives exist in the so-called short form, a relic of the indefinite declension of adjectives in Common Slavic. This short form differs from regular adjectives only in the masculine nominative singular by omitting the ending :isv[`-y`]/:isv[`-i`]. The most common examples are the possessive adjectives :isv[`-ov`] and :isv[`-in`], respecively expressing ownership by a masculine and feminine person: :isv[Petrov dom] „Peter’s house”, :isv[materin stol] „mother’s table”. All other forms are regular: :isv[Petrova kniga] „Peter’s book”, :isv[na materinom stolu] „on mother’s table”.
 
@@ -46,19 +46,19 @@ These possessive adjectives are only used when the possessor is a single word. I
 
 The short form may also be used when the adjective forms the predicate of the sentence: :isv[Petr jest ščestliv] „Peter is happy”, :isv[dom jest velik] „the house is big”, etc. This is not mandatory though, and in most cases, people will simply write: :isv[Petr jest ščestlivy] and :isv[dom jest veliky].
 
-## Adverbs
+## Adverbs \{#adverbs}
 
 Adverbs can be derived from adjectives by using the ending :isv[`-o`] (:isv[`-e`] after a soft consonant). In other words, they are identical to the neuter singular: :isv[dobro] „well”, :isv[svěže] „freshly”.
 
-## Degrees of comparison
+## Degrees of comparison \{#degrees-of-comparison}
 
 Comparatives and superlatives can be built in two ways: a simple (analytic) form and a more complex (synthetic) form.
 
-### Analytic comparative
+### Analytic comparative \{#analytic-comparative}
 
 This way of forming a comparative is easiest to use. Simply have the ground form (the positive) of an adjective or adverb preceded by :isv[vyše] or :isv[bolje] „more”: :isv[vyše prosty] „more simple = simpler”. This solution can be used for all adjectives and adverbs, but is most likely encountered in the case of very long words, foreign words, and participles: :isv[vyše/bolje sintetičny] „more synthetic”, :isv[vyše/bolje smrdeči] „more stinking”.
 
-### Synthetic comparative
+### Synthetic comparative \{#synthetic-comparative}
 
 The basic comparative ending for adjectives :isv[`-ějši`] (:isv[`-ejši`] after a soft consonant), replacing the ending :isv[`-y`]/:isv[`-i`]: :isv[bogaty] → :isv[bogatějši], :isv[slaby] → :isv[slabějši], :isv[blagy] → :isv[blažejši], :isv[svěži] → :isv[svěžejši].
 
@@ -68,7 +68,7 @@ An exception are adjectives on :isv[`-ky`], :isv[`-eky`], :isv[`-oky`], which ha
 
 The comparatives of these adjectives can be adverbialised by adding the ending :isv[`-je`] to the root, causing [iotation][3] of the preceding consonant(s): :isv[daleko] → :isv[dalje], :isv[široko] → :isv[širje], :isv[vysoky] → :isv[vyše], :isv[blizko] → :isv[bliže], :isv[rědko] → :isv[rědže].
 
-### Irregular comparatives
+### Irregular comparatives \{#irregular-comparatives}
 
 Seven adjectives have an irregular comparative:
 
@@ -82,13 +82,13 @@ Seven adjectives have an irregular comparative:
 
 It is not impossible to use regular forms of these adjectives (like :isv[dobrějši] or :isv[zlějši]), but to the average Slav this will look childish or artificial.
 
-### Superlative
+### Superlative \{#superlative}
 
 The superlative is formed by adding the prefix :isv[`naj-`] to the comparative: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). This works for the analytic comparative, too: :isv[najvyše sintetičny] or :isv[najbolje sintetičny].
 
 As a means of simplification, this prefix can also be added to the positive instead (which is how superlatives are made in Bulgarian and Macedonian): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
-### Additional forms
+### Additional forms \{#additional-forms}
 
 The adverbs :isv[menje] and :isv[najmenje] can be used to express the opposite meaning of :isv[vyše]/:isv[bolje] and :isv[najvyše]/:isv[najbolje], meaning „less” and „least” respectively.
 
@@ -96,7 +96,7 @@ The prefix :isv[`prě-`] attached to the positive can be used as a kind of super
 
 The prefix :isv[`ne-`] creates a negative: :isv[neprijetny] „not pleasant, unpleasant”.
 
-### Example
+### Example \{#example}
 
 - :isv[prosty] „simple” (adjective, positive)
 - :isv[prosto] „simply” (adverb, positive)

@@ -9,7 +9,7 @@ last_update:
 
 # Pridevniki
 
-## Prevoj
+## Prevoj \{#inflection}
 
 Pridevniki se ujemajo s samostalnikom, ki ga spreminjajo v spolu, padežu in številu. Sklanjatev je vedno pravilna. Vendar si je treba zapomniti tri stvari:
 
@@ -17,25 +17,25 @@ Pridevniki se ujemajo s samostalnikom, ki ga spreminjajo v spolu, padežu in št
 - Tako kot pri samostalnikih ima tožilnik iste oblike kot rodilnik, kadar je ustrezni samostalnik moškega in živega spola, tako v ednini kot v množini.
 - Razen pridevnikov, ki se nanašajo na moške, žive samostalnike, sta samostalnik in tožilnik množine enaka za vse spole.
 
-### Osnovni konci
+### Osnovni konci \{#basic-endings}
 
 Osnovne končnice (ki ne veljajo le za pridevnike, ampak tudi za svojilne zaimke, kazalne zaimke in podobno) so:
 
 ::component{name="MDAdjectives1"}
 
-### Trdi pridevniki
+### Trdi pridevniki \{#hard-adjectives}
 
 Primer sklanjatve trdih pridevnikov: :isv[dobry] „dober”:
 
 ::component{name="MDAdjectives2"}
 
-### Mehki pridevniki
+### Mehki pridevniki \{#soft-adjectives}
 
 Primer sklanjatve mehkih pridevnikov: :isv[svěži] „svež”:
 
 ::component{name="MDAdjectives3"}
 
-## Kratka oblika
+## Kratka oblika \{#short-form}
 
 Majhno število pridevnikov obstaja v tako imenovani kratki obliki, ki je ostanek nedoločne sklanjatve pridevnikov v skupni slovanščini. Ta kratka oblika se od navadnih pridevnikov razlikuje le v moškem imenovalniku ednine, saj izpušča končnico `-y`/`-i`. Najpogostejša primera sta svojilna pridevnika `-ov` in `-in`, ki izražata lastništvo osebe moškega in ženskega rodu: :isv[Petrov dom] „Petrova hiša”, :isv[materin stol] „materina miza”. Vse ostale oblike so pravilne: :isv[Petrova kniga] „Petrova knjiga”, :isv[na materinom stolu] „na materini mizi”.
 
@@ -43,19 +43,19 @@ Ti svojilni pridevniki se uporabljajo le, kadar je posestnik ena sama beseda. V 
 
 Kratko obliko lahko uporabimo tudi, kadar pridevnik tvori predikat stavka: :isv[Petr jest ščestliv] „Peter je vesel”, :isv[dom jest velik] „hiša je velika” itd. To sicer ni obvezno in v večini primerov ljudje bo preprosto napisal: :isv[Petr jest ščestlivy] in :isv[dom jest veliky].
 
-## Prislovi
+## Prislovi \{#adverbs}
 
 Prislove lahko izpeljemo iz pridevnikov z uporabo končnice `-o` (`-e` za mehkim soglasnikom). Z drugimi besedami, enaki so srednjemu rodu ednine: :isv[dobro] „no”, :isv[svěže] „sveže”.
 
-## Stopnje primerjave
+## Stopnje primerjave \{#degrees-of-comparison}
 
 Primerjalnike in presežnike lahko gradimo na dva načina: v preprosti (analitični) obliki in v bolj zapleteni (sintetični) obliki.
 
-### Analitična primerjava
+### Analitična primerjava \{#analytic-comparative}
 
 Ta način tvorjenja primernika je najlažji za uporabo. Preprosto imejte osnovno obliko (pozitiv) pridevnika ali prislova, pred katero je :isv[vyše] ali :isv[bolje] „več”: :isv[vyše prosty] „bolj preprosto = preprostejše”. To rešitev lahko uporabimo za vse pridevnike in prislove, najverjetneje pa jo srečamo pri zelo dolgih besedah, tujkah in deležnikih: :isv[vyše/bolje sintetičny] „bolj sintetično“, :isv[vyše/bolje smrdeči] „bolj smrdljivo“.
 
-### Sintetična primerjava
+### Sintetična primerjava \{#synthetic-comparative}
 
 Osnovna primerjalna končnica za pridevnike `-ějši` (`-ejši` za mehkim soglasnikom), ki nadomešča končnico `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby]  → :isv[slabějši], :isv[blagy]  → :isv[blažejši], :isv[svěži]  → :isv[svěžejši].
 
@@ -65,7 +65,7 @@ Izjema so pridevniki na `-ky`, `-eky`, `-oky`, , ki imajo namesto `-ši`: :isv[k
 
 Primernike teh pridevnikov je mogoče prisloviti tako, da se korenu doda končnica `-je`, kar povzroči [jotacijo][3] predhodnih soglasnikov: :isv[daleko] → :isv[dalje], :isv[široko]  → :isv[širje], :isv[vysoky]  → :isv[vyše], :isv[blizko]  → :isv[bliže], :isv[rědko]  → :isv[rědže].
 
-### Nepravilne primerjave
+### Nepravilne primerjave \{#irregular-comparatives}
 
 Sedem pridevnikov ima nepravilni primernik:
 
@@ -79,13 +79,13 @@ Sedem pridevnikov ima nepravilni primernik:
 
 Ni nemogoče uporabiti pravilne oblike teh pridevnikov (kot :isv[dobrějši] ali :isv[zlějši]), vendar bo povprečnemu Slovanu to videti otročje ali umetno.
 
-### Superlativ
+### Superlativ \{#superlative}
 
 Presežnik nastane tako, da primerjalniku dodamo predpono `naj-`: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). To deluje tudi za analitično primerjavo: :isv[najvyše sintetičny] ali :isv[najbolje sintetičny].
 
 Kot sredstvo za poenostavitev lahko to končnico dodamo tudi pozitivu (tako nastanejo presežniki v bolgarščini in makedonščini): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
-### Dodatni obrazci
+### Dodatni obrazci \{#additional-forms}
 
 Prislova :isv[menje] in :isv[najmenje] se lahko uporabita za izražanje nasprotnega pomena :isv[vyše]/:isv[bolje]  in :isv[najvyše]/:isv[najbolje], , ki pomenita »manj« oziroma »najmanj«.
 
@@ -93,7 +93,7 @@ Predpono `prě-`, ki je pripeta pozitivu, se lahko uporablja tudi kot nekakšen 
 
 Predpona `ne-` ustvari negativno: :isv[neprijetny] „ni prijetno, neprijetno“.
 
-### Primer
+### Primer \{#example}
 
 - :isv[prosty] „preprost” (pridevnik, pozitiven)
 - :isv[prosto] „preprosto” (prislov, pozitiv)

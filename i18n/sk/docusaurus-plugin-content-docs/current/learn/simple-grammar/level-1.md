@@ -9,7 +9,7 @@ last_update:
 
 # Úroveň 1
 
-## Abeceda a výslovnosť
+## Abeceda a výslovnosť \{#alphabet-and-pronunciation}
 
 :notr[Slovianto] je možné písať latinkou a azbukou, ale tu sa zameriame na latinku:
 
@@ -51,9 +51,9 @@ V [Interslovanskom slovníku][1] nájdete aj iné znaky, napríklad `ò`, `ų`, 
 
 Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a jasne. Ako všeobecné usmernenie by si zaslúžilo odporúčanie klásť dôraz na predposlednú slabiku.
 
-## Gramatika
+## Gramatika \{#grammar}
 
-### Podstatné mená
+### Podstatné mená \{#nouns}
 
 - Podstatné mená môžu končiť na spoluhlásku alebo `-a`, `-o`, `-e`.
 - :notr[Slovianto] nemá články. Preto :isv[žena] môže znamenať „žena“ alebo „žena“.
@@ -62,7 +62,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
   - :isv[žena] „žena“ → :isv[ženi] „ženy“
   - :isv[slovo] „slovo“ → :isv[slovi] „slov“
 
-### Prídavné mená
+### Prídavné mená \{#adjectives}
 
 - Prídavné mená majú zvyčajne koncovku `-y` alebo `-i`. Neskloňujú sa a mali by byť umiestnené pred podstatným menom.
 
@@ -77,7 +77,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
   - :isv[menje dobry] „menej dobré“
   - :isv[najmenje dobry] „najmenej dobré“
 
-### Osobné zámená
+### Osobné zámená \{#personal-pronouns}
 
 - Na rozdiel od podstatných mien osobné zámená v :notr[Slovianto] rozlišujú medzi _nominatívom_ (podmet vety, agens) a _akuzatívom_ (predmet, pacient).
 
@@ -100,13 +100,13 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 
   :isv[Dajte k mene ...] „Daj mi...“
 
-### Privlastňovacie zámená
+### Privlastňovacie zámená \{#possessive-pronouns}
 
 - Privlastňovacie zámená sú: :isv[moj] „môj“, :isv[tvoj] „váš, tvoj“, :isv[jego] „jeho, jej“, :isv[jej] „jej“, :isv[naš] „náš“, :isv[vaš] „váš“. (:abbr[pl.])“, :isv[jih] „ich“. Podobne ako prídavné mená, ani privlastňovacie zámená sa neskloňujú.
 - Ak je podmetom vety aj vlastník, pre všetky osoby sa používa zvratné :isv[svoj] „vlastný“.
 - Existujú aj opytovacie a neurčité privlastňovacie zámená, ako napríklad :isv[čij] „čí“, :isv[ničij] „niktoho“, :isv[něčij] „niekoho“, :isv[čij-koli] „kohokoľvek“.
 
-### Ukazovacie zámená
+### Ukazovacie zámená \{#demonstrative-pronouns}
 
 - Ukazovacie zámeno je :isv[toj] „toto, tamto, tieto, tamto“.
 - Vždy, keď je potrebné rozlišovať medzi _tu_ a _tam_, uvádzame pred ním `tu-` „tu“ alebo `tam-` „tam“: :isv[tutoj] „toto, tieto“, :isv[tamtoj] „tamto, tamto“ .
@@ -114,16 +114,16 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
   - :isv[Čto jest to?] "Čo je toto?"
   - :isv[To jest kniga.] „Toto je kniha.“
 
-### Vzťahové zámená
+### Vzťahové zámená \{#relative-pronouns}
 
 - V zjednodušenom jazyku ako :notr[Slovianto] je lepšie vyhnúť sa vedľajším vetám. Ale ak aj tak potrebujete relatívne zámeno, použite :isv[ktory] „ktorý“.
 
-### Opytovacie a neurčité zámená
+### Opytovacie a neurčité zámená \{#interrogative-and-indefinite-pronouns}
 
 - Existujú dve základné zámená: :isv[kto] „kto“ a :isv[čto] „čo“. Rovnako ako osobné zámená, :isv[kto] má akuzatív :isv[kogo] pre priamy predmet.
 - Od nich je odvodených aj niekoľko neurčitých zámen, napr. :isv[někto] „niekto“, :isv[kto-koli] „ktokoľvek“, :isv[ničto] „nič“, :isv[vsečto] „všetko“ (pozri nasledujúcu časť).
 
-### Zámenné príslovky
+### Zámenné príslovky \{#pronominal-adverbs}
 
 - Každý jazyk má osobitnú kategóriu vzájomne súvisiacich zámen, prísloviek a prídavných mien, takzvané `correlatives`. Stručne povedané, toto sú otázne slová a slová, ktoré sa používajú na poskytnutie všeobecnej odpovede na tieto otázky. V angličtine, ako aj v mnohých iných jazykoch, tieto slová spolu súvisia pomerne predvídateľným spôsobom (napríklad: _where/tu/tam/somewhere/kde/nikde/všade, odkiaľ/odtiaľ/odtiaľ atď.)_ . To je aj prípad :notr[Slovianto].
 - Otázky zvyčajne začínajú znakom `k-`: :isv[kto] „kto“, :isv[kogda] „kedy“, :isv[kde] „kde“, :isv[ktory] „ktorý“, :isv[koliko] „koľko“
@@ -133,7 +133,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 - Ak je odpoveď na niečo nedôležité, slovo končí na `-koli`, pridané k slovu otázky: :isv[kto-koli] „ktokoľvek“, :isv[kogda-koli] „kedykoľvek, kedykoľvek“, :isv[kde-koli] „kdekoľvek, kdekoľvek“
 - Ak je odpoveď všezahŕňajúca, slovo začína `vse-` alebo `ves-`: :isv[vsegda] „vždy“, :isv[vesde] „všade“
 
-### Číslice
+### Číslice \{#numerals}
 
 - _hlavné čísla_ od 1 do 10 sú:
 
@@ -163,7 +163,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 
   1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] alebo :isv[stoty], 1000. – :isv[tysečny]
 
-### Slovesá
+### Slovesá \{#verbs}
 
 - Všetky slovesá majú koncovku _infinitív_ `-ti`:
   - :isv[dělati] „urobiť“
@@ -218,7 +218,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
   - :isv[ja jest neseny] „Som nesený“
   - :isv[ja byl neseny] „Bol som nesený, bol som nesený“ atď.
 
-### Syntax
+### Syntax \{#syntax}
 
 - Preferovaný slovosled je predmet – sloveso – predmet, ako v angličtine. Nie je to povinné, ale akýkoľvek iný slovosled môže ľahko spôsobiť, že veta bude nejasná alebo nejednoznačná.
 
@@ -245,7 +245,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 - Na vyjadrenie nástroja, ktorý sa na niečo používa, použite predložku `s` „s“:
   - :isv[Ja udaril svoj otec s toj kniga.] "Tou knihou som udrel svojho otca."
 
-## Ukážkový text: V reštaurácii
+## Ukážkový text: V reštaurácii \{#sample-text-in-the-restaurant}
 
 :::component{name="MDSlovianto2"}
 - Dobrý deň! Je reštaurácia otvorená?
@@ -263,7 +263,7 @@ Zdôraznenie je pomerne voľné. Dôležitejšie je, aby ste hovorili pomaly a j
 - Ďakujem, prosím, len s maslom.
 :::
 
-## Základná slovná zásoba
+## Základná slovná zásoba \{#basic-vocabulary}
 
 :::component{name="MDSlovianto3"}
 :::

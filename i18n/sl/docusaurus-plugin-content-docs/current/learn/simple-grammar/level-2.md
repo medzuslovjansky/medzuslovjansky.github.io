@@ -20,13 +20,13 @@ V [**Ravni 1**][1] ste se naučili številnih oblik, ki jih lahko uporabite, da 
 1. Spoznali boste spol v slovanščini in kako ga uporabljati v :notr[Slovianto],
 2. Naučili se boste spregati glagole.
 
-## Spol
+## Spol \{#gender}
 
 Večina evropskih jezikov ima slovnični spol – angleščina je ena redkih izjem. Nič več kot logično ni, da so besede, ki označujejo moške osebe, vedno moške, besede, ki označujejo ženske, pa ženske. Ideja slovničnega spola pa je, da ima _vsak_ samostalnik spol, tudi če med tem spolom in pomenom besede ni nobene logične povezave. V francoščini je na primer :fr[l**e** vin] „vino” moškega spola, :fr[l**a** bière] „pivo” pa ženskega spola. V nemščini je tudi :de[**der** Wein] „vino” moškega spola, :de[**das** Bier] „pivo” pa srednjega rodu. Spol samostalnika ne vpliva le na členek, ampak tudi na pridevnike, svojilne zaimke in druge besede, ki spreminjajo ta samostalnik. Francozi imajo :fr[un bon vin froid] „eno dobro hladno vino”, vendar :fr[un**e** bon**ne** bière froid**e**] „eno dobro hladno pivo”.
 
 Vsi slovanski jeziki imajo tri spole: moški, ženski in srednji. Na prvi stopnji :notr[Slovianto] spol ne igra vloge, ker ni bistvenega pomena za komunikacijo na najbolj osnovni ravni. Majhni otroci se pogosto zmotijo s spolom, vendar jih je vseeno mogoče razumeti. Kar pa ne spremeni dejstva, da :isv[dobry žena] "dobra ženska" zveni okorno, saj je :isv[žena] ženski, končnica `-y` pa moška. Vaš :notr[Slovianto] lahko naredite videz in zvok veliko bolj naraven, če upoštevate tudi spol. Ugotavljanje spola samostalnika sploh ni težko, saj je skoraj v vseh primerih dovolj že pogled na besedo, da ugotovimo njen spol, kar pomeni, da se spola ni treba posebej učiti.
 
-### Samostalniki
+### Samostalniki \{#nouns}
 
 Če želite izvedeti, ali je beseda moškega, ženskega ali srednjega rodu, je dovolj, da pogledate konec:
 
@@ -57,7 +57,7 @@ Na prvi stopnji ste se naučili, da je množinska končnica `-i`. To dobro deluj
 - :isv[děte] → :isv[děta] „otroci”
 - :isv[morje] → :isv[morja] „morja”
 
-### Pridevniki
+### Pridevniki \{#adjectives}
 
 Spol nimajo samo samostalniki, enako velja za pridevnike in podobne modifikatorje. Tako kot v francoščini in nemščini imajo slovanski jeziki _spolno soglasje_. To pomeni, da ko samostalniku moškega rodu priloži pridevnik, ta pridevnik prevzame moško obliko, samostalnik ženskega rodu pridevniško obliko itd. :isv[Dobry žena] deluje nekoliko otročje in okorno, saj združuje samostalnik ženskega rodu z moški pridevnik. Zapomnite si torej naslednje stvari:
 
@@ -105,9 +105,9 @@ Enako kot za pridevnike, velja tudi za svojilne, kazalne, odnosne, nedoločne za
   - :isv[jedna žena] "ena ženska"
   - :isv[jedno děte] "ta otrok"
 
-## Glagoli
+## Glagoli \{#verbs}
 
-### Sedanjik
+### Sedanjik \{#present-tense}
 
 :::component{name="MDSimpleGrammar1"}
 :::
@@ -118,39 +118,39 @@ Torej, čas je, da pozabite na konec `-t`! Namesto tega si zapomnite naslednje k
 
 Končnico `-š` in osebni zaimek :isv[ty] uporabljajte samo za družino, prijatelje, otroke itd. V drugih primerih ljudi naslavljajte v drugi osebi množine (:isv[vy], `-te`).
 
-### Preteklik
+### Preteklik \{#past-tense}
 
 :::component{name="MDSimpleGrammar2"}
 :::
 
 V preteklem času se glagoli ne spregajo za osebo. Vendar pa so konjugirani glede na spol. To se morda zdi nenavadno, vendar je razlaga precej preprosta: oblika :isv[dělal] je pravzaprav deležnik, ki pomeni nekaj takega kot "opraviti", in se zato ujema s subjektom v spolu in številu, ne pa osebno. Obrazci so prikazani v tabeli na desni.
 
-### Prihodnjik
+### Prihodnjik \{#future-tense}
 
 Prihodnjik se tvori z združitvijo prihodnjika glagola :isv[byti] „biti” z nedoločnikom. Oblike so enake, kot če bi glagol :isv[*bud-ti] spregali v sedanjiku: :isv[ja budem dělati], :isv[ty budeš dělati], :isv[on bude dělati],  itd.
 
-### Pogojno
+### Pogojno \{#conditional}
 
 Pogojnik nastane z dodajanjem delca :isv[by] preteklemu času in je zato podvržen dogovoru o spolu: :isv[ja by dělal] „jaz (:abbr[m.]) bi naredil/sem naredil”, :isv[ty by dělala] „ti (:abbr[f.]) bi naredil/smo naredili”, :isv[my by dělali] „mi bi naredili/smo naredili”.
 
-### Nujno
+### Nujno \{#imperative}
 
 :::component{name="MDSimpleGrammar3"}
 :::
 
 Poleg velelne oblike, ki ste se je že naučili (2. oseba množine), obstajajo tudi velelne oblike za 2. osebo ednine in 1. osebo množine. Končnice so `-j` (:abbr[2 sg.]), `-jmo` (:abbr[1 pl.]) in `-jte` (:abbr[2 pl.]) za samoglasnikom ter `-i` (:abbr[2 sg.]), `-imo` (:abbr[1 pl.] ) in `-ite` (:abbr[2 pl.]) za soglasnikom. Tako :isv[dělajte] pomeni "naredi!" in je lahko namenjen več osebam hkrati, vendar služi tudi kot bolj vljudna oblika ednine, medtem ko se :isv[dělaj] uporablja samo za prijatelje, družino in otroke. :isv[Dělajmo] pomeni: "Naredimo".
 
-### Glagol "biti"
+### Glagol "biti" \{#the-verb-to-be}
 
 :::component{name="MDSimpleGrammar4"}
 :::
 
 Ker vse zgoraj navedeno vpliva tudi na edini nepravilni glagol v :notr[Slovianto], :isv[byti]  „biti“, je tukaj njegova popolna spregatev.
 
-## Vzorčno besedilo
+## Vzorčno besedilo \{#sample-text}
 
 :::component{name="MDSimpleGrammar5"}
-### Naša vas
+### Naša vas \{#our-village}
 
 Od vseh možnih krajev, kjer ljudje živijo, mi je najbolj všeč majhna vasica, oddaljena od mestnega hrupa, s svojo majhno skupnostjo. Nima prenatrpanih stanovanj, le majhne lesene hišice. To je preprosto in slikovito mesto za življenje, s prebivalci, katerih obrazi so znani kot rože na našem vrtu. To je osamljen svet z malo ljudmi, ki so tesno povezani kot mravlje v mravljišču, ali čebele v panju, ali ovce v staji, ali nune v samostanu ali mornarji na ladji – kjer vsi poznajo vse in vsi ki ga poznajo vsi, kjer se vsak zanima za vse in vsak lahko upa, da se drugi zanimajo zanj.
 

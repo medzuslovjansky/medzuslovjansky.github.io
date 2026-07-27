@@ -75,7 +75,7 @@ Ako trebamo biti precizniji, najjednostavnije rješenje je koristiti :isv[tutoj]
 :::component{name=MDPronouns3}
 :::
 
-### Napomene
+### Napomene \{#notes}
 
 1. Manje jednostavno, ali povijesno točnije je sljedeće troskupno razlikovanje: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) za "ovaj", :isv[toj] za "taj" i :isv[onoj] za "onaj". Treba imati na umu, međutim, da je :isv[sej] praktično nestao iz većine suvremenih jezika, osim nekoliko fosiliziranih ostataka. Stoga možda neće uvijek biti razumljiv.
 2. Još jedna pokazna zamjenica je :isv[ov], koja znači isto što i :isv[sej]. Međutim, njezino značenje se veoma razlikuje u suvremenim jezicima.

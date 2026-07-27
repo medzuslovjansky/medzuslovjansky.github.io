@@ -75,7 +75,7 @@ Jeśli potrzebujemy być bardziej precyzyjni, najprostszym rozwiązaniem jest u�
 :::component{name=MDPronouns3}
 :::
 
-### Uwagi
+### Uwagi \{#notes}
 
 1. Mniej prostym, ale historycznie dokładniejszym jest następujące trzyskładowe rozróżnienie: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) dla "ten", :isv[toj] dla "tamten" i :isv[onoj] dla "tamten tam". Należy pamiętać jednak, że :isv[sej] praktycznie zniknął z większości współczesnych języków, z wyjątkiem kilku skamieniałych pozostałości. Dlatego może nie być zawsze zrozumiały.
 2. Inny zaimek wskazujący to :isv[ov], oznaczający to samo co :isv[sej]. Jednak jego znaczenie bardzo różni się w współczesnych językach.

@@ -10,7 +10,7 @@ noIndex: true
 
 # Level 1
 
-## Alphabet and pronunciation
+## Alphabet and pronunciation \{#alphabet-and-pronunciation}
 
 :notr[Slovianto] can be written in the Latin alphabet and the Cyrillic alphabet, but we will concentrate on the Latin alphabet here:
 
@@ -52,9 +52,9 @@ In the [Interslavic dictionary][1] you will find other characters as well, like 
 
 Accentuation is fairly free. What matters more is that you speak slowly and clearly. As a general guideline, it would deserve recommendation to put stress on the antepenultimate syllable.
 
-## Grammar
+## Grammar \{#grammar}
 
-### Nouns
+### Nouns \{#nouns}
 
 - Nouns can end in a consonant or `-a`, `-o`, `-e`.
 - :notr[Slovianto] does not have articles. Therefore, :isv[žena] can mean „a woman” or „the woman”.
@@ -63,7 +63,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   - :isv[žena] „woman” → :isv[ženi] „women”
   - :isv[slovo] „word” → :isv[slovi] „words”
 
-### Adjectives
+### Adjectives \{#adjectives}
 
 - Adjectives usually have the ending `-y` or `-i`. They are not inflected and should be placed before the noun.
 
@@ -78,7 +78,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   - :isv[menje dobry] „less good”
   - :isv[najmenje dobry] „least good”
 
-### Personal pronouns
+### Personal pronouns \{#personal-pronouns}
 
 - Unlike nouns, personal pronouns in :notr[Slovianto] distinguish between the _nominative_ (the subject of the sentence, the agent) and the _accusative_ (the object, patient).
 
@@ -101,13 +101,13 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 
   :isv[Dajte k mene ...] „Give me ...”
 
-### Possessive pronouns
+### Possessive pronouns \{#possessive-pronouns}
 
 - The possessive pronouns are: :isv[moj] „my”, :isv[tvoj] „your, thy”, :isv[jego] „his, its”, :isv[jej] „her”, :isv[naš] „our”, :isv[vaš] „your (:abbr[pl.])”, :isv[jih] „their”. Like adjectives, possessive pronouns are not inflected.
 - If the possessor is also the subject of the sentence, the reflexive :isv[svoj] „one's own” is used for all persons.
 - There are also interrogative and indefinite possessive pronouns, like :isv[čij] „whose”, :isv[ničij] „nobody's”, :isv[něčij] „somebody's”, :isv[čij-koli] „anybody's”.
 
-### Demonstrative pronouns
+### Demonstrative pronouns \{#demonstrative-pronouns}
 
 - The demonstrative pronoun is :isv[toj] „this, that, these, those”.
 - Whenever it is necessary to make a distinction between _here_ and _there_, we have it preceded by `tu-` „here” or `tam-` „there”: :isv[tutoj] „this, these”, :isv[tamtoj] „that, those”.
@@ -115,16 +115,16 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   - :isv[Čto jest to?] „What is this?”
   - :isv[To jest kniga.] „This is a book.”
 
-### Relative pronouns
+### Relative pronouns \{#relative-pronouns}
 
 - In a simplified language like :notr[Slovianto], it is better to avoid subordinate clauses. But if you need a relative pronoun anyway, use :isv[ktory] „which”.
 
-### Interrogative and indefinite pronouns
+### Interrogative and indefinite pronouns \{#interrogative-and-indefinite-pronouns}
 
 - There are two basic pronouns: :isv[kto] „who” and :isv[čto] „what”. Just like personal pronouns, :isv[kto] has an accusative :isv[kogo] for the direct object.
 - Derived from these are also several indefinite pronouns, e.g. :isv[někto] „somebody”, :isv[kto-koli] „anybody”, :isv[ničto] „nothing”, :isv[vsečto] „everything” (see the following section).
 
-### Pronominal adverbs
+### Pronominal adverbs \{#pronominal-adverbs}
 
 - Every language has a special category of interrelated pronouns, adverbs and adjectives, the so-called `correlatives`. In short, these are question words and the words that are used to give a general answer to these questions. In English, as well as many other languages, these words are related with each other in a fairly predictable way (for example: _where/here/there/somewhere/anywhere/nowhere/everywhere, whence/hence/thence, etc.)_. This is the case in :notr[Slovianto], too.
 - Question words usually start with a `k-`: :isv[kto] „who”, :isv[kogda] „when”, :isv[kde] „where”, :isv[ktory] „which”, :isv[koliko] „how many”
@@ -134,7 +134,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 - If the answer is something unimportant, the word ends with `-koli`, added to the question word: :isv[kto-koli] „anyone”, :isv[kogda-koli] „anytime, whenever”, :isv[kde-koli] „anywhere, whereever”
 - If the answer is all-encompassing, the word begins with `vse-` or `ves-`: :isv[vsegda] „always”, :isv[vesde] „everywhere”
 
-### Numerals
+### Numerals \{#numerals}
 
 - The _cardinal numbers_ from 1-10 are:
 
@@ -164,7 +164,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 
   1st – :isv[prvy], 2nd – :isv[drugy], 3rd – :isv[tretji], 4th – :isv[četvrty], 100th – :isv[sotny] or :isv[stoty], 1000th – :isv[tysečny]
 
-### Verbs
+### Verbs \{#verbs}
 
 - All verbs have the _infinitive_ ending `-ti`:
   - :isv[dělati] „to do”
@@ -219,7 +219,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
   - :isv[ja jest neseny] „I am being carried”
   - :isv[ja byl neseny] „I was being carried, I have been carried”, etc.
 
-### Syntax
+### Syntax \{#syntax}
 
 - The preferred word order is subject – verb – object, like in English. It isn't mandatory, but any other word order might easily make a sentence unclear or ambiguous.
 
@@ -246,7 +246,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 - To express the instrument used for something, use the preposition `s` „with”:
   - :isv[Ja udaril svoj otec s toj kniga.] „I hit my father with that book.”
 
-## Sample text: In the restaurant
+## Sample text: In the restaurant \{#sample-text-in-the-restaurant}
 
 :::component{name=MDSlovianto2}
 * Good day! Is the restaurant open?
@@ -264,7 +264,7 @@ Accentuation is fairly free. What matters more is that you speak slowly and clea
 * Thank you, just breat with butter, please.
 :::
 
-## Basic vocabulary
+## Basic vocabulary \{#basic-vocabulary}
 
 :::component{name=MDSlovianto3}
 :::

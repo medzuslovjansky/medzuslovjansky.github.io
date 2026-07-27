@@ -9,7 +9,7 @@ last_update:
 
 # Przymiotniki
 
-## Fleksja
+## Fleksja \{#inflection}
 
 Przymiotniki odmieniają się zgodnie z rzeczownikiem, który modyfikują pod względem rodzaju, przypadku i liczby. Deklinacja jest zawsze regularna. Należy jednak pamiętać o trzech rzeczach:
 
@@ -17,25 +17,25 @@ Przymiotniki odmieniają się zgodnie z rzeczownikiem, który modyfikują pod wz
 - Podobnie jak w przypadku rzeczowników, biernik ma taką samą formę jak dopełniacz, gdy odpowiedni rzeczownik jest rodzaju męskiego i żywotnego, zarówno w liczbie pojedynczej, jak i mnogiej.
 - Z wyjątkiem przymiotników odnoszących się do rzeczowników żywotnych rodzaju męskiego, mianownik i biernik liczby mnogiej są identyczne dla wszystkich rodzajów.
 
-### Podstawowe zakończenia
+### Podstawowe zakończenia \{#basic-endings}
 
 Podstawowe końcówki (dotyczące nie tylko przymiotników, ale także zaimków dzierżawczych, zaimków wskazujących itp.) to:
 
 ::component{name="MDAdjectives1"}
 
-### Przymiotniki twardotematowe
+### Przymiotniki twardotematowe \{#hard-adjectives}
 
 Przykład deklinacji przymiotników twardych: :isv[dobry] „dobry”:
 
 ::component{name="MDAdjectives2"}
 
-### Przymiotniki miękkotematowe (š, ž, č lub j)
+### Przymiotniki miękkotematowe (š, ž, č lub j) \{#soft-adjectives}
 
 Przykład deklinacji przymiotników miękkich: :isv[svěži] „świeży”:
 
 ::component{name="MDAdjectives3"}
 
-## Skrócona forma
+## Skrócona forma \{#short-form}
 
 Niewielka liczba przymiotników występuje w tzw. krótkiej formie, będącej reliktem nieokreślonej deklinacji przymiotników w języku potocznym. Ta krótka forma różni się od zwykłych przymiotników tylko mianownikiem rodzaju męskiego liczby pojedynczej z pominięciem końcówki `-y`/`-i`. Najczęstszymi przykładami są przymiotniki dzierżawcze `-ov` i `-in`, określające odpowiednio własność osoby rodzaju męskiego i żeńskiego: :isv[Petrov dom] „dom Piotra”, :isv[materin stol] „stół matki”. Wszystkie pozostałe formy są regularne: :isv[Petrova kniga] „Księga Piotra”, :isv[na materinom stolu] „na stole u mamy”.
 
@@ -43,19 +43,19 @@ Te przymiotniki dzierżawcze są używane tylko wtedy, gdy posiadaczem jest poje
 
 Formy krótkiej można też użyć, gdy przymiotnik tworzy orzecznik zdania: :isv[Petr jest ščestliv] „Piotr jest szczęśliwy”, :isv[dom jest velik] „dom jest duży” itp. Nie jest to jednak obowiązkowe i w większości przypadków ludzie napiszą po prostu: :isv[Petr jest ščestlivy] i :isv[dom jest veliky].
 
-## Przysłówki
+## Przysłówki \{#adverbs}
 
 Przysłówki można wyprowadzić od przymiotników, używając końcówki `-o` (`-e` po miękkiej spółgłosce). Innymi słowy, są one identyczne z liczbą pojedynczą rodzaju nijakiego: :isv[dobro] „dobrze”, :isv[svěže] „świeżo”.
 
-## Stopnie porówniania
+## Stopnie porówniania \{#degrees-of-comparison}
 
 Stopnie wyższe i najwyższe można tworzyć na dwa sposoby: prostą (analityczną) formę i bardziej złożoną (syntetyczną) formę.
 
-### Forma analityczna
+### Forma analityczna \{#analytic-comparative}
 
 Ten sposób tworzenia stopnia wyższego jest najłatwiejszy w użyciu. Wystarczy mieć formę podstawową (pozytywną) przymiotnika lub przysłówka poprzedzoną przez :isv[vyše] lub :isv[bolje] „więcej”: :isv[vyše prosty] „prostszy = prostszy”. Rozwiązanie to można zastosować dla wszystkich przymiotników i przysłówków, ale najczęściej spotyka się je w przypadku bardzo długich wyrazów, wyrazów obcych i imiesłowów: :isv[vyše/bolje sintetičny] „bardziej syntetyczny”, :isv[vyše/bolje smrdeči] „bardziej śmierdzący”.
 
-### Forma syntetyczna
+### Forma syntetyczna \{#synthetic-comparative}
 
 Podstawowa końcówka stopnia wyższego przymiotników `-ějši` (`-ejši` po miękkiej spółgłosce), zastępująca końcówkę `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby]  → :isv[slabějši], :isv[blagy]  → :isv[blažejši], :isv[svěži]  → :isv[svěžejši].
 
@@ -65,7 +65,7 @@ Wyjątkiem są przymiotniki na `-ky`, `-eky`, `-oky`, , które mają zamiast `-�
 
 Stopnie wyższe tych przymiotników można przysłówkować, dodając końcówkę `-je` do rdzenia, powodując [jotation][3] poprzedniej spółgłoski: :isv[daleko] → :isv[dalje], :isv[široko]  → :isv[širje], :isv[vysoky]  → :isv[vyše], :isv[blizko]  → :isv[bliže], :isv[rědko]  → :isv[rědže].
 
-### Nieregularne stopnie wyższe
+### Nieregularne stopnie wyższe \{#irregular-comparatives}
 
 Siedem przymiotników ma nieregularny stopień wyższy:
 
@@ -79,13 +79,13 @@ Siedem przymiotników ma nieregularny stopień wyższy:
 
 Nie jest niemożliwe użycie regularnych form tych przymiotników (jak :isv[dobrějši] lub :isv[zlějši]), ale dla przeciętnego Słowianina będzie to brzmieć dziwnie i sztucznie.
 
-### Stopień najwyższy
+### Stopień najwyższy \{#superlative}
 
 Stopień najwyższy tworzy się poprzez dodanie przedrostka `naj-` do stopnia wyższego: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). Działa to również w przypadku analitycznego stopnia wyższego: :isv[najvyše sintetičny] lub :isv[najbolje sintetičny].
 
 Dla uproszczenia, `naj-` można po prostu dodać do stopnia równego (tak powstają stopnie najwyższe w języku bułgarskim i macedońskim): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
-### Dodatkowe formy
+### Dodatkowe formy \{#additional-forms}
 
 Przysłówków :isv[menje] i :isv[najmenje] można użyć do wyrażenia przeciwnego znaczenia :isv[vyše]/:isv[bolje]  i :isv[najvyše]/:isv[najbolje], , czyli odpowiednio „mniej” i „najmniej”.
 
@@ -93,7 +93,7 @@ Przedrostek `prě-` dołączony do stopnia równego może być również używan
 
 Przedrostek `ne-` tworzy przeczenie: :isv[neprijetny] „nieprzyjemny”.
 
-### Przykład
+### Przykład \{#example}
 
 - :isv[prosty] „prosty” (przymiotnik, pozytyw)
 - :isv[prosto] „po prostu” (przysłówek, pozytyw)

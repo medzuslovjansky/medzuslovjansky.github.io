@@ -9,7 +9,7 @@ last_update:
 
 # Prídavné mená
 
-## Skloňovanie
+## Skloňovanie \{#inflection}
 
 Prídavné mená sa zhodujú s podstatným menom, ktoré modifikujú v rode, páde a čísle. Skloňovanie je vždy pravidelné. Treba však pamätať na tri veci:
 
@@ -17,25 +17,25 @@ Prídavné mená sa zhodujú s podstatným menom, ktoré modifikujú v rode, pá
 - Rovnako ako v prípade podstatných mien, akuzatív má rovnaký tvar ako genitív, keď príslušné podstatné meno je mužského rodu a živého, v jednotnom aj množnom čísle.
 - Okrem prídavných mien k mužskému rodu, živým podstatným menám sú nominát a akuzatív množného čísla rovnaké pre všetky rody.
 
-### Základné koncovky
+### Základné koncovky \{#basic-endings}
 
 Základné koncovky (platí nielen pre prídavné mená, ale aj pre privlastňovacie zámená, ukazovacie zámená a podobne) sú:
 
 ::component{name="MDAdjectives1"}
 
-### Tvrdé prídavné mená
+### Tvrdé prídavné mená \{#hard-adjectives}
 
 Príklad skloňovania tvrdých prídavných mien: :isv[dobry] „dobrý“:
 
 ::component{name="MDAdjectives2"}
 
-### Mäkké prídavné mená
+### Mäkké prídavné mená \{#soft-adjectives}
 
 Príklad skloňovania mäkkých prídavných mien: :isv[svěži] „čerstvé“:
 
 ::component{name="MDAdjectives3"}
 
-## Krátka forma
+## Krátka forma \{#short-form}
 
 Malý počet prídavných mien existuje v takzvanej krátkej forme, čo je pozostatok neurčitého skloňovania prídavných mien v bežnej slovanskej reči. Tento krátky tvar sa od bežných prídavných mien líši len v nominatíve mužského rodu jednotného čísla vynechaním koncovky `-y`/`-i`. Najbežnejšími príkladmi sú privlastňovacie prídavné mená `-ov` a `-in`, resp. vyjadrujúce vlastníctvo mužským a ženským rodom: :isv[Petrov dom] „Petrov dom“, :isv[materin stol] „materský stôl“. Všetky ostatné formy sú bežné: :isv[Petrova kniga] „Petrova kniha“, :isv[na materinom stolu] „na matkinom stole“.
 
@@ -43,19 +43,19 @@ Tieto privlastňovacie prídavné mená sa používajú iba vtedy, keď je vlast
 
 Skrátený tvar možno použiť aj vtedy, keď prídavné meno tvorí predikát vety: :isv[Petr jest ščestliv] „Peter je šťastný“, :isv[dom jest velik] „dom je veľký“ atď. Nie je to však povinné a vo väčšine prípadov ľudia jednoducho napíše: :isv[Petr jest ščestlivy] a :isv[dom jest veliky].
 
-## Príslovky
+## Príslovky \{#adverbs}
 
 Príslovky možno odvodiť od prídavných mien pomocou koncovky `-o` (`-e` po mäkkej spoluhláske). Inými slovami, sú totožné s stredným jednotným číslom: :isv[dobro] „dobre“, :isv[svěže] „čerstvo“.
 
-## Stupne porovnania
+## Stupne porovnania \{#degrees-of-comparison}
 
 Komparatívy a superlatívy možno zostaviť dvoma spôsobmi: jednoduchou (analytickou) formou a zložitejšou (syntetickou) formou.
 
-### Analytické porovnávacie
+### Analytické porovnávacie \{#analytic-comparative}
 
 Tento spôsob vytvárania porovnávania je najjednoduchší na použitie. Stačí, ak základný tvar (klad) prídavného mena alebo príslovky predchádza :isv[vyše] alebo :isv[bolje] „viac“: :isv[vyše prosty] „jednoduchšie = jednoduchšie“. Toto riešenie možno použiť pre všetky prídavné mená a príslovky, ale s najväčšou pravdepodobnosťou sa s ním stretneme v prípade veľmi dlhých slov, cudzích slov a príčastí: :isv[vyše/bolje sintetičny] „syntetickejšie“, :isv[vyše/bolje smrdeči] „viac smradľavé“.
 
-### Syntetické porovnávacie
+### Syntetické porovnávacie \{#synthetic-comparative}
 
 Základná porovnávacia koncovka pre prídavné mená `-ějši` (`-ejši` po mäkkej spoluhláske), ktorá nahrádza koncovku `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby]  → :isv[slabějši], :isv[blagy]  → :isv[blažejši], :isv[svěži]  → :isv[svěžejši].
 
@@ -65,7 +65,7 @@ Výnimkou sú prídavné mená na `-ky`, `-eky`, `-oky`, , ktoré majú namiesto
 
 Komparatívy týchto prídavných mien možno adverbializovať pridaním koncovky `-je` ku koreňu, čo spôsobí [iotáciu][3] predchádzajúcej spoluhlásky (súhlások): :isv[daleko] → :isv[dalje], :isv[široko]  → :isv[širje], :isv[vysoky]  → :isv[vyše], :isv[blizko]  → :isv[bliže], :isv[rědko]  → :isv[rědže].
 
-### Nepravidelné prirovnania
+### Nepravidelné prirovnania \{#irregular-comparatives}
 
 Sedem prídavných mien má nepravidelný komparatív:
 
@@ -79,13 +79,13 @@ Sedem prídavných mien má nepravidelný komparatív:
 
 Nie je nemožné používať pravidelné tvary týchto prídavných mien (napríklad :isv[dobrějši] alebo :isv[zlějši]), ale bežnému Slovanovi to bude pripadať detinské alebo umelé.
 
-### Superlatív
+### Superlatív \{#superlative}
 
 Superlatív vzniká pridaním predpony `naj-` ku komparatívu: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). Toto funguje aj pre analytický komparatív: :isv[najvyše sintetičny] alebo :isv[najbolje sintetičny].
 
 Na zjednodušenie možno namiesto toho pridať ku kladnému znaku aj túto koncovku (takto sa superlatívy robia v bulharčine a macedónčine): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
-### Ďalšie formuláre
+### Ďalšie formuláre \{#additional-forms}
 
 Príslovky :isv[menje] a :isv[najmenje] možno použiť na vyjadrenie opačného významu :isv[vyše]/:isv[bolje]  a :isv[najvyše]/:isv[najbolje], , čo znamená „menej“ a „najmenej“.
 
@@ -93,7 +93,7 @@ Predpona `prě-` pripojená k pozitívu môže slúžiť aj ako druh superlatív
 
 Predpona `ne-` vytvára zápor: :isv[neprijetny] „nie príjemné, nepríjemné“.
 
-### Príklad
+### Príklad \{#example}
 
 - :isv[prosty] „jednoduchý“ (prídavné meno, kladný)
 - :isv[prosto] „jednoducho“ (príslovka, klad)

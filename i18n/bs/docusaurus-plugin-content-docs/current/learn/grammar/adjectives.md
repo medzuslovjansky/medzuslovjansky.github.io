@@ -9,7 +9,7 @@ last_update:
 
 # Pridjevi
 
-## Infleksija
+## Infleksija \{#inflection}
 
 Pridjevi se poklapaju s imenicom koju mijenjaju u rodu, padežu i broju. Deklinacija je uvijek pravilna. Međutim, tri stvari treba imati na umu:
 
@@ -17,25 +17,25 @@ Pridjevi se poklapaju s imenicom koju mijenjaju u rodu, padežu i broju. Deklina
 - Baš kao i u slučaju imenica, akuzativ od ima isti oblik kao i genitiv kada je odgovarajuća imenica muškog i živog roda, i jednine i množine.
 - Osim prideva koji se odnose na imenice muškog roda, imenice i akuzativi množine su identični za sve rodove.
 
-### Osnovni završeci
+### Osnovni završeci \{#basic-endings}
 
 Osnovni nastavci (koji se ne odnose samo na pridjeve, već i na posvojne zamjenice, pokazne zamjenice i slično) su:
 
 ::component{name="MDAdjectives1"}
 
-### Tvrdi pridevi
+### Tvrdi pridevi \{#hard-adjectives}
 
 Primjer deklinacije tvrdih prideva: :isv[dobry] „dobar”:
 
 ::component{name="MDAdjectives2"}
 
-### Meki pridevi
+### Meki pridevi \{#soft-adjectives}
 
 Primjer deklinacije mekih prideva: :isv[svěži] „svjež”:
 
 ::component{name="MDAdjectives3"}
 
-## Kratke forme
+## Kratke forme \{#short-form}
 
 Mali broj prideva postoji u takozvanom kratkom obliku, reliktu neodređene deklinacije prideva u opšteslovenskom. Ovaj kratki oblik razlikuje se od redovnih prideva samo u nominativu muškog roda jednine tako što se izostavlja završetak `-y`/`-i`. Najčešći primjeri su posvojni pridevi `-ov` i `-in`, koji izražavaju vlasništvo muškog i ženskog roda: :isv[Petrov dom] „Petrova kuća”, :isv[materin stol] „majčin sto”. Svi ostali obrasci su redovni: :isv[Petrova kniga] „Petrova knjiga”, :isv[na materinom stolu] „na majčinom stolu”.
 
@@ -43,19 +43,19 @@ Ovi prisvojni pridevi se koriste samo kada je posjednik jedna riječ. U drugim s
 
 Kratak oblik se može koristiti i kada pridjev čini predikat rečenice: :isv[Petr jest ščestliv] „Petar je sretan“, :isv[dom jest velik] „kuća je velika“ itd. Ovo ipak nije obavezno, au većini slučajeva ljudi će jednostavno napisati: :isv[Petr jest ščestlivy] i :isv[dom jest veliky].
 
-## Prilozi
+## Prilozi \{#adverbs}
 
 Prilozi se mogu izvesti od prideva upotrebom završetka `-o` (`-e` iza mekog suglasnika). Drugim riječima, identični su srednjem rodu jednine: :isv[dobro] „dobro”, :isv[svěže] „svježe”.
 
-## Stepeni poređenja
+## Stepeni poređenja \{#degrees-of-comparison}
 
 Komparativi i superlativi mogu se graditi na dva načina: jednostavnim (analitičkim) oblikom i složenijim (sintetičkim) oblikom.
 
-### Analitička komparativna
+### Analitička komparativna \{#analytic-comparative}
 
 Ovaj način formiranja komparativa je najlakši za korištenje. Jednostavno neka osnovnu formu (pozitiv) pridjeva ili priloga prethodi :isv[vyše] ili :isv[bolje] „više”: :isv[vyše prosty] „jednostavnije = jednostavnije”. Ovo rješenje se može koristiti za sve prideve i priloge, ali se najvjerovatnije susreće u slučaju vrlo dugih riječi, stranih riječi i participa: :isv[vyše/bolje sintetičny] „sintetičnije”, :isv[vyše/bolje smrdeči] „smrdljivije”.
 
-### Sintetička komparativna
+### Sintetička komparativna \{#synthetic-comparative}
 
 Osnovni komparativni završetak za pridjeve `-ějši` (`-ejši` iza mekog suglasnika), zamjenjujući završetak `-y`/`-i`: :isv[bogaty] → :isv[bogatějši], :isv[slaby]  → :isv[slabějši], :isv[blagy]  → :isv[blažejši], :isv[svěži]  → :isv[svěžejši].
 
@@ -65,7 +65,7 @@ Izuzetak su pridevi na `-ky`, `-eky`, `-oky`,  koji umjesto toga imaju `-ši`: :
 
 Komparativi ovih prideva mogu se adverbijalizirati dodavanjem završetka `-je` u korijen, uzrokujući [jotaciju][3] prethodnog(ih) suglasnika: :isv[daleko] → :isv[dalje], :isv[široko]  → :isv[širje], :isv[vysoky]  → :isv[vyše], :isv[blizko]  → :isv[bliže], :isv[rědko]  → :isv[rědže].
 
-### Nepravilna poređenja
+### Nepravilna poređenja \{#irregular-comparatives}
 
 Sedam prideva ima nepravilan komparativ:
 
@@ -79,13 +79,13 @@ Sedam prideva ima nepravilan komparativ:
 
 Nije nemoguće koristiti pravilne oblike ovih prideva (poput :isv[dobrějši] ili :isv[zlějši]), ali prosječnom Slovenu to će izgledati djetinjasto ili izvještačeno.
 
-### Superlativ
+### Superlativ \{#superlative}
 
 Superlativ se formira dodavanjem prefiksa `naj-` komparativu: :isv[najnovějši] (:abbr[adj.]), :isv[najnověje] (:abbr[adv.]). Ovo radi i za analitičku komparativu: :isv[najvyše sintetičny] ili :isv[najbolje sintetičny].
 
 Kao sredstvo pojednostavljenja, ovaj završetak se takođe može dodati pozitivu (tako se prave superlativi u bugarskom i makedonskom): :isv[najnovy] (:abbr[adj.]), :isv[najnovo] (:abbr[adv.]).
 
-### Dodatni obrasci
+### Dodatni obrasci \{#additional-forms}
 
 Prilozi :isv[menje] i :isv[najmenje] mogu se koristiti za izražavanje suprotnog značenja :isv[vyše]/:isv[bolje]  i :isv[najvyše]/:isv[najbolje],  što znači „manje” odnosno „najmanje”.
 
@@ -93,7 +93,7 @@ Prefiks `prě-` vezan uz pozitiv može se koristiti i kao vrsta superlativa, izr
 
 Prefiks `ne-` stvara negativ: :isv[neprijetny] „nije ugodno, neugodno”.
 
-### Primjer
+### Primjer \{#example}
 
 - :isv[prosty] „jednostavan” (pridjev, pozitivan)
 - :isv[prosto] „jednostavno” (prilog, pozitiv)

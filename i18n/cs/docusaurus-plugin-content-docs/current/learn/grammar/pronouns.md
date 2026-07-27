@@ -75,7 +75,7 @@ Pokud potřebujeme být přesnější, nejjednodušším řešením je použít 
 :::component{name=MDPronouns3}
 :::
 
-### Poznámky
+### Poznámky \{#notes}
 
 1. Méně jednoduchým, ale historicky přesnějším je následující trojsložkové rozlišení: :isv[sej] (:abbr[f.] :isv[sa], :abbr[n.] :isv[se]) pro "tento", :isv[toj] pro "ten" a :isv[onoj] pro "tamten". Je třeba mít na paměti, že :isv[sej] prakticky vymizel z většiny moderních jazyků, s výjimkou několika zkamenělých pozůstatků. Proto nemusí být vždy srozumitelný.
 2. Další ukazovací zájmeno je :isv[ov], které znamená totéž co :isv[sej]. Jeho význam se však v moderních jazycích velmi liší.

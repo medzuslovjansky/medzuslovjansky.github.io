@@ -9,7 +9,7 @@ last_update:
 
 # Poziom 1
 
-## Alfabet i wymowa
+## Alfabet i wymowa \{#alphabet-and-pronunciation}
 
 :notr[Slovianto] można zapisać alfabetem łacińskim i cyrylicą, ale tutaj skoncentrujemy się na alfabecie łacińskim:
 
@@ -51,9 +51,9 @@ W [Słowniku międzysłowiańskim][1] znajdziesz także inne znaki, np. `ò`, `�
 
 Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wyraźnie. Jako ogólną wskazówkę zasługuje na zalecenie położenie akcentu na przedostatnią sylabę.
 
-## Gramatyka
+## Gramatyka \{#grammar}
 
-### Rzeczowniki
+### Rzeczowniki \{#nouns}
 
 - Rzeczowniki mogą kończyć się spółgłoską lub `-a`, `-o`, `-e`.
 - :notr[Slovianto] nie zawiera artykułów. Dlatego :isv[žena] może oznaczać „kobietę” lub „kobietę”.
@@ -62,7 +62,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[žena] „kobieta” → :isv[ženi] „kobieta”
   - :isv[slovo] „słowo” → :isv[slovi] „słowa”
 
-### Przymiotniki
+### Przymiotniki \{#adjectives}
 
 - Przymiotniki zwykle mają końcówkę `-y` lub `-i`. Nie są odmienione i należy je umieścić przed rzeczownikiem.
 
@@ -77,7 +77,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[menje dobry] „mniej dobre”
   - :isv[najmenje dobry] „najmniej dobry”
 
-### Zaimki osobowe
+### Zaimki osobowe \{#personal-pronouns}
 
 - W przeciwieństwie do rzeczowników, zaimki osobowe w :notr[Slovianto] rozróżniają _mianownik_ (podmiot zdania, podmiot) i biernik_ (dopełnienie, pacjent).
 
@@ -100,13 +100,13 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
   :isv[Dajte k mene ...] „Daj mi…”
 
-### Zaimki
+### Zaimki \{#possessive-pronouns}
 
 - Zaimki dzierżawcze to: :isv[moj] „mój”, :isv[tvoj] „twój, twój”, :isv[jego] „jego, jego”, :isv[jej] „her”, :isv[naš] „nasz”, :isv[vaš] „twój (:abbr[pl.])”, :isv[jih] „ich”. Podobnie jak przymiotniki, zaimki dzierżawcze nie są odmieniane.
 - Jeżeli posiadacz jest także podmiotem wyroku, zwrot :isv[svoj] „własny” stosuje się w odniesieniu do wszystkich osób.
 - Istnieją także zaimki pytające i nieokreślone dzierżawcze, jak :isv[čij] „czyj”, :isv[ničij] „nobody's”, :isv[něčij] „somebody's”, :isv[čij-koli] „anybody's”.
 
-### Zaimek wskazujący
+### Zaimek wskazujący \{#demonstrative-pronouns}
 
 - Zaimek wskazujący to :isv[toj] „to, tamto, te, tamte”.
 - Ilekroć zachodzi potrzeba rozróżnienia pomiędzy _tutaj_ i _tam_, poprzedzamy je `tu-` „tutaj” lub `tam-` „tam”: :isv[tutoj] „to, te”, :isv[tamtoj] „tamto, tamte” .
@@ -114,16 +114,16 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[Čto jest to?] „Co to jest?”
   - :isv[To jest kniga.] „To jest książka.”
 
-### Zaimki względne
+### Zaimki względne \{#relative-pronouns}
 
 - W uproszczonym języku, takim jak :notr[Slovianto], lepiej unikać zdań podrzędnych. Ale jeśli i tak potrzebujesz zaimka względnego, użyj :isv[ktory] „który”.
 
-### Zaimki pytające i nieokreślone
+### Zaimki pytające i nieokreślone \{#interrogative-and-indefinite-pronouns}
 
 - Istnieją dwa podstawowe zaimki: :isv[kto] „kto” i :isv[čto] „co”. Podobnie jak zaimki osobowe, :isv[kto] ma biernik :isv[kogo] dla dopełnienia bliższego.
 - Od nich pochodzi także kilka zaimków nieokreślonych, np. :isv[někto] „ktoś”, :isv[kto-koli] „ktokolwiek”, :isv[ničto] „nic”, :isv[vsečto] „wszystko” (patrz kolejny rozdział).
 
-### Przysłówki zaimkowe
+### Przysłówki zaimkowe \{#pronominal-adverbs}
 
 - W każdym języku istnieje specjalna kategoria powiązanych ze sobą zaimków, przysłówków i przymiotników, tzw. `correlatives`. Krótko mówiąc, są to słowa pytające i słowa używane do udzielenia ogólnej odpowiedzi na te pytania. W języku angielskim, a także w wielu innych językach, słowa te są ze sobą powiązane w dość przewidywalny sposób (na przykład: _where/here/there/somewhere/anywhere/nowhere/wszędzie, skąd/stąd/stąd itp.)_ . Podobnie jest w przypadku :notr[Slovianto].
 - Słowa pytające zwykle zaczynają się od `k-`: :isv[kto] „kto”, :isv[kogda] „kiedy”, :isv[kde] „gdzie”, :isv[ktory] „który”, :isv[koliko] „ile”
@@ -133,7 +133,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 - Jeżeli odpowiedź jest nieistotna, słowo kończy się na `-koli`, do słowa pytającego dodawane jest: :isv[kto-koli] „każdy”, :isv[kogda-koli] „zawsze i kiedykolwiek”, :isv[kde-koli] „gdziekolwiek i gdziekolwiek”
 - Jeśli odpowiedź obejmuje wszystko, słowo zaczyna się od `vse-` lub `ves-`: :isv[vsegda] „zawsze”, :isv[vesde] „wszędzie”
 
-### Cyfry
+### Cyfry \{#numerals}
 
 - _Liczby główne_ od 1 do 10 to:
 
@@ -163,7 +163,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 
   1\. – :isv[prvy], 2. – :isv[drugy], 3. – :isv[tretji], 4. – :isv[četvrty], 100. – :isv[sotny] lub :isv[stoty], 1000. – :isv[tysečny]
 
-### Czasowniki
+### Czasowniki \{#verbs}
 
 - Wszystkie czasowniki mają końcówkę _bezokolicznik_ `-ti`:
   - :isv[dělati] „do zrobienia”
@@ -218,7 +218,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
   - :isv[ja jest neseny] „Noszą mnie”
   - :isv[ja byl neseny] „Noszono mnie, niesiono mnie” itp.
 
-### Składnia
+### Składnia \{#syntax}
 
 - Preferowana kolejność słów to podmiot – czasownik – dopełnienie, tak jak w języku angielskim. Nie jest to obowiązkowe, ale każda inna kolejność słów może łatwo sprawić, że zdanie będzie niejasne lub niejednoznaczne.
 
@@ -245,7 +245,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 - Aby wyrazić instrument, którego się do czegoś używa, użyj przyimka `s` „with”:
   - :isv[Ja udaril svoj otec s toj kniga.] „Uderzyłem ojca tą książką.”
 
-## Przykładowy tekst: W restauracji
+## Przykładowy tekst: W restauracji \{#sample-text-in-the-restaurant}
 
 :::component{name="MDSlovianto2"}
 - Dobry dzień! Czy restauracja jest otwarta?
@@ -263,7 +263,7 @@ Akcentowanie jest w miarę dowolne. Ważniejsze jest to, że mówisz powoli i wy
 - Dziękuję, po prostu posmaruj się masłem, proszę.
 :::
 
-## Podstawowe słownictwo
+## Podstawowe słownictwo \{#basic-vocabulary}
 
 :::component{name="MDSlovianto3"}
 :::
