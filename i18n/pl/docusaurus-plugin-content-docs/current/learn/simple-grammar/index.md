@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Prosta gramatyka
 
-Gramatyka uproszczona, czyli :notr[Slovianto], to wysoce uproszczona forma języka międzysłowiańskiego, która pozwala osobom niesłowiańskim wyrażać się na bardzo podstawowym poziomie podczas odwiedzania krajów słowiańskich lub utrzymywania kontaktu ze Słowianami za pośrednictwem Internetu. Gramatyka ograniczona jest do absolutnego minimum, a formy, które nie są absolutnie niezbędne, w ogóle nie są używane. Ponieważ nie zawiera niczego, czego nie można znaleźć w językach słowiańskich, wynik nie będzie wyglądał ani brzmiał zbyt niezręcznie dla osób mówiących po słowiańsku, ale raczej przypomni im rodzaj języka, którym posługują się małe dzieci.
+Gramatyka uproszczona, czyli :notr[Slovianto], to wysoce uproszczona forma języka międzysłowiańskiego, która pozwala osobom niesłowiańskim wyrażać się na bardzo podstawowym poziomie podczas odwiedzania krajów słowiańskich lub utrzymywania kontaktu ze Słowianami za pośrednictwem Internetu. Gramatyka ograniczona jest do absolutnego minimum, a formy, które nie są absolutnie niezbędne, w ogóle nie są używane. Ponieważ nie zawiera niczego, czego nie można znaleźć w językach słowiańskich, rezultat nie będzie wyglądał ani brzmiał dziwnie dla osób mówiących po słowiańsku, ale raczej przypomni im rodzaj języka, którym posługują się małe dzieci.
 
 :notr[Slovianto] można także wykorzystać jako pierwszy krok w procesie nauki „prawdziwego” języka międzysłowiańskiego. Został on skonstruowany w taki sposób, że można go stopniowo rozbudowywać o nowe elementy, które występują w bardziej skomplikowanych wersjach. Tym samym wyróżniamy trzy różne poziomy, każdy z nich dodaje nowe elementy przybliżające :notr[Slovianto] do Interslavic:
 
