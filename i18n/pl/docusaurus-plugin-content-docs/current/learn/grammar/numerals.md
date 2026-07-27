@@ -14,24 +14,22 @@ origin: http://steen.free.fr/interslavic/numerals.html
 
 Niewiele można powiedzieć o wprowadzeniu liczebników głównych, więc przejdźmy do form:
 
-Liczby 0-10 to:
-0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
+:::component{name=MDNumeralsCardinals}
+:::
 
--teens (11-19) tworzy się dodając `-nadset` (wymawiane _-`nacet`_) do liczb 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
+* Liczby 0-9 przedstawiono w pierwszej kolumnie: :isv[nula] dla zera oraz :isv[jedin] do :isv[devet] dla 1-9.
+* Liczby 11-19 tworzy się, dodając :isv[-nadset] (wymawiane :isv[-nacet]) do liczb 1-9, jak pokazano w drugiej kolumnie (na przykład :isv[jedinnadset], :isv[dvanadset]).
+* Dziesiątki (10-90) składają się z :isv[deset] dla 10, a dla 20-90 z liczb 2-9 z przyrostkiem :isv[-deset] (na przykład :isv[dvadeset], :isv[trideset]), jak pokazano w trzeciej kolumnie.
+* Setki (100-900) można tworzyć na dwa sposoby, jak pokazano w czwartej kolumnie:
+  * :isv[sto] dla 100, a dla 200-900 przez dodanie liczb 2-9 do :isv[-sto] (na przykład :isv[dvasto], :isv[tristo])
+  * Albo za pomocą form alternatywnych z odmienionymi końcówkami (na przykład :isv[dvěstě], :isv[trista], :isv[petsot])
 
-„Kresy” (20-90) tworzymy dodając `-deset` do liczb 2-9:
-20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
+Słowa oznaczające „tysiąc”, „milion” i „miliard” to: `tyseč` (1000), `milion` (10⁶) i `miliard` (10⁹). Podobnie jak w przypadku setek, słowa te mogą, ale nie muszą, być odmieniane jako rzeczowniki. Chociaż w językach słowiańskich nie jest to zwyczajem, w przypadkach takich jak `pet-tyseć` „5000” można dodać myślnik dla przejrzystości.
 
-Setki (100-900) tworzy się dodając `-sto` do liczb 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
+Ich kombinacje są zawsze tworzone od najwyższych do najniższych: tysiące – setki – dziesiątki – jedności. Między dziesiątkami a jednościami można wstawić słowo `i` „i”. Na przykład: `tri-tyseč četyristo petdeset (i) šest` „3,456”. Więcej przykładów można zobaczyć w konwerterze poniżej.
 
-Alternatywnie, setki można również utworzyć, odmieniając słowo `sto`, co daje następujący zestaw:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
-
-Słowa oznaczające „tysiąc”, „milion” i „miliard” to: `tyseč` (1000), `milion` (106) i `miliard` (109). Podobnie jak w przypadku setek, słowa te mogą, ale nie muszą, być odmieniane jako rzeczowniki. Chociaż w językach słowiańskich nie jest to zwyczajem, w przypadkach takich jak `pet-tyseć` „5000” można dodać myślnik dla przejrzystości.
-
-Ich kombinacje są zawsze tworzone od najwyższych do najniższych: tysiące – setki – dziesiątki – jedności. Między dziesiątkami a jednościami można wstawić słowo `i` „i”. Na przykład: `tri-tyseč četyristo petdeset (i) šest` „3,456”.
+:::component{name=MDNumeralsConverter}
+:::
 
 Ponieważ nadrzędnym celem języka intersłowiańskiego jest maksymalne zrozumienie go przez słowiańskich mówców, warto zalecić pisanie cyfr zamiast słów numerycznych.
 
@@ -63,7 +61,7 @@ Liczby `pet` i wyższe są odmieniane jak rzeczowniki we wzorze _`kost`_. Podmio
 :::component{name=MDNumerals2}
 :::
 
-#### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
+#### 0, 100, 1000, 10⁶, 10⁹ \{#0-100-1000-106-109}
 
 Pozostałe liczby również odmieniamy jako rzeczowniki: `nula` „zero” jako rzeczownik rodzaju żeńskiego (jak :isv[žena]), `sto` „sto” jako rzeczownik rodzaju nijakiego (jak :isv[slovo]), `tyseč` „tysiąc” jako rzeczownik rodzaju męskiego lub żeńskiego (gen. :isv[tyseča] lub :isv[tyseči]), `milion` „milion” i `miliard` „miliard” (lub „miliard”) jako rzeczowniki rodzaju męskiego.
 

@@ -14,24 +14,22 @@ origin: http://steen.free.fr/interslavic/numerals.html
 
 O uvedbi kardinalnih števil je malo reči, zato pojdimo k oblikam:
 
-Številke 0-10 so:
-0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
+:::component{name=MDNumeralsCardinals}
+:::
 
--najstniki (11-19) se oblikujejo tako, da se številkam 1-9 doda `-nadset` (izgovarja se _-`nacet`_):
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
+* Številke 0-9 so prikazane v prvem stolpcu, z :isv[nula] za nič in :isv[jedin] do :isv[devet] za 1-9.
+* Številke 11-19 nastanejo tako, da se številkam 1-9 doda :isv[-nadset] (izgovarja se :isv[-nacet]), kot je prikazano v drugem stolpcu (na primer :isv[jedinnadset], :isv[dvanadset]).
+* Desetice (10-90) sestavlja :isv[deset] za 10, za 20-90 pa številke 2-9 s pripono :isv[-deset] (na primer :isv[dvadeset], :isv[trideset]), kot je prikazano v tretjem stolpcu.
+* Stotice (100-900) je mogoče tvoriti na dva načina, kot je prikazano v četrtem stolpcu:
+  * :isv[sto] za 100, za 200-900 pa z dodajanjem številk 2-9 k :isv[-sto] (na primer :isv[dvasto], :isv[tristo])
+  * Ali z uporabo nadomestnih oblik s sklanjanimi končnicami (na primer :isv[dvěstě], :isv[trista], :isv[petsot])
 
-„-veze” (20–90) nastanejo tako, da se številkam 2–9 doda `-deset`:
-20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
+Besede za »tisoč«, »milijon« in »milijard« so: `tyseč` (1000), `milion` (10⁶) in `miliard` (10⁹). Tako kot v primeru stotic se lahko te besede sklanjajo kot samostalniki ali pa tudi ne. Čeprav v slovanskih jezikih to ni običajno, se lahko v primerih, kot je `pet-tyseć` „5000” zaradi jasnosti doda vezaj.
 
-Stotice (100–900) nastanejo tako, da se številkam 2–9 doda `-sto`:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
+Kombinacije le-teh so vedno sestavljene od visokega proti nizkemu: tisočice – stotine – desetice – enice. Med desetice in enice se lahko vstavi beseda `i` „in”. Na primer: `tri-tyseč četyristo petdeset (i) šest` „3,456”. Več primerov si lahko ogledate v pretvorniku spodaj.
 
-Druga možnost je, da se stotice tvorijo tudi s sklanjanjem besede `sto`, kar ima za posledico naslednji niz:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
-
-Besede za »tisoč«, »milijon« in »milijard« so: `tyseč` (1000), `milion` (106) in `miliard` (109). Tako kot v primeru stotic se lahko te besede sklanjajo kot samostalniki ali pa tudi ne. Čeprav v slovanskih jezikih to ni običajno, se lahko v primerih, kot je `pet-tyseć` „5000” zaradi jasnosti doda vezaj.
-
-Kombinacije le-teh so vedno sestavljene od visokega proti nizkemu: tisočice – stotine – desetice – enice. Med desetice in enice se lahko vstavi beseda `i` „in”. Na primer: `tri-tyseč četyristo petdeset (i) šest` „3,456”.
+:::component{name=MDNumeralsConverter}
+:::
 
 Ker je glavni namen medslovanščine, da jo slovanski govorci kar najbolje razumejo, si zasluži priporočilo, da namesto številskih besed pišemo številke.
 
@@ -63,7 +61,7 @@ Prav tako zavrnjeni kot `dva` sta besedi `oba` in `obydva` »obe«, »oboje«.
 :::component{name=MDNumerals2}
 :::
 
-#### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
+#### 0, 100, 1000, 10⁶, 10⁹ \{#0-100-1000-106-109}
 
 Preostala števila se sklanjajo tudi kot samostalniki: `nula` „nič” kot samostalnik ženskega rodu (kot :isv[žena]), `sto` „sto” kot samostalnik srednjega rodu (kot :isv[slovo]), `tyseč` „tisoč” kot samostalnik moškega ali ženskega spola (gen. :isv[tyseča] ali :isv[tyseči]), `milion` „milijon” in `miliard` „milijarda” (ali „milijarda”) kot samostalnika moškega spola.
 

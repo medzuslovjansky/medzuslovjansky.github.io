@@ -14,24 +14,22 @@ origin: http://steen.free.fr/interslavic/numerals.html
 
 K zavedení kardinálních čísel lze říci jen málo, takže přejděme k tvarům:
 
-Čísla 0-10 jsou:
-0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
+:::component{name=MDNumeralsCardinals}
+:::
 
--teens (11-19) se tvoří přidáním `-nadset` (vyslovuje se _-`nacet`_) k číslům 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
+* Čísla 0-9 jsou uvedena v prvním sloupci, s :isv[nula] pro nulu a :isv[jedin] až :isv[devet] pro 1-9.
+* Čísla 11-19 se tvoří přidáním :isv[-nadset] (vyslovuje se :isv[-nacet]) k číslům 1-9, jak je uvedeno ve druhém sloupci (například :isv[jedinnadset], :isv[dvanadset]).
+* Desítky (10-90) tvoří :isv[deset] pro 10 a pro 20-90 čísla 2-9 s příponou :isv[-deset] (například :isv[dvadeset], :isv[trideset]), jak je uvedeno ve třetím sloupci.
+* Stovky (100-900) lze tvořit dvěma způsoby, jak je uvedeno ve čtvrtém sloupci:
+  * :isv[sto] pro 100 a pro 200-900 buď přidáním čísel 2-9 k :isv[-sto] (například :isv[dvasto], :isv[tristo])
+  * Nebo pomocí alternativních tvarů se skloňovanými koncovkami (například :isv[dvěstě], :isv[trista], :isv[petsot])
 
-„-Ty“ (20-90) se tvoří přidáním `-deset` k číslům 2-9:
-20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
+Slova pro „tisíc“, „milion“ a „miliarda“ jsou: `tyseč` (1000), `milion` (10⁶) a `miliard` (10⁹). Stejně jako v případě stovek se tato slova mohou a nemusí skloňovat jako podstatná jména. Ačkoli to není ve slovanských jazycích obvyklé, v případech jako `pet-tyseć` „5000“ může být pro srozumitelnost přidána pomlčka.
 
-Stovky (100-900) se tvoří přidáním `-sto` k číslům 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
+Jejich kombinace jsou vždy tvořeny od vysokých k nízkým: tisíce – stovky – desítky – jedničky. Mezi desítky a jedničky lze vložit slovo `i` „a“. Například: `tri-tyseč četyristo petdeset (i) šest` „3,456“. Další příklady najdete v převodníku níže.
 
-Alternativně lze stovky také vytvořit skloňováním slova `sto`, což má za následek následující množinu:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
-
-Slova pro „tisíc“, „milion“ a „miliarda“ jsou: `tyseč` (1000), `milion` (106) a `miliard` (109). Stejně jako v případě stovek se tato slova mohou a nemusí skloňovat jako podstatná jména. Ačkoli to není ve slovanských jazycích obvyklé, v případech jako `pet-tyseć` „5000“ může být pro srozumitelnost přidána pomlčka.
-
-Jejich kombinace jsou vždy tvořeny od vysokých k nízkým: tisíce – stovky – desítky – jedničky. Mezi desítky a jedničky lze vložit slovo `i` „a“. Například: `tri-tyseč četyristo petdeset (i) šest` „3,456“.
+:::component{name=MDNumeralsConverter}
+:::
 
 Protože primárním účelem mezislovanštiny je maximální porozumění slovanským mluvčím, zaslouží si doporučení psát číslice místo číselných slov.
 
@@ -63,7 +61,7 @@ Také odmítnuta jako `dva` jsou slova `oba` a `obydva` „oba“, „dva z“.
 :::component{name=MDNumerals2}
 :::
 
-#### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
+#### 0, 100, 1000, 10⁶, 10⁹ \{#0-100-1000-106-109}
 
 Zbývající čísla jsou také skloňována jako podstatná jména: `nula` „nula“ jako podstatné jméno ženského rodu (jako :isv[žena]), `sto` „sto“ jako podstatné jméno středního rodu (jako :isv[slovo]), `tyseč` „tisíc“ jako podstatné jméno mužského nebo ženského rodu (gen. :isv[tyseča] nebo :isv[tyseči]), `milion` „milion“ a `miliard` „miliarda“ (nebo „miliarda“) jako podstatná jména mužského rodu.
 

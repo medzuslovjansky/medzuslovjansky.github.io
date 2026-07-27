@@ -14,24 +14,22 @@ origin: http://steen.free.fr/interslavic/numerals.html
 
 Malo je toga što se može reći za uvođenje kardinalnih brojeva, pa prijeđimo na oblike:
 
-Brojevi 0-10 su:
-0\. `nula`, 1. `jedin` (`jedna`, `jedno`), 2. `dva` (`dvě`), 3. `tri`, 4. `četyri`, 5. `pet`, 6. `šest`, 7. `sedm`, 8. `osm`, 9. `devet`, 10. `deset`.
+:::component{name=MDNumeralsCardinals}
+:::
 
-Tinejdžeri (11-19) nastaju dodavanjem `-nadset` (izgovara se _-`nacet`_) brojevima 1-9:
-11\. `jedinnadset`, 12. `dvanadset`, 13. `trinadset`, 14. `četyrinadset`, 15. `petnadset`, 16. `šestnadset`, 17. `sedmnadset`, 18. `osmnadset`, 19. `devetnadset`.
+* Brojevi 0-9 prikazani su u prvom stupcu, s :isv[nula] za nulu i :isv[jedin] do :isv[devet] za 1-9.
+* Brojevi 11-19 nastaju dodavanjem :isv[-nadset] (izgovara se :isv[-nacet]) brojevima 1-9, kao što je prikazano u drugom stupcu (na primjer, :isv[jedinnadset], :isv[dvanadset]).
+* Desetice (10-90) sastoje se od :isv[deset] za 10, a za 20-90 od brojeva 2-9 sa sufiksom :isv[-deset] (na primjer, :isv[dvadeset], :isv[trideset]), kao što je prikazano u trećem stupcu.
+* Stotice (100-900) mogu se tvoriti na dva načina, kao što je prikazano u četvrtom stupcu:
+  * :isv[sto] za 100, a za 200-900 dodavanjem brojeva 2-9 na :isv[-sto] (na primjer, :isv[dvasto], :isv[tristo])
+  * Ili upotrebom alternativnih oblika s promijenjenim nastavcima (na primjer, :isv[dvěstě], :isv[trista], :isv[petsot])
 
-„-veze” (20-90) se formiraju dodavanjem `-deset` brojevima 2-9:
-20\. `dvadeset`, 30. `trideset`, 40. `četyrideset`, 50. `petdeset`, 60. `šestdeset`, 70. `sedmdeset`, 80. `osmdeset`, 90. `devetdeset`.
+Riječi za "tisuću", "milijun" i "milijardu" su: `tyseč` (1000), `milion` (10⁶) i `miliard` (10⁹). Baš kao u slučaju stotina, ove se riječi mogu ili ne moraju skloniti kao imenice. Iako to nije uobičajeno u slavenskim jezicima, u slučajevima kao što je `pet-tyseć` „5000” može se dodati crtica radi jasnoće.
 
-Stotice (100-900) se formiraju dodavanjem `-sto` brojevima 2-9:
-100\. `sto`, 200. `dvasto`, 300. `tristo`, 400. `četyristo`, 500. `petsto`, 600. `šeststo`, 700. `sedmsto`, 800. `osmsto`, 900. `devetsto`.
+Njihove kombinacije uvijek se prave od visokog prema niskom: tisuće – stotine – desetci – jedinice. Između desetica i jedinica može se umetnuti riječ `i` „i”. Na primjer: `tri-tyseč četyristo petdeset (i) šest` „3,456”. Više primjera možete vidjeti u pretvaraču u nastavku.
 
-Alternativno, stotice se također mogu formirati savijanjem riječi `sto`, što rezultira sljedećim skupom:
-100\. `sto`, 200. `dvěstě`, 300. `trista`, 400. `četyrista`, 500. `petsot`, 600. `šestsot`, 700. `sedmsot`, 800. `osmsot`, 900. `devetsot`
-
-Riječi za "tisuću", "milijun" i "milijardu" su: `tyseč` (1000), `milion` (106) i `miliard` (109). Baš kao u slučaju stotina, ove se riječi mogu ili ne moraju skloniti kao imenice. Iako to nije uobičajeno u slavenskim jezicima, u slučajevima kao što je `pet-tyseć` „5000” može se dodati crtica radi jasnoće.
-
-Njihove kombinacije uvijek se prave od visokog prema niskom: tisuće – stotine – desetci – jedinice. Između desetica i jedinica može se umetnuti riječ `i` „i”. Na primjer: `tri-tyseč četyristo petdeset (i) šest` „3,456”.
+:::component{name=MDNumeralsConverter}
+:::
 
 Budući da je primarna svrha međuslavenskog da ga govornici slavenskog jezika što bolje razumiju, zaslužuje preporuku da se umjesto brojčanih riječi pišu znamenke.
 
@@ -63,7 +61,7 @@ Brojevi `pet` i više sklanjaju se kao imenice uzorka _`kost`_. Subjekt uvijek o
 :::component{name=MDNumerals2}
 :::
 
-#### 0, 100, 1000, 106, 109 \{#0-100-1000-106-109}
+#### 0, 100, 1000, 10⁶, 10⁹ \{#0-100-1000-106-109}
 
 Preostali brojevi se također odbijaju kao imenice: `nula` „nula” kao imenica ženskog roda (kao :isv[žena]), `sto` „sto” kao imenica srednjeg roda (kao :isv[slovo]), `tyseč` „tisuća” kao imenica muškog ili ženskog roda (gen. :isv[tyseča] ili :isv[tyseči]), `milion` „milijun” i `miliard` „milijarda” (ili „milijarda”) kao imenice muškog roda.
 

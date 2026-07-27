@@ -23,6 +23,7 @@ import MDPronouns3 from "@site/src/markdown/pronouns/demonstrative";
 import MDPronouns4 from "@site/src/markdown/pronouns/interrogative";
 import MDPronouns5 from "@site/src/markdown/pronouns/indefinite";
 import MDPronouns6 from "@site/src/markdown/pronouns/pronominal";
+import MDNumeralsCardinals from "@site/src/markdown/numerals/0-900";
 import MDNumerals1 from "@site/src/markdown/numerals/2-4";
 import MDNumerals2 from "@site/src/markdown/numerals/5-30";
 import MDNumeralsConverter from "@site/src/markdown/numerals/converter";
@@ -89,6 +90,7 @@ export default {
   MDPronouns4,
   MDPronouns5,
   MDPronouns6,
+  MDNumeralsCardinals,
   MDNumerals1,
   MDNumerals2,
   MDNumeralsConverter,
