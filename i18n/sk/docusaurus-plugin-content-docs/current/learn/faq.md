@@ -164,3 +164,5 @@ Interslovančina nie je formou panslavizmu a neschvaľuje žiadny politický pos
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: Google Translate

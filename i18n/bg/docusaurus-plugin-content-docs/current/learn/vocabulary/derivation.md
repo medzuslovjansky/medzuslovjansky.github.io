@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Извличане на думи

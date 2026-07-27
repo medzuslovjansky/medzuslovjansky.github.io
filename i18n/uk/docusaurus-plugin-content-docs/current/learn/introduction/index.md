@@ -4,6 +4,8 @@ license: republish
 author: Google Translate
 original_author: Ян ван Стенберген
 origin: http://steen.free.fr/interslavic/introduction.html
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Вступ

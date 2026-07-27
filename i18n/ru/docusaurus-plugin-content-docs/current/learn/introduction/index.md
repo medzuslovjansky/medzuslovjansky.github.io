@@ -5,6 +5,8 @@ author: Владимир Березин
 original_author: Ян ван Стенберген
 origin: http://steen.free.fr/interslavic/introduction.html
 verified: true
+last_update:
+  author: gorlatoff
 ---
 
 # Введение

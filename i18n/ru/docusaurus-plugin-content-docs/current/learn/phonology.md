@@ -3,6 +3,8 @@ sidebar_position: 3
 license: republish
 author: Ян ван Стенберген
 origin: http://steen.free.fr/interslavic/phonology.html
+last_update:
+  author: D_Greg_D
 ---
 
 # Фонология

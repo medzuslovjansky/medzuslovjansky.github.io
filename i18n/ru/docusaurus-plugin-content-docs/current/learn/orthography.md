@@ -4,6 +4,8 @@ license: republish
 author: Владимир Березин
 original_author: Ян ван Стенберген
 origin: http://steen.free.fr/interslavic/orthography.html
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Орфография

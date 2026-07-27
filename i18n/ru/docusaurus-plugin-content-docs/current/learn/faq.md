@@ -164,3 +164,5 @@ _Войтех Мерунка_ и _Ян ван Стенберген_, главн�
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: Simon Perepelitsa

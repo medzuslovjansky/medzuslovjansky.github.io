@@ -3,6 +3,8 @@ sidebar_position: 3
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Fonológia

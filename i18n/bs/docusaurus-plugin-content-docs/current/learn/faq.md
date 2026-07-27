@@ -164,3 +164,5 @@ Interslavenstvo nije oblik panslavizma i ne podržava nikakav politički stav. T
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: Google Translate

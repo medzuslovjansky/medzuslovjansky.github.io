@@ -4,6 +4,8 @@ license: republish
 author: Google Translate
 original_author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/phonology.html
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Фонологія

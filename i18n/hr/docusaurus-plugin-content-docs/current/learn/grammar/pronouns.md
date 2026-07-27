@@ -7,6 +7,8 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 description: "Istražite korištenje, deklinaciju i primjere zamjenica u međuslavenskom jeziku. Proučite osobne, povratne, posvojne, pokazne, odnosne, upitne i neodređene zamjenice."
 tags: [međuslavenski, zamjenice, gramatika, učenje jezika]
 verified: true
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Zamjenice

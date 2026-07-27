@@ -164,3 +164,5 @@ Medslovanščina ni oblika panslavizma in ne zagovarja nobene politične drže. 
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: Google Translate

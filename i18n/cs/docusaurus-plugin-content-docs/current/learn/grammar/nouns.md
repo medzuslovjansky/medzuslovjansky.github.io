@@ -5,6 +5,8 @@ author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/nouns.html
 description: "Naučte se o rodech, číslech, pádech a skloňování podstatných jmen v mezislovanštině. Pochopte nuance vzorů skloňování podstatných jmen a nepravidelnosti."
 tags: [mezislovanština, podstatná jména, gramatika, učení jazyka]
+last_update:
+  author: Google Translate
 ---
 
 # Podstatná jména

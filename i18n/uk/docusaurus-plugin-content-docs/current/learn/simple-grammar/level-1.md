@@ -3,6 +3,8 @@ sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto1.html
+last_update:
+  author: Google Translate
 ---
 
 # Рівень 1

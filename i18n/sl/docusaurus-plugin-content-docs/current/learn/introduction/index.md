@@ -3,6 +3,8 @@ sidebar_position: 1
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/introduction.html
+last_update:
+  author: Google Translate
 ---
 
 # Uvod

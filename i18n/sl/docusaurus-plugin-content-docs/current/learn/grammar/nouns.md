@@ -4,6 +4,8 @@ license: republish
 author: Jan van Steenbergen
 description: "Genders, numbers, cases, declensions and more"
 origin: http://steen.free.fr/interslavic/nouns.html
+last_update:
+  author: Google Translate
 ---
 
 # Samostalniki

@@ -4,6 +4,8 @@ license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/slovianto2.html
 description: Gender, nouns, adjectives, verbs
+last_update:
+  author: Artem Vasylenko
 ---
 
 import Tabs from '@theme/Tabs';

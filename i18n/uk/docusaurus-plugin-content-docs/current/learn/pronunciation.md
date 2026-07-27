@@ -3,6 +3,8 @@ sidebar_position: 4
 license: republish
 author: Jan van Steenbergen
 origin: http://steen.free.fr/interslavic/pronunciation.html
+last_update:
+  author: Google Translate
 ---
 
 # Вимова

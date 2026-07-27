@@ -7,6 +7,8 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 description: "Истражите употребу, деклинацију и примере заменица у међусловенском језику. Проучите личне, повратне, присвојне, показне, односне, упитне и неодређене заменице."
 tags: [међусловенски, заменице, граматика, учење језика]
 verified: true
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Заменице

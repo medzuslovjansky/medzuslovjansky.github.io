@@ -164,3 +164,5 @@ Interslavic nije oblik panslavizma i ne zastupa nikakav politiÄki stav. To je Ä
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: Google Translate

@@ -164,3 +164,5 @@ _Войтех Мерунка_ і _Ян ван Стенберген_, голов�
 [15]: ./../resources/keyboards.md
 
 [16]: ./../resources/index.md
+last_update:
+  author: HuryshMarkian

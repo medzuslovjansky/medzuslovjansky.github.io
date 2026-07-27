@@ -7,6 +7,8 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 description: "Prozkoumejte použití, skloňování a příklady zájmen v mezislovanštině. Naučte se osobní, zvratná, přivlastňovací, ukazovací, vztažná, tázací a neurčitá zájmena."
 tags: [mezislovanština, zájmena, gramatika, studium jazyka]
 verified: true
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Zájmena

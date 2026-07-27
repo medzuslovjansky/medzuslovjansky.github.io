@@ -7,6 +7,8 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 description: "Raziščite uporabo, sklanjanje in primere zaimkov v medslovanskem jeziku. Spoznajte osebne, povratne, svojilne, kazalne, oziralne, vprašalne in nedoločne zaimke."
 tags: [medslovansko, zaimki, slovnica, učenje jezika]
 verified: true
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Zaimki

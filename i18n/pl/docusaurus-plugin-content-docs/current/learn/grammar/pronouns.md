@@ -7,6 +7,8 @@ origin: http://steen.free.fr/interslavic/pronouns.html
 description: "Zbadaj użycie, odmianę i przykłady zaimków w języku międzysłowiańskim. Zapoznaj się z zaimkami osobowymi, zwrotnymi, dzierżawczymi, wskazującymi, względnymi, pytającymi i nieokreślonymi."
 tags: [międzysłowiański, zaimki, gramatyka, nauka języka]
 verified: true
+last_update:
+  author: Artem Vasylenko
 ---
 
 # Zaimki
