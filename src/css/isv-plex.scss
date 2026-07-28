@@ -2,10 +2,9 @@
  * IBM Plex Serif Variable ("ISV Plex") — the typeface used for Interslavic
  * lemmas and for language-tagged examples in general.
  *
- * Source: IBMPlexSerifVar20-VF.ttf, subset with the same recipe as
+ * Source: IBMPlexSerifVar22-VF.ttf, subset with the same recipe as
  * @slovosbor/fonts (packages/fonts/build.sh) — pyftsubset, woff2, all layout
- * features kept. The subsets here are byte-identical to the ones committed in
- * that package. Licence: SIL OFL 1.1, see /fonts/LICENSE-IBM-Plex.txt
+ * features kept. Licence: SIL OFL 1.1, see /fonts/LICENSE-IBM-Plex.txt
  *
  * Roman only, on purpose: language examples render upright (see custom.scss).
  * If an italic face is ever needed, rebuild with `build.sh italic <ttf>` and
@@ -18,9 +17,16 @@
  * the browser never performs mark attachment, leaving the accent floating
  * beside the letter instead of stacked on it.
  *
- * Note: U+0465 (ѥ) and U+0467 (ѧ) are absent from the delivered font, so they
- * are absent from these ranges too — the browser falls back to --fun-safe-serif
- * for exactly those two characters rather than rendering tofu.
+ * The cyrillic range is U+0462-046D, one range rather than build.sh's
+ * `U+0462-0463, U+046A-046D`: the Var22 delivery filled in the U+0464-0469 hole
+ * (Ѥѥ Ѧѧ Ѩѩ) that earlier drops were missing, and ѧ in particular is not
+ * hypothetical — TransliteratorElement produces it from `ę` on every Cyrillic
+ * locale. Widen the range in build.sh before regenerating, or the subsetter
+ * will drop those six glyphs again without saying a word.
+ *
+ * It stops at U+046D on purpose: ksi and psi (U+046E-0471) are still absent
+ * from the font, and claiming them in unicode-range would win the match and
+ * render tofu instead of letting the generic serif take over.
  */
 
 /* Deliberately a Sass variable, not a CSS custom property. Production builds
@@ -32,7 +38,7 @@
 $isv-serif: 'ISV Plex', var(--fun-safe-serif);
 
 $isv-plex-ranges: (
-  cyrillic: 'U+0400-045F, U+0462-0463, U+046A-046D, U+0472-0475, U+0490-04C2, U+04CF-04D9, U+04DC-04E9, U+04EE-04F9, U+0524-0525, U+02BB-02BC, U+02C7, U+02D8-02D9, U+02DB, U+02DD, U+0300-0304, U+0306-030C, U+0312, U+0315, U+031B, U+0323, U+0326-0328, U+032D-032E, U+0331',
+  cyrillic: 'U+0400-045F, U+0462-046D, U+0472-0475, U+0490-04C2, U+04CF-04D9, U+04DC-04E9, U+04EE-04F9, U+0524-0525, U+02BB-02BC, U+02C7, U+02D8-02D9, U+02DB, U+02DD, U+0300-0304, U+0306-030C, U+0312, U+0315, U+031B, U+0323, U+0326-0328, U+032D-032E, U+0331',
   greek: 'U+037E, U+0384-0385, U+0386-038A, U+038C, U+038E-03A1, U+03A3-03CE, U+03D0-03D1, U+03D5',
   latin1: 'U+0020-007E, U+00A0-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2039-203A, U+2044, U+20AC, U+2122, U+2212, U+FB01-FB02, U+02BB-02BC, U+02C7, U+02D8-02D9, U+02DB, U+02DD, U+0300-0304, U+0306-030C, U+0312, U+0315, U+031B, U+0323, U+0326-0328, U+032D-032E, U+0331',
   latin2: 'U+0100-0101, U+0104-0130, U+0132-0151, U+0154-017F, U+018F, U+0192, U+01A0-01A1, U+01AF-01B0, U+01FA-01FF, U+0218-021B, U+0237, U+0259, U+022E-022F, U+1E80-1E85, U+1E9E, U+20A1, U+20A4, U+20A6, U+20A8-20AA, U+20AD-20AE, U+20B1-20B2, U+20B4-20B5, U+20B8-20BA, U+20BD, U+20BF, U+02BB-02BC, U+02C7, U+02D8-02D9, U+02DB, U+02DD, U+0300-0304, U+0306-030C, U+0312, U+0315, U+031B, U+0323, U+0326-0328, U+032D-032E, U+0331',
