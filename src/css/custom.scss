@@ -5,12 +5,19 @@
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&display=swap');
+
+/* Must stay below the @import url() rules above: a CSS @import is only valid
+   before any other rule, and this partial emits @font-face blocks. */
+@import 'isv-plex';
 
 /* You can override the default Infima variables here. */
 :root {
-  --fun-safe-serif: 'Noto Serif', serif;
+  /* No webfont here on purpose. This is now only the last-resort fallback
+     behind ISV Plex, reached if the woff2 fails to load — and since Plex
+     covers every character the site puts in a language-tagged element, paying
+     for a second Google Fonts request to service that case is not worth it. */
+  --fun-safe-serif: serif;
   --fun-safe-sans: 'Noto Sans', sans-serif;
 
   --ifm-font-family-base: 'Alegreya Sans', sans-serif;
@@ -188,12 +195,13 @@ abbr {
 }
 
 div[lang], span[lang] {
-  font-family: var(--fun-safe-serif);
-  font-style: italic;
+  /* Interslavic lemmas and language-tagged examples. Upright, not italic. */
+  font-family: $isv-serif;
+  font-style: normal;
   font-size: 90%;
 
   td & {
-    font-family: var(--fun-safe-sans);
+    font-family: $isv-serif;
     font-style: normal;
     font-size: 80%;
   }
@@ -214,11 +222,11 @@ div[lang], span[lang] {
 }
 
 th[lang*=isv] {
-  font-family: var(--fun-safe-sans);
+  font-family: $isv-serif;
 }
 
 td[lang*=isv] {
-  font-family: var(--fun-safe-sans);
+  font-family: $isv-serif;
   font-size: 0.8rem;
 }
 
