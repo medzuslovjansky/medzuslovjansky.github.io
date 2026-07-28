@@ -4,7 +4,8 @@
  *
  * Source: IBMPlexSerifVar22-VF.ttf, subset with the same recipe as
  * @slovosbor/fonts (packages/fonts/build.sh) — pyftsubset, woff2, all layout
- * features kept. Licence: SIL OFL 1.1, see /fonts/LICENSE-IBM-Plex.txt
+ * features kept. The subsets here are byte-identical to the ones committed in
+ * that package. Licence: SIL OFL 1.1, see /fonts/LICENSE-IBM-Plex.txt
  *
  * Roman only, on purpose: language examples render upright (see custom.scss).
  * If an italic face is ever needed, rebuild with `build.sh italic <ttf>` and
@@ -17,12 +18,11 @@
  * the browser never performs mark attachment, leaving the accent floating
  * beside the letter instead of stacked on it.
  *
- * The cyrillic range is U+0462-046D, one range rather than build.sh's
- * `U+0462-0463, U+046A-046D`: the Var22 delivery filled in the U+0464-0469 hole
- * (Ѥѥ Ѧѧ Ѩѩ) that earlier drops were missing, and ѧ in particular is not
- * hypothetical — TransliteratorElement produces it from `ę` on every Cyrillic
- * locale. Widen the range in build.sh before regenerating, or the subsetter
- * will drop those six glyphs again without saying a word.
+ * The cyrillic range is the single span U+0462-046D: the Var22 delivery filled
+ * in the U+0464-0469 hole (Ѥѥ Ѧѧ Ѩѩ) that earlier drops were missing, and ѧ in
+ * particular is not hypothetical — TransliteratorElement produces it from `ę`
+ * on every Cyrillic locale. Narrow it back and the subsetter will drop those
+ * six glyphs again without saying a word, so keep it in step with build.sh.
  *
  * It stops at U+046D on purpose: ksi and psi (U+046E-0471) are still absent
  * from the font, and claiming them in unicode-range would win the match and
