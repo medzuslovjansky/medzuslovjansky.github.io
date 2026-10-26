@@ -55,13 +55,31 @@
     "message": "Вучыце міжславянскую мову"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Як гэта працуе"
+    "message": "Як гэта магчыма?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "З дапамогай міжславянскай мовы вы можаце знайсці больш сяброў і калег-славяністаў з усяго свету."
+    "message": "Вучыць загадзя не трэба: носьбіты славянскіх моў натуральна разумеюць 70–90% міжславянскага тэксту."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Мова, зразумелая ўсімі славянскімі народамі"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Слухаць"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Перадачы, аўдыякнігі і навіны на міжславянскай. Уключайце і слухайце, як натуральна гучыць мова."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — міжславянскае радыё"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Адкрыць Вікіпедыю"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Свабодная энцыклапедыя на міжславянскай мове. Чытайце яе і дапамагайце ёй расці: кожны артыкул, які вы напішаце ці палепшыце, мае значэнне."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Міжславянская Вікіпедыя"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Адкрыць больш"

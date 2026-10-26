@@ -55,13 +55,31 @@
     "message": "Naučte se Mezislovanský"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Jak to funguje"
+    "message": "Jak je to možné?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "S Mezislovanštinou můžete najít více přátel a kolegů mluvících slovanskými jazyky po celém světě."
+    "message": "Žádné předchozí studium není třeba: rodilí mluvčí slovanských jazyků přirozeně rozumějí 70–90 % mezislovanského textu."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Jazyk, kterému rozumí všichni slovanští lidé"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Poslouchat"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Pořady, audioknihy a zprávy v mezislovanštině. Nalaďte si a poslechněte, jak přirozeně jazyk zní."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — mezislovanské rádio"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Otevřít Wikipedii"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Svobodná encyklopedie psaná mezislovansky. Čtěte ji a pomozte jí růst: každý článek, který napíšete nebo vylepšíte, se počítá."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Mezislovanská Wikipedie"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Objevte více"

@@ -1,3 +1,98 @@
-.root {
+/* All slides share one grid cell, so the carousel keeps the height of the tallest slide. */
+.track {
+  display: grid;
+}
 
+.slide {
+  grid-area: 1 / 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.6s ease, visibility 0.6s;
+}
+
+.slide > * {
+  height: 100%;
+}
+
+.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.dot {
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--ifm-color-primary);
+}
+
+.dot svg {
+  display: block;
+}
+
+.center {
+  fill: transparent;
+  stroke: currentColor;
+  stroke-width: 2;
+}
+
+.dotActive .center {
+  fill: currentColor;
+}
+
+.ringTrack {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  opacity: 0.2;
+}
+
+/* Progress ring: drawn clockwise from 12 o'clock over `interval` ms */
+.ring {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-dasharray: 1;
+  transform: rotate(-90deg);
+  transform-origin: 12px 12px;
+  animation-name: progress;
+  animation-timing-function: linear;
+}
+
+@keyframes progress {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+
+/* Mouse click doesn't trigger :focus-visible, so only keyboard focus pauses */
+.root:has(:focus-visible) .ring {
+  animation-play-state: paused;
+}
+
+/* Pause while reading the text, aiming at the CTA or the dots — not over the whole hero */
+@media (hover: hover) {
+  .root:has(.active :is(h1, p, a):hover, .dots:hover) .ring {
+    animation-play-state: paused;
+  }
+}
+
+/* No ring animation → no animationend → no autoplay */
+@media (prefers-reduced-motion: reduce) {
+  .slide {
+    transition: none;
+  }
+
+  .ring {
+    display: none;
+  }
 }

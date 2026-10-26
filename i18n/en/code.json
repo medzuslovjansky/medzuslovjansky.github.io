@@ -66,6 +66,24 @@
   "pages.home.sections[0].slides[0].title": {
     "message": "A Language All Slavic Peoples Understand"
   },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Listen"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Shows, audiobooks and news in Interslavic. Tune in and hear how naturally the language sounds."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — Interslavic Radio"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Open Wikipedia"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "A free encyclopedia written in Interslavic. Read it, and help it grow: every article you write or improve counts."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Interslavic Wikipedia"
+  },
   "pages.home.sections[1].actions.primary": {
     "message": "Discover more"
   },
