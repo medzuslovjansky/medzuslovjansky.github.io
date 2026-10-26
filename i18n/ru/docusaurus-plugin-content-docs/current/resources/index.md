@@ -33,22 +33,23 @@ last_update:
 - [Официальный канал междуславянского языка][4]
 - [Междуславянский плейлист видео][5]
 
-### :notr[Wiki] \{#wiki}
+### Подкасты \{#podcasts}
 
-Наша [Меджувики][6] — это богатое хранилище знаний, где вы можете погрузиться в тонкости языка.
+Слушайте наши рекомендуемые подкасты, чтобы получить уникальный опыт аудиального обучения:
+
+- [:notr[VATRA.FM]][34] – межславянское радио: передачи, аудиокниги и новости.
+- [Межславянские новости][9]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
+
+### :notr[Wikipedia] \{#wiki}
+
+Читайте [Межславянскую Википедию][6] — свободную энциклопедию на межславянском языке — и помогайте ей расти: важна каждая статья, которую вы напишете или улучшите.
 
 ### Telegram-каналы \{#telegram-microblogs}
 
 - [:notr[Pub "Medžuslovjanska Kapibara"]][7] – регулярно пополняется забавным контентом.
 - [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – микроблог Роберто Ломбино.
-
-### Подкасты \{#podcasts}
-
-Слушайте наши рекомендуемые подкасты, чтобы получить уникальный опыт аудиального обучения:
-
-- [Межславянские новости][9]
-- [:notr[Medžuslovjansky Slovotok]][10]
-- [:notr[Radio Dupa FM]][11]
 
 ### Перевод песни \{#song-translations}
 
@@ -136,7 +137,7 @@ last_update:
 
 [5]: https://www.youtube.com/playlist?list=PLT_X5HnKrXoiL3a5oK9Tv977JI8ijvFNM
 
-[6]: https://isv.miraheze.org/
+[6]: https://isv.wikipedia.org/
 
 [7]: https://t.me/interslavicthings
 
@@ -191,4 +192,6 @@ last_update:
 [32]: https://interslavic.news
 
 [33]: https://interslavic-language.org
+
+[34]: https://vatra.fm
 

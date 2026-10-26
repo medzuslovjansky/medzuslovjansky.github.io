@@ -31,22 +31,23 @@ Check out the Interslavic official channel and our comprehensive playlist of all
 - [Interslavic Official Channel][4]
 - [Interslavic Video Playlist][5]
 
-### :notr[Wiki] \{#wiki}
+### Podcasts \{#podcasts}
 
-Our [Interslavic Wiki][6] is a rich knowledge repository where you can dive deep into the intricacies of the language.
+Listen to our recommended podcasts for a unique auditory learning experience:
+
+- [:notr[VATRA.FM]][34] – Interslavic radio: shows, audiobooks and news.
+- [Interslavic News][9]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
+
+### :notr[Wikipedia] \{#wiki}
+
+Read the [Interslavic Wikipedia][6], a free encyclopedia written in Interslavic, and help it grow: every article you write or improve counts.
 
 ### Telegram microblogs \{#telegram-microblogs}
 
 - [:notr[Pub "Medžuslovjanska Kapibara"]][7] – regularly updated with amusing content.
 - [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – Roberto Lombino's microblog.
-
-### Podcasts \{#podcasts}
-
-Listen to our recommended podcasts for a unique auditory learning experience:
-
-- [Interslavic News][9]
-- [:notr[Medžuslovjansky Slovotok]][10]
-- [:notr[Radio Dupa FM]][11]
 
 ### Song translations \{#song-translations}
 
@@ -134,7 +135,7 @@ Here are some websites dedicated to the Interslavic language and culture:
 
 [5]: https://www.youtube.com/playlist?list=PLT_X5HnKrXoiL3a5oK9Tv977JI8ijvFNM
 
-[6]: https://isv.miraheze.org/
+[6]: https://isv.wikipedia.org/
 
 [7]: https://t.me/interslavicthings
 
@@ -189,3 +190,5 @@ Here are some websites dedicated to the Interslavic language and culture:
 [32]: https://interslavic.news
 
 [33]: https://interslavic-language.org
+
+[34]: https://vatra.fm

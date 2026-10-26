@@ -55,13 +55,31 @@
     "message": "Вивчення міжслов'янської"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Як це працює"
+    "message": "Як це можливо?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "З міжслов'янською мовою ви можете знайти більше слов'яномовних друзів та колег з усього світу."
+    "message": "Вчити заздалегідь не потрібно: носії слов'янських мов природно розуміють 70–90% міжслов'янського тексту."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Мова, яку розуміють всі слов'янські народи"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Слухати"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Передачі, аудіокниги та новини міжслов'янською. Вмикайте й слухайте, як природно звучить мова."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — міжслов'янське радіо"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Відкрити Вікіпедію"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Вільна енциклопедія міжслов'янською мовою. Читайте її та допомагайте їй зростати: кожна стаття, яку ви напишете чи покращите, має значення."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Міжслов'янська Вікіпедія"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Дізнатися більше"
