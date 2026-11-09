@@ -55,13 +55,31 @@
     "message": "Naučite Međuslavenski"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Kako funkcionira"
+    "message": "Kako je to moguće?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "Sa Međuslavenskim možete pronaći više prijatelja i kolega koji govore slovenske jezike širom svijeta."
+    "message": "Prethodno učenje nije potrebno: izvorni govornici slavenskih jezika prirodno razumiju 70–90% međuslavenskog teksta."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Jezik koji razumiju svi slovenski narodi"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Slušaj"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Emisije, audioknjige i vijesti na međuslavenskom. Uključite se i poslušajte kako prirodno jezik zvuči."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — međuslavenski radio"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Otvori Wikipediju"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Slobodna enciklopedija na međuslavenskom jeziku. Čitajte je i pomozite joj da raste: svaki članak koji napišete ili poboljšate je važan."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Međuslavenska Wikipedija"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Otkrijte više"

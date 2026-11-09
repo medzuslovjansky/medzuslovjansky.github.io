@@ -55,13 +55,31 @@
     "message": "Научите међусловянски"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Како функционише"
+    "message": "Како је то могуће?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "Са међусловянским можете наћи више славенских пријатеља и колега широм света."
+    "message": "Претходно учење није потребно: изворни говорници словенских језика природно разумеју 70–90% међусловенског текста."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Језик који сви славенски народи разумеју"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Слушај"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Емисије, аудио-књиге и вести на међусловенском. Укључите се и чујте колико природно звучи језик."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — међусловенски радио"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Отвори Википедију"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Слободна енциклопедија на међусловенском језику. Читајте је и помозите јој да расте: сваки чланак који напишете или побољшате је важан."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Међусловенска Википедија"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Откријте више"

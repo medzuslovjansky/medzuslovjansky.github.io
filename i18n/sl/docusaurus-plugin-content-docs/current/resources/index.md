@@ -33,22 +33,23 @@ Za pronicljivo vsebino si oglejte uradni kanal Interslavic in naš obsežen sezn
 - [Medslovanski uradni kanal][4]
 - [Medslovanski video predvajalni seznam][5]
 
-### :notr[Wiki] \{#wiki}
+### Poddaje \{#podcasts}
 
-Naš [Interslavic Wiki][6] je bogato skladišče znanja, kjer se lahko poglobite v zapletenost jezika.
+Poslušajte naše priporočene poddaje za edinstveno slušno učno izkušnjo:
+
+- [:notr[VATRA.FM]][34] – medslovanski radio: oddaje, zvočne knjige in novice.
+- [Medslovanske novice][9]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
+
+### :notr[Wikipedia] \{#wiki}
+
+Berite [medslovansko Wikipedijo][6] — prosto enciklopedijo v medslovanskem jeziku — in ji pomagajte rasti: šteje vsak članek, ki ga napišete ali izboljšate.
 
 ### Telegram mikroblogi \{#telegram-microblogs}
 
 - [:notr[Pub "Medžuslovjanska Kapibara"]][7] – redno posodobljen z zabavnimi vsebinami.
 - [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – mikroblog Roberta Lombina.
-
-### Poddaje \{#podcasts}
-
-Poslušajte naše priporočene poddaje za edinstveno slušno učno izkušnjo:
-
-- [Medslovanske novice][9]
-- [:notr[Medžuslovjansky Slovotok]][10]
-- [:notr[Radio Dupa FM]][11]
 
 ### Prevodi pesmi \{#song-translations}
 
@@ -136,7 +137,7 @@ Tukaj je nekaj spletnih mest, posvečenih medslovanskemu jeziku in kulturi:
 
 [5]: https://www.youtube.com/playlist?list=PLT_X5HnKrXoiL3a5oK9Tv977JI8ijvFNM
 
-[6]: https://isv.miraheze.org/
+[6]: https://isv.wikipedia.org/
 
 [7]: https://t.me/interslavicthings
 
@@ -191,4 +192,6 @@ Tukaj je nekaj spletnih mest, posvečenih medslovanskemu jeziku in kulturi:
 [32]: https://interslavic.news
 
 [33]: https://interslavic-language.org
+
+[34]: https://vatra.fm
 

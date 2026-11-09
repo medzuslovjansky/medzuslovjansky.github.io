@@ -33,22 +33,23 @@ last_update:
 - [Међусловенски званични канал][4]
 - [Међусловенска видео плејлиста][5]
 
-### :notr[Wiki] \{#wiki}
+### Подкасти \{#podcasts}
 
-Наша [међусловенска Вики][6] је богато складиште знања где можете заронити дубоко у замршеност језика.
+Слушајте наше препоручене подкасте за јединствено аудитивно искуство учења:
+
+- [:notr[VATRA.FM]][34] – међусловенски радио: емисије, аудио-књиге и вести.
+- [Међусловенске вести][9]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
+
+### :notr[Wikipedia] \{#wiki}
+
+Читајте [Међусловенску Википедију][6] — слободну енциклопедију на међусловенском језику — и помозите јој да расте: сваки чланак који напишете или побољшате је важан.
 
 ### Телеграм микроблогови \{#telegram-microblogs}
 
 - [:notr[Pub "Medžuslovjanska Kapibara"]][7] – редовно се ажурира забавним садржајем.
 - [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – микроблог Роберта Ломбина.
-
-### Подкасти \{#podcasts}
-
-Слушајте наше препоручене подкасте за јединствено аудитивно искуство учења:
-
-- [Међусловенске вести][9]
-- [:notr[Medžuslovjansky Slovotok]][10]
-- [:notr[Radio Dupa FM]][11]
 
 ### Преводи песама \{#song-translations}
 
@@ -136,7 +137,7 @@ last_update:
 
 [5]: https://www.youtube.com/playlist?list=PLT_X5HnKrXoiL3a5oK9Tv977JI8ijvFNM
 
-[6]: https://isv.miraheze.org/
+[6]: https://isv.wikipedia.org/
 
 [7]: https://t.me/interslavicthings
 
@@ -191,4 +192,6 @@ last_update:
 [32]: https://interslavic.news
 
 [33]: https://interslavic-language.org
+
+[34]: https://vatra.fm
 

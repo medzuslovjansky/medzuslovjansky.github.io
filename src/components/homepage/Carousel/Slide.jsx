@@ -1,11 +1,14 @@
 import React from "react";
 import clsx from "clsx";
+import ThemedImage from "@theme/ThemedImage";
 import styles from "./Slide.module.css";
 
 export function Slide({title, subtitle, cta, image}) {
   return (
     <div className={clsx('hero', styles.root)}>
-      <img src={image} alt="" className={clsx(styles.image)} />
+      {typeof image === 'string'
+        ? <img src={image} alt="" className={styles.image} />
+        : <ThemedImage sources={image} alt="" className={styles.image} />}
       <div className={clsx(styles.content)}>
         <h1 className={clsx('hero__heading', styles.title)}>{title}</h1>
         <p className={clsx('hero__subtitle', styles.subtitle)}>{subtitle}</p>

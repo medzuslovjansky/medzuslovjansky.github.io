@@ -26,7 +26,7 @@ export default function HomePage() {
             subtitle={<>
               {translate({
                 id: 'pages.home.sections[0].slides[0].subtitle',
-                message: 'No prior studying necessary – native speakers naturally comprehend 85%+ of Interslavic content.'
+                message: 'No prior studying necessary – native speakers naturally comprehend 70-90% of Interslavic content.'
               })}
               <a href="https://www.researchgate.net/publication/337553634_The_Interslavic_language_as_a_tool_for_supporting_e-democracy_in_Central_and_Eastern_Europe" target="_blank" rel="noreferrer">
                ⁽*⁾
@@ -36,6 +36,35 @@ export default function HomePage() {
               <Link to="/learn/faq">
                 <MovieIcon/>
                 {translate({id: 'pages.home.sections[0].slides[0].cta', message: 'How come?'})}
+              </Link>
+            }
+          />
+          <Carousel.Slide
+            image={{
+              light: require('@site/static/img/home/vatra_logo_light.png').default,
+              dark: require('@site/static/img/home/vatra_logo_dark.png').default,
+            }}
+            title={translate({id: 'pages.home.sections[0].slides[1].title', message: 'VATRA.FM — Interslavic Radio'})}
+            subtitle={translate({
+              id: 'pages.home.sections[0].slides[1].subtitle',
+              message: 'Shows, audiobooks and news in Interslavic. Tune in and hear how naturally the language sounds.'
+            })}
+            cta={
+              <Link to="https://vatra.fm">
+                {translate({id: 'pages.home.sections[0].slides[1].cta', message: 'Listen'})}
+              </Link>
+            }
+          />
+          <Carousel.Slide
+            image={require('@site/static/img/home/wikipedia_logo.png').default}
+            title={translate({id: 'pages.home.sections[0].slides[2].title', message: 'Interslavic Wikipedia'})}
+            subtitle={translate({
+              id: 'pages.home.sections[0].slides[2].subtitle',
+              message: 'A free encyclopedia written in Interslavic. Read it, and help it grow: every article you write or improve counts.'
+            })}
+            cta={
+              <Link to="https://isv.wikipedia.org">
+                {translate({id: 'pages.home.sections[0].slides[2].cta', message: 'Open Wikipedia'})}
               </Link>
             }
           />

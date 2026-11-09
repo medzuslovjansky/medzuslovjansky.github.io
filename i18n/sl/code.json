@@ -55,13 +55,31 @@
     "message": "Naučite se medslavjansko"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Kako deluje"
+    "message": "Kako je to mogoče?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "Z medslavjanskim jezikom lahko najdete več slovansko govorečih prijateljev in sodelavcev po vsem svetu."
+    "message": "Predhodno učenje ni potrebno: govorci slovanskih jezikov naravno razumejo 70–90 % medslovanskega besedila."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Jezik, ki ga razumejo vsi slovanski narodi"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Poslušaj"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Oddaje, zvočne knjige in novice v medslovanščini. Prisluhnite, kako naravno zveni jezik."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — medslovanski radio"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Odpri Wikipedijo"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Prosta enciklopedija v medslovanskem jeziku. Berite jo in ji pomagajte rasti: šteje vsak članek, ki ga napišete ali izboljšate."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Medslovanska Wikipedija"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Odkrijte več"

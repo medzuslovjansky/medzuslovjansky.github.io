@@ -55,22 +55,31 @@
     "message": "Научете се Междуславянски"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Как работи"
+    "message": "Как е възможно?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "С Междуславянски можете да намерите повече славянски говорещи приятели и колеги от цял ​​свят."
+    "message": "Не е нужно предварително учене: носителите на славянски езици естествено разбират 70–90% от междуславянския текст."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Езикът, разбиран от всички славянски народи"
   },
   "pages.home.sections[0].slides[1].cta": {
-    "message": ""
+    "message": "Слушай"
   },
   "pages.home.sections[0].slides[1].subtitle": {
-    "message": ""
+    "message": "Предавания, аудиокниги и новини на междуславянски. Включете се и чуйте колко естествено звучи езикът."
   },
   "pages.home.sections[0].slides[1].title": {
-    "message": ""
+    "message": "VATRA.FM — междуславянско радио"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Към Уикипедия"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Свободна енциклопедия на междуславянски език. Четете я и ѝ помогнете да расте: всяка статия, която напишете или подобрите, има значение."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Междуславянска Уикипедия"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Открийте повече"

@@ -55,13 +55,31 @@
     "message": "Naucz się Międzysłowiańskiego"
   },
   "pages.home.sections[0].slides[0].cta": {
-    "message": "Jak to działa"
+    "message": "Jak to możliwe?"
   },
   "pages.home.sections[0].slides[0].subtitle": {
-    "message": "Dzięki Międzysłowiańskiemu możesz znaleźć więcej przyjaciół i kolegów mówiących po słowiańsku na całym świecie."
+    "message": "Nie trzeba się wcześniej uczyć: rodzimi użytkownicy języków słowiańskich naturalnie rozumieją 70–90% tekstu międzysłowiańskiego."
   },
   "pages.home.sections[0].slides[0].title": {
     "message": "Język zrozumiały przez wszystkie słowiańskie narody"
+  },
+  "pages.home.sections[0].slides[1].cta": {
+    "message": "Słuchaj"
+  },
+  "pages.home.sections[0].slides[1].subtitle": {
+    "message": "Audycje, audiobooki i wiadomości po międzysłowiańsku. Włącz i posłuchaj, jak naturalnie brzmi ten język."
+  },
+  "pages.home.sections[0].slides[1].title": {
+    "message": "VATRA.FM — radio międzysłowiańskie"
+  },
+  "pages.home.sections[0].slides[2].cta": {
+    "message": "Otwórz Wikipedię"
+  },
+  "pages.home.sections[0].slides[2].subtitle": {
+    "message": "Wolna encyklopedia pisana w języku międzysłowiańskim. Czytaj ją i pomóż jej rosnąć: liczy się każdy artykuł, który napiszesz lub poprawisz."
+  },
+  "pages.home.sections[0].slides[2].title": {
+    "message": "Międzysłowiańska Wikipedia"
   },
   "pages.home.sections[1].actions.primary": {
     "message": "Odkryj więcej"

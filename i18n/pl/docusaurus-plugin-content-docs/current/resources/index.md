@@ -33,22 +33,23 @@ Sprawdź nasz oficjalny międzysłowiański kanał i naszą obszerną playlistę
 - [Oficjalny Międzysłowiański kanał][4]
 - [Oficjalna Międzysłowiańska playlista][5]
 
-### :notr[Wiki] \{#wiki}
+### Podcasty \{#podcasts}
 
-Nasza [Międzysłowiańska Wiki][6] to skarbnica bogatej wiedzy, gdzie możesz zanurkować w złożoność języka.
+Posłuchaj naszych polecanych podcastów, aby doświadczyć wyjątkowej nauki słuchowej:
+
+- [:notr[VATRA.FM]][34] – radio międzysłowiańskie: audycje, audiobooki i wiadomości.
+- [Interslavic News][9]
+- [:notr[Medžuslovjansky Slovotok]][10]
+- [:notr[Radio Dupa FM]][11]
+
+### :notr[Wikipedia] \{#wiki}
+
+Czytaj [Międzysłowiańską Wikipedię][6] — wolną encyklopedię pisaną w języku międzysłowiańskim — i pomóż jej rosnąć: liczy się każdy artykuł, który napiszesz lub poprawisz.
 
 ### Mikroblogi na Telegramie \{#telegram-microblogs}
 
 - [:notr[Pub "Medžuslovjanska Kapibara"]][7] – regularnie aktualizowany o zabawne treści.
 - [:notr[Zapisky srědnoevropskogo medžuslovjanina]][8] – mikroblog Roberto Lombina.
-
-### Podcasty \{#podcasts}
-
-Posłuchaj naszych polecanych podcastów, aby doświadczyć wyjątkowej nauki słuchowej:
-
-- [Interslavic News][9]
-- [:notr[Medžuslovjansky Slovotok]][10]
-- [:notr[Radio Dupa FM]][11]
 
 ### Tłumaczenie piosenek \{#song-translations}
 
@@ -136,7 +137,7 @@ Poniżej jest kilka stron poświęconych językowi i kulturze międzysłowiańsk
 
 [5]: https://www.youtube.com/playlist?list=PLT_X5HnKrXoiL3a5oK9Tv977JI8ijvFNM
 
-[6]: https://isv.miraheze.org/
+[6]: https://isv.wikipedia.org/
 
 [7]: https://t.me/interslavicthings
 
@@ -191,3 +192,5 @@ Poniżej jest kilka stron poświęconych językowi i kulturze międzysłowiańsk
 [32]: https://interslavic.news
 
 [33]: https://interslavic-language.org
+
+[34]: https://vatra.fm

@@ -25,13 +25,15 @@ function getChangedLocale() {
   }
 
   /** @type {string[]} */
-  const list = fs.readFileSync('git-changes.log', 'utf-8').split('\n');
+  const list = fs.readFileSync('git-changes.log', 'utf-8').split('\n').filter(Boolean);
   const locales = list.reduce((acc, filePath) => {
     const [, locale] = filePath.match(/i18n\/([^/]+)\//) || [];
     return locale ? acc.add(locale) : acc;
   }, new Set());
 
-  if (locales.size === 1) {
+  // Single-locale preview only when the PR touches nothing but that locale;
+  // otherwise (src, docs, several locales) build everything with `en` default.
+  if (locales.size === 1 && list.every((filePath) => filePath.startsWith('i18n/'))) {
     return [...locales][0];
   }
 }
