@@ -14,7 +14,8 @@
   height: 100%;
 }
 
-.active {
+/* .slide.active: minifier may hoist a bare .active above .slide (merges with Infima's identical rule) */
+.slide.active {
   opacity: 1;
   visibility: visible;
 }
